@@ -1,0 +1,522 @@
+{
+  "main": {
+    "id": "ab942fd0f254d0ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "59d3d44e24c27c85",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad37673f197f7043",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "c6135b3486af3d34",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "2af468f51bac5145",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4. Blueprint/Obsidian FLOW Methodology.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Obsidian FLOW Methodology"
+            }
+          },
+          {
+            "id": "10552c9d7e3a4ae6",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "f3459c8f399b04ea",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "mindmapView",
+              "state": {
+                "file": "1. Capture/Giới thiệu Obsidian FLOW.md"
+              },
+              "pinned": true,
+              "icon": "blocks",
+              "title": "Giới thiệu Obsidian FLOW"
+            }
+          },
+          {
+            "id": "6cdfbfa70a33fb0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Capture/Math for ML/Note về DL.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Note về DL"
+            }
+          },
+          {
+            "id": "470910d5c2a54065",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Capture/Populations & Sampling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Populations & Sampling"
+            }
+          },
+          {
+            "id": "d5b9fcd39095d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Capture/Math for ML/math-foundation-for-dl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "math-foundation-for-dl"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b71da78673a00d12",
+    "type": "split",
+    "children": [
+      {
+        "id": "a82c2839e6188120",
+        "type": "tabs",
+        "dimension": 53.20829220138204,
+        "children": [
+          {
+            "id": "5937c74a9416a612",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "74fba6d72c0302ad",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": " ",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "90060adcb2ad0930",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "66be9d45f09c9c3e",
+        "type": "tabs",
+        "dimension": 46.79170779861796,
+        "children": [
+          {
+            "id": "bfbf1988d2ea4916",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 303.5
+  },
+  "right": {
+    "id": "b2a70d1e73e50140",
+    "type": "split",
+    "children": [
+      {
+        "id": "41681102ef631353",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bfa6da26e6d3b5d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "0ef4bfe0653f5e3f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "77f9b9b972598201",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "74f0348e2fe16e65",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f108dd453abfe7f7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "3879db93b84c6786",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          },
+          {
+            "id": "9d0792fc3c70eb34",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasks_timeline_view"
+            }
+          },
+          {
+            "id": "bdde976400b3f45c",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "reminder-list"
+            }
+          },
+          {
+            "id": "ad940f85d64f1bba",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "tasks_timeline_view"
+            }
+          },
+          {
+            "id": "0fc0fac12d6a4c13",
+            "type": "leaf",
+            "state": {
+              "type": "tasks_timeline_view",
+              "state": {},
+              "icon": "calendar-clock",
+              "title": "Tasks Timeline"
+            }
+          }
+        ],
+        "currentTab": 9
+      },
+      {
+        "id": "ca3b5d56810ea257",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15cbcb4fa8cff1ab",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "README.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 382.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "audio-recorder:Start/stop recording": false,
+      "workspaces:Manage workspace layouts": false,
+      "callout-manager:Insert Callout": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-projects:Open projects": false,
+      "file-cleaner-redux:Clean files": false,
+      "dashboard-navigator:Open dashboard navigator": false,
+      "homepage:Open homepage": false
+    }
+  },
+  "active": "6cdfbfa70a33fb0b",
+  "lastOpenFiles": [
+    "1. Capture/Math for ML/GAN guide 2.md",
+    "1. Capture/Math for ML/Note về DL.md",
+    "1. Capture/Math for ML/GAN guide.md",
+    "1. Capture/Math for ML/Mục lục.md",
+    "1. Capture/Math for ML/Mục lục 1.md",
+    "1. Capture/Math for ML/math-foundation-for-dl.md",
+    "1. Capture/Populations & Sampling.md",
+    "1. Capture/GAN/Prompt phân tích nông.md",
+    "1. Capture/GAN/Untitled.md",
+    "1. Capture/Math for ML",
+    "1. Capture/GAN/GAN.md",
+    "1. Capture/GAN/Prompt phân tích sâu.md",
+    "1. Capture/GAN/Keyword Ai.md",
+    "1. Capture/Untitled.md",
+    "1. Capture/Chat bot/Old idea/Keyword.md",
+    "1. Capture/GAN",
+    "1. Capture/Chat bot/Harness",
+    "1. Capture/Giới thiệu Obsidian FLOW.md",
+    "1. Capture/Chat bot/Old idea/AI Skill logic.md",
+    "1. Capture/Chat bot/Old idea/Idea.md",
+    "1. Capture/Chat bot/Old idea",
+    "1. Capture/Chat bot/Old idea/Các lỗi sai.md",
+    "2. Track/2026-04-14.md",
+    "1. Capture/Hybrid retrieval.md",
+    "1. Capture/Metadata filtering.md",
+    "1. Capture/Re-ranking.md",
+    "1. Capture/Security cho multi-user.md",
+    "1. Capture/Scale.md",
+    "6. Vault/attachments/Pasted image 20260422200153.png",
+    "1. Capture/Evaluation framework.md",
+    "Home.md",
+    "6. Vault/attachments/Pasted image 20260422194243.png",
+    "6. Vault/attachments/Pasted image 20260422193745.png",
+    "6. Vault/attachments/Pasted image 20260422193506.png",
+    "6. Vault/attachments/Pasted image 20260422193441.png",
+    "6. Vault/attachments/Pasted image 20260422193433.png",
+    "6. Vault/attachments/Pasted image 20260422193413.png",
+    "6. Vault/attachments/Pasted image 20260422192618.png",
+    "6. Vault/attachments/Pasted image 20260422192548.png",
+    "6. Vault/attachments/Pasted image 20260422192106.png",
+    "1. Capture/Chat bot",
+    "6. Vault.zip",
+    "1. Capture/Untitled.base",
+    "1. Capture/Untitled 1.base",
+    "1. Capture/n8n",
+    "Untitled 1.canvas",
+    "Untitled.canvas",
+    "1. Capture/Trương Gia Bình Chiến tranh nhân dân"
+  ]
+}
