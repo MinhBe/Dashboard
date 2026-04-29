@@ -1,166 +1,57 @@
 ---
-aliases: [TextGAN, SeqGAN, Gumbel-Softmax]
-created: 2026-04-29 00:00:00
+aliases: [TextGAN, SeqGAN, Gumbel-Softmax, RL-GAN]
+created: 2026-04-29 01:30:00
 progress: raw
 blueprint: []
 impact: 
 urgency: 
-tags: [deep-dive, generative-ai, gan, text-generation, sql-injection]
+tags: [deep-dive, generative-ai, gan, reinforcement-learning, sql-injection]
 category: [research]
 ---
-# Deep Dive: GAN cho Text - Vượt qua rào cản Rời rạc
+# Deep Dive: GAN cho Text - Giải mã Cuộc chiến Rời rạc
 
-## 1. Bản chất cốt lõi (Core Intuition)
-Hãy tưởng tượng GAN như một họa sĩ (Generator) và một giám khảo (Discriminator).
-- **Với ảnh (Continuous):** Họa sĩ vẽ một nét, giám khảo bảo "hơi đỏ quá", họa sĩ có thể chỉnh sửa sắc độ đỏ một chút xíu.
-- **Với Text (Discrete):** Họa sĩ viết chữ `A`, giám khảo bảo "nên là chữ `B`". Họa sĩ không thể sửa chữ `A` "một chút xíu" để thành chữ `B` được. Một là `A`, hai là `B`, không có gì ở giữa.
+## 1. Bản chất của Thất bại: Tại sao GAN truyền thống "sợ" Text?
+GAN được thiết kế dựa trên giả định rằng mọi thứ đều là dòng chảy liên tục (như pixel ảnh). 
+- **Vấn đề toán học:** Khi Discriminator chê một câu SQL là "fake", nó sẽ gửi một tín hiệu (gradient) bảo Generator: *"Hãy thay đổi giá trị đầu ra của lớp cuối cùng đi một chút"*. 
+- **Sự đứt gãy:** Trong ảnh, thay đổi "một chút" có nghĩa là màu sắc đậm lên một tí. Trong text, đầu ra của lớp cuối là xác suất của các từ (ví dụ: `SELECT`: 0.9, `UNION`: 0.1). Nếu bạn thay đổi "một chút", xác suất có thể thành (`SELECT`: 0.89, `UNION`: 0.11). Nhưng khi bạn chọn từ (sampling), nó vẫn sẽ chọn `SELECT`. 
+- **Hệ quả:** Generator không thấy sự thay đổi nào ở kết quả cuối cùng, nên nó không biết đường nào mà học. Nó bị kẹt trong một vùng không gian mà mọi hướng đi đều trông giống nhau (Vanishing Gradient).
 
-**Nỗi đau giải quyết:** Toán học của Deep Learning (Backpropagation) cần sự thay đổi "nhỏ xíu" và liên tục để học. Text lại nhảy cóc (rời rạc), khiến cho Generator của GAN không biết phải sửa mình như thế nào khi bị Discriminator chê.
+## 2. Giải pháp 1: Gumbel-Softmax - "Cây cầu" giữa Rời rạc và Liên tục
+Gumbel-Softmax không phải là một hàm bình thường, nó là một **phép xấp xỉ**.
+- **Cơ chế:** Nó thêm một loại nhiễu đặc biệt (Gumbel noise) vào xác suất của các từ, sau đó dùng một tham số gọi là **Nhiệt độ (Temperature - $\tau$)**.
+    - Khi $\tau$ lớn: Các từ có xác suất gần bằng nhau (hỗn loạn).
+    - Khi $\tau$ nhỏ: Nó hội tụ về một từ duy nhất (giống hệt chọn từ thật).
+- **Ý nghĩa:** Trong quá trình huấn luyện, ta bắt đầu với $\tau$ lớn để Generator có thể "cảm nhận" được gradient từ Discriminator chảy qua tất cả các từ, sau đó giảm dần $\tau$ để mô hình học cách chọn từ chính xác. Đây là cách ta "lừa" toán học để có được đạo hàm trên dữ liệu chữ.
 
-## 2. Cách thức vận hành (How it works)
-Để GAN làm việc được với Text (hoặc SQL), chúng ta có 2 chiến thuật chính:
+## 3. Giải pháp 2: SeqGAN - Khi GAN trở thành một "Kẻ đánh bạc" có tính toán
+Nếu Gumbel-Softmax là "giả vờ liên tục", thì SeqGAN chấp nhận sự rời rạc và giải quyết nó bằng **Reinforcement Learning (Học tăng cường)**.
 
-### Chiến thuật A: "Giả vờ" liên tục (Gumbel-Softmax)
-Thay vì chọn một từ duy nhất (argmax), chúng ta sử dụng một hàm toán học đặc biệt khiến cho mô hình xuất ra một "hỗn hợp" các từ. 
-Ví dụ: 90% là `SELECT`, 5% là `INSERT`, 5% là `UPDATE`. 
-Vì là con số %, nên Discriminator có thể góp ý: *"Bớt SELECT đi một tí, tăng UPDATE lên một tí"*.
+### 3.1. Bài toán Phần thưởng Trung gian (Intermediate Reward)
+Một câu SQL chỉ có ý nghĩa khi nó hoàn tất (ví dụ: có đủ `SELECT` và `FROM`). Nhưng Discriminator chỉ có thể chấm điểm khi câu đã viết xong. Vậy khi Generator mới viết được chữ `SELECT`, làm sao nó biết chữ đó là tốt hay xấu?
+- **Giải pháp:** **Monte Carlo Tree Search (MCTS)**. 
+- **Cơ chế:** Khi Generator viết đến chữ thứ 3, nó sẽ tự "tưởng tượng" ra hàng trăm cái kết khác nhau cho câu đó (roll-out). Nếu đa số cái kết đó bị Discriminator chấm điểm cao, thì chữ thứ 3 đó được coi là tốt.
 
-### Chiến thuật B: Biến GAN thành một trò chơi (Reinforcement Learning - SeqGAN)
-Chúng ta coi Generator như một người chơi game. Mỗi từ nó viết ra là một "hành động". Cuối câu, Discriminator sẽ chấm điểm (Reward). 
-- Điểm cao: Generator nhớ để lần sau làm thế tiếp.
-- Điểm thấp: Generator thử cách khác.
+### 3.2. Policy Gradient ($\nabla_\theta J(\theta)$)
+Thay vì dùng Loss function thông thường, SeqGAN dùng công thức Policy Gradient để cập nhật trọng số. 
+- **Ý nghĩa:** Nó không hỏi *"Làm sao để giống dữ liệu thật?"*, mà nó hỏi *"Hành động này mang lại bao nhiêu phần thưởng từ Discriminator?"*. Nếu phần thưởng dương, nó sẽ tăng xác suất thực hiện lại hành động đó trong tương lai.
 
-## 3. Giải mã công thức (Math Decoded)
+## 4. Giải mã toán học (Conceptual Math)
 
-| Công thức | Ý nghĩa "tiếng người" | Tại sao quan trọng? |
+| Khái niệm | Diễn giải sâu sắc | Vai trò trong mô hình |
 | --- | --- | --- |
-| **Discrete Output** | "Chọn một trong hai". | Kẻ thù của GAN truyền thống (không thể tính đạo hàm). |
-| **Gumbel-Softmax** | "Cái cầu nối giữa cứng và mềm". | Cho phép dòng thông tin từ Discriminator chảy ngược về Generator dù là dữ liệu chữ. |
-| **Policy Gradient ($\nabla_\theta J(\theta)$)** | "Kim chỉ nam cho hành động". | Công thức cốt lõi của RL giúp Generator biết hướng nào là "đúng đắn" để nhận thưởng. |
-| **Reward (R)** | "Lời khen của Giám khảo". | Thay thế cho Loss function truyền thống trong SeqGAN. |
+| **Differentiable Relaxation** | Làm "mềm" các quyết định cứng nhắc. | Cho phép toán học "nhìn thấy" các lựa chọn thay thế thay vì chỉ nhìn thấy lựa chọn duy nhất. |
+| **Expectation ($E$)** | Giá trị kỳ vọng. | Vì chúng ta đang làm việc với xác suất, chúng ta không tối ưu hóa một kết quả, mà tối ưu hóa "trung bình" các kết quả tốt nhất. |
+| **Log-Probability ($\log \pi$)** | Độ tin cậy của hành động. | Giúp mô hình nhấn mạnh vào những quyết định mang lại phần thưởng lớn và loại bỏ những quyết định tồi tệ một cách nhanh chóng. |
+| **Actor-Critic** | Sự kết hợp giữa "Người thực hiện" và "Người phê bình". | Một cấu trúc nâng cao giúp ổn định quá trình huấn luyện GAN cho text, giảm bớt sự hỗn loạn. |
 
-## 4.2. Triển khai thực tế (Practical Implementation)
+## 5. Liên hệ bài toán SQL Injection
+**Tại sao CWGAN của bạn gặp khó?**
+Bạn đang cố gắng bắt một mô hình vốn dành cho số thực xử lý các ký tự SQL. Các ký tự đặc biệt như `'`, `--`, `/*` có ý nghĩa cực lớn trong SQLi nhưng về mặt toán học, chúng chỉ là những con số đứng cạnh nhau.
 
-```python
-import torch
-import torch.nn as nn
-import torch.nn.functional as F
-import numpy as np
+**Chiến lược nâng cấp cho bạn:**
+1.  **Reward Shaping:** Thay vì chỉ để Discriminator chấm điểm 0/1, bạn hãy tích hợp một bộ parser SQL. Nếu câu sinh ra sai cú pháp -> Trừ điểm nặng. Nếu đúng cú pháp nhưng không tấn công được -> Điểm thấp. Nếu bypass được WAF -> Thưởng tối đa.
+2.  **Pre-training:** Luôn bắt đầu bằng việc huấn luyện Generator như một mô hình ngôn ngữ thông thường (MLE) để nó học cú pháp SQL trước, sau đó mới đưa vào vòng xoáy GAN để học cách bypass. Đừng để nó "tập bò" và "tập đánh nhau" cùng lúc.
 
-class GumbelSoftmax(nn.Module):
-    def __init__(self, vocab_size, embedding_dim, hidden_dim, temperature=1.0):
-        super().__init__()
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)
-        self.lstm = nn.LSTM(embedding_dim, hidden_dim, batch_first=True)
-        self.output = nn.Linear(hidden_dim, vocab_size)
-        self.temperature = temperature
-        
-    def forward(self, x, hidden=None):
-        embedded = self.embedding(x)
-        if hidden is None:
-            output, hidden = self.lstm(embedded)
-        else:
-            output, hidden = self.lstm(embedded, hidden)
-        logits = self.output(output)
-        return logits, hidden
-    
-    def gumbel_softmax_sample(self, logits):
-        gumbel_noise = -torch.log(-torch.log(torch.rand_like(logits) + 1e-20) + 1e-20)
-        y = (logits + gumbel_noise) / self.temperature
-        return F.softmax(y, dim=-1)
-    
-    def generate(self, max_len, start_token, temperature=0.5):
-        self.eval()
-        generated = [start_token]
-        hidden = None
-        for _ in range(max_len):
-            x = torch.tensor([[generated[-1]]).cuda() if torch.cuda.is_available() else torch.tensor([[generated[-1]]])
-            logits, hidden = self.forward(x, hidden)
-            probs = self.gumbel_softmax_sample(logits)
-            next_token = torch.multinomial(probs.squeeze(), 1).item()
-            generated.append(next_token)
-            if next_token == 0:  # EOS token
-                break
-        return generated
-
-
-class SeqGANGenerator(nn.Module):
-    def __init__(self, vocab_size, embedding_dim, hidden_dim):
-        super().__init__()
-        self.embedding = nn.Embedding(vocab_size, embedding_dim)
-        self.lstm = nn.LSTM(embedding_dim, hidden_dim, batch_first=True)
-        self.hidden_dim = hidden_dim
-        
-    def forward(self, x, state=None):
-        embedded = self.embedding(x)
-        if state is None:
-            lstm_out, new_state = self.lstm(embedded)
-        else:
-            lstm_out, new_state = self.lstm(embedded, state)
-        return lstm_out, new_state
-    
-    def get_policy(self, x):
-        lstm_out, _ = self.forward(x)
-        logits = self.output(lstm_out)
-        return F.softmax(logits, dim=-1)
-    
-    def get_action(self, x, temperature=0.5):
-        policy = self.get_policy(x)
-        if temperature > 0:
-            policy = F.softmax(torch.log(policy + 1e-20) / temperature, dim=-1)
-        return torch.multinomial(policy, 1)
-
-
-class PolicyGradientLoss(nn.Module):
-    def __init__(self):
-        super().__init__()
-        
-    def forward(self, log_probs, rewards):
-        loss = -torch.mean(log_probs * rewards)
-        return loss
-
-
-def compute_reward(generated_sql, discriminator, waf_rules=None):
-    reward = 0.0
-    
-    with torch.no_grad():
-        score = discriminator(generated_sql)
-        reward += score.item()
-    
-    if waf_rules:
-        for rule in waf_rules:
-            if rule.match(generated_sql):
-                reward += 0.5
-                
-    return reward
-```
-
-**Checklist triển khai SeqGAN cho SQL Injection:**
-- [ ] Chuẩn bị SQL Injection corpus (tối thiểu 1000 samples)
-- [ ] Xây dựng vocabulary cho SQL tokens
-- [ ] Pre-train Generator bằng MLE loss (50 epochs)
-- [ ] Thiết kế Discriminator với reward function
-- [ ] Fine-tune bằng policy gradient
-- [ ] Đánh giá: bypass rate trên WAF test
-
-## 5. So sánh & Đối chiếu (Comparison)
-
-| Tiêu chí | GAN cơ bản | Gumbel-Softmax GAN | SeqGAN | Transformer+GAN |
-|----------|------------|------------------|-------|-----------------|
-| Xử lý discrete output | ❌ Không được | ✅ Mềm hóa | ✅ RL-based | ✅ Tự nhiên |
-| Gradient flow | ❌ Đứt gãy | ✅ Liên tục | ✅ Policy gradient | ✅ Đầy đủ |
-| Sinh sequence dài | ⚠️ Khó | ⚠️ Trung bình | ✅ Tốt | ✅ Rất tốt |
-| Training stability | ❌ Hay sụp đổ | ⚠️ Cần tuning | ✅ Tốt | ⚠️ Tốn tài nguyên |
-| Thích hợp cho SQLi | ❌ Không | ✅ | ✅ **Phù hợp nhất** | ✅ Nếu có GPU |
-| Reference | Vanilla | Jang et al., 2016 | Yu et al., 2017 | - |
-
-## 6. Kết nối & Mở rộng (Connections)
-- **Kết nối trong vault**: [[Deep Dive - VAE]] → [[Deep Dive - Diffusion]] → [[Deep Dive - Transformers]]
-- **Mô hình liên quan:** WGAN (để ổn định training), RelGAN (cải tiến của Gumbel-Softmax), LeakGAN (hierarchical RL)
-- **Câu hỏi mở:** Liệu có thể kết hợp Transformer (như GPT) làm Generator trong khung của GAN để tận dụng cả hai sức mạnh không?
-- **Next steps:** Tiến hành implement SeqGAN cho SQL Injection với corpus có sẵn
-
-## 7. Tài liệu tham khảo
-- Paper: "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" (2016) - https://arxiv.org/abs/1609.05473
-- Paper: "Categorical Reparameterization with Gumbel-Softmax" (2016) - https://arxiv.org/abs/1611.01144
-- Blog: Understanding Gumbel-Softmax (Lilian Weng) - https://lilianweng.github.io/posts/2017-08-15-why-gumbel-softmax/
+## 6. Kết nối & Mở rộng
+- **Mô hình liên quan:** LeakGAN (Generator lấy trộm thông tin từ Discriminator để học tốt hơn).
+- **Câu hỏi tư duy:** Làm thế nào để Discriminator không quá mạnh? Nếu Discriminator quá giỏi, nó sẽ "vùi dập" Generator ngay từ đầu và Generator sẽ không bao giờ học được gì (Nash Equilibrium bị phá vỡ).

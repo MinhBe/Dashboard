@@ -1,53 +1,51 @@
 ---
-aliases: [Diffusion, Score-based Models]
-created: 2026-04-29 00:15:00
+aliases: [Diffusion, DDPM, Score-based Generative Modeling]
+created: 2026-04-29 01:45:00
 progress: raw
 blueprint: []
 impact: 
 urgency: 
-tags: [deep-dive, generative-ai, diffusion, sql-injection]
+tags: [deep-dive, generative-ai, diffusion, advanced-math]
 category: [research]
 ---
-# Deep Dive: Diffusion Models - Từ Hỗn loạn đến Trật tự
+# Deep Dive: Diffusion Models - Nghệ thuật Khử nhiễu và Sự trỗi dậy của Trật tự
 
-## 1. Bản chất cốt lõi (Core Intuition)
-Hãy tưởng tượng bạn có một câu lệnh SQL hoàn chỉnh. Bạn bắt đầu đổ mực lên nó (thêm nhiễu) cho đến khi nó chỉ còn là một vũng mực đen ngòm, không ai đọc được gì nữa. 
+## 1. Bản chất Triết học: Từ Entropy đến Cấu trúc
+Diffusion Model không cố gắng bắt chước dữ liệu một cách trực tiếp như GAN. Thay vào đó, nó học quy luật vật lý của sự hủy diệt và tái sinh. 
+- **Triết lý:** Mọi dữ liệu có cấu trúc (như một câu lệnh SQL hoàn chỉnh) đều là một trạng thái có **Entropy thấp** (trật tự cao). Khi ta thêm nhiễu, ta đang tăng Entropy cho đến khi trật tự biến mất hoàn toàn. 
+- **Công việc của AI:** Học cách đi ngược lại chiều mũi tên của thời gian, từ sự hỗn loạn (Entropy cao) tìm đường quay về trật tự (Entropy thấp).
 
-**Diffusion Model** làm ngược lại: Nó học cách "lau sạch" vũng mực đó theo từng bước nhỏ để khôi phục lại câu SQL ban đầu.
-- Khi đã học được cách lau sạch mực, bạn chỉ cần đưa cho nó một vũng mực ngẫu nhiên (nhiễu), nó sẽ tự động "lau" ra một câu SQL hoàn toàn mới.
+## 2. Cơ chế Vận hành Chuyên sâu
 
-**Nỗi đau giải quyết:** GAN rất khó train (dễ sụp đổ/mode collapse). Diffusion ổn định hơn nhiều vì nó không phải "đấu đá" với ai cả, nó chỉ tập trung vào việc học cách khử nhiễu.
+### 2.1. Forward Diffusion (Quá trình Khuếch tán Thuận)
+Đây là một chuỗi Markov (Markov Chain). Tại mỗi bước, ta thêm một chút nhiễu Gaussian $\epsilon$ vào dữ liệu $x_t$. 
+- **Đặc điểm:** Quá trình này không có tham số để học. Nó tuân theo một lịch trình (Schedule) cố định. Sau khoảng 1000 bước, bất kỳ câu SQL nào cũng sẽ trở thành nhiễu trắng hoàn toàn.
+- **Ý nghĩa:** Nó thiết lập một "con đường" để mô hình biết cách quay về nhà.
 
-## 2. Cách thức vận hành (How it works)
-Gồm 2 quá trình:
-1.  **Forward Process (Làm bẩn):** Thêm nhiễu Gaussian vào dữ liệu theo từng bước cho đến khi dữ liệu biến mất hoàn toàn.
-2.  **Reverse Process (Làm sạch):** Đây là nơi mô hình AI (thường là kiến trúc U-Net hoặc Transformer) thực hiện công việc. Nó nhìn vào dữ liệu đang bị bẩn và đoán xem "nhiễu" đã được thêm vào là gì để trừ đi.
+### 2.2. Reverse Diffusion (Quá trình Khuếch tán Ngược)
+Đây là nơi phép màu xảy ra. AI không cần phải "vẽ" ra cả câu SQL ngay lập tức. Nó chỉ cần thực hiện một nhiệm vụ cực kỳ đơn giản: **Đoán xem bước nhiễu vừa rồi là gì**.
+- **Score-based Modeling:** Mô hình học một hàm gọi là "Score Function" - nó giống như một bản đồ địa hình. Tại mỗi điểm trong không gian nhiễu, Score Function chỉ ra hướng nào là hướng có mật độ dữ liệu cao nhất (nơi có khả năng chứa các câu SQL hợp lệ).
+- **Lợi thế:** Vì nhiệm vụ là "khử nhiễu" (một bài toán Regression đơn giản), quá trình training cực kỳ ổn định, không bị hiện tượng "đối đầu" gây sụp đổ như GAN.
 
-Khi muốn sinh dữ liệu mới: Bạn bắt đầu với 100% nhiễu trắng, cho mô hình chạy qua hàng chục bước khử nhiễu, cuối cùng một câu SQL "xịn" sẽ hiện ra.
+## 3. Giải mã toán học (Conceptual Math)
 
-## 3. Giải mã công thức (Math Decoded)
-
-| Công thức | Ý nghĩa "tiếng người" | Tại sao quan trọng? |
+| Khái niệm | Diễn giải sâu sắc | Vai trò trong mô hình |
 | --- | --- | --- |
-| **Gaussian Noise ($\epsilon$)** | "Bụi bẩn ngẫu nhiên". | Là nguyên liệu đầu vào để mô hình học cách dọn dẹp. |
-| **Denoising Step** | "Một lần lau gương". | Mỗi bước mô hình chỉ cần đoán một chút nhiễu, giúp việc học trở nên cực kỳ ổn định. |
-| **Score Function** | "La bàn chỉ hướng". | Chỉ cho mô hình biết hướng nào là hướng để trở về vùng dữ liệu "đẹp" (SQL có ý nghĩa). |
-| **U-Net / Transformer** | "Bộ não thực hiện". | Kiến trúc chịu trách nhiệm nhìn nhiễu và đoán dữ liệu gốc. |
+| **Langevin Dynamics** | Quá trình di chuyển trong sương mù. | Phương pháp giúp mô hình "dò dẫm" từ vùng nhiễu về vùng dữ liệu sạch dựa trên Score Function. |
+| **Variational Bound (VLB)** | Giới hạn dưới của xác suất. | Một công cụ toán học để tối ưu hóa quá trình khử nhiễu, đảm bảo câu SQL sinh ra có xác suất xuất hiện cao nhất trong thực tế. |
+| **Signal-to-Noise Ratio (SNR)** | Tỉ lệ tín hiệu trên nhiễu. | Quyết định xem tại bước nào mô hình cần tập trung vào cấu trúc tổng thể (SQL keywords) và bước nào tập trung vào chi tiết (dấu nháy, khoảng cách). |
+| **U-Net / Transformer Backbone** | Cỗ máy dự đoán nhiễu. | Cấu trúc mạng nơ-ron có khả năng xử lý dữ liệu ở nhiều cấp độ phân giải/chi tiết khác nhau. |
 
-## 4. Liên hệ bài toán SQL Injection
-**Tại sao Diffusion có tiềm năng cho SQLi?**
-- **Sự đa dạng (Diversity):** Diffusion cực giỏi trong việc tạo ra các mẫu dữ liệu khác biệt nhau hoàn toàn, không bị lặp lại như GAN.
-- **Tính ổn định:** Bạn sẽ không gặp cảnh Generator "chết lâm sàng" như khi dùng GAN cho Text.
-- **Khả năng chỉnh sửa:** Bạn có thể đưa một câu SQL bình thường vào, thêm một chút nhiễu, rồi bảo Diffusion "lau sạch nhưng hãy làm nó trông giống SQL Injection". Đây gọi là **Guided Diffusion**.
+## 4. Ứng dụng trong SQL Injection Generation
+Diffusion đang trở thành ứng cử viên sáng giá cho dữ liệu cấu trúc nhờ các kỹ thuật mới:
+1.  **Latent Diffusion cho SQL:** Thay vì khử nhiễu trực tiếp trên chữ cái (rất khó), người ta dùng một Encoder để biến SQL thành các vector số (giống VAE), sau đó khử nhiễu trên các vector đó. Cuối cùng dùng Decoder để biến vector sạch thành câu SQLi.
+2.  **Guided Generation (Tạo sinh có hướng dẫn):** Bạn có thể "thì thầm" vào tai mô hình Diffusion trong lúc nó đang khử nhiễu: *"Hãy hướng về phía các câu lệnh có chứa từ khóa UNION"*. Mô hình sẽ bẻ lái quá trình khử nhiễu để kết quả cuối cùng hội tụ về đúng loại tấn công bạn cần.
+3.  **Sự đa dạng tuyệt đối:** Diffusion không bị Mode Collapse. Nó có thể sinh ra hàng triệu câu SQLi với cấu trúc khác nhau hoàn toàn, giúp bạn kiểm thử WAF một cách toàn diện hơn bất kỳ phương pháp nào khác.
 
-**Nhược điểm:**
-- Chạy rất chậm. Để sinh ra một câu SQL, nó phải chạy qua 50-100 bước tính toán (trong khi GAN chỉ cần 1 bước).
-- Áp dụng cho text vẫn đang là một thách thức lớn (cần chuyển text sang không gian liên tục trước).
+## 5. Phân tích Chuyên sâu: Thách thức của dữ liệu Rời rạc
+Dữ liệu SQL là rời rạc, trong khi Diffusion hoạt động trên số thực.
+- **Giải pháp:** **Bit Diffusion** hoặc **Analog Bits**. Chúng ta biểu diễn các ký tự SQL dưới dạng nhị phân (0 và 1), sau đó coi các số 0, 1 đó là số thực và thêm nhiễu vào chúng. Khi khử nhiễu xong, ta chỉ cần làm tròn về 0 hoặc 1 để lấy lại ký tự ban đầu.
 
-## 5. Kết nối & Mở rộng (Connections)
-- **Mô hình liên quan:** Stable Diffusion (ảnh), Diffusion-LM (text), Discrete Diffusion.
-- **Câu hỏi mở:** Có thể dùng Diffusion để "biến đổi" một câu SQL sạch thành một câu SQL Injection mà vẫn giữ nguyên được chức năng của nó không?
-
-## 6. Tài liệu tham khảo
-- Paper: "Denoising Diffusion Probabilistic Models" (2020).
-- Blog: What are Diffusion Models? (Lilian Weng).
+## 6. Kết nối & Mở rộng
+- **Mô hình liên quan:** Classifier-Free Guidance (giúp điều khiển mô hình mà không cần huấn luyện thêm bộ phân loại).
+- **Câu hỏi tư duy:** Nếu ta coi việc "bypass WAF" là một loại trật tự, liệu ta có thể huấn luyện Diffusion để nó coi "nhiễu" là SQL bình thường và "dữ liệu sạch" là SQL Injection không?
