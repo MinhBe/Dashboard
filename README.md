@@ -2,8 +2,6 @@
 
 > FLOW là phương pháp quản lý tri thức linh hoạt, kết hợp cấu trúc thư mục cứng và lớp linh hoạt (tags, wikilinks, properties).
 
-[![FLOW Ready](6.%20Vault/attachments/Obsidian_FLOW_is_ready_for_you.png)](https://learn-anything.vn/download-obsidian-flow)
-
 ---
 
 ## 🎯 Tổng Quan
@@ -161,21 +159,6 @@ FLOW hoạt động ngay cả khi **KHÔNG** có Obsidian (tags, wikilinks, prop
 - [ ] Cuối ngày viết Track (nhật ký)
 - [ ] Xem lại Forge, cập nhật `progress`
 
----
-
-## 📚 Tài Liệu Tham Khảo
-
-### Kênh Chính Thức
-- 📰 **Substack**: [learnanything.substack.com](https://learnanything.substack.com)
-- 🏠 **Website**: [learn-anything.vn](https://learn-anything.vn)
-- 😄 **Facebook**: [facebook.com/mr.thinh.ueh](https://facebook.com/mr.thinh.ueh)
-
-### Tải Về
-- **GitHub**: [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
-- **Template Vault**: [learn-anything.vn/download-obsidian-flow](https://learn-anything.vn/download-obsidian-flow)
-
-### Hướng Dẫn Chi Tiết
-📖 **[FLOW_Methodology_Guide.md](FLOW_Methodology_Guide.md)** - 18 phần chi tiết (Tags, Templates, DIKW, Biến thể...)
 
 ---
 
