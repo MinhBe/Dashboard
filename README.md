@@ -1,108 +1,182 @@
-# FLOW - Phương pháp quản lý tri thức tối ưu cho Obsidian
+# FLOW Methodology - Hệ Thống Quản Lý Tri Thức Toàn Diện Cho Obsidian
 
-## I. Giới thiệu
+> FLOW là phương pháp quản lý tri thức linh hoạt, kết hợp cấu trúc thư mục cứng và lớp linh hoạt (tags, wikilinks, properties).
 
-> [!tip]
-Chào mừng bạn ghé thăm không gian minh hoạ phương pháp quản lý kiến thức FLOW trong Obsidian. 
-Phương pháp FLOW do Thịnh Vũ phát triển là kết quả của quá trình trải nghiệm, tương tác và chia sẻ với cộng đồng trong 3 năm qua. 
-Obsidian FLOW là kết quả của những trăn trở, tìm tòi và nghiên cứu của anh nhằm tìm ra một hệ thống quản lý linh hoạt, đa dụng và cá nhân hoá quản lý cuộc sống "số" và hành trình tích luỹ kiến thức thú vị hơn.
-
-Phương pháp **FLOW** được tối ưu tối đa cho Obsidian nhưng đồng thời có thể áp dụng với bất kỳ nền tảng dịch vụ lưu trữ và ghi chú nào.
-
-Hy vọng **FLOW** sẽ giúp bạn khám phá một cách tiếp cận đơn giản nhưng mạnh mẽ trong tổ chức thông tin và ý tưởng một cách hiệu quả, linh hoạt và dễ dàng cá nhân hoá theo nhu cầu của bạn.
-
-<iframe width="700" height="480" src="https://www.youtube.com/embed/8hAxzSGylfg?si=cwUjgq5cBDv48qol" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![FLOW Ready](6.%20Vault/attachments/Obsidian_FLOW_is_ready_for_you.png)](https://learn-anything.vn/download-obsidian-flow)
 
 ---
-## II. Phương pháp FLOW là gì?
 
-![](6.%20Vault/attachments/Obsidian_FLOW_is_ready_for_you.png)
+## 🎯 Tổng Quan
 
-Hãy tưởng tượng bạn đang đứng giữa một cánh rừng lớn, đầy những cây xanh và vô số con đường nhỏ không rõ ràng. Đây chính là cảm giác của tôi khi đối mặt với việc quản lý ghi chú. Ý tưởng liên tục tràn ngập, nhưng mọi thứ cứ nằm lộn xộn, không có hệ thống. Mỗi khi cần tìm lại một ghi chú hoặc phát triển một ý tưởng, tôi cảm thấy như đang lạc lối trong chính không gian trí óc của tôi.
+- **Tác giả**: Thịnh Vũ ([Learn Anything](https://learn-anything.vn))
+- **Nguồn gốc**: Kết tinh từ 3 năm trải nghiệm Zettelkasten, PARA, CODE, Ideaverse
+- **Triết lý**: Tự do sáng tạo, gọn gàng, tương thích mọi nền tảng
 
-Tôi biết tôi cần một con đường rõ ràng hơn – một bản đồ giúp tôi điều hướng qua mớ hỗn độn đó. Và đó là khi phương pháp **FLOW** ra đời. FLOW không chỉ là một phương pháp, nó là lộ trình giúp tôi từ những ý tưởng ban đầu đến khi hoàn thiện, giống như việc rèn một thanh kiếm từ kim loại thô cho đến khi nó trở nên sắc bén và mạnh mẽ. 
-
-**FLOW** là viết tắt của:
-
-- **Forge** (_Rèn Luyện_): Thể hiện quá trình sáng tạo và không ngừng hoàn thiện từ ý tưởng thô sơ cho đến khi hoàn thiện. 
-- **Link** (_Liên Kết_): Tượng trưng cho sự kết nối và liên hệ giữa các dự án, ý tưởng và nhiệm vụ khác nhau. **Link** thể hiện việc tổ chức các dự án ở một cấp độ trừu tượng, liên kết chúng với nhau.
-- **Organize** (_Tổ Chức_): Đại diện cho việc sắp xếp và trưng bày các thành phẩm hoặc tài liệu đã hoàn thiện. **Organize** mang lại cảm giác trật tự và dễ dàng truy xuất thông tin.
-- **Write** (_Viết_): Việc ghi chép và theo dõi tiến trình công việc, phản ánh quá trình phát triển liên tục của ý tưởng. **Write** đại diện cho hành động bắt tay vào việc viết để tư duy rành mạch đồng thời giúp duy trì dòng chảy của công việc.
-
-Nói một cách ngắn gọn, phương pháp FLOW bao gồm một hệ thống các nguyên tắc, hướng dẫn và quy trình giúp bạn có thể làm quen cũng như tích hợp hoàn toàn lối tư duy và phương pháp làm việc vào cuộc sống cá nhân và hành trình tích luỹ tri thức của bạn.
+### Ý Nghĩa FLOW
+- **F**orge (Rèn Luyện) → Phát triển ý tưởng
+- **L**ink (Liên Kết) → Kết nối dự án
+- **O**rganize (Tổ Chức) → Sắp xếp thành phẩm
+- **W**rite (Viết) → Duy trì dòng chảy
 
 ---
-## III. Tải về sử dụng
 
-### 3.1. Tải file zip về giải nén
+## 📂 Cấu Trúc 6 Thư Mục
 
-> [!tip]
-> Bạn có thể chọn 1 trong hai cách được hướng dẫn dưới đây để tải về file zip sử dụng.
+```
+├─1. Capture      (Thu Thập - Ý tưởng thô)
+├─2. Track        (Theo Dõi - Nhật ký hàng ngày)
+├─3. Forge        (Xưởng Rèn - Phát triển ý tưởng)
+├─4. Blueprint    (Bản Thiết Kế - Quản lý dự án)
+├─5. Exhibit      (Phòng Trưng Bày - Thành phẩm)
+└─6. Vault        (Kho Lưu Trữ - Templates, Assets)
+```
 
-#### a. Tải theo phiên bản phát hành
-
-**Bước 1: Chọn link bản phát hành mới nhất tại giao diện của repo**
-
-![](6.%20Vault/attachments/select_the_latest_release_tag.png)
-
-**Bước 2: Chọn file zip Source code để tải về và giải nén ở màn hình tiếp theo**
-
-![](6.%20Vault/attachments/download_release_zip_file.png)
-
-#### b. Tải từ mục Code > Download ZIP
-
-Sử dụng cách này, bạn tải toàn bộ repo được chia sẻ dưới dạng 1 file zip, giải nén file và mở Open folder as Vault để sử dụng. Mặc định file tải về là mã nguồn cập nhật mới nhất.
-
-![](6.%20Vault/attachments/obsidian_flow_github_download_zip.png)
-
-### 3.2. Sao chép mẫu Vault dưới dạng 1 repo trong Github của bạn
-
->[!tip]
-> Sử dụng cách này, bạn có thể đồng bộ Github repo về máy và sử dụng Git làm công cụ sao lưu mặc định. Thư mục Git có thể lưu trữ trong OneDrive, Google Drive, vv hay dịch vụ lưu trữ đám mây bất kỳ để tạo lớp sao lưu thứ 2. Khi đồng bộ với Github, bạn có thể xem nhanh các ghi chú thông qua Github mobile mà không cần Obsidian mobile (nhanh hơn), hoặc chỉnh sửa ghi chú với vscode.dev từ Github repo mà không cần đồng bộ trên máy trong những trường hợp bạn không tiện cài đặt Obsidian. Cũng có thể chỉnh sửa ghi chú theo cách này trên smartphone trong 1 số trường hợp cần thiết.
-
-![](6.%20Vault/attachments/obsidian_flow_github_template_repo.png)
+| Thư Mục | Chức Năng | Properties | Template |
+|---------|------------|-------------|----------|
+| **1. Capture** | Thu thập nhanh | `created`, `tags` | New Note |
+| **2. Track** | Nhật ký, theo dõi | `created`, `tags`, `mood` | Daily |
+| **3. Forge** | Rèn dũa ý tưởng | `progress`, `impact`, `urgency` | Thought, Deep Dive |
+| **4. Blueprint** | TOC tự động, dự án | `aliases`, `tags`, `summary` | Blueprint, TOC |
+| **5. Exhibit** | Trưng bày thành phẩm | `tags`, `publish` | Blog, Project |
+| **6. Vault** | Templates, assets | `created`, `tags` | Profile, Read |
 
 ---
-## IV. Thiết lập Obsidian Vault của bạn theo phương pháp FLOW
 
->[!tip]
->Bạn có thể tìm thấy nội dung dưới đây tại trang mục lục giới thiệu phương pháp [Obsidian FLOW Methodology](4.%20Blueprint/Obsidian%20FLOW%20Methodology.md).
+## 🔄 Vòng Đời Ghi Chú
 
+```
+raw → medium → done → published → archived
+```
+
+| Trạng Thái | Mô Tả |
+|------------|--------|
+| **raw** | Ý tưởng thô, chưa xử lý |
+| **medium** | Đang phát triển, cần bổ sung |
+| **done** | Đã hoàn thiện |
+| **published** | Đã chia sẻ/công bố |
+| **archived** | Lưu trữ dài hạn |
+
+---
+
+## 📋 Properties Chuẩn
+
+| Trường | Kiểu | Giá Trị Mẫu |
+|--------|------|--------------|
+| `created` | Date & Time | `2024-09-16 21:09:00` |
+| `progress` | Text | `raw`, `medium`, `done` |
+| `impact` | Number (1-5) | `5` (cao nhất) |
+| `urgency` | Number (0-1) | `1` (khẩn cấp) |
+| `tags` | List | `#python`, `#tips` |
+| `blueprint` | List | `[[Obsidian FLOW Methodology]]` |
+| `publish` | Date & Time | `2024-09-20 06:15:00` |
+
+---
+
+## ✅ 8 Nguyên Tắc Vàng
+
+| # | Nguyên Tắc | NÊN ✅ | KHÔNG ❌ |
+|---|-----------|---------|----------|
+| 1 | Đơn giản | Giữ 6 thư mục chính, nhất quán | Tạo nhiều thư mục con |
+| 2 | Properties | Dùng `impact`, `urgency`, `tags` | Lạm dụng tags |
+| 3 | Tuần tự | Capture → Forge → Blueprint → Exhibit | Để Capture tồn tại mãi |
+| 4 | Nhất quán | Đánh số (1., 2., 3a...) | Đặt tên lung tung |
+| 5 | Xem xét | Xem Forge hàng tuần | Để hệ thống cũ kỹ |
+| 6 | Wikilinks | Liên kết ý tưởng giữa thư mục | Bỏ qua liên kết nội bộ |
+| 7 | Linh hoạt | Ghi nhanh (raw) dù chưa hoàn hảo | Trì hoãn vì muốn hoàn hảo ngay |
+| 8 | Cá nhân | Điều chỉnh theo nhu cầu | Ép mình theo khuôn mẫu cứng |
+
+---
+
+## 🔗 Wikilinks & Dataview
+
+### Liên Kết Cơ Bản
+```markdown
+[[Tên ghi chú]]                    ← Liên kết cơ bản
+[[Tên ghi chú\|Văn bản hiển thị]] ← Alias
+[[Thư mục/]]                      ← Liên kết thư mục
+```
+
+### TOC Tự Động (Home.md)
 ```dataview
-TABLE tags
-FROM -"6. Vault"
-WHERE contains(string(join(blueprint, "  ")), "Obsidian FLOW Methodology")
-AND number(impact) >= 4
-SORT aliases ASC, created DESC
+TABLE dateformat(date(file.ctime), "MMM dd") as Date
+FROM "/"
+WHERE number(impact) >= 4
+SORT created DESC
+LIMIT 20
 ```
 
 ---
-## V. Một số lưu ý khi áp dụng phương pháp FLOW
 
-- **Giữ cho hệ thống đơn giản**: Đừng tạo quá nhiều thư mục con phức tạp, hãy giữ cho cấu trúc của bạn dễ hiểu và dễ quản lý.
-- **Sử dụng metadata và thẻ một cách thông minh**: Chỉ áp dụng khi cần thiết để hỗ trợ việc tìm kiếm và tổ chức.
-- **Thường xuyên xem xét và cập nhật**: Dành thời gian để xem lại và sắp xếp lại ghi chú của bạn, đảm bảo chúng luôn phản ánh đúng trạng thái hiện tại.
-- **Cá nhân hóa hệ thống**: Điều chỉnh phương pháp FLOW để phù hợp với nhu cầu và phong cách làm việc của bạn.
+## ⌨️ Phím Tắt Nhanh
 
----
-## VI. Tại sao nên áp dụng phương pháp FLOW?
+| Chức Năng | Windows | macOS |
+|-----------|---------|-------|
+| Mở Settings | `Win + ,` | `⌘ + ,` |
+| Toggle Left Sidebar | `Ctrl + Alt + L` | `⌘ + ⌥ + L` |
+| Heading 1-6 | `Ctrl + Alt + 1-6` | `⌘ + ⌥ + 1-6` |
+| New Note | `Ctrl + N` | `⌘ + N` |
+| Insert Template | `Ctrl + Alt + ⇧ + T` | `⌘ + ⌥ + ⇧ + T` |
+| Local Graph | `Ctrl + Alt + G` | `⌘ + ⌃ + G` |
 
-- **Đơn giản và trực quan**: FLOW giúp bạn tổ chức ghi chú theo một cấu trúc dễ hiểu, giảm thiểu sự phức tạp.
-- **Linh hoạt và cá nhân hóa**: Bạn có thể điều chỉnh phương pháp để phù hợp với phong cách làm việc và mục tiêu cá nhân.
-- **Hiệu quả trong việc tìm kiếm và truy cập thông tin**: Sử dụng metadata và thẻ một cách có mục đích giúp bạn nhanh chóng tìm thấy những gì tôi cần.
-
----
-## VII. Luôn cập nhật thông tin mới nhất về FLOW
-
-
-> [!tip]
-> Bạn có thể đăng ký kênh và theo dõi trang cá nhân của Thịnh để đảm bảo bạn không bỏ lỡ bất kỳ cập nhật mới nhất về FLOW, được kết nối  và chia sẻ những ý tưởng thú vị.
-
-📰 **Bản tin Substack của Learn Anything:** [learnanything.substack.com](https://learnanything.substack.com?utm_source=github&utm_medium=obsidian-flow-public)
-🏠 **Learn Anything:** [learn-anything.vn](https://learn-anything.vn?utm_source=github&utm_medium=obsidian-flow-public)
-😄 **Trang cá nhân**: facebook.com/mr.thinh.ueh
+> **Mẹo**: `Alt` = Giao diện, `Shift` = Chức năng nâng cao
 
 ---
-## VIII. Giới thiệu tác giả
 
-![1. Xin chào, đây là Thịnh](1.%20Capture/1.%20Xin%20chào,%20đây%20là%20Thịnh.md)
+## 🔌 Plugin Khuyên Dùng
+
+**Core**: Templates, Daily Notes  
+**Community**: Templater, Dataview, Calendar, Obsidian Projects, Icon Folder, Homepage, Floating TOC, Excalidraw
+
+---
+
+## 🌐 Tương Thích Đa Nền Tảng
+
+FLOW hoạt động ngay cả khi **KHÔNG** có Obsidian (tags, wikilinks, properties).
+
+- **Google Drive / OneDrive / Dropbox**: Duyệt thư mục chuẩn, mở bằng bất kỳ editor nào
+- **GitHub + VS Code**: Version control, mở trực tiếp trên [vscode.dev](https://vscode.dev)
+- **Ổ đĩa cục bộ**: Mở bằng Notepad, VS Code, không cần internet
+
+---
+
+## 🚀 Quy Trình Làm Việc (Workflow)
+
+```
+1. Capture: Ghi nhanh ý tưởng (Ctrl+N)
+   ↓
+2. Track: Cuối ngày viết nhật ký (Calendar)
+   ↓
+3. Forge: Chọn ý tưởng quan trọng → phát triển
+   ↓
+4. Blueprint: Tạo TOC quản lý dự án
+   ↓
+5. Exhibit: Chuyển thành phẩm, đặt publish date
+   ↓
+6. Vault: Lưu trữ templates, tài liệu
+```
+
+### Checklist Hàng Ngày
+- [ ] Mở Home.md xem nhiệm vụ
+- [ ] Ghi nhanh vào Capture khi có ý tưởng
+- [ ] Cuối ngày viết Track (nhật ký)
+- [ ] Xem lại Forge, cập nhật `progress`
+
+---
+
+## 📚 Tài Liệu Tham Khảo
+
+### Kênh Chính Thức
+- 📰 **Substack**: [learnanything.substack.com](https://learnanything.substack.com)
+- 🏠 **Website**: [learn-anything.vn](https://learn-anything.vn)
+- 😄 **Facebook**: [facebook.com/mr.thinh.ueh](https://facebook.com/mr.thinh.ueh)
+
+### Tải Về
+- **GitHub**: [github.com/anomalyco/opencode](https://github.com/anomalyco/opencode)
+- **Template Vault**: [learn-anything.vn/download-obsidian-flow](https://learn-anything.vn/download-obsidian-flow)
+
+### Hướng Dẫn Chi Tiết
+📖 **[FLOW_Methodology_Guide.md](FLOW_Methodology_Guide.md)** - 18 phần chi tiết (Tags, Templates, DIKW, Biến thể...)
+
+---
+
+> **Kết luận**: FLOW không chỉ là phương pháp quản lý tri thức, mà là lối sống số - nơi mọi ý tưởng đều có cơ hội phát triển từ hạt giống (Capture) đến cây trưởng thành (Exhibit). Hãy bắt đầu với sự đơn giản, và để dòng chảy (flow) dẫn lối cho sự sáng tạo của bạn.
