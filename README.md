@@ -6,7 +6,6 @@
 
 ## 🎯 Tổng Quan
 
-- **Tác giả**: Thịnh Vũ ([Learn Anything](https://learn-anything.vn))
 - **Nguồn gốc**: Kết tinh từ 3 năm trải nghiệm Zettelkasten, PARA, CODE, Ideaverse
 - **Triết lý**: Tự do sáng tạo, gọn gàng, tương thích mọi nền tảng
 
