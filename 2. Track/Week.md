@@ -26,7 +26,8 @@ AND contains(file.name, "-")
 # 🎯 Mục Tiêu Tuần Tới
 
 ## Công việc
-- [ ] 
+- [ ]  Build mô hình Automation
+- [ ] Build một chat bot hỏi đáp có khả năng trả về văn bản cd3
 
 ## Cá nhân
 - [ ] 
