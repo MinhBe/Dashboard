@@ -1,14 +1,21 @@
 {
   "whisper": {
     "model_size": "large-v3-turbo",
-    "device": "cpu",
-    "compute_type": "int8",
-    "beam_size": 5,
+    "device": "auto",
+    "compute_type": "auto",
+    "beam_size": 3,
     "vad_filter": true,
     "language_detection": "auto",
     "condition_on_previous_text": false,
     "repetition_penalty": 1.2,
     "confidence_threshold": -1.0
+  },
+  "resource": {
+    "cpu_target": 0.70,
+    "gpu_target": 0.85,
+    "min_vram_gb": 4.0,
+    "max_cpu_workers": 10,
+    "enable_benchmark": true
   },
   "diarization": {
     "vad_threshold": 0.4,
