@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Capture/ChatBot Creator/Prompt Engineer/Finding Info/Data analyst.md",
+                "file": "4. Blueprint/Reading List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data analyst"
+              "title": "Reading List"
             }
           },
           {
@@ -442,8 +442,8 @@
   },
   "active": "470910d5c2a54065",
   "lastOpenFiles": [
-    "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Building Project.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Finding Info/Data analyst.md",
+    "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Building Project.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Generate image.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Image.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Finding Info/Critique.md",

@@ -1,0 +1,37 @@
+{
+    "switch": {
+        "id": "30",
+        "master_id": null,
+        "source": "C:\\Projects\\Dashboard\\1. Capture\\Visio\\Epay Topo.vsdx",
+        "page": "Logic DC EPAY",
+        "description": "Standard switch shape ('DC-CORE\nSW01') from Epay Topo.vsdx"
+    },
+    "firewall": {
+        "id": "35",
+        "master_id": null,
+        "source": "C:\\Projects\\Dashboard\\1. Capture\\Visio\\Epay Topo.vsdx",
+        "page": "Logic DC EPAY",
+        "description": "Standard firewall shape ('DC-Partner\nFW01') from Epay Topo.vsdx"
+    },
+    "isp": {
+        "id": "70",
+        "master_id": null,
+        "source": "C:\\Projects\\Dashboard\\1. Capture\\Visio\\Epay Topo.vsdx",
+        "page": "Logic DC EPAY",
+        "description": "Standard isp shape ('VNPT LL') from Epay Topo.vsdx"
+    },
+    "f5": {
+        "id": "95",
+        "master_id": null,
+        "source": "C:\\Projects\\Dashboard\\1. Capture\\Visio\\Epay Topo.vsdx",
+        "page": "Logic DC EPAY",
+        "description": "Standard f5 shape ('DC-F5\nBIGIP01') from Epay Topo.vsdx"
+    },
+    "server": {
+        "id": "146",
+        "master_id": null,
+        "source": "C:\\Projects\\Dashboard\\1. Capture\\Visio\\Epay Topo.vsdx",
+        "page": "Logic DC EPAY",
+        "description": "Standard server shape ('SERVER FARM') from Epay Topo.vsdx"
+    }
+}

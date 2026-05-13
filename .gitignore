@@ -1,2 +1,7 @@
 .DS_Store
 .trash/
+
+# Model cache
+**/models/models--*/
+**/models/.locks/
+**/models/CACHEDIR.TAG

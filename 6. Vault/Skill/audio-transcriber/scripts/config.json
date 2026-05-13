@@ -1,0 +1,29 @@
+{
+  "whisper": {
+    "model_size": "large-v3-turbo",
+    "device": "cpu",
+    "compute_type": "int8",
+    "beam_size": 5,
+    "vad_filter": true,
+    "language_detection": "auto",
+    "condition_on_previous_text": false,
+    "repetition_penalty": 1.2,
+    "confidence_threshold": -1.0
+  },
+  "diarization": {
+    "vad_threshold": 0.4,
+    "min_speech_duration_ms": 500,
+    "min_silence_duration_ms": 300,
+    "clustering_distance_threshold": 0.7,
+    "embedding_model": "speechbrain/spkrec-ecapa-voxceleb"
+  },
+  "processing": {
+    "denoise_prop_decrease": 0.8,
+    "vad_sensitivity": 0.4
+  },
+  "output": {
+    "include_metadata": true,
+    "include_footnotes": true,
+    "timestamp_format": "mm:ss"
+  }
+}
