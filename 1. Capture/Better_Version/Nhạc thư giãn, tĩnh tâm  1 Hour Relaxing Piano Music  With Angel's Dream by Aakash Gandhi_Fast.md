@@ -1,0 +1,6 @@
+### [FAST] Transcript: Nhạc thư giãn, tĩnh tâm | 1 Hour Relaxing Piano Music | With Angel's Dream by Aakash Gandhi
+- **Nguồn:** https://www.youtube.com/watch?v=QU_ZXKlBk9I
+- **Ngày:** 13/05/2026
+- **Ngôn ngữ:** en
+
+---
