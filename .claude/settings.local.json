@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(Get-ChildItem -Path \"C:\\\\Projects\\\\Dashboard\\\\6. Vault\\\\Skill\" -Directory)",
+      "Bash(Select-Object -ExpandProperty Name)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Projects\\\\Dashboard\\\\5. Exhibit\" -Recurse)",
+      "Bash(Select-Object -ExpandProperty FullName)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Projects\\\\Dashboard\\\\6. Vault\\\\Skill\" -Directory | ForEach-Object { Write-Host $_.Name })",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Projects\\\\Dashboard\\\\5. Exhibit\" -Force | Select-Object Name, @{Name=\"Type\"; Expression={if \\($_.PSIsContainer\\) {\"Directory\"} else {\"File\"}}} | Format-Table -AutoSize)",
+      "PowerShell(Get-Item *)",
+      "PowerShell(ls *)",
+      "Bash(Get-ChildItem *)"
+    ]
+  }
+}

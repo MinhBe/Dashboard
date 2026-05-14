@@ -1,0 +1,132 @@
+{
+  "meta": {
+    "domain": "ai-concept",
+    "scope": "AI Core for business deployment — ability to deploy, architect, and reason about AI systems in real business context. NOT ML theory.",
+    "guiding_file": "C:\\Projects\\Dashboard\\3. Forge\\AI System\\Prefrence\\Guiding.md",
+    "created": "2026-05-14",
+    "goal_anchor": [
+      "Triển khai được: deploy AI pipeline thực sự (MCP, RAG, agent) trong business context",
+      "Tư duy được: kiến trúc trước khi code — biết TẠI SAO chọn giải pháp này",
+      "Nhìn thấy được: failure modes trước khi chúng xảy ra",
+      "Quyết định được: khi nào KHÔNG dùng AI"
+    ],
+    "curriculum_sequence": [
+      {
+        "concept": "when_not_to_use_ai",
+        "bloom_target": "evaluate",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL — học trước tiên"
+      },
+      {
+        "concept": "data_contracts",
+        "bloom_target": "apply",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL"
+      },
+      {
+        "concept": "data_lineage",
+        "bloom_target": "understand",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL"
+      },
+      {
+        "concept": "evaluation_basics",
+        "bloom_target": "analyze",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL — hierarchy: business metric → online metric → offline metric"
+      },
+      {
+        "concept": "failure_modes_taxonomy",
+        "bloom_target": "analyze",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL — data/model/infra/organizational failures"
+      },
+      {
+        "concept": "rag_vs_fine_tune_decision",
+        "bloom_target": "evaluate",
+        "tier": 1,
+        "note": "Tier 1 CRITICAL — decision framework, not implementation"
+      },
+      {
+        "concept": "business_problem_framing",
+        "bloom_target": "apply",
+        "tier": 2,
+        "note": "Tier 2 IMPORTANT"
+      },
+      {
+        "concept": "use_case_taxonomy",
+        "bloom_target": "apply",
+        "tier": 2,
+        "note": "Tier 2 — classification/generation/extraction/recommendation/anomaly/forecasting"
+      },
+      {
+        "concept": "rag_architecture",
+        "bloom_target": "understand",
+        "tier": 2,
+        "note": "Tier 2 — chunking, embedding, retrieval, generation"
+      },
+      {
+        "concept": "agent_loop",
+        "bloom_target": "understand",
+        "tier": 2,
+        "note": "Tier 2 — perceive → plan → act → reflect"
+      },
+      {
+        "concept": "mcp_tool_use",
+        "bloom_target": "apply",
+        "tier": 2,
+        "note": "Tier 2 — MCP, function-calling, API integration"
+      },
+      {
+        "concept": "mlops_ci_cd",
+        "bloom_target": "understand",
+        "tier": 2,
+        "note": "Tier 2 — CI/CD for ML, serving, monitoring"
+      },
+      {
+        "concept": "cost_model",
+        "bloom_target": "apply",
+        "tier": 2,
+        "note": "Tier 2 — compute, inference-per-request, storage, human-review"
+      },
+      {
+        "concept": "data_observability",
+        "bloom_target": "apply",
+        "tier": 2,
+        "note": "Tier 2 — freshness, volume, schema, distribution monitors"
+      },
+      {
+        "concept": "trade_off_triangle",
+        "bloom_target": "analyze",
+        "tier": 3,
+        "note": "Tier 3 REFERENCE — latency/accuracy/cost, pick two"
+      },
+      {
+        "concept": "abstraction_levels",
+        "bloom_target": "analyze",
+        "tier": 3,
+        "note": "Tier 3 — principle (5–10y) / pattern (2–5y) / tool (6–18m) / implementation"
+      },
+      {
+        "concept": "human_in_the_loop",
+        "bloom_target": "apply",
+        "tier": 3,
+        "note": "Tier 3 — approval gate, override mechanism, audit trail"
+      },
+      {
+        "concept": "prompt_engineering_basics",
+        "bloom_target": "apply",
+        "tier": 3,
+        "note": "Tier 3 — zero-shot, few-shot, chain-of-thought, prompt injection defense"
+      }
+    ],
+    "bloom_levels": {
+      "remember":   "Nhớ framework/pattern khi được nhắc",
+      "understand": "Giải thích được mechanism và tại sao nó hoạt động",
+      "apply":      "Dùng được trong tình huống mới — quyết định, design, debug",
+      "analyze":    "So sánh trade-offs, nhận ra failure modes, chọn đúng trong context",
+      "evaluate":   "Tự định nghĩa criteria để quyết định, phản biện được giải pháp của người khác"
+    }
+  },
+  "nodes": {}
+}

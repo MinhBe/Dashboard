@@ -1,0 +1,74 @@
+{
+  "meta": {
+    "domain": "skill-creator",
+    "scope": "Internalize skill-creator framework để build skills hiệu quả — không phải nhớ syntax, mà hiểu principles đằng sau.",
+    "source": "C:\\Projects\\Dashboard\\6. Vault\\Skill\\skill-creator\\SKILL.md",
+    "created": "2026-05-14",
+    "goal_anchor": [
+      "Build skills trigger đúng lúc, không trigger sai",
+      "Viết instructions người model hiểu WHY, không chỉ WHAT",
+      "Test có ý nghĩa: assertions discriminate, prompts realistic",
+      "Iterate dựa trên evidence, không phải cảm giác"
+    ],
+    "curriculum_sequence": [
+      {
+        "concept": "skill_anatomy",
+        "bloom_target": "apply",
+        "note": "Frontmatter (name, description) + body + bundled resources (scripts/, references/, assets/)"
+      },
+      {
+        "concept": "progressive_disclosure",
+        "bloom_target": "apply",
+        "note": "3-layer loading: metadata (~100w, luôn in context) → SKILL.md body (<500 lines) → references (load khi cần)"
+      },
+      {
+        "concept": "description_writing",
+        "bloom_target": "evaluate",
+        "note": "Pushy descriptions để combat undertriggering. Primary triggering mechanism. Include when-NOT-to-trigger."
+      },
+      {
+        "concept": "writing_principles",
+        "bloom_target": "analyze",
+        "note": "Explain WHY (theory of mind) > MUST/NEVER lists. Lean. Generalize not overfit. Imperative form."
+      },
+      {
+        "concept": "test_case_writing",
+        "bloom_target": "apply",
+        "note": "2–3 realistic prompts với concrete details (file paths, company names, backstory). Not abstract."
+      },
+      {
+        "concept": "assertion_writing",
+        "bloom_target": "analyze",
+        "note": "Discriminating (pass với skill, fail không có skill). Verifiable. Not trivial. Exact field names: text, passed, evidence."
+      },
+      {
+        "concept": "eval_workflow",
+        "bloom_target": "apply",
+        "note": "with_skill vs without_skill parallel. grading.json → benchmark.json → viewer. Capture timing ngay."
+      },
+      {
+        "concept": "benchmarking_workflow",
+        "bloom_target": "understand",
+        "note": "benchmark.json schema: metadata, runs[], run_summary (mean±stddev), delta, notes. Field names exact."
+      },
+      {
+        "concept": "iteration_workflow",
+        "bloom_target": "apply",
+        "note": "Feedback → generalize (không overfit) → remove waste → explain WHY → rerun vào iteration-N/ mới."
+      },
+      {
+        "concept": "description_optimization",
+        "bloom_target": "apply",
+        "note": "8–10 should-trigger queries + 8–10 should-not-trigger. Realistic, substantive, concrete details."
+      }
+    ],
+    "bloom_levels": {
+      "remember":   "Nhớ tên và purpose của từng component",
+      "understand": "Giải thích tại sao component đó cần thiết trong framework",
+      "apply":      "Tự viết/tạo component đúng format trong tình huống mới",
+      "analyze":    "Nhận ra khi nào component đang làm sai — bad assertion, undertriggering description, overfitted instructions",
+      "evaluate":   "Critique skill của người khác và đề xuất cải thiện có lý do rõ ràng"
+    }
+  },
+  "nodes": {}
+}
