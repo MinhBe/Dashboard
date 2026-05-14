@@ -10,7 +10,7 @@ from datetime import datetime
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 SKILL_DIR = os.path.normpath(os.path.join(SCRIPTS_DIR, ".."))
 DEFAULT_TEMP = os.path.join(SKILL_DIR, "temp")
-OUTPUT_DIR = r"C:\Users\Admin\Documents\Dashboard\1. Capture\Sandbox"
+OUTPUT_DIR = r"C:\Projects\Dashboard\1. Capture\Sandbox1"
 REMAINING_JSON = os.path.join(OUTPUT_DIR, "remaining_videos.json")
 PROCESSED_LOG = os.path.join(SKILL_DIR, "processed_videos_fast.log")
 
@@ -73,8 +73,15 @@ def process_video(video_id, url):
         return False
 
     # Step 3: Transcribe
+    try:
+        import torch
+        has_cuda = torch.cuda.is_available()
+    except Exception:
+        has_cuda = False
+    device = "cuda" if has_cuda else "cpu"
+    compute_type = "float16" if has_cuda else "int8"
     segments_json = os.path.join(vid_dir, "segments.json")
-    ok = run([sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"), clean_wav, "-o", segments_json, "--model-dir", MODELS_DIR, "--device", "cuda", "--compute-type", "float16", "--beam-size", "3"])
+    ok = run([sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"), clean_wav, "-o", segments_json, "--model-dir", MODELS_DIR, "--device", device, "--compute-type", compute_type, "--beam-size", "3"])
     if not ok:
         eprint(f"  [!] Transcribe failed for {video_id}")
         shutil.rmtree(vid_dir, ignore_errors=True)
@@ -96,6 +103,11 @@ def process_video(video_id, url):
     return True
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--max", type=int, default=None, help="Max videos to process")
+    args = parser.parse_args()
+
     os.makedirs(OUTPUT_DIR, exist_ok=True)
     os.makedirs(DEFAULT_TEMP, exist_ok=True)
 
@@ -133,6 +145,10 @@ def main():
         rate = done / max(elapsed, 1)
         eta = (len(remaining)) / max(rate, 0.001)
         eprint(f"\n  [{done}/{total}] ✔={success_count} ✘={fail_count} remaining={len(remaining)} ETA={eta:.0f}s")
+
+        if args.max is not None and done >= args.max:
+            eprint(f"\n  Reached --max={args.max}, stopping.")
+            break
 
     elapsed = time.time() - start_time
     eprint(f"\n{'='*55}")
