@@ -39,22 +39,24 @@ def denoise_and_vad(input_path, output_path, vad_threshold=0.5):
     
     # 2. Voice Activity Detection (VAD)
     print("Step 2: Applying VAD (Silero)...", file=sys.stderr)
-    model, utils = torch.hub.load(repo_or_dir='snakers4/silero-vad', 
-                                  model='silero_vad', 
-                                  force_reload=False)
-    (get_speech_timestamps, save_audio, read_audio, VADIterator, collect_chunks) = utils
-    
-    wav = torch.from_numpy(reduced_noise).float()
-    speech_timestamps = get_speech_timestamps(wav, model, sampling_rate=sr, threshold=vad_threshold)
-    
-    if not speech_timestamps:
-        print("Warning: No speech detected after denoising!", file=sys.stderr)
-        # Fallback: just save the denoised audio if VAD is too aggressive
+    try:
+        model, utils = torch.hub.load(repo_or_dir='snakers4/silero-vad', 
+                                      model='silero_vad', 
+                                      force_reload=False)
+        (get_speech_timestamps, save_audio, read_audio, VADIterator, collect_chunks) = utils
+        
+        wav = torch.from_numpy(reduced_noise).float()
+        speech_timestamps = get_speech_timestamps(wav, model, sampling_rate=sr, threshold=vad_threshold)
+        
+        if not speech_timestamps:
+            print("Warning: No speech detected after denoising!", file=sys.stderr)
+            sf.write(output_path, reduced_noise, sr)
+        else:
+            clean_audio = collect_chunks(speech_timestamps, wav)
+            sf.write(output_path, clean_audio.numpy(), sr)
+    except Exception as e:
+        print(f"Warning: VAD failed ({e}), saving denoised audio only", file=sys.stderr)
         sf.write(output_path, reduced_noise, sr)
-    else:
-        # Collect only speech chunks
-        clean_audio = collect_chunks(speech_timestamps, wav)
-        sf.write(output_path, clean_audio.numpy(), sr)
     
     print(f"Clean audio saved to: {output_path}", file=sys.stderr)
 
