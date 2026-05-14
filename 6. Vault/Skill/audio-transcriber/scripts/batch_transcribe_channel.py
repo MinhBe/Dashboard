@@ -3,8 +3,9 @@
 Batch transcribe YouTube channel with auto-resource detection,
 benchmarking, and parallel pipeline optimization.
 
-Target thresholds: CPU ~70%, GPU ~85% utilization.
-Pipeline: parallel download+denoise → single GPU transcribe → format.
+Pipeline: parallel download+denoise -> N transcribe workers -> format
+Supports quality modes: fast | normal | max
+Supports quantity modes: solo (1 worker) | multi (N auto-detected workers)
 """
 
 import argparse
@@ -58,10 +59,6 @@ def load_config():
         return json.load(f)
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 1. RESOURCE DETECTION
-# ═══════════════════════════════════════════════════════════════════
-
 def detect_resources():
     cpu_count = os.cpu_count() or 4
     ram_total_gb = 16.0
@@ -96,12 +93,7 @@ def detect_resources():
     }
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 2. BENCHMARK
-# ═══════════════════════════════════════════════════════════════════
-
 def run_benchmark(bench_video_id, config, device, compute_type, beam_size):
-    """Benchmark download→denoise→transcribe on a 60s sample, return speed ratios."""
     bench_dir = os.path.join(DEFAULT_TEMP, f"__bench_{bench_video_id}")
     if os.path.exists(bench_dir):
         shutil.rmtree(bench_dir)
@@ -182,7 +174,6 @@ def run_benchmark(bench_video_id, config, device, compute_type, beam_size):
     eprint(f"  Transcribe: {transcribe_time:.1f}s ({transcribe_ratio:.2f}x)")
     eprint(f"  Ratio (denoise/transcribe): {speed_ratio:.1f}")
 
-    # Save benchmark result for reuse
     result = {
         "device": device,
         "compute_type": compute_type,
@@ -212,10 +203,6 @@ def load_cached_benchmark():
     return None
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 3. WORKER CALCULATION
-# ═══════════════════════════════════════════════════════════════════
-
 def calc_workers(resources, config, benchmark):
     cpu_target = config.get("cpu_target", 0.70)
     gpu_target = config.get("gpu_target", 0.85)
@@ -228,16 +215,12 @@ def calc_workers(resources, config, benchmark):
     has_cuda = resources["has_cuda"]
     vram = resources["vram_gb"]
 
-    # Device selection: auto-detect
     use_cuda = has_cuda and vram >= min_vram
     device = "cuda" if use_cuda else "cpu"
     compute_type = "float16" if use_cuda else "int8"
 
-    # GPU: single worker at ~85%
     gpu_workers = 1 if use_cuda else 0
 
-    # CPU budget for denoise workers
-    # Each denoise worker effectively uses ~3 logical cores
     max_by_cpu = max(1, round(cpu_cores * cpu_target / 3))
     max_by_cpu = min(max_by_cpu, max_cpu_workers)
     max_by_ram = max(1, round(ram_avail / 1.2))
@@ -256,7 +239,6 @@ def calc_workers(resources, config, benchmark):
     else:
         denoise_workers = cpu_ceiling
 
-    # If CPU mode, all workers do denoise
     if not use_cuda:
         denoise_workers = min(cpu_ceiling, 3)
 
@@ -269,11 +251,43 @@ def calc_workers(resources, config, benchmark):
     }
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 4. REPORT
-# ═══════════════════════════════════════════════════════════════════
+def calc_transcribe_workers(quantity, resources, device, config):
+    if quantity == "solo":
+        return {
+            "transcribe_workers": 1,
+            "transcribe_note": "solo (1 worker)",
+        }
 
-def print_config_report(resources, config, workers):
+    has_cuda = resources["has_cuda"]
+    vram = resources["vram_gb"]
+    cpu_cores = resources["cpu_logical_cores"]
+    ram_avail = resources["ram_avail_gb"]
+
+    max_workers = config.get("max_transcribe_workers", 4)
+    gpu_vram_per_worker = config.get("gpu_vram_per_worker", 2.5)
+    cpu_cores_per_worker = config.get("cpu_cores_per_worker", 4)
+    cpu_ram_per_worker = config.get("cpu_ram_per_worker_gb", 3.0)
+
+    if device == "cuda":
+        usable_vram = vram - 1.0
+        workers = max(1, int(usable_vram / gpu_vram_per_worker))
+        workers = min(workers, max_workers)
+        note = f"GPU {vram}GB VRAM -> {workers} worker(s)"
+    else:
+        workers = max(1, min(
+            max_workers,
+            int(cpu_cores / cpu_cores_per_worker),
+            int(ram_avail / cpu_ram_per_worker),
+        ))
+        note = f"CPU {cpu_cores} cores / {ram_avail}GB RAM -> {workers} worker(s)"
+
+    return {
+        "transcribe_workers": workers,
+        "transcribe_note": note,
+    }
+
+
+def print_config_report(resources, config, workers, quantity_info):
     cpu_target = config.get("cpu_target", 0.70) * 100
     gpu_target = config.get("gpu_target", 0.85) * 100
 
@@ -289,17 +303,13 @@ def print_config_report(resources, config, workers):
     eprint(f"  Compute type  : {workers['compute_type']}")
     eprint(f"  Beam size     : {workers['beam_size']}")
     eprint(f"  Denoise pool  : {workers['denoise_workers']} workers")
-    eprint(f"  Transcriber   : {workers['gpu_workers']} GPU worker(s)")
+    eprint(f"  Transcriber   : {quantity_info['transcribe_workers']} worker(s) ({quantity_info['transcribe_note']})")
     est_cpu_util = min(100, round(workers['denoise_workers'] * 3 / resources['cpu_logical_cores'] * 100))
     est_gpu_util = 85 if workers['gpu_workers'] > 0 else 0
     eprint(f"  Est. CPU util : ~{est_cpu_util}% (target {cpu_target:.0f}%)")
     eprint(f"  Est. GPU util : ~{est_gpu_util}% (target {gpu_target:.0f}%)")
     eprint("=" * 55 + "\n")
 
-
-# ═══════════════════════════════════════════════════════════════════
-# 5. VIDEO PROCESSING HELPERS
-# ═══════════════════════════════════════════════════════════════════
 
 def get_video_ids(channel_url):
     cmd = ["yt-dlp", "--get-id", "--flat-playlist", channel_url]
@@ -311,7 +321,6 @@ def get_video_ids(channel_url):
 
 
 def get_shortest_video_id(video_ids, min_duration=30):
-    """Find the shortest video >= min_duration seconds (for benchmarking)."""
     durations = []
     for vid in video_ids[:10]:
         cmd = [
@@ -337,10 +346,6 @@ def get_shortest_video_id(video_ids, min_duration=30):
     return video_ids[0] if video_ids else None
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 6. UI HELPERS
-# ═══════════════════════════════════════════════════════════════════
-
 def format_duration(seconds):
     if seconds < 60:
         return f"{seconds:.0f}s"
@@ -350,18 +355,16 @@ def format_duration(seconds):
         return f"{int(seconds // 3600)}h {int((seconds % 3600) // 60)}m"
 
 
-# ═══════════════════════════════════════════════════════════════════
-# 7. MAIN
-# ═══════════════════════════════════════════════════════════════════
-
 def main():
     parser = argparse.ArgumentParser(
         description="Batch transcribe YouTube channel (auto-resource pipeline)")
     parser.add_argument("channel_url", help="YouTube channel URL")
     parser.add_argument("--output-dir", "-o", required=True,
                         help="Output directory for .md files")
-    parser.add_argument("--mode", choices=["fast", "blog", "max"],
-                        default="fast", help="Transcription mode (default: fast)")
+    parser.add_argument("--mode", choices=["fast", "normal", "max"],
+                        default="fast", help="Quality mode (default: fast)")
+    parser.add_argument("--quantity", choices=["solo", "multi"],
+                        default="solo", help="Quantity mode: solo=1 video, multi=auto-detected workers (default: solo)")
     parser.add_argument("--cpu-target", type=float, default=None,
                         help="CPU utilization target 0.0-1.0 (overrides config.json)")
     parser.add_argument("--gpu-target", type=float, default=None,
@@ -377,7 +380,6 @@ def main():
     os.makedirs(args.output_dir, exist_ok=True)
     os.makedirs(DEFAULT_TEMP, exist_ok=True)
 
-    # ── Load config ──
     base_config = load_config()
     config = {
         **base_config,
@@ -394,11 +396,9 @@ def main():
     config["max_cpu_workers"] = rcfg.get("max_cpu_workers", 10)
     config["enable_benchmark"] = rcfg.get("enable_benchmark", True)
 
-    # ── Step 1: Detect resources ──
     eprint("\n[1/5] Detecting system resources...")
     resources = detect_resources()
 
-    # ── Step 2: Fetch videos ──
     eprint("[2/5] Fetching channel video list...")
     all_ids = get_video_ids(args.channel_url)
     if not all_ids:
@@ -406,7 +406,6 @@ def main():
         sys.exit(1)
     eprint(f"  Found {len(all_ids)} videos on channel")
 
-    # Processed log & filter
     log_path = os.path.join(SKILL_DIR, f"processed_videos_{args.mode}.log")
     processed_ids = set()
     if os.path.exists(log_path):
@@ -423,16 +422,15 @@ def main():
         eprint("\n  All videos already processed!")
         return
 
-    # ── Step 3: Calculate heuristic workers (pre-benchmark for dry-run) ──
     benchmark = None
     if args.dry_run or args.no_benchmark or not resources["has_cuda"]:
         workers = calc_workers(resources, config, benchmark)
-        print_config_report(resources, config, workers)
+        quantity_info = calc_transcribe_workers(args.quantity, resources, workers["device"], config)
+        print_config_report(resources, config, workers, quantity_info)
         if args.dry_run:
             eprint("Dry-run complete. Exiting. (Run without --dry-run to benchmark and execute)")
             return
     else:
-        # ── Step 3b: Run benchmark ──
         eprint("[3/5] Running benchmark...")
         cached = load_cached_benchmark()
         if cached and cached.get("device") == "cuda":
@@ -452,31 +450,33 @@ def main():
         if benchmark is None:
             eprint("  No benchmark data, using heuristic defaults")
 
-        # ── Step 4: Recalculate with benchmark ──
         eprint("[4/5] Optimizing workers with benchmark data...")
         workers = calc_workers(resources, config, benchmark)
-        print_config_report(resources, config, workers)
+        quantity_info = calc_transcribe_workers(args.quantity, resources, workers["device"], config)
+        print_config_report(resources, config, workers, quantity_info)
 
-    # ── Step 5: Pipeline execution ──
+    transcribe_workers = quantity_info["transcribe_workers"]
+
     eprint("[5/5] Starting pipeline...")
     eprint(f"  Output dir: {args.output_dir}")
-    eprint(f"  Mode: {args.mode}")
-    eprint(f"  Workers: {workers['denoise_workers']} denoise, "
-           f"{workers['gpu_workers']} GPU transcribe")
+    eprint(f"  Quality    : {args.mode}")
+    eprint(f"  Quantity   : {args.quantity} ({transcribe_workers} worker(s))")
+    eprint(f"  Workers    : {workers['denoise_workers']} denoise, "
+           f"{transcribe_workers} transcribe")
 
-    if args.mode != "fast":
-        eprint(f"  [!] Mode '{args.mode}' uses diarization which may be slower on CPU")
+    if args.mode in ("normal", "max"):
+        eprint(f"  [!] Mode '{args.mode}' uses diarization (slower per video)")
 
-    # ── Pipeline state ──
     SENTINEL = ("__SENTINEL__", None)
     dl_queue = queue.Queue()
     tr_queue = queue.Queue()
     pipeline_done = threading.Event()
+    tr_workers_done = threading.Event()
     stats = {"downloaded": 0, "denoised": 0, "transcribed": 0, "formatted": 0, "failed": 0, "total": len(pending)}
     stats_lock = threading.Lock()
+    tr_finished_count = [0]
 
     def download_producer():
-        """Download videos sequentially, feed to denoise queue."""
         for vid in pending:
             vid_dir = os.path.join(DEFAULT_TEMP, f"pipe_{vid}")
             if os.path.exists(vid_dir):
@@ -497,12 +497,10 @@ def main():
                     stats["failed"] += 1
                 eprint(f"  [!] Download failed for {vid}")
 
-        # Signal done for each denoise worker
         for _ in range(workers["denoise_workers"]):
             dl_queue.put(SENTINEL)
 
     def denoise_consumer():
-        """Denoise workers: pull from dl_queue, push to tr_queue."""
         while True:
             item = dl_queue.get()
             if item is SENTINEL:
@@ -527,24 +525,53 @@ def main():
                 eprint(f"  [!] Denoise failed for {vid}")
             dl_queue.task_done()
 
-    def transcribe_consumer():
-        """Single GPU worker: transcribe → format → cleanup. Exits after N+sentinels."""
-        sentinel_count = 0
+    def format_segment(segments_json, metadata_json, speakers_json, vid_dir):
+        if args.mode == "fast":
+            return run([
+                sys.executable, os.path.join(SCRIPTS_DIR, "format_fast.py"),
+                "-s", segments_json, "-m", metadata_json,
+                "-o", args.output_dir,
+            ])
+        elif args.mode == "normal":
+            if speakers_json and os.path.exists(speakers_json):
+                return run([
+                    sys.executable, os.path.join(SCRIPTS_DIR, "format_normal.py"),
+                    "-s", segments_json, "-m", metadata_json,
+                    "-sp", speakers_json, "-o", args.output_dir,
+                ])
+            else:
+                return run([
+                    sys.executable, os.path.join(SCRIPTS_DIR, "format_normal.py"),
+                    "-s", segments_json, "-m", metadata_json,
+                    "-o", args.output_dir,
+                ])
+        elif args.mode == "max":
+            if speakers_json and os.path.exists(speakers_json):
+                return run([
+                    sys.executable, os.path.join(SCRIPTS_DIR, "format_max.py"),
+                    "-s", segments_json, "-m", metadata_json,
+                    "-sp", speakers_json, "-o", args.output_dir,
+                ])
+            else:
+                eprint("  [!] Max mode requires diarization, skipping")
+                return (False, "", "")
+
+    def transcribe_consumer(worker_id):
         while True:
             item = tr_queue.get()
             if item is SENTINEL:
-                sentinel_count += 1
-                if sentinel_count >= workers["denoise_workers"]:
-                    tr_queue.task_done()
-                    pipeline_done.set()
-                    return
                 tr_queue.task_done()
-                continue
+                with stats_lock:
+                    tr_finished_count[0] += 1
+                    if tr_finished_count[0] >= transcribe_workers:
+                        tr_workers_done.set()
+                return
             vid, vid_dir = item
 
             clean_wav = os.path.join(vid_dir, "clean.wav")
             segments_json = os.path.join(vid_dir, "segments.json")
             metadata_json = os.path.join(vid_dir, "metadata.json")
+            speakers_json = os.path.join(vid_dir, "speakers.json")
 
             ok, _, _ = run([
                 sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"),
@@ -564,12 +591,18 @@ def main():
             with stats_lock:
                 stats["transcribed"] += 1
 
-            ok, _, _ = run([
-                sys.executable, os.path.join(SCRIPTS_DIR, "format_fast.py"),
-                "-s", segments_json, "-m", metadata_json,
-                "-o", args.output_dir,
-            ])
-            if ok:
+            if args.mode in ("normal", "max"):
+                ok_diar, _, _ = run([
+                    sys.executable, os.path.join(SCRIPTS_DIR, "diarize.py"),
+                    clean_wav, "-o", speakers_json,
+                ])
+                if not ok_diar:
+                    eprint(f"  [!] Diarization failed for {vid}, continuing without speakers")
+                    if os.path.exists(speakers_json):
+                        os.remove(speakers_json)
+
+            ok_fmt, _, _ = format_segment(segments_json, metadata_json, speakers_json, vid_dir)
+            if ok_fmt:
                 with stats_lock:
                     stats["formatted"] += 1
                 with open(log_path, "a") as f:
@@ -581,11 +614,10 @@ def main():
             tr_queue.task_done()
 
     def progress_monitor():
-        """Print progress periodically until pipeline done."""
         total = len(pending)
-        while not pipeline_done.is_set():
-            pipeline_done.wait(15)
-            if pipeline_done.is_set():
+        while not tr_workers_done.is_set():
+            tr_workers_done.wait(15)
+            if tr_workers_done.is_set():
                 break
             with stats_lock:
                 done = stats["formatted"]
@@ -602,7 +634,6 @@ def main():
                 eta_str = f", ETA: {format_duration(eta)}"
             eprint(f"  [{done}/{total}] dl={dled} dn={deno} tr={trsc} ✔={done} ✘={failed}{eta_str}")
 
-    # ── Launch threads ──
     start_time = time.time()
 
     dl_thread = threading.Thread(target=download_producer)
@@ -614,17 +645,19 @@ def main():
         t.start()
         denoise_threads.append(t)
 
-    tr_thread = threading.Thread(target=transcribe_consumer, daemon=True)
-    tr_thread.start()
+    tr_threads = []
+    for i in range(transcribe_workers):
+        t = threading.Thread(target=transcribe_consumer, args=(i,), daemon=True)
+        t.start()
+        tr_threads.append(t)
 
     pg_thread = threading.Thread(target=progress_monitor, daemon=True)
     pg_thread.start()
 
-    # ── Wait for completion ──
     dl_thread.join()
     eprint("  Downloads done. Waiting for denoise+transcribe pipeline...")
 
-    pipeline_done.wait()
+    tr_workers_done.wait()
     eprint("  Pipeline complete.")
 
     elapsed = time.time() - start_time

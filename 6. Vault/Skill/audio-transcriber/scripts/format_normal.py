@@ -13,7 +13,7 @@ def sanitize_filename(name: str) -> str:
     name = name.strip().rstrip(".")
     return name if name else "transcript"
 
-def format_blog(segments_path: str, output_dir: str, metadata_path: str = None, speakers_path: str = None):
+def format_normal(segments_path: str, output_dir: str, metadata_path: str = None, speakers_path: str = None):
     with open(segments_path, "r", encoding="utf-8") as f:
         segs = json.load(f)
     
@@ -30,13 +30,13 @@ def format_blog(segments_path: str, output_dir: str, metadata_path: str = None, 
     title = metadata.get("title", "Unknown Video")
     url = metadata.get("url", metadata.get("webpage_url", ""))
     
-    safe_name = sanitize_filename(title) + "_Blog.md"
+    safe_name = sanitize_filename(title) + "_Normal.md"
     output_path = os.path.join(output_dir, safe_name)
 
     os.makedirs(output_dir, exist_ok=True)
 
     lines = [
-        f"### [BLOG] {title}",
+        f"### [NORMAL] {title}",
         f"- **Nguồn:** {url}" if url else "",
         f"- **Ngày:** {date.today().strftime('%d/%m/%Y')}",
         "", "---", ""
@@ -76,17 +76,17 @@ def format_blog(segments_path: str, output_dir: str, metadata_path: str = None, 
     with open(output_path, "w", encoding="utf-8") as f:
         f.write("\n".join(lines))
 
-    print(f"Blog transcript saved: {safe_name}", file=sys.stderr)
-    print(json.dumps({"file": safe_name, "mode": "blog"}))
+    print(f"Normal transcript saved: {safe_name}", file=sys.stderr)
+    print(json.dumps({"file": safe_name, "mode": "normal"}))
 
 def main():
-    parser = argparse.ArgumentParser(description="Generate Blog-style narrative transcript")
+    parser = argparse.ArgumentParser(description="Generate Normal-style narrative transcript")
     parser.add_argument("--segments", "-s", required=True, help="Path to segments.json")
     parser.add_argument("--output-dir", "-o", required=True, help="Output directory")
     parser.add_argument("--metadata", "-m", help="Path to metadata.json")
     parser.add_argument("--speakers", "-sp", help="Path to speakers.json")
     args = parser.parse_args()
-    format_blog(args.segments, args.output_dir, args.metadata, args.speakers)
+    format_normal(args.segments, args.output_dir, args.metadata, args.speakers)
 
 if __name__ == "__main__":
     main()

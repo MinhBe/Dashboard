@@ -1,80 +1,80 @@
 ---
 name: audio-transcriber
-description: Chuyên gia chuyển đổi audio và video YouTube thành transcript có nhận diện người nói, tối ưu cho môi trường ồn (quán cà phê) và ưu tiên xử lý LOCAL. Sử dụng skill này khi user gửi link YouTube hoặc file audio. Skill sẽ thực hiện quy trình kiểm tra môi trường, lọc nhiễu, và transcription trước khi hỏi ý kiến user về việc dùng AI để sửa lỗi văn phong.
+description: Chuyên gia chuyển đổi audio/video YouTube thành transcript local, offline. Sử dụng skill này khi user gửi link YouTube, cần tải transcript, hoặc muốn xử lý audio/video thành văn bản. Hỗ trợ 3 quality modes (fast/normal/max) và 2 quantity modes (solo/multi). Toàn bộ pipeline chạy local, không cần internet sau khi setup. Script tự detect hardware và tối ưu worker count.
 ---
 
-# Audio Transcriber Skill (Local-First Edition)
+# Audio Transcriber
 
-Skill này tập trung vào việc xử lý âm thanh chất lượng thấp hoàn toàn LOCAL. **QUY TẮC TỐI THƯỢNG: Luôn kiểm tra môi trường trước mỗi lần xử lý, không có ngoại lệ.**
+## Selection
 
-## Quy Trình Bắt Buộc (Mọi lúc, mọi nơi)
+**Quality** (`--mode`): độ chi tiết của transcript
+| Mode | Pipeline | Đầu ra | Khi nào dùng |
+|------|----------|--------|-------------|
+| **fast** | download → denoise → transcribe → format_fast | Timestamp `[mm:ss]`, 1 luồng text | Clip ngắn, 1 speaker, cần nhanh |
+| **normal** | + diarize + format_normal | Speaker labels, gộp đoạn văn | Podcast, phỏng vấn, nhiều speaker |
+| **max** | + diarize + format_max | Metadata đầy đủ, speaker blocks | Archive, reference, hậu kỳ AI |
 
-### Bước 0: Kiểm tra môi trường (MANDATORY)
-Trong **MỌI PHIÊN LÀM VIỆC**, ngay khi nhận được yêu cầu xử lý audio/video, Model PHẢI chạy script kiểm tra:
+**Quantity** (`--quantity`): số video xử lý cùng lúc
+| Mode | Worker count | Khi nào dùng |
+|------|-------------|-------------|
+| **solo** | 1 video tại 1 thời điểm | Mặc định, ổn định nhất |
+| **multi** | Auto-detect dựa trên hardware | Tối ưu thời gian, có GPU≥6GB hoặc CPU≥8 cores |
+
+## Workflow (2 bước)
+
+### Bước 0: Kiểm tra môi trường (bắt buộc)
 ```powershell
 python scripts/check_env.py
 ```
-- **Nếu PASS**: Tiếp tục sang Bước 1.
-- **Nếu FAIL**: 
-    1. Model PHẢI liệt kê các thành phần thiếu.
-    2. **CHỦ ĐỘNG** dùng `ask_user` hỏi: *"Môi trường chưa sẵn sàng. Bạn có muốn tôi tự động chạy scripts/setup.ps1 để cài đặt các thành phần còn thiếu không?"*
-    3. Nếu User đồng ý: Chạy lệnh `powershell scripts/setup.ps1` ngay lập tức. Sau đó chạy lại Bước 0 để xác nhận trước khi tiếp tục.
+Nếu FAIL → chạy `powershell scripts/setup.ps1` để cài đặt.
 
-### Bước 1: Thu thập & Tiền xử lý (Denoise & VAD)
-Lọc nhiễu quán cà phê và cắt bỏ khoảng lặng để tối ưu cho Whisper.
+### Bước 1: Chạy batch transcribe
 ```powershell
-# Nếu là YouTube:
-python scripts/download_audio.py "<URL>" -o "<temp>"
-# Tiền xử lý (Bắt buộc cho cả file local và YouTube):
-python scripts/denoise.py "<input_file>" --output "<temp>/clean.wav"
+python scripts/batch_transcribe_channel.py <channel_url> -o <output_dir> --mode <quality> --quantity <quantity>
 ```
 
-### Bước 2: Transcription & Confidence Tagging
-Xử lý chuyển đổi âm thanh thành văn bản thô với Faster-Whisper.
-```powershell
-python scripts/transcribe.py "<temp>/clean.wav" --output "<temp>/segments.json" --model-dir "models"
-```
-- **Logic**: Tự động gắn tag `[LOW_CONFIDENCE]` nếu `avg_logprob < -1.0`.
+Script tự động: detect resources → benchmark → tối ưu workers → pipeline → log → cleanup.
 
-### Bước 3: Diarization (Optional - Chỉ dùng cho Mode Blog/Max)
+### Ví dụ
 ```powershell
-python scripts/diarize.py "<temp>/clean.wav" --output "<temp>/speakers.json"
-```
+# Fast + Solo (mặc định)
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\path\to\output" --mode fast --quantity solo
 
-### Bước 4: Formatting (Chọn 1 trong 3 chế độ)
+# Fast + Multi (auto-detect workers)
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\path\to\output" --mode fast --quantity multi
 
-**Mode 1: Fast (Nhanh, có nhãn thời gian)**
-```powershell
-python scripts/format_fast.py --segments "<temp>/segments.json" --metadata "<temp>/metadata.json" --output-dir "<output>"
+# Normal + Multi
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\path\to\output" --mode normal --quantity multi
+
+# Max + Solo
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\path\to\output" --mode max --quantity solo
 ```
 
-**Mode 2: Blog (Gộp đoạn văn, loại bỏ thời gian chi tiết)**
+### Dry-run (xem cấu hình trước khi chạy)
 ```powershell
-python scripts/format_blog.py --segments "<temp>/segments.json" --speakers "<temp>/speakers.json" --metadata "<temp>/metadata.json" --output-dir "<output>"
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\path\to\output" --mode fast --quantity multi --dry-run
 ```
 
-**Mode 3: Max (Chi tiết nhất, đầy đủ metadata và diarization)**
-```powershell
-python scripts/format_max.py --segments "<temp>/segments.json" --speakers "<temp>/speakers.json" --metadata "<temp>/metadata.json" --output-dir "<output>"
-```
+## Pipeline detail
 
-## Các lệnh thực thi chính
+Mỗi mode tương ứng 1 format script trong `scripts/`:
+- **fast** → `format_fast.py` → file `_Fast.md`
+- **normal** → `format_normal.py` → file `_Normal.md`
+- **max** → `format_max.py` → file `_Max.md`
 
-1. **Setup**: `powershell scripts/setup.ps1`
-2. **Quy trình Fast (Tốc độ cao nhất)**:
-   - Download -> Denoise -> Transcribe -> format_fast.py
-3. **Quy trình Blog (Dễ đọc)**:
-   - Download -> Denoise -> Transcribe -> Diarize -> format_blog.py
-4. **Quy trình Max (Chất lượng tối đa)**:
-   - Download -> Denoise -> Transcribe -> Diarize -> format_max.py
+Mỗi quality mode có processed log riêng (`processed_videos_fast.log`, `processed_videos_normal.log`, `processed_videos_max.log`) để tránh chạy lại.
 
-## Cấu trúc thư mục
+## References (đọc khi cần chi tiết)
 
-- `models/`: Whisper và VAD models.
-- `scripts/`: Chứa các script xử lý (download, denoise, transcribe, diarize, format_*).
-- `temp/`: Thư mục tạm thời.
+| File | Nội dung |
+|------|----------|
+| `references/quality-fast.md` | Fast mode output format, caveats |
+| `references/quality-normal.md` | Normal mode diarization details |
+| `references/quality-max.md` | Max mode full metadata structure |
 
-## Lưu ý quan trọng
-- **Tính riêng tư**: Mọi bước xử lý âm thanh đều diễn ra Offline. 
-- **Hallucination**: Whisper có thể "vẽ" ra lời nói từ tiếng ồn. Luôn chú ý các tag `[LOW_CONFIDENCE]`.
-- **Diarization**: Nhận diện người nói trong môi trường ồn có thể không chính xác 100%, cần kiểm tra lại tên "Nhân vật".
+## Notes
+
+- **Hoàn toàn local/offline**: không gửi data ra ngoài
+- **Hallucination**: Whisper có thể "vẽ" lời nói từ nhiễu → để ý tag `[LOW_CONFIDENCE]`
+- **Diarization**: nhận diện speaker trong môi trường ồn không chính xác 100%
+- **Multi mode + GPU**: nếu VRAM không đủ cho N workers, tự fallback CPU int8

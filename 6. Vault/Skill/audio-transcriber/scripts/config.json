@@ -15,7 +15,11 @@
     "gpu_target": 0.85,
     "min_vram_gb": 4.0,
     "max_cpu_workers": 10,
-    "enable_benchmark": true
+    "enable_benchmark": true,
+    "gpu_vram_per_worker": 2.5,
+    "max_transcribe_workers": 4,
+    "cpu_cores_per_worker": 4,
+    "cpu_ram_per_worker_gb": 3.0
   },
   "diarization": {
     "vad_threshold": 0.4,
