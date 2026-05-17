@@ -1,0 +1,160 @@
+{
+  "source_type": "youtube",
+  "word_count": 5153,
+  "estimated_leaf_nodes": 19,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 19 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_bạn_đang_ở_giai_đoạn_nào",
+      "label": "Vậy thì bạn đang ở giai đoạn nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_thì_làm_sao_để_trong_cả_60_năm_đứng_đợi",
+      "label": "Vậy thì làm sao để trong cả 60 năm đứng đợi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "tác_giả_là_một_dược_sĩ_tại_nhật_bản",
+      "label": "Tác giả là một dược sĩ tại Nhật Bản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "và_hơn_nữa_là_một_dược_sĩ_nổi_tiếng_trong_vùng",
+      "label": "Và hơn nữa là một dược sĩ nổi tiếng trong vùng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "trong_cuốn_sách_tránh_kiến_có_một_câu_nói_như_thế_này",
+      "label": "Trong cuốn sách Tránh Kiến có một câu nói như thế này,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "bước_chân_của_riêng_bạn",
+      "label": "bước chân của riêng bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "thực_chất_chỉ_là_một_cách_để_khẳng_định_vị_trí_của_bản_thân",
+      "label": "Thực chất chỉ là một cách để khẳng định vị trí của bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "tại_sao_bà_lại_nhấn_mạnh_điều_này",
+      "label": "Tại sao bà lại nhấn mạnh điều này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_ông_lão_đã_mờ_lòng",
+      "label": "Cuối cùng, ông Lão đã mờ lòng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "và_chính_chúng_ta_cũng_biết_rõ",
+      "label": "Và chính chúng ta cũng biết rõ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "tại_sao_bà_có_thể_sống_và_duy_trì_trạng_thái_năng_lượng_cao",
+      "label": "Tại sao bà có thể sống và duy trì trạng thái năng lượng cao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "thứ_nhất_đó_là_buông",
+      "label": "Thứ nhất đó là buông",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 106",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_buông_item_1",
+          "label": "[Item 1 of Thứ nhất đó là buông — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_buông_item_2",
+          "label": "[Item 2 of Thứ nhất đó là buông — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trong_cuốn_sách_này_từ_buông_xuất_hiện_rất_nhiều_lần",
+      "label": "Trong cuốn sách này, từ buông xuất hiện rất nhiều lần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "đó_chính_là_một_cách_hiểu_rằng_những_thứ_ta_sở_hữu_chỉ_là_tạ",
+      "label": "đó chính là một cách hiểu rằng những thứ ta sở hữu chỉ là tạm thời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "điều_thứ_hai_cần_phải_buông_bỏ_đi_đó_chính_là_nỗi_đau_và_tiế",
+      "label": "Điều thứ hai cần phải buông bỏ đi, đó chính là nỗi đau và tiếc nuối.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "điều_thứ_hai_cần_phải_buông_bỏ_đi_đó_chính_là_nỗi_đau_và_tiế_item_1",
+          "label": "[Item 1 of Điều thứ hai cần phải buông bỏ đi, đó chính là nỗi đau và tiếc nuối. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_cần_phải_buông_bỏ_đi_đó_chính_là_nỗi_đau_và_tiế_item_2",
+          "label": "[Item 2 of Điều thứ hai cần phải buông bỏ đi, đó chính là nỗi đau và tiếc nuối. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "mỗi_ngày_trôi_qua_là_một_bước_thiền_gần_hơn_đến_sự_bình_an",
+      "label": "Mỗi ngày trôi qua là một bước thiền gần hơn đến sự bình an",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "đây_là_trạng_thái_làm_việc_lý_tưởng_của_bà_mỗi_ngày",
+      "label": "Đây là trạng thái làm việc lý tưởng của bà mỗi ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    }
+  ]
+}

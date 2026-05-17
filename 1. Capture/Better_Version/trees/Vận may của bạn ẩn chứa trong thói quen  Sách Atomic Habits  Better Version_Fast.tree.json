@@ -1,0 +1,216 @@
+{
+  "source_type": "youtube",
+  "word_count": 5439,
+  "estimated_leaf_nodes": 27,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 27 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thì_cũng_có_thể_kiểm_soát_được_cuộc_đời",
+      "label": "thì cũng có thể kiểm soát được cuộc đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_hãy_cùng_tự_nhìn_lại_một_chút",
+      "label": "Vậy thì chúng ta hãy cùng tự nhìn lại một chút",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_nên_nhiều_người_luôn_bỏ_qua_giá_trị",
+      "label": "Vậy nên nhiều người luôn bỏ qua giá trị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "cho_rằng_mục_tiêu_là_một_đường_thẳng_đi_lên",
+      "label": "Cho rằng mục tiêu là một đường thẳng đi lên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đây_chính_là_một_đặc_điểm_chung_của_bất_kỳ_quy_trình_lãi_kép",
+      "label": "Đây chính là một đặc điểm chung của bất kỳ quy trình lãi kép nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "nhưng_sau_5_năm_như_là_một_phép_màu",
+      "label": "Nhưng sau 5 năm như là một phép màu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_phải_xây_dựng_một_hệ_thống_thói_quen_như_thế_nào",
+      "label": "Vậy phải xây dựng một hệ thống thói quen như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "điều_này_có_nghĩa_là_gì",
+      "label": "Điều này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "đây_chính_là_một_vòng_tuần_hoàn_phát_triển_bền_vững_và_lâu_d",
+      "label": "Đây chính là một vòng tuần hoàn phát triển bền vững và lâu dài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "nó_sẽ_như_là_một_lời_tiên_tri",
+      "label": "Nó sẽ như là một lời tiên tri",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_khi_đọc_hết_tin_nhắn_bạn_biết_được_ai_đang_tìm_bạn",
+      "label": "Cuối cùng khi đọc hết tin nhắn, bạn biết được ai đang tìm bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "tiếp_theo_là_mở_facebook_ra_xem",
+      "label": "Tiếp theo là mở facebook ra xem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "vậy_thì_cách_để_hành_động_chính_xác_là_gì",
+      "label": "Vậy thì cách để hành động chính xác là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là_làm_cho_rõ_ràng",
+      "label": "Bước đầu tiên đó là làm cho rõ ràng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "nguyên_tắc_này_cũng_tương_tự_như_việc_bạn_muốn_thay_đổi_thói",
+      "label": "Nguyên tắc này cũng tương tự như việc bạn muốn thay đổi thói quen xấu.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "bước_thứ_3_của_việc_chuyển_đổi_thói_quen",
+      "label": "Bước thứ 3 của việc chuyển đổi thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "nguyên_tắc_lớn_nhất_ở_đây",
+      "label": "Nguyên tắc lớn nhất ở đây",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 132",
+      "children": [
+        {
+          "key": "nguyên_tắc_lớn_nhất_ở_đây_item_1",
+          "label": "[Item 1 of Nguyên tắc lớn nhất ở đây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nguyên_tắc_lớn_nhất_ở_đây_item_2",
+          "label": "[Item 2 of Nguyên tắc lớn nhất ở đây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_cả_cuốn_sách_này_nhấn_mạnh_một_điều_cốt_yếu_là",
+      "label": "Thứ nhất, cả cuốn sách này nhấn mạnh một điều cốt yếu là",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 160",
+      "children": [
+        {
+          "key": "thứ_nhất_cả_cuốn_sách_này_nhấn_mạnh_một_điều_cốt_yếu_là_item_1",
+          "label": "[Item 1 of Thứ nhất, cả cuốn sách này nhấn mạnh một điều cốt yếu là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_cả_cuốn_sách_này_nhấn_mạnh_một_điều_cốt_yếu_là_item_2",
+          "label": "[Item 2 of Thứ nhất, cả cuốn sách này nhấn mạnh một điều cốt yếu là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_biết_được",
+      "label": "Vậy làm thế nào để biết được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "điều_thứ_2_mà_mình_muốn_nói_là",
+      "label": "Điều thứ 2 mà mình muốn nói là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_tránh_được_việc_này",
+      "label": "Vậy làm thế nào để chúng ta có thể tránh được việc này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "mà_nên_mong_đợi_chúng_là_một_đường_cong",
+      "label": "Mà nên mong đợi chúng là một đường cong",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "không_phải_là_một_thói_quen_dòng_chảy_là_thứ",
+      "label": "không phải là một thói quen, dòng chảy là thứ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "điều_cuối_cùng_mà_mình_đã_đúc_kết_ra_là",
+      "label": "Điều cuối cùng mà mình đã đúc kết ra là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "thì_đó_là_một_điều_rất_tuyệt_vời",
+      "label": "Thì đó là một điều rất tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 202"
+    }
+  ]
+}

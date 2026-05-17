@@ -1,0 +1,225 @@
+{
+  "source_type": "youtube",
+  "word_count": 5155,
+  "estimated_leaf_nodes": 27,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 27 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nghiện_mềm_là_gì",
+      "label": "Nghiện mềm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_thì_hôm_nay_cuốn_sách_tuần_này_chỉ_tập_trung_vào_một_loạ",
+      "label": "Vậy thì hôm nay, cuốn sách tuần này chỉ tập trung vào một loại nghiện.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "nghiện_mềm_suốt_cuộc_là_gì",
+      "label": "Nghiện mềm suốt cuộc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_bị_mắc_phải_trình_nghiện_này",
+      "label": "Tại sao chúng ta lại bị mắc phải trình nghiện này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "nhiện_mềm_là_gì",
+      "label": "Nhiện mềm là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "nhiện_mềm_là_gì_item_1",
+          "label": "[Item 1 of Nhiện mềm là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nhiện_mềm_là_gì_item_2",
+          "label": "[Item 2 of Nhiện mềm là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "nhiện_mềm_là_gì_item_3",
+          "label": "[Item 3 of Nhiện mềm là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "nhiện_mềm_là_gì_item_4",
+          "label": "[Item 4 of Nhiện mềm là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_2_là_khi_bạn_làm_một_việc_gì_đó_mà_cảm_thấy_không_t",
+      "label": "Điều thứ 2 là khi bạn làm một việc gì đó mà cảm thấy không tập trung,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_để_thoát_khỏi_những_cơn_nghiện_mềm",
+      "label": "Vậy để thoát khỏi những cơn nghiện mềm,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "bản_chất_của_việc_thoát_khỏi_nghiện_mềm_là_gì",
+      "label": "Bản chất của việc thoát khỏi nghiện mềm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cũng_khó_mà_tận_dụng_thời_gian",
+      "label": "Cũng khó mà tận dụng thời gian",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "và_những_thứ_chúng_ta_thực_sự_đam_mê",
+      "label": "Và những thứ chúng ta thực sự đam mê",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "có_3_bước_then_chốt_để_giải_quyết_cơn_nghiện_mềm_trong_bạn",
+      "label": "Có 3 bước then chốt để giải quyết cơn nghiện mềm trong bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 76",
+      "children": [
+        {
+          "key": "có_3_bước_then_chốt_để_giải_quyết_cơn_nghiện_mềm_trong_bạn_item_1",
+          "label": "[Item 1 of Có 3 bước then chốt để giải quyết cơn nghiện mềm trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_3_bước_then_chốt_để_giải_quyết_cơn_nghiện_mềm_trong_bạn_item_2",
+          "label": "[Item 2 of Có 3 bước then chốt để giải quyết cơn nghiện mềm trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "có_3_bước_then_chốt_để_giải_quyết_cơn_nghiện_mềm_trong_bạn_item_3",
+          "label": "[Item 3 of Có 3 bước then chốt để giải quyết cơn nghiện mềm trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_đó_là_khám_phá_nhu_cầu_tinh_thần_đằng_sau_cơn_nghiệ",
+      "label": "Đầu tiên đó là khám phá nhu cầu tinh thần đằng sau cơn nghiện mềm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tiffany_trước_đây_là_một_nhân_viên_làm_việc_xuất_sắc",
+      "label": "Tiffany trước đây là một nhân viên làm việc xuất sắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "giống_như_là_một_ngọn_hải_đang_trên_biển",
+      "label": "Giống như là một ngọn hải đang trên biển",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vì_tôi_là_một_món_quà_chân_quý_nhất_của_cuộc_đời_tôi",
+      "label": "Vì tôi là một món quà chân quý nhất của cuộc đời tôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "nhưng_bất_kể_nó_là_gì",
+      "label": "Nhưng bất kể nó là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "của_mình_là_gì",
+      "label": "của mình là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "thứ_hai_đó_là_đặt_tầm_nhìn_bằng_cách_thêm_và_bớt",
+      "label": "Thứ hai đó là đặt tầm nhìn bằng cách thêm và bớt",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 144",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_đặt_tầm_nhìn_bằng_cách_thêm_và_bớt_item_1",
+          "label": "[Item 1 of Thứ hai đó là đặt tầm nhìn bằng cách thêm và bớt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_đặt_tầm_nhìn_bằng_cách_thêm_và_bớt_item_2",
+          "label": "[Item 2 of Thứ hai đó là đặt tầm nhìn bằng cách thêm và bớt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_bạn_sẽ_phải_giảm_bớt_đi_thời_gian_nghịch_điện_thoại",
+      "label": "Vậy thì bạn sẽ phải giảm bớt đi thời gian nghịch điện thoại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "điều_thứ_3_đó_là",
+      "label": "Điều thứ 3 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_hãy_suy_nghĩ_xem",
+      "label": "Vậy thì bây giờ hãy suy nghĩ xem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    }
+  ]
+}

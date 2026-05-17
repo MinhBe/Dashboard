@@ -1,0 +1,258 @@
+{
+  "source_type": "youtube",
+  "word_count": 6460,
+  "estimated_leaf_nodes": 33,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 33 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "ba_loại_khổ_lớn_là_gì",
+      "label": "Ba loại khổ lớn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "khổ_đau_là_một_tồn_tại_khách_quan_và_không_thể_tránh_khỏi",
+      "label": "Khổ đau là một tồn tại khách quan và không thể tránh khỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_thế_nào_là_khổ_khổ",
+      "label": "Vậy thế nào là khổ khổ?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "vậy_thế_nào_là_khổ_khổ_item_1",
+          "label": "[Item 1 of Vậy thế nào là khổ khổ? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thế_nào_là_khổ_khổ_item_2",
+          "label": "[Item 2 of Vậy thế nào là khổ khổ? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_tôi_khổ_thế_này_tại_sao_tôi_thật_đen_đùi",
+      "label": "Tại sao tôi khổ thế này? Tại sao tôi thật đen đùi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cuối_cùng_hành_khổ_là_một_loại_đau_khổ_hơn_cả",
+      "label": "Cuối cùng, hành khổ là một loại đau khổ hơn cả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_cụ_thể_hơn",
+      "label": "Vậy cụ thể hơn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 46",
+      "children": [
+        {
+          "key": "vậy_cụ_thể_hơn_item_1",
+          "label": "[Item 1 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_2",
+          "label": "[Item 2 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_3",
+          "label": "[Item 3 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_4",
+          "label": "[Item 4 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_5",
+          "label": "[Item 5 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 5"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_6",
+          "label": "[Item 6 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 6"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_7",
+          "label": "[Item 7 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 7"
+        },
+        {
+          "key": "vậy_cụ_thể_hơn_item_8",
+          "label": "[Item 8 of Vậy cụ thể hơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 8"
+        }
+      ]
+    },
+    {
+      "key": "vậy_tại_sao_chúng_ta_phải_học_cách",
+      "label": "Vậy tại sao chúng ta phải học cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "sự_ảo_tưởng_ở_đây_là_gì",
+      "label": "Sự ảo tưởng ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "vậy_thì_vô_thường_là_gì",
+      "label": "Vậy thì vô thường là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tiếp_theo_đó_là_một_chiến_lý_tu_tập",
+      "label": "Tiếp theo đó là một chiến lý tu tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "vô_ngã_chỉ_là_một_đặc_tính_phổ_quát",
+      "label": "Vô ngã chỉ là một đặc tính phổ quát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_hiểu_được_vô_thường_và_vô_ngã_để_làm_gì",
+      "label": "Vậy hiểu được vô thường và vô ngã để làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_cụ_thể_phải_thực_hành_như_thế_nào",
+      "label": "Vậy cụ thể, phải thực hành như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "tại_sao_tôi_lại_khổ_như_vậy",
+      "label": "Tại sao tôi lại khổ như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "thường_xuyên_nó_sẽ_giúp_bạn_bình_thàn_trước_mọi_khó_khăn",
+      "label": "Thường xuyên Nó sẽ giúp bạn bình thàn trước mọi khó khăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "tất_cả_khổ_đau_luôn_là_trạng_thái_thương_nhật",
+      "label": "Tất cả khổ đau luôn là trạng thái thương nhật.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "đây_là_một_ẩn_rụ_cho_việc",
+      "label": "Đây là một ẩn rụ cho việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "tâm_bồ_đề_là_một_khái_niệm_được_xây_dựng_trên_4_tấm_lòng",
+      "label": "Tâm bồ đề là một khái niệm được xây dựng trên 4 tấm lòng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "tiếp_theo_tâm_thứ_2_đó_là_bitâm",
+      "label": "Tiếp theo, tâm thứ 2 đó là bi-tâm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "tiếp_theo_thứ_3_hỉ_tâm",
+      "label": "Tiếp theo thứ 3, hỉ tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "cuối_cùng_bạn_sẽ_hoàn_toàn_tỉnh_thức",
+      "label": "Cuối cùng, bạn sẽ hoàn toàn tỉnh thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "bạn_đã_thấy_phật",
+      "label": "Bạn đã thấy Phật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "vậy_thì_cuối_cùng",
+      "label": "Vậy thì cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "điều_tiếp_theo_mình_sẽ_nói_rằng",
+      "label": "Điều tiếp theo mình sẽ nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_thì_hãy_trân_trọng_thời_gian_để_tu_thân_sống_tốt_cuộc_đờ",
+      "label": "Vậy thì hãy trân trọng thời gian để tu thân, sống tốt cuộc đời này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    }
+  ]
+}

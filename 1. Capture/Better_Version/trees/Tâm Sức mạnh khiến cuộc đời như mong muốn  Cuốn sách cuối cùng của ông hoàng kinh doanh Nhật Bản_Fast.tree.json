@@ -1,0 +1,139 @@
+{
+  "source_type": "youtube",
+  "word_count": 4878,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "mời_các_bạn_cùng_lắng_nghe",
+      "label": "Mời các bạn cùng lắng nghe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "nền_tảng_để_thành_công_vững_chắc_là_gì",
+      "label": "Nền tảng để thành công vững chắc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "thứ_nhất_kết_nối_được_với_tâm_của_vũ_trụ",
+      "label": "Thứ nhất, kết nối được với tâm của vũ trụ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 10",
+      "children": [
+        {
+          "key": "thứ_nhất_kết_nối_được_với_tâm_của_vũ_trụ_item_1",
+          "label": "[Item 1 of Thứ nhất, kết nối được với tâm của vũ trụ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_kết_nối_được_với_tâm_của_vũ_trụ_item_2",
+          "label": "[Item 2 of Thứ nhất, kết nối được với tâm của vũ trụ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_bí_quyết_kinh_doanh_nền_tảng_để_ông_tạo_nên_thành_công_là",
+      "label": "Và bí quyết kinh doanh, nền tảng để ông tạo nên thành công là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tâm_vĩ_tha_là_gì",
+      "label": "Tâm vĩ tha là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 22",
+      "children": [
+        {
+          "key": "tâm_vĩ_tha_là_gì_item_1",
+          "label": "[Item 1 of Tâm vĩ tha là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tâm_vĩ_tha_là_gì_item_2",
+          "label": "[Item 2 of Tâm vĩ tha là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "giống_như_là_một_câu_nói_của_khổng_tử",
+      "label": "Giống như là một câu nói của khổng tử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "và_hiểu_được_tại_sao_chúng_ta_lại_sinh_ra_trong_cuộc_đời_này",
+      "label": "và hiểu được tại sao chúng ta lại sinh ra trong cuộc đời này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "vậy_tại_sao_chúng_ta_không_vui_vẻ_mà_đón_nhận",
+      "label": "Vậy tại sao chúng ta không vui vẻ mà đón nhận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "khiêm_tốn_là_một_lá_bùa_hộ_mạnh",
+      "label": "Khiêm tốn là một lá bùa hộ mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "như_là_một_con_diều_loạn_hướng_trên_không",
+      "label": "Như là một con diều loạn hướng trên không",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "ở_phần_cuối_là_một_lính_ngộ_sau_khi_đọc_cuốn_tâm_này",
+      "label": "Ở phần cuối là một lính ngộ sau khi đọc cuốn tâm này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "phàn_nàn_là_một_liều_thốt_độc",
+      "label": "Phàn nàn là một liều thốt độc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_cách_để_thoát_khỏi_năng_lượng_tiêu_cực_là_gì",
+      "label": "Vậy cách để thoát khỏi năng lượng tiêu cực là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "một_doanh_nghiệp_hay_là_một_cá_nhân_thì_hơn",
+      "label": "một doanh nghiệp hay là một cá nhân thì hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    }
+  ]
+}

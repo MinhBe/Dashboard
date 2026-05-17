@@ -1,0 +1,172 @@
+{
+  "source_type": "youtube",
+  "word_count": 6492,
+  "estimated_leaf_nodes": 22,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 22 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đầu_tiên_cách_dưỡng_sinh_vào_mùa_xuân",
+      "label": "Đầu tiên cách dưỡng sinh vào mùa xuân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "con_người_là_một_phần_của_tự_nhiên",
+      "label": "Con người là một phần của tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "sinh_phát_có_nghĩa_là_gì_nghĩa_là",
+      "label": "Sinh phát có nghĩa là gì? Nghĩa là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_sẽ_cùng_tìm_hiểu",
+      "label": "Đầu tiên chúng ta sẽ cùng tìm hiểu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_điều_quan_trọng_nhất",
+      "label": "Vậy điều quan trọng nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "đối_với_dưỡng_sinh_là_gì",
+      "label": "đối với dưỡng sinh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_mùa_xuân_thì_nên_ngủ_như_thế_nào",
+      "label": "Vậy mùa xuân thì nên ngủ như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "tiếp_theo_là_giờ_dần",
+      "label": "Tiếp theo là giờ dần",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "tiếp_theo_là_giờ_dần_item_1",
+          "label": "[Item 1 of Tiếp theo là giờ dần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_là_giờ_dần_item_2",
+          "label": "[Item 2 of Tiếp theo là giờ dần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_đó_là_từ_5_giờ_đến_7_giờ_đó_là_giờ_máu",
+      "label": "Tiếp theo đó là từ 5 giờ đến 7 giờ, đó là giờ máu.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "kết_hôn_đôi_khi_là_một_phần_nghĩa_vụ",
+      "label": "Kết hôn đôi khi là một phần nghĩa vụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "bước_càng_tốt",
+      "label": "Bước càng tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "mùa_xuân_là_một_dương_khí_bắt_đầu_sinh_phát",
+      "label": "Mùa xuân là một dương khí bắt đầu sinh phát.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "dưỡng_sinh_tự_thân_nó_là_một_nghệ_thuật_sống_thuận_theo_tự_n",
+      "label": "Dưỡng sinh tự thân nó là một nghệ thuật sống thuận theo tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_thế_nào_mới_là_âm",
+      "label": "Vậy thế nào mới là âm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_da_mồ_hôi_như_thế_nào_mới_hợp_lý",
+      "label": "Vậy da mồ hôi như thế nào mới hợp lý?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "vậy_nên_dậy_và_lúc_nào",
+      "label": "Vậy nên dậy và lúc nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_cần_phải_dưỡng_khí",
+      "label": "Vậy thì chúng ta cần phải dưỡng khí",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "vậy_nên_cần_giữ_ấm_cơ_thể_và_thúc_đầy_toàn_hoàn",
+      "label": "Vậy nên cần giữ ấm cơ thể và thúc đầy toàn hoàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "và_mình_mong_rằng_chúng_ta_có_thể_nắm_rõ_5_nguyên_tắc_dưỡng",
+      "label": "Và mình mong rằng chúng ta có thể nắm rõ 5 nguyên tắc dưỡng sinh này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "vậy_nên_càng_không_nên_ăn_uống_đồ_lạnh",
+      "label": "Vậy nên càng không nên ăn uống đồ lạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "cơ_thể_của_bạn_sẽ_là_một_công_cụ_tuyệt_vời",
+      "label": "Cơ thể của bạn sẽ là một công cụ tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    }
+  ]
+}

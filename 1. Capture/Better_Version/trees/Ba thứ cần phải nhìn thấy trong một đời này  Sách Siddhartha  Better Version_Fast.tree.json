@@ -1,0 +1,142 @@
+{
+  "source_type": "youtube",
+  "word_count": 3887,
+  "estimated_leaf_nodes": 19,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 19 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_câu_chuyện_về_đức_phật",
+      "label": "Đây là một câu chuyện về Đức Phật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "phải_là_một_tồn_tại_trọn_vẹn_tuyệt_đối_và_siêu_việt",
+      "label": "phải là một tồn tại trọn vẹn tuyệt đối và siêu việt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "tu_tập_khổ_hạnh_chỉ_là_một_cuộc_trốn_chạy_khỏi_thực_tại",
+      "label": "tu tập khổ hạnh chỉ là một cuộc trốn chạy khỏi thực tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "điều_quan_trọng_là_phải_có_thái_độ_nhìn_nhận_ra",
+      "label": "Điều quan trọng là phải có thái độ nhìn nhận ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "cuộc_sống_là_một_sân_tập",
+      "label": "Cuộc sống là một sân tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "và_tôi_là_chính_tôi_bây_giờ",
+      "label": "Và tôi là chính tôi bây giờ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "và_thế_giới_mà_chúng_ta_đang_sống",
+      "label": "Và thế giới mà chúng ta đang sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "sau_đó_giống_như_là_một_dòng_rong_chứa_ngàn_tiếng_nói",
+      "label": "Sau đó giống như là một dòng rong chứa ngàn tiếng nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "đều_giống_như_là_một_cây_hoa",
+      "label": "Đều giống như là một cây hoa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "và_vô_số_người_coi_đó_là_một_điểm_nến_của_tâm_hồn",
+      "label": "Và vô số người coi đó là một điểm nến của tâm hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "cuối_cùng_là_giác_ngộ_hoàn_toàn",
+      "label": "Cuối cùng là giác ngộ hoàn toàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "cuối_cùng_sẽ_hiểu_được",
+      "label": "Cuối cùng sẽ hiểu được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "thế_giới_rộng_lớn_này_có_ý_nghĩa_thực_sự_là_gì",
+      "label": "Thế giới rộng lớn này có ý nghĩa thực sự là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "hay_là_tương_la",
+      "label": "Hay là tương la",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "anh_ta_mới_tồn_tại",
+      "label": "Anh ta mới tồn tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "vậy_cái_gì_là_thay_đổi_cái_gì_mới_là_bất_biến",
+      "label": "Vậy cái gì là thay đổi, cái gì mới là bất biến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "thế_giới_bây_giờ",
+      "label": "Thế giới bây giờ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "đều_là_một_chính_thể_hài_hòa",
+      "label": "Đều là một chính thể hài hòa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "mỗi_lần_đọc_là_một_lần_tâm_đắc_khác_nhau",
+      "label": "Mỗi lần đọc là một lần tâm đắc khác nhau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    }
+  ]
+}

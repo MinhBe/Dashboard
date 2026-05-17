@@ -1,0 +1,211 @@
+Hi, xin mình chào các bạn. Chào mừng các bạn đã quay trở lại với Better Version Kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay Có một cuốn sách như thế này, nó được ca ngợi là tác phẩm kinh điển về nhập môn triết học không có quyền nào sánh được Nó rất đặc biệt, đặc biệt ở chỗ là tác giả không viết theo lối khô khan Giống như các cuốn sách triết học thông thường mà được lồng ghép chi thức triết học vào tiểu thuyết Khiến cho việc đọc trở nên gần gũi và dễ hiểu hơn Tính đến nay, cuốn sách này đã được dịch ra 56 ngôn ngữ Doanh số toàn cầu vượt hơn 300 triệu bản
+
+Và nhờ thác phẩm này, tác giả nhà văn Na Uy Justin Gordon Đã đứng tên trong danh sách 10 tác giả hàng đầu thế giới Cuốn tiểu thuyết kinh điển đó chính là cuốn Thế giới của Sophie Lần theo bước chân của cô bé Sophie trong cuốn tiểu thuyết Bạn sẽ bắt gặp những câu chuyện trinh thám đầy hồi hộp Nhưng lại bất xác đi xuyên suốt cả lịch sử triết học châu Âu Ngay từ đầu câu chuyện Cô bé 14 tuổi Sophie sau khi tan học về nhà
+
+nhận được một bức thư nặc danh. Khi mở ra, chỉ thấy có ba chữ bên trong Bạn là ai? Sophie buột miệng nói Tôi chính là tôi mà Nhưng ngày sau đó, cô bé cảm thấy câu trả lời này dường như không ổn Đúng vào lúc đang mơ hồ Những bức thư nặc danh tiếp tục gửi đến những ngày sau
+
+Dẫn dắt Sophie vượt ngược dòng thời gian Quay về thời Hy Lạp cổ đại Và cô bé đã tìm kiếm lời giải thiết cho mình Từ lăng kính triết học Từ đây, những nhà tư tưởng vĩ đại lần lượt xuất hiện, dùng như những ngôi sao sáng trên bầu trời cao. Họ soi sáng cho bao thế hệ con người tiến bước và cuối cùng cái kết của cuốn tiêu thuyết đầy bất ngờ
+
+chúng ta sẽ nói ở phần sau nhưng có một câu nói đầy lay động ở đoạn kết mà mình muốn thiết lộ trước với bạn rằng khi chúng ta ngước nhìn bầu trời kỳ thực là đang tìm con đường trở về với chính mình Và đây cũng chính là ý nghĩa của việc chúng ta tìm đọc về triết học Rồi xin mời bạn cùng lắng nghe
+
+nội dung chia sẻ ngày hôm nay mang tên Tìm Lại Chính Mình bằng triết học qua cuốn tiêu thuyết kinh điển Thế Giới của Sophie, Đường Về Chính Linh Hãy Biết Mình. Quay lại phần mở đầu câu chuyện, cô bé Sophie tan học về nhà, nhận được một bức thư bí ẩn, không có tên người gửi cũng không có tem. Bên trong chỉ có một mảnh giấy viết rằng bạn là ai? Các bức thư kỳ lạ nối tiếp nhau gửi đến thế giới từ đâu mà có. Sophie càng lúc càng tò mò, suốt cuộc là ai đã gửi những bức thư này? Vài ngày kế, những lá thư thần mến này bắt đầu dạy cô học triết một cách có hệ thống người gửi tự xưng là Omburter. Một điều kỳ lạ hơn nữa, Sophie nhặt được trong vườn một tấm biêu thiếp trên đó có viết
+
+Gửi xít thân yêu con đã tròn 15 tuổi rồi, chúc con sinh nhật vui vẻ. Cha hy vọng con sẽ hiểu rằng cha muốn tặng con một món quà có thể giúp cho con trưởng thành. Xin thừa lỗi cho cha, cha phải nhớ Sophie chuyển giúp đâm tiệp này vì như thế thuận tiện hơn cả. Ký tên, cha, người mãi mãi yêu con Chuyện này rốt cuộc là sao? Sophie đã vô cùng mối dối Vì cô bé hoàn toàn không biết một người nào đó Tên là Sid
+
+Những buổi chiều mùa xuân tưởng như bình thường Nhưng đối với cô bé 14 tuổi Lại đang đối mặt với những điều vô cùng khác thường Sophie lần đầu tiếp xúc với 3 câu hỏi Sẽ thay đổi cả thế giới của chính mình Đó là Bạn là ai Thế giới từ đâu mà có
+
+Ý nghĩa sinh mệnh là gì
+
+thờ Delphi, hãy tự biết mình. Đây là câu nói nổi tiếng của Socrates, người đặt nền móng cho chiếc học phương Tây và cũng là nguyên thắc sống suốt đời của ông. Socrates khẳng định ông được dẫn dắt bởi một tiếng nói thiêng liêng trong nụ tâm. Đồng thời Luong Chi cũng mách bảo ông điều gì là đúng? Biết điều Thiện thì tất sẽ làm điều Thiện nghĩa là khả năng phân biệt đúng sai và lựa chọn hành động phù hợp với chính mình là nằm ở nhận thức đúng đắn. Nhận thức đó thuộc về tiếng nói bên chứ không phải ở bên ngoài kia. Vì vậy khi xã hội đang vang lên vô vàn câu nói bên tai bạn
+
+nên làm thế này, nên làm thế kia thì đừng vội nghe theo mà hãy lắng lại tĩnh lại và nhìn sâu vào bên trong bạn chính ở đó bạn sẽ tìm thấy người thầy
+
+mà Socrates luôn nói tới không phải một bậc hiền triết nào từ bên ngoài mà là trí tuệ cao cấp sẵn có trong bạn tiếng nói bên trong đó có thể giúp bạn biết chính mình biết bạn là ai
+
+Socrates cả đời đã đi khắp các con đường Athens Không để dạy cho ai một học thuyết cố định Mà chỉ để khơi gợi cho mỗi người Tự chất phấn chính mình Khi người hâm mộ ca ngợ trí tuệ của ông Socrates lại nói Tôi chỉ biết rằng
+
+Mình chẳng biết gì cả Khi những kẻ đối đi tiên án tử hình Vốn có thể kháng án Để được tha Ông lại chọn cái chết Một cách ung dung Khí khái Trước lời khen
+
+Thì ông không lay động Đối diện Trước sự xỉ nhục Ông không tranh biến Cũng chẳng mong cầu Người khác hiểu cho mình Kỳ vọng của người ngoài Chưa bao giờ
+
+có thể lay truyền được ông, bởi Socrates chỉ trung thành với sự thật mà ông nhận ra từ chính nội tâm. Ông tin rằng giá trị của một đời người không nằm ở việc làm hài lòng người khác mà ở chỗ chân thành với chính mình. Giáo sư Khúc Lê Mẫn đã từng nói đừng dừng lại
+
+dù chỉ một phút trong sự yêu ghét của người khác quá phụ thuộc vào sự đánh giá và công nhận của ai đó Sống trong vòng xoay kỳ vọng của người khác chỉ khiến bản thể chân thực của bạn ngày càng mờ nhạt Cuộc sống sẽ ngày càng mệt mỏi hơn chỉ khi biết quay về bên trong, gạt bỏ định nghĩa từ bên ngoài. Bạn mới có thể tìm thấy sức mạnh để sống tự do và thanh thản.
+
+Đường Về Chính Mình Nghĩ đến Cái chết Một ngày kia Sophie trở thấy những bức thư mình nhận Có vải lỗ thùng nhỏ và còn ướt ướt cô tò mò lên theo dõi Và phát hiện hóa ra người đưa thư lại là một chú thỏ tên là Hermes Vài ngày sau khi cô đi siêu thị cùng với mẹ, bất chợt có một chiếc khăn lụa từ trên trời rơi xuống. Trên đó có theo tên Hilt. Một hôm khác sau giờ tan học, khi mẹ vắng nhà, Sophie nảy ra ý tưởng quyết định theo dõi chú Thỏ Hermes này. Lần theo dấu chân của chú Thỏ, cô băng qua cánh rừng đến một hồ nước nhỏ.
+
+Ở bên bờ bên kia còn có một căn nhà màu đỏ. Lấy hết can đàm, Sophie nghiến răng leo lên thuyền và treo tới phía căn nhà đó. Thuyền vừa gặp biến, cô bé bước tới nhưng cửa không hề khóa. Sophie nhanh chóng nhận ra nơi đây có dấu vết người ở còn đặt cả bát ăn cho chó cùng những phong bì để tên Sophie hiển nhiên. Đây chính là nơi cư ngụ của người gửi thư bí ẩn. Trong căn phòng còn có một chiếc gương kỳ lạ khi Sophie soi vào đó, một điều đáng sợ đã xảy ra. Cô thấy rõ cô gái trong gương đang tự chấp mắt vô cùng kinh hãi. Thực thể độc lập vậy và thực chất.
+
+Chiếc hương kỳ lạ này chính là ẩn dụ cho lý thuyết hình thức của Later, học trò nổi tiếng nhất của Socrates. Đây là lý thuyết triết học cho rằng có hai thế giới tồn tại song song. Một là thế giới biểu kiến, thế giới hiệu hình mà chúng ta cảm nhận bằng các xác quan luôn thay đổi và không hoàn hảo. Hai đó là thế giới hình thức hay còn gọi là thế giới ý tưởng. Đây là thế giới chiều tượng, bất biến và hoàn hảo Được nắm bắt bằng lý trí Nơi chứa đựng các bản chất Và các ý niệm vĩnh cửu
+
+Cái cách mà cô gái trong gương trước mắt Như thế là đang ở một thế giới song song Bạn nói với Sophie rằng Tôi nhìn thấy bạn Tôi ở đây Ở bên kia Ngay sau đó Sophie phát hiện một chiếc ví da màu xanh
+
+Bên trong có bức hình Một cô gái tóc vàng Phía dưới có ghi tên là Hilt Sophie nghĩ Thì ra đây chính là Hilt Đúng lúc ấy Bên ngoài vang lên tiếng cho sùa Và bước chân ngày càng một gần hơn
+
+Sophie vội vàng rời đi trong lòng đầy bất an Bởi người tên Orbital Đừng nói rõ với cô rằng Đừng hỏi về thân phận của ông
+
+Vậy mà, cô lại lén tự ý đi vào nhà
+
+Về tới nơi Sophie vô cùng ái náy Lên viết thư thủ nhận mọi chuyện Orbital không tức giận cho lắm Nhưng đã dọn đi nơi khác Đồng thời thay đổi trỡ bỏ thư Còn hành trình dạy triết học cho cô bé thì vẫn tiếp diễn Qua thư từ, Sophie dần hiểu Với triết học Trung Cổ
+
+Và thời kỳ Phục Hưng, giai đoạn từ thế kỷ 5 đến thế kỷ 17 Đây vốn là những bước ngoặt quan trọng của phương Tây Khi chiếc học bước vào Trung Cổ Ánh sáng của lý tính dần bị che khuất Thân học trỗi dậy Người ta xem thượng để là tuổi cao Con người phải quỳ gối phụ sự cho ngài Nhưng ở thời kỳ Phục Hưng đã đưa tất cả trở lại
+
+Đặt con người làm trung tâm Từ đó xuất hiện một thuật ngữ chủ nghĩa nhân văn Các tác phẩm như Don Quixote Nhà quý tộc Đại Ba Zimantra Shakespeare Thần khúc đều là kiệt tác tiêu biểu của thời kỳ này. Ngay sau đó, sự giải phóng mạnh mẽ của con người đã dẫn đến phong trào cãi cách tôn giáo với những xung đột vô cùng dữ dội và mở đường cho khoa học tự nhiên.
+
+Những nhà khoa học như Galileo Newton đều xuất hiện rồn rập trong thời kỳ Phục Hưng. Sau thời kỳ rực rỡ ấy, châu Âu lại bước vào một thời kỳ huy hoàng khác mang tên Burroughs. Burrough vốn chỉ những viên ngọc trai hình thù mèo mó, thế nên trang sức kiểu như Burrough giống vòng cổ, khuyên tai, thường rất to, bất đối xứng. Và đó cũng chính là đặc điểm điển hình của nghệ thuật Burroughs, đối lập mạnh mẽ, kịch tính, phô chương và nặng tính trang trí. Bạn có thể để ý thấy không? Những bức tranh Burroughs cực kỳ xa hoa trắng lệ nhưng ở một góc lại có vẻ hình đầu lâu. Đó là cảm hứng từ chiếc học, sống và chết là hai mặt của một đồng xu. Ở thời kỳ này, người ta rất ưa chuộng hai câu trong ngôn Latin đó là
+
+Hãy nằm lấy hôm nay và đừng quên rằng người sẽ chết. Chỉ khi tận ý thức sâu sắc về cái chết bạn mới thực sự cảm nhận được hương vị của sự sống dù vì học được những điều mới mẻ từ chiếc học thời kỳ này Và cô bé bắt đầu nhìn lại cuộc đời mình Cô bé nhớ về người bà đã khuất của mình Và trợt thầm thiê câu nói trong bước thơ Đời sống vốn dĩ buồn thương và nghiêm túc Chúng ta đến với thế giới tươi đẹp này, lặp gửi nhau, chào hỏi nhau, cùng nhau đồng hành một quãng đường ngắn ngủi.
+
+Giờ chúng ta lại mất nhau và đột ngột biến mất cũng như khi ta đột ngột xuất hiện trên đời vậy. Đời người vốn vô thương, hợp tan khó lương. Mỗi kiếp sống chỉ là cuộc trú ngụ tạm thời của linh hồn. Còn thân xác cuối cùng cũng sẽ trả lại cho đất trời. Thế nhưng nhiều người chưa bao giờ nhìn thẳng vào sự thật ấy. Họ trói chặt mình vào những thứ được và mất trước mắt chăn chọc rằn vạt cổ sở chiến miên. Có câu nói của Matthew rằng, khi ta thật sự hiểu rằng mình rồi sẽ chết, ta mới có thể toàn tâm toàn ý an trừ trong khoảnh khắc hiện tại
+
+khi biết trân trọng bản thân buông đi mọi lo sợ và toan tính và ý thức sâu sắc được cái chết luôn ở phía trước thì mỗi phút giây và hơi thở của bạn ở hiện tại bỗng trở nên vô giá Chính nhận đức ấy giúp ta sống an nhiên trong hiện tại tận hưởng trọn vẹn món quà mà số phận ban tặng. Đó mới chính là lối sống tỉnh thức và thấu suốt nhất của một đời người, đường tìm chính mình, cân bằng sức khỏe, thân tâm. Trong thời kỳ Burroughs, tồn tại hai quyên hướng tư tưởng hoàn toàn đối lập,
+
+đó là chủ nghĩa duy tâm và chủ nghĩa duy vật. Duy tâm cho rằng sự sống vốn mang một phẩm chất cao quý. Ngược lại, duy vật thì tin rằng mọi hiện tượng tự nhiên trong đời sống đều bắt nguồn từ cảm giác của thân thể. Trong sự va chạm và dung hòa của đủ loại tư tưởng ấy, con người dần thay đổi. Chính lúc này,
+
+giá trị của tự nhiên, giá trị của cá nhân được nhìn nhận lại. Người ta bắt đầu bàn luận
+
+tại sao con người lại ốm,
+
+lại bệnh và đâu mới là cách để giữ gìn sức khỏe tốt nhất? Mỗi khi buồn bã, Sophie thường chạy ra vườn mùi lặng lẽ như về bà mình. Người bà đã cả đời vì gia đình mà vất vả trong mấy khi chăm lo sức khỏe cho bản thân Mãi đến ngày bệnh nặng mới nhận ra tầm quan trọng của sức khỏe
+
+Đó cũng là hình ảnh chân thực của rất nhiều người trong xã hội bây giờ Vì cuộc sống, vì kỳ vọng từ gia đình và bản thân Họ như bị đặt trên bánh xe, đang quay cuồng Đang không ngừng lao mình về phía trước Mãi đến khi cơ thể bật tiến hiệu cánh báo Họ mới bừng tỉnh Mọi sự đánh đổi và tiêu hau bằng cách hy sinh sức khỏe Đều là sự đảo lộn gốc ngon
+
+Trong lịch sử hoàng đế Alexander khi đối diện với cái chết đã để lại ba gì nguyện. Một là quan tài của ông phải do các thầy thuốc khiêng, hai là con đường đến Nghĩa Trang phải giải đầy vàng bạc trâu báu, ba là đôi tay ông phải đặt ngoài quan tài. Ông muốn nhắn nhủ với mọi người rằng thầy thuốc giỏi đến đâu cũng bất lực trước cái chết.
+
+Cả đời theo đuổi tiền tài cũng chỉ là ổn phí. Con người đến với đời bằng đôi tay trắng và ra đi cũng tay trắng đem sức khỏe hiệu hạn để đánh đổi cho mong muốn vô tận. Đó chính là sự mê muội lớn nhất
+
+của đời người. Vài trăm năm trước, triết học phương Tây đã khẳng định
+
+phương pháp giữ gìn sức khỏe tốt nhất
+
+đó chính là nằm ở hai chữ cân bằng. Các nhà triết học nhận ra con người sinh bệnh là do thân và tâm bị mất cân bằng. Cách để lấy lại sự cân bằng tốt nhất cần bắt đầu từ tiết chỉ ăn uống, duy trì sự hải hòa để thân tâm cùng ăn lạc. Triết lý này cũng hoàn toàn trúng khớp
+
+với triết lý của Phương Đông. Trung dung của Nhó Gia dậy về đạo giữ cho mình không thiên lệch, Không thái quá, đạo gia chủ trương vô vi thuận theo tự nhiên chính là đỉnh cao của sự cân bằng giữa con người và vũ trụ. Còn trong y học cổ truyền, học thuyết, âm dương ngụ hành là hệ thống lý luận hoàn chỉnh nhất về sự cân bằng đóng,
+
+cơ thể khỏe mạnh là trạng thái âm dương hài hòa, còn nếu bệnh tật là lúc chúng lệch nhau.
+
+Cân bằng là một khả năng điều chỉnh để thích nghi trước những biến động không ngừng của ngoại cảnh và nội tâm. Chúng ta ăn uống tiết chế không phải là để hành xác, mà là để không trói bước cơ thể vào công cuộc tiêu hòa vất vả. Chúng ta sống hài hoa, không phải là từ bỏ mọi dục phòng, mà là hiểu rõ điểm dừng, biết đủ về những gì mình đang có Để lòng không bị phiền nhiễu bởi những tham sân si kẻ thu lớn nhất của sự cân bằng đó chính là lòng tham vô đáy và sự sợ hãi thiếu thốn trong mỗi con người Chúng ta ăn rất nhiều, ăn đủ mọi thứ nhưng không phải vì chúng ta đói Mà vì buồn miệng, vì xã giao, vì sự thể hiện Nhiều người làm việc không phải là để sống mà là để tích chữ
+
+Và nỗi lo lắng không phải cho hiện tại Mà luôn hướng về một tương lai bất định nào đó Cứ thế thân tâm của chúng ta dối loạn Năng lượng bị tiêu hao và gốc rễ của các bệnh cũng từ đấy mà sinh sôi Do đó cách giữ gìn sức khỏe tốt nhất không nằm ở một phiên thuốc thần kỳ Nó bắt đầu từ sự tỉnh thức, tỉnh thức để lắng nghe tiếng nói của cơ thể Để nhận ra khi nào đã đủ và quyết tâm buông bỏ thói quen xấu Sống cân bằng chính là cách sống tốt nhất của một người hiểu chính mình
+
+Thương chính mình và tôn trọng quy luật tự nhiên Đó cũng là con đường đưa thân và tâm trở về trạng thái an lạc nguyên sơ Nơi bạn tìm về với chính mình Đường về chính mình đến gần hơn với linh hồn Cũng trong thời kỳ này chủ nghĩa thực chứng ra đời tự nhiên dựa trên quan sát, kinh nghiệm và thực nghiệp. Kế lên đó nhân vật lớn tiếp theo xuất hiện Đó là Ted Carr, cha đẻ của triết học hiện đại
+
+Ông nổi tiếng với câu nói Tôi thư duy vậy nên tôi tồn tại Ted Carr khởi xuống chủ nghĩa duy lý Đặt lý trí làm nền tảng cho sự hiểu biết Thay vì dựa vào kinh nghiệm Với nhiều người chúng ta biết đến ông qua những tiết toán học
+
+Bởi ông còn là một nhà toàn học kiệt suất
+
+Sáng lập ra hình học giải tích Phát minh hệ tọa độ Tuy vậy thành tiệu triết học của Ted Carr thậm chí còn nổi bật hơn toán học. Vấn đề cả đời ông quan tâm nhất đó là
+
+đâu là chi thức chắc chắn mà ta có, mối quan hệ giữa thể xác và linh hồn là gì? Đây cũng là đề tài mà con người tranh luận suốt hơn 150 năm sau đó. Đồng thời, triết lý của ông cũng tạo tiền đề cho sự xuất hiện của một loạt các triết gia vĩ đại khác như là Light Beans, Lock, Hunt, Spinoza, v.v.
+
+Đầu tiên kể đến đó là Hobbes, chiếc gia Anh thế kỷ 17 người theo chủ nghĩa duy vật. Ông tin rằng tất cả hiện thượng trong tự nhiên bao gồm cả con người động vật đều do các hạt vật chất cấu thành. Ngay cả ý thức con người hay linh hồn cũng chỉ là kết quả của những chuyển động vi mô trong não. Tuy nhiên Light Beans lại cho rằng điểm khác biệt giữa vật chất và tinh thần nằm ở chỗ Vật chất có thể chia nhỏ mãi mãi giống như là cắt bánh vậy nhưng linh hồn thì không thể phân chia dù chỉ một nửa
+
+Vậy thì suốt cuộc linh hồn là gì?
+
+Chisa Kant nói rằng thời gian và không gian giống như một cặp kính màu đỏ chung dưới hạn cách chúng ta cảm nhận về thế giới. Đó là cách để hiểu về linh hồn. Sophie cảm thấy khó hiểu quá, thế là cuối cùng viết những bức thư nặc danh. Orbital cũng chịu xuất hiện để giảng dạy trực tiếp cho cô bé. Ông đưa Sophie một cặp kính màu đỏ. Ngay lập tức mọi thứ trước mắt cô phủ ngập một màu đỏ.
+
+Nhưng Orbital nói Dù ta thấy tất cả đều màu đỏ Nhưng cũng không thể kết luận, thế giới vốn dĩ là màu đỏ Bởi nơi mắt ta không nhìn tới thường ẩn chứa những sự thật sẽ bị bỏ qua nhất Câu trả lời về linh hồn cũng tương tự như thế Thế giới ta thấy hay còn gọi là hiện tượng Là thế giới đã được lọc qua lăng kính không gian, thời gian và các khái niệm của con người Nên khoa học hoàn toàn có thể nghiên cứu nó
+
+Còn bản chất thực sự của vũ trụ hay còn gọi là vật tự thân Thì mãi mãi nằm ngoài khả năng nhận thức của chúng ta muốn đến gần hơn với bản chất của linh hồn, và cũng là đến gần hơn với sự thật. Bạn cần dám tháo bỏ những cặp kính màu đang che lớp chính mình, vượt ra ngoài định kiến, sự rời hạn và thói quen tư duy. Có thể nói, thân xác là công cụ, còn linh hồn chính là người quan sát, lại ý thức thầm lặng đứng sau tất cả mọi trải nghiệm của chúng ta. Quan điểm của Chizakant đã khởi xuống một cuộc cách mạng
+
+khi ông tìm ra con đường xoá đi sự xung đột kéo dài giữa chủ nghĩa duy tâm và duy vật. Duy vật và duy tâm không loại trừ lẫn nhau, mà luôn luôn tồn tại cùng nhau. Vì vậy trên con đường tìm về với chính mình để tiến gần hơn đến linh hồn Cách thốt nhất là đừng để tư duy rơi vào tuyệt đội hóa theo một phía Chỉ khi giữ được thái độ cười mờ, dung hợp ta mới có thể thực sự thấu hiểu sự phong phú vô biên của sự sống Và ý nghĩa tồn tại Đường về chính mình
+
+Tự tạo ra ý nghĩa cho bản thân Và hãy hành động Sau khi không còn ẩn mình nữa Cách dạy của thầy Orbital ngày càng thú vị hơn Có lần thầy và trò lén vào học trong nhà thờ lúc ban đêm Có lần họ đến một biệt thự đầy đồ cổ Từ thời Trung Cổ Đến phục hưng phía bên kia thành phố
+
+Đôi khi trong nhà, đôi khi là ngoài trời Và rồi lớp học triết bước vào thời kỳ khai sáng Một giai đoạn rực rỡ trong lịch sử tư tưởng châu Âu Những khái niệm như là quyền tự nhiên của con người Tam quyền phân lập đều ra đời lúc này Vào nửa đầu thế kỷ 18 Trung tâm triết học châu Âu đó là Anh. Giữa thế kỷ 18 thì nó chuyển sang Pháp, đến cuối thế kỷ 18 thì lại chuyển sang Đức. Sau nhà triết học Kant, triết học bắt đầu tiến vào chủ nghĩa lãng mạn.
+
+Văn học thời kỳ này cũng bùng nổ mạnh mẽ với những tác phẩm như là nhà thờ đức bà Paris, bà Tước Moncristaux. Còn lĩnh vực triết học không thể không nhắc đến Heiko, một trong những nhà tư tưởng quan trọng nhất của chủ nghĩa duy tâm và là người xây dựng nên phép biện chứng duy tâm. Sau hy cổ, triết học bước sang một hướng mới Không còn những hệ thống đồ sổ bao quát như trước Thay vào đó xuất hiện hai nành quan trọng Đó là triết học hành động và triết học hiện sinh Đại diện tiêu biểu của triết học hành động Đó chính là Karl Marx
+
+Ông từng nói cho đến nay các chiếc gia chỉ giải thích thế giới theo những cách khác nhau Nhưng vấn đề ở chỗ ta phải thay đổi thế giới Quan điểm này đánh dấu một bước ngoặt lớn cho lịch sử triết học Mở ra con đường mới giúp cho con người không chỉ ngồi phân tích hiện thực mà còn chủ động tham gia vào việc giải phóng chính mình
+
+Tiếp theo là một trào lưu hết sức quan trọng, đó là chủ nghĩa hiện sinh Từ khóa cốt loại nhất của chủ nghĩa hiện sinh đó chính là tồn tại Nhưng tồn tại không đồng nghĩa với việc chúng ta chỉ sống không thôi Cây cổi, động vật cũng sống Chúng tồn tại một cách khách quan nhưng không cần suy nghĩ về ý nghĩa tồn tại của mình Con người thì khác Chúng ta là những sinh vật ý thức được sự tồn tại của bản thân. Đại diện tiêu biểu của chiếc gia chủ nghĩa hiện sinh thời kỳ này đó là Jean Paul Sartre.
+
+Ông khẳng định rằng sự tồn tại quan trọng hơn tất cả mọi thứ khác, cái việc tôi đang tồn tại quan trọng hơn tôi là ai, thậm chí còn quan trọng hơn cả việc tôi sống hay chết. Vì vậy Sartre mới nói, Tồn tại có trước bản chất nghe đến đây Sophie vô cùng ngưỡng mộ chiếc gia này. Orbital lên giải thích thêm Suốt lịch sử triết học, các triết gia luôn cố gắng tìm hiểu bản tính con người. Nhưng Satcher tin rằng, con người không có một bản tính cố định nào cả, nghĩa là chúng ta buộc phải tự tạo ra ý nghĩa cho đời mình.
+
+Trước đây chúng ta từng nói về cuốn sách Hóa Thân, đây cũng là tác phẩm mang động màu sắc của chủ nghĩa hiện sinh. Một người đàn ông hy sinh cả đời vì gia đình, sống kỳ vọng vào người thân, cuối cùng biến thành một con bọ khổng lồ. Nghe có vẻ rất bi quan, nhưng đó không phải là chủ nghĩa hư vô. Chủ nghĩa hiện sinh nhấn mạnh rằng con người là những cá thể tự do và chính sự tự do ấy buộc chúng ta cả đời phải không ngừng lựa chọn.
+
+Câu này có nghĩa là gì?
+
+Nghĩa là con người không có một khuôn mẫu định sẵn nào cả, từ thượng đế hay định mình để nương theo. Chúng ta phải tự chịu trách nhiệm cho chính sự tồn tại và ý nghĩa của cuộc đời mình bằng chuỗi những sự lựa chọn không ngừng nghỉ. Vì vậy phải dũng cảm buông bỏ đi những kỳ vọng, những khuôn mẫu định sẵn của xã hội chọn thuần khiết hơn, phù hợp với linh hồn sâu thẳm của mình. Chỉ khi đấy ta mới thực sự được là chính mình. Bí mật, hé lộ, những ngày dài tiếp theo của quá trình học, Sophie liên tục nhận được những tấm biêu thiếc mà người cha của Hilt gửi cho Hilt.
+
+Hơn nữa, dường như người cha của Hilt có khả năng tiên đoàn mọi việc mà Sophie sắp phải trải qua. Từ việc Sophie nhặt được tờ 10 đồng trên đường đến việc cô làm mất chiếc xây chuyền có cây thành giá. Tựa như mọi hành động của Sophie đều đã nằm trong tầm mắt của cha Hugh.
+
+Vậy người cha của Hugh suốt cuộc là ai?
+
+Trong sự dối bời, Sophie đã đem mọi chuyện kể cho cô bạn thân Joanne và cả hai đã quyết định quay lại căn nhà gỗ bên hồ để khám phá thêm. Lần này hai cô bé đã tìm thấy rất nhiều biêu thiếp gửi cho Hugh. Điều kỳ lạ hơn cả là trên tầm biêu thiếp cuối cùng, Cha của Hugh còn viết Trước khi gặp mặt, ta đã gửi thêm cho Sophie một bản sao Tất cả những biêu thiếp ta viết cho con Ta nghĩ Sophie sẽ sớm đuổi kịp con thôi Hiện giờ những gì cô bé biết cũng chẳng nhiều hơn con là bao
+
+Sophie còn có một người bạn tên JoAnne Có lẽ JoAnne cũng sẽ giúp được phần nào Thật sự ngoài sức tưởng tượng Đến cả cái tên người bạn thân của Sophie cũng xuất hiện Mà con dấu biêu điện trên tấm biêu thiếp Lại chính là ngày hôm nay 16 tháng 5 năm 1990 Sophie và Joanna vừa sợ hãi, vừa bố dối. Tại sao ngày gửi lại là hôm nay? Làm sao biểu thiếp lại đến đây được? Sao có người biết được chính xác? Hôm nay hai đứa sẽ đến căn nhà gỗ và nhìn thấy biểu thiếp này.
+
+Tất cả câu hỏi đều không có lời giải. Nhưng rồi, bí mật sắp được hé lộ. Vào ngày trước sinh nhật thứ 15 của Sophie, nhân vật chính trong sách đề cập đột nhiên thay đổi. Cô bé Sophie 14 tuổi, bỗng được thay thế bởi Hugh, sắp tròn 15 tuổi. Hương cũng có mái tóc vàng, đôi mắt xanh như Sophie Cô bé đứng trước hương ngắm khôn mặt mình Tấm gương này luôn khiến Hương nhớ đến người cha của mình Ngày trước, hương được treo trong phòng làm việc của ông
+
+Cha của Hương là một sĩ quan
+
+Nhưng luôn khao khát được viết ra những điều có ý nghĩa Tấm gương này rất cổ Được bà cố của Hương mua từ một người phụ nữ di gan vào đúng ngày cưới Nhiều năm trước, cha của Hương từng đùa rằng
+
+Đây là một cái gương thần
+
+Có thể khiến hình ảnh trong gương chấp mắt cùng lúc với mình Đến đây, có phải? Bạn cũng đoán ra. Cha của Hilt đó chính là Omberto. Người thầy đã dạy chết học cho Sophie. Còn Sophie thật ra chính là Hilt.
+
+Nhưng tại sao họ lại tồn tại song song với nhau?
+
+Hilt nhìn thấy trên bàn có một món quà sinh nhật cha cô đã chuẩn bị từ lâu. Trong thư ông có nói rằng món quà sẽ ngày càng to lớn hơn. Quà sẽ ngày càng to lớn hơn. Ông cũng nhắc đến việc Hilt sắp gặp một cô bé và rằng những biêu thiếp gửi cho Sophie Cũng đều được gửi cho cô bé Hilt ngồi xuống giường Cẩn thận mở lớp giấy gói màu xanh
+
+Bên trong là một tập tài liệu khổ lớn
+
+Trên trang đầu tiên có mấy chữ viết tay rất to Thế dối của Sophie Quả sinh nhật của Hilt Chính là bàn thảo một cuốn sách Hilt không chờ nổi Liền đọc ngay lập tức Cô đọc thấy những hoang mang của Sophie Sự kinh ngạc khi phát hiện ra Hilt
+
+Và những chi tiết về chiếc khăn Đồng su, sợi dây chuyển mà Sophie đã mất Và những tấm biêu thiếp tra để lại trong sách Hild bỗng bừng hiểu ra tất cả, đồng thời cảm thấy xót xa cho Sophie. Chắc hẳn Sophie vẫn chưa hiểu chuyện gì đang xảy ra. Song song đó, Ombertal và Sophie đang đứng bên cửa sổ, nhìn thấy một chiếc máy bay nhỏ bay qua kéo theo dòng chữ Chúc mừng sinh nhật! Dù ngày mai mới tới, ngày sinh nhật chính thức, Ombertal sau đó dạy Sophie một bài học về triết gia George Berkeley,
+
+một trong ba đại diện lớn của triết học Kinh nghiệm chủ nghĩa cận đái.
+
+Vậy thì, Kinh nghiệm chủ nghĩa là gì?
+
+Chia ra Aristotle đã từng nói, không có gì trong tâm trí mà trước đó lại không có trong cảm giác. Có nghĩa là mọi chí huệ đều bắt đầu từ trải nghiệm cảm giác. Đây chính là cách diễn dài hay nhất cho kinh nghiệm chủ nghĩa. Berkeley tin rằng phía trên con người có một tinh thần, Spirit và tinh thần này có thể chính là nguồn gốc tạo ra chúng ta. Giống như khi ta đang mơ, trong không gian song song kia, có một ý chí hay linh hồn khác đang kiến tạo giấc mơ và thế giới hình hài của ta. Vạn vật tồn tại là nhờ tinh thần ấy Tinh thần chính là nguyên nhân của mọi nguyên nhân trong vạn vật
+
+Bài học này đã giúp Sophie từng tỏ mọi bí mật Đối với Thầy Orbital và Sophie Cái nguyên nhân của mọi nguyên nhân trong vạn vật ấy Chính là người cha của Hilt Cha của Hilt đã đóng vai chúa Một người kiến tạo ra bọn họ Nghe đến đây, Sophie không chịu nổi nữa Cô chạy vụt ra bên ngoài
+
+Lao vào cơn mưa gió Ngày mai là sinh nhật mình rồi Ngay trước đêm sinh nhật 15 tuổi Lại phát hiện ra rằng cuộc đời chỉ là một giấc mơ Cảm giác này thật cay đắng Cha của Hilt viết nên câu chuyện này Chỉ để dùng tiểu thuyết Giấy triết học cho con gái Hilt
+
+Mỗi khi Hilt đã đọc hết Sứ mệnh của Sophie cũng kết thúc Sự thật này khiến Sophie vô cùng tuyệt vọng Nhưng cô bé có thể làm gì đây Có phải chúng ta sẽ nghĩ Giấc mơ nào rồi cũng sẽ phải kết thúc Và phải nhường chỗ cho hiện thực Nhưng cái kết ở đây lại là một cố đảo ngược bất ngờ
+
+Sau khi biết rõ sự thật Sophie và Orbital không cam lòng làm những nhân vật bị sắp đặt. Họ quyết định về hành động để chứng minh sự tồn tại của chính mình. Đây chính là tinh thần của triết học hiện sinh. Đến ngày sinh nhật thứ 15, Sophie tổ chức một bữa tiệc còn Orbital đứng lên diễn thuyết trước mọi người. Trong vài tuần qua, Sophie và tôi đã thực hiện một cuộc tìm hiểu triết học quy mô lớn.
+
+Hôm nay chúng tôi xin công bố kết quả. Chúng ta đang sống trong tâm trí của một viên thiếu tá. Hiện tại, ông ấy là quan sát viên của Liên Hợp Quốc tại Lieben và đã viết một cuốn sách về chúng ta để tặng cho con gái mình. Cô gái ấy tên là Hugh, năm nay cũng vừa tròn 15 tuổi cùng ngày sinh với Sophie. Vì vậy sự tồn tại của chúng ta chỉ là một món quà giải trí cho sinh nhật của Hugh mà thôi. Thiêu tá đã sáng tạo ra chúng ta, dùng chúng ta làm chất liệu để dạy chiếc học cho con gái mình. Ví dụ, chiếc xe đậu ngoài cổng kia nó thực ra chỉ là hình ảnh mà viên thiêu tá tưởng tượng trong đầu. Nghe những lời đi ngược lẽ thường ấy, ai nấy đều không thể chấp nhận.
+
+Thậm chí có người còn phản bác nhưng Omberto lại nói Khi bạn phát hiện ra mình chỉ là nhân vật trong giấc mơ của ai đó Theo tôi cách khôn ngoan nhất đó là im lặng Các bạn trẻ chúng ta học một khoa ngắn về lịch sử triết học như thế này để hiểu được rằng đối với các giá trị của thế hệ trước sự tài độ phản biệt là điều vô cùng quan trọng Như tôi từng dạy Sophie Đó được gọi là Tư duy Phủ định của Hegel
+
+Môn chiếc không chỉ dừng lại ở lý thuyết, nó còn có mặt hành động. Hãy lắng nghe kỹ, đây chính là giá trị của chiếc học. Khi thời cơ đến chúng ta sẽ biểu diễn một màn biến mất như vậy mà có thể lặng lẽ thoát khỏi ý thức của viên thiếu tá. Trước muôn vàn khó khăn lúc bấy giờ, Omberto tiếp tục khẳng định một chiếc ra chân chính sẽ không bao giờ nói, không bao giờ. Thế là Sophie cùng thầy Omberto ra biển. Họ leo lên một con thuyền, dốc sức treo đi rồi biến mất nơi cuối vịnh. Họ thật sự đã rời khỏi cuốn sách của Hugh. Cả hai ngồi trên bãi cỏ ở Naui, nhưng người ta lại chẳng thấy họ đâu cả. Sophie phát hiện ra bản thân cùng với thầy giống như là hồn ma không thể chạm vào bất cứ thứ gì.
+
+Cô kinh hãi, Omberto Ben giải thích, Sophie đây là cái giá chúng ta phải trả. Tuy chúng ta thoát khỏi cuốn sách, chẳng thể có được thân phận như tác giả đặt ra. Nhưng ta thật sự đang ở đây và từ nay chúng ta sẽ không bao giờ xa đi nữa. Rồi họ bất ngờ gặp cô bé quàng khăn đỏ Thì ra những nhân vật này cũng thoát khỏi sách Sống trong một thế giới vĩnh viễn Vì vậy, đừng lo lắng Ai cũng có thể tìm ra cách tồn tại khác biệt của riêng mình Có được một đời sống của chính mình Mới chính là câu chuyện thuộc về bạn
+
+Khi chúng ta ngước nhìn bầu trời Kỳ thực là đang tìm con đường trở về với chính mình Cuối sách là vài học triết cuối cùng Nói về vụ nủ Big Bang Nguồn gốc của vũ trụ
+
+Và để chúng ta quay lại với câu hỏi triết học môn thùa
+
+Tôi từ đâu mà đến? Theo giải thích hợp lý nhất hiện nay, khoảng 15 tỷ năm trước, toàn bộ vật chất trong vũ trụ vốn tập trung ở một khu vực rất nhỏ do mật độ cực cao, cộng thêm lực hấp dẫn, nhiệt độ tăng đến mức khủng khiếp.
+
+Cuối cùng một vụ nổ xảy ra, hồi vật chất bị đánh tung,
+
+và đó chính là khởi đầu của vũ trụ cũng là khởi đầu của sự sống. Cho nên khi ta ngước nhìn bầu trời, thật ra là đang tìm con đường trở về với chính mình. Trước kia cha của Hugh thao túng thế giới của Sophie, Nhưng Sophie đã thoát ra, trở thành một thực thể vĩnh hẳn. Rồi cô bé đã tìm thấy chính mình. Và ngược lại, cô bé còn có thể tác động đến thế giới của Hilt và cha của cô ấy. Có một lần khi viên thiểu tá cùng Hilt ngắm sao và dạng về vụ nổ Big Bang, Sophie lên rơ chiếc cờ lê lên đứng trước mặt họ để thu hút ánh nhìn.
+
+Nhưng họ không thấy cô. Sophie bèn dùng cờ lê gõ nhẹ vào chán Hilt và cả cha cô nữa. Cả hai cũng kêu lên. Hai thế giới giống như trong khoảnh khắc ấy chạm vào nhau. Hòa quyện lạ thường Không biết trong đời bạn đã từng trải qua cảm giác ấy chưa Đột nhiên nghe thấy một âm thanh kỳ lạ Hay có một cảm giác vô hình trên thân thể
+
+Đừng sợ Có lẽ đó chính là dấu hiệu nói với bạn rằng Ở một thế giới song song Bạn cũng đang tác động đến một ai đó Và phần kết thúc khiến mình nhớ đến câu chuyện Trang Chu mộng hồ điệp Trang tử trong lúc ngủ mơ thấy mình Hoá thành một con bướm
+
+Khi tỉnh dậy ông ngỡ ngàng tự hỏi Là ta mơ thấy mình thành bướm Hay bướm đang mơ thấy mình là trang tử
+
+Vậy ta là ai? Ai mới là ta?
+
+Trong trạng thái mộng, cảm giác của con người có thể sống động như thực Ngược lại khi tỉnh dậy Ta lại cho rằng đó là thực tại Nhưng ai dám chắc Thực tại của hiện tại không phải là một giấc mơ dài
+
+Không phải là một
+
+Không phải là một giấc mơ dài
+
+Câu hỏi ở phần đầu câu chuyện Lại tiếp tục vang lên trong mình một lần nữa Và cũng là câu hỏi đặt ra cho chính bạn Bạn là ai? Có lẽ mỗi người sẽ có một câu trả lời riêng Nhưng cái kết của câu chuyện muốn nhắc cho chúng ta rằng Cái tôi mà chúng ta thường gắn chặt chỉ là một trạng thái tạm thời Bạn ngã không phải là chân thực tuyệt đối
+
+Vì thế ta không thể chỉ tin vào những gì mắt thấy tai nghe Mà đã đến lúc dũng cảm quay về bên trong để tìm lại chính mình Hy vọng rằng bạn sớm có đáp án cho bản thân Mình sẽ ở đây chờ đợi câu chuyện chia sẻ từ bạn Mong rằng trên con đường đi tìm lại chính mình Bạn luôn có thể lựa chọn một cách sáng suốt trước mỗi hành động chân thành với con người bên trong mình và dũng cảm tìm bước đến cùng
+
+Cảm ơn bạn đã lắng nghe Nếu bạn cảm thấy video này có ích hãy chia sẻ tới những người cần nó Đừng quên tặng mình một nút like nhấn nút đăng ký, mở nút chuông thông báo để đón xem những video mới nhất mỗi tuần. Một lần nữa Cảm ơn các bạn và hẹn gặp lại
+
+ở những video tiếp theo

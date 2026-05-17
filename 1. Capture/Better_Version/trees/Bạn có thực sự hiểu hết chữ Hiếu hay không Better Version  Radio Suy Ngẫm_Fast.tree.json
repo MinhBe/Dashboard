@@ -1,0 +1,44 @@
+{
+  "source_type": "youtube",
+  "word_count": 2008,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "khi_mà_chúng_ta_còn_là_một_đứa_trẻ",
+      "label": "Khi mà chúng ta còn là một đứa trẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "và_có_quá_nhiều_thứ_bây_giờ_cũng_là_lần_đầu_tiên_mà_cha_mẹ_h",
+      "label": "Và có quá nhiều thứ bây giờ cũng là lần đầu tiên mà cha mẹ học được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_là_cô_bé_đó_cho_rằng_đến_người_lạ_còn_cho_mình_được_một",
+      "label": "Vậy là cô bé đó cho rằng đến người lạ còn cho mình được một bát mì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_nhưng_sự_quan_tâm_hy_sinh_trong_mười_mấy_năm_trời_của_bố",
+      "label": "Vậy nhưng, sự quan tâm, hy sinh trong mười mấy năm trời của bố mẹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_nên_hãy_tha_thứ_và_bao_dung_cho_những_lỗi_lầm_của_cha_mẹ",
+      "label": "Vậy nên, hãy tha thứ và bao dung cho những lỗi lầm của cha mẹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    }
+  ]
+}

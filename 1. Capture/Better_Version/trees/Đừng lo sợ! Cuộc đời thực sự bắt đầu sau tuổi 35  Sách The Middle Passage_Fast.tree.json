@@ -1,0 +1,176 @@
+{
+  "source_type": "youtube",
+  "word_count": 6623,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "mà_còn_là_một_chuyên_gia_thuộc_trường_phái_tâm_lý_học_của_ca",
+      "label": "mà còn là một chuyên gia thuộc trường phái tâm lý học của Carl Jung",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "đó_sẽ_là_một_dạng_trưởng_thành",
+      "label": "đó sẽ là một dạng trưởng thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_đó_đều_phải_sống",
+      "label": "Vậy đó đều phải sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "tại_sao_mình_yêu_người_a_mà_không_phải_người_b",
+      "label": "Tại sao mình yêu người A mà không phải người B?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 32",
+      "children": [
+        {
+          "key": "tại_sao_mình_yêu_người_a_mà_không_phải_người_b_item_1",
+          "label": "[Item 1 of Tại sao mình yêu người A mà không phải người B? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_mình_yêu_người_a_mà_không_phải_người_b_item_2",
+          "label": "[Item 2 of Tại sao mình yêu người A mà không phải người B? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chúng_ta_sẽ_mãi_chỉ_là_một_đứa_trẻ_luân_xác",
+      "label": "Chúng ta sẽ mãi chỉ là một đứa trẻ luân xác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "đây_không_phải_là_một_lời_đe_doan",
+      "label": "Đây không phải là một lời đe doan",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "đây_không_phải_là_một_lời_đe_doan_item_1",
+          "label": "[Item 1 of Đây không phải là một lời đe doan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_không_phải_là_một_lời_đe_doan_item_2",
+          "label": "[Item 2 of Đây không phải là một lời đe doan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "từ_khủng_hoảng_đến_sự_thật",
+      "label": "Từ khủng hoảng đến sự thật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_sẽ_nói_về_mùi_quan_hệ_với_bạn_đời",
+      "label": "Đầu tiên chúng ta sẽ nói về mùi quan hệ với bạn đời",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "đầu_tiên_chúng_ta_sẽ_nói_về_mùi_quan_hệ_với_bạn_đời_item_1",
+          "label": "[Item 1 of Đầu tiên chúng ta sẽ nói về mùi quan hệ với bạn đời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_chúng_ta_sẽ_nói_về_mùi_quan_hệ_với_bạn_đời_item_2",
+          "label": "[Item 2 of Đầu tiên chúng ta sẽ nói về mùi quan hệ với bạn đời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_tiếp_theo_nữa_chúng_ta_sẽ_bàn_về_một_quan_hệ_với_con_cái",
+      "label": "Và tiếp theo nữa chúng ta sẽ bàn về một quan hệ với con cái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_thì_phải_làm_sao_khi_đứng_trước_khủng_hoảng_này_đây",
+      "label": "Vậy thì phải làm sao khi đứng trước khủng hoảng này đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "con_là_một_cá_thể_độc_lập_là_một_linh_hồn_khác_với_bố",
+      "label": "Con là một cá thể độc lập, là một linh hồn khác với bố",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_phải_làm_sao_để_đối_mặt_với_khủng_hoảng",
+      "label": "vậy thì chúng ta phải làm sao để đối mặt với khủng hoảng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_thì_lùi_thắt_thực_sự_cho_chúng_ta_nằm_ở_đâu",
+      "label": "Vậy thì lùi thắt thực sự cho chúng ta nằm ở đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "đầu_tiên_đó_là_bước_căn_bản_nhất",
+      "label": "Đầu tiên đó là bước căn bản nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "điều_quan_trọng_là_nó_xuất_phát_từ_sự_hứng_thú_chân_thành_củ",
+      "label": "Điều quan trọng là nó xuất phát từ sự hứng thú chân thành của bạn,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "cuối_cùng_đó_là_một_bước_đi_can_đảm_và_sâu_sắc",
+      "label": "Cuối cùng đó là một bước đi can đảm và sâu sắc,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "vẫn_không_còn_là_một_đứa_trẻ_lướng_xác_sống_theo_kịch_bản_củ",
+      "label": "vẫn không còn là một đứa trẻ lướng xác sống theo kịch bản của quá khứ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    }
+  ]
+}

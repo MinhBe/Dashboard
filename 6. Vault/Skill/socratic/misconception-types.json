@@ -1,0 +1,47 @@
+{
+  "_comment": "Tier 1 universal misconception types — read-only. Do not modify. Stage 2 uses these to classify personal_misconceptions.",
+  "types": {
+    "overgeneralization": {
+      "id": "overgeneralization",
+      "label": "Overgeneralization",
+      "description": "Áp dụng một quy tắc đúng trong phạm vi hẹp ra phạm vi rộng hơn mà nó không còn đúng.",
+      "signal": "Learner dùng từ 'luôn luôn', 'mọi trường hợp', 'tất cả' mà không check edge cases.",
+      "example": "'Gradient descent luôn tìm được global minimum' — đúng với convex, sai với non-convex."
+    },
+    "false_analogy": {
+      "id": "false_analogy",
+      "label": "False Analogy",
+      "description": "Dùng analogy sai — hai thứ trông giống nhau nhưng mechanism khác nhau hoàn toàn.",
+      "signal": "Learner giải thích concept A bằng cách 'nó giống như X' nhưng X không share cùng structure.",
+      "example": "'Attention giống như lookup table' — share interface nhưng không share mechanism soft weighting."
+    },
+    "skips_edge_cases": {
+      "id": "skips_edge_cases",
+      "label": "Skips Edge Cases",
+      "description": "Hiểu đúng trường hợp phổ biến nhưng không xét boundary conditions.",
+      "signal": "Learner trả lời đúng câu hỏi thông thường nhưng fail khi gặp n=0, empty input, negative value.",
+      "example": "'sqrt(x²) = x' — đúng khi x≥0, sai khi x<0 (phải là |x|)."
+    },
+    "confuses_correlation": {
+      "id": "confuses_correlation",
+      "label": "Confuses Correlation with Causation",
+      "description": "Nhầm 'A xảy ra cùng B' với 'A gây ra B'.",
+      "signal": "Learner dùng từ 'vì', 'do đó', 'gây ra' khi chỉ có evidence về co-occurrence.",
+      "example": "'Model overfit vì dataset nhỏ' — có thể đúng, nhưng cũng có thể do model quá phức tạp."
+    },
+    "incomplete_deduction": {
+      "id": "incomplete_deduction",
+      "label": "Incomplete Deduction",
+      "description": "Logic đúng một phần nhưng bỏ qua một bước quan trọng dẫn đến kết luận sai.",
+      "signal": "Learner đi từ A → C mà bỏ qua B, hoặc kết luận đúng từ premise sai.",
+      "example": "'Loss giảm → model tốt hơn' — bỏ qua: loss trên training set, không phải validation."
+    },
+    "direction_reversal": {
+      "id": "direction_reversal",
+      "label": "Direction Reversal",
+      "description": "Nhầm chiều của quan hệ nhân quả hoặc chiều tính toán.",
+      "signal": "Learner đảo ngược input/output, cause/effect, hoặc direction of update.",
+      "example": "'Gradient descent đi theo chiều gradient' — sai, đi ngược chiều (negative gradient)."
+    }
+  }
+}

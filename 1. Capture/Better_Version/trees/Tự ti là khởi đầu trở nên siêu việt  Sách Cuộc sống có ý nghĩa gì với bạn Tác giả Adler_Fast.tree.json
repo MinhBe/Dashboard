@@ -1,0 +1,317 @@
+{
+  "source_type": "youtube",
+  "word_count": 6515,
+  "estimated_leaf_nodes": 35,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 35 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_nên",
+      "label": "Vậy nên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "cuối_cùng_3_người_họ_freud_adler_và_jung",
+      "label": "Cuối cùng, 3 người họ, Freud, Adler và Jung",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "tại_sao_mình_lại_trình_bày_một_chút_về_tâm_lý_học_cá_nhân",
+      "label": "Tại sao mình lại trình bày một chút về tâm lý học cá nhân?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "còn_biểu_tượng_tinh_thần_là_gì",
+      "label": "Còn biểu tượng tinh thần là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_là_theo_năm_tháng_đứa_trẻ_này_lớn_lên_với_lòng_cạnh_tran",
+      "label": "Vậy là theo năm tháng, đứa trẻ này lớn lên với lòng cạnh tranh cao.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đây_là_một_việc_rất_quan_trọng",
+      "label": "Đây là một việc rất quan trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "đây_là_một_việc_rất_quan_trọng_item_1",
+          "label": "[Item 1 of Đây là một việc rất quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_việc_rất_quan_trọng_item_2",
+          "label": "[Item 2 of Đây là một việc rất quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_đó_là_tự_ti_thứ_cấp",
+      "label": "Thứ hai, đó là tự ti thứ cấp",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 74",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_tự_ti_thứ_cấp_item_1",
+          "label": "[Item 1 of Thứ hai, đó là tự ti thứ cấp — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_tự_ti_thứ_cấp_item_2",
+          "label": "[Item 2 of Thứ hai, đó là tự ti thứ cấp — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_gặp_vấn_đề_đó_là",
+      "label": "Và gặp vấn đề đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "thứ_nhất_đó_là_những_đứa_trẻ_bị_khuyết_tật",
+      "label": "Thứ nhất, đó là những đứa trẻ bị khuyết tật",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 84",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_những_đứa_trẻ_bị_khuyết_tật_item_1",
+          "label": "[Item 1 of Thứ nhất, đó là những đứa trẻ bị khuyết tật — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_những_đứa_trẻ_bị_khuyết_tật_item_2",
+          "label": "[Item 2 of Thứ nhất, đó là những đứa trẻ bị khuyết tật — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_đó_là_những_đứa_trẻ_được_nuông_chiều_quá_mức",
+      "label": "Thứ hai, đó là những đứa trẻ được nuông chiều quá mức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_những_đứa_trẻ_được_nuông_chiều_quá_mức_item_1",
+          "label": "[Item 1 of Thứ hai, đó là những đứa trẻ được nuông chiều quá mức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_những_đứa_trẻ_được_nuông_chiều_quá_mức_item_2",
+          "label": "[Item 2 of Thứ hai, đó là những đứa trẻ được nuông chiều quá mức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_hướng_đúng_ở_đây_là_gì",
+      "label": "Vậy hướng đúng ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "hướng_để_chúng_ta_vượt_qua_mặt_cảm_đã_được_sự_xuất_sắc_hơn_l",
+      "label": "Hướng để chúng ta vượt qua mặt cảm đã được sự xuất sắc hơn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_ý_nghĩa_cuộc_đời_thực_sự_nằm_ở_đâu",
+      "label": "Vậy, ý nghĩa cuộc đời thực sự nằm ở đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_thì_nếu_phải_sống_để_đạt_được_một_điều_gì_đó",
+      "label": "Vậy thì nếu phải sống để đạt được một điều gì đó,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cũng_là_một_mong_muốn_cơ_bản_nhất",
+      "label": "Cũng là một mong muốn cơ bản nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "trong_cuốn_sách_này_là_học_cách",
+      "label": "trong cuốn sách này là học cách",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 122",
+      "children": [
+        {
+          "key": "trong_cuốn_sách_này_là_học_cách_item_1",
+          "label": "[Item 1 of trong cuốn sách này là học cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "trong_cuốn_sách_này_là_học_cách_item_2",
+          "label": "[Item 2 of trong cuốn sách này là học cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "miễn_là_còn_sống_chúng_ta_sẽ_được_kết_nối",
+      "label": "Miễn là còn sống, chúng ta sẽ được kết nối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "và_mọi_hoạt_động_của_chúng_ta_phải_dựa_trên_sự_hợp_tác_với_n",
+      "label": "Và mọi hoạt động của chúng ta phải dựa trên sự hợp tác với người khác.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_biết_được",
+      "label": "Vậy làm thế nào để chúng ta có thể biết được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "phong_cách_sống_của_chúng_ta_có_vấn_đề_hay_không",
+      "label": "Phong cách sống của chúng ta có vấn đề hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_sẽ_tìm_hiểu_phần_tiếp_theo",
+      "label": "Vậy thì chúng ta sẽ tìm hiểu phần tiếp theo.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "hình_ảnh_với_những_năm_đầu_đời_xuất_hiện_trong_bạn_là_gì",
+      "label": "Hình ảnh với những năm đầu đời xuất hiện trong bạn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "đây_là_một_ký_ức_đẹp",
+      "label": "Đây là một ký ức đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "vậy_chúng_ta_hãy_nói_tới_gia_đình_trước",
+      "label": "Vậy chúng ta hãy nói tới gia đình trước",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "thì_đó_thật_là_một_điều_vô_cùng_đáng_tiếc",
+      "label": "Thì đó thật là một điều vô cùng đáng tiếc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "đầu_tiên_đó_là_nghiêm_khắc_và_trừng_phạt",
+      "label": "Đầu tiên đó là nghiêm khắc và trừng phạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "thứ_hai_giáo_viên_hãy_cúi_mình_xuống",
+      "label": "Thứ hai, giáo viên hãy cúi mình xuống",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 196",
+      "children": [
+        {
+          "key": "thứ_hai_giáo_viên_hãy_cúi_mình_xuống_item_1",
+          "label": "[Item 1 of Thứ hai, giáo viên hãy cúi mình xuống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_giáo_viên_hãy_cúi_mình_xuống_item_2",
+          "label": "[Item 2 of Thứ hai, giáo viên hãy cúi mình xuống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_thì_chú_ý_đến_ưu_điểm_của_từng_em",
+      "label": "Bên cạnh đó thì chú ý đến ưu điểm của từng em",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 200",
+      "children": [
+        {
+          "key": "bên_cạnh_đó_thì_chú_ý_đến_ưu_điểm_của_từng_em_item_1",
+          "label": "[Item 1 of Bên cạnh đó thì chú ý đến ưu điểm của từng em — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bên_cạnh_đó_thì_chú_ý_đến_ưu_điểm_của_từng_em_item_2",
+          "label": "[Item 2 of Bên cạnh đó thì chú ý đến ưu điểm của từng em — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

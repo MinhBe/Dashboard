@@ -1,0 +1,197 @@
+{
+  "source_type": "youtube",
+  "word_count": 5188,
+  "estimated_leaf_nodes": 23,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 23 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tư_duy_cố_định_là_gì",
+      "label": "Tư duy cố định là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "nhưng_nhiều_người_vẫn_tin_rằng_bản_thân_không_cần_phải_thay",
+      "label": "nhưng nhiều người vẫn tin rằng bản thân không cần phải thay đổi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tại_sao_dù_hiểu_rõ_nỗ_lực_và_chăm_chỉ_là_yếu_tố_cốt_lõi_để_t",
+      "label": "Tại sao dù hiểu rõ nỗ lực và chăm chỉ là yếu tố cốt lõi để tiến bộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_nên_chúng_ta_mới_cần_phải_yếu_rõ",
+      "label": "Vậy nên chúng ta mới cần phải yếu rõ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "điều_quan_trọng_đối_với_những_đứa_trẻ_không_nằm_ở_sự_thú_vị",
+      "label": "Điều quan trọng đối với những đứa trẻ không nằm ở sự thú vị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "tại_sao_có_những_người_khi_bị_người_khác",
+      "label": "Tại sao có những người khi bị người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "chính_là_một_cơ_hội",
+      "label": "Chính là một cơ hội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_thể_nhìn_nhận_bản_thân_một_cách_khách",
+      "label": "Vậy làm thế nào để có thể nhìn nhận bản thân một cách khách quan hơn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "dậy_sớm_hơn_một_chút",
+      "label": "dậy sớm hơn một chút",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "tại_sao_trong_cuộc_họp",
+      "label": "Tại sao trong cuộc họp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "tại_sao_lại_vậy",
+      "label": "Tại sao lại vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "nếu_là_một_vận_động_viên_có_tư_duy_cố_định_thì_sẽ_nổi_giận",
+      "label": "Nếu là một vận động viên có tư duy cố định thì sẽ nổi giận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_nên_vòng_đời_sự_nghiệp_của_anh_ấy_vô_cùng_bền_vững_và_dà",
+      "label": "Vậy nên vòng đời sự nghiệp của anh ấy vô cùng bền vững và dài lâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "thứ_hai_hãy_nhớ_rằng_mọi_thứ_đều_có_thể_học_hỏi",
+      "label": "Thứ hai, hãy nhớ rằng mọi thứ đều có thể học hỏi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "thứ_hai_hãy_nhớ_rằng_mọi_thứ_đều_có_thể_học_hỏi_item_1",
+          "label": "[Item 1 of Thứ hai, hãy nhớ rằng mọi thứ đều có thể học hỏi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_hãy_nhớ_rằng_mọi_thứ_đều_có_thể_học_hỏi_item_2",
+          "label": "[Item 2 of Thứ hai, hãy nhớ rằng mọi thứ đều có thể học hỏi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_câu_này_lại_sai",
+      "label": "Tại sao câu này lại sai?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "thất_bại_không_phải_là_một_điều_gì_đó_đáng_sợ",
+      "label": "Thất bại không phải là một điều gì đó đáng sợ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "mà_chỉ_là_một_bước_lùi_cần_thiết_để_tiến_về_phía_trước",
+      "label": "Mà chỉ là một bước lùi cần thiết để tiến về phía trước",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "thứ_nhất_hãy_bắt_đầu_bằng_cách_chấp_nhận_bản_thân",
+      "label": "Thứ nhất, hãy bắt đầu bằng cách chấp nhận bản thân",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 126",
+      "children": [
+        {
+          "key": "thứ_nhất_hãy_bắt_đầu_bằng_cách_chấp_nhận_bản_thân_item_1",
+          "label": "[Item 1 of Thứ nhất, hãy bắt đầu bằng cách chấp nhận bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_hãy_bắt_đầu_bằng_cách_chấp_nhận_bản_thân_item_2",
+          "label": "[Item 2 of Thứ nhất, hãy bắt đầu bằng cách chấp nhận bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_quan_sát_bản_thân",
+      "label": "Thứ hai là quan sát bản thân",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 130",
+      "children": [
+        {
+          "key": "thứ_hai_là_quan_sát_bản_thân_item_1",
+          "label": "[Item 1 of Thứ hai là quan sát bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_quan_sát_bản_thân_item_2",
+          "label": "[Item 2 of Thứ hai là quan sát bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_số_3_đó_là_nhắc_nhở_bản_thân_rằng",
+      "label": "Bước số 3 đó là nhắc nhở bản thân rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    }
+  ]
+}

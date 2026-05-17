@@ -1,0 +1,81 @@
+{
+  "source_type": "youtube",
+  "word_count": 2390,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_thì_lý_do_gì_để_nó_có_thể_tăng_lương",
+      "label": "Vậy thì lý do gì để nó có thể tăng lương?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "cuối_cùng_người_thất_bại_chính_là_bạn_mà_thôi",
+      "label": "Cuối cùng người thất bại chính là bạn mà thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "cuộc_sống_là_một_hành_trình_phát_triển_để_bản_thân_đi_lên",
+      "label": "Cuộc sống là một hành trình phát triển để bản thân đi lên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vốn_dĩ_anh_bạn_này_là_một_nhân_viên_kế_hoạch_cho_một_doanh_n",
+      "label": "Vốn dĩ anh bạn này là một nhân viên kế hoạch cho một doanh nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "khác_biệt_là_một_số_người_ngày_càng_trở_nên_tốt_hơn",
+      "label": "Khác biệt là một số người ngày càng trở nên tốt hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "nguyên_tắc_đầu_tiên",
+      "label": "Nguyên tắc đầu tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tò_mò_vốn_là_một_đặc_điểm_tự_nhiên_của_con_người",
+      "label": "Tò mò vốn là một đặc điểm tự nhiên của con người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "thứ_hai_hãy_sử_dụng_nguyên_tắc_5_giây",
+      "label": "Thứ hai, hãy sử dụng nguyên tắc 5 giây",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "thứ_hai_hãy_sử_dụng_nguyên_tắc_5_giây_item_1",
+          "label": "[Item 1 of Thứ hai, hãy sử dụng nguyên tắc 5 giây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_hãy_sử_dụng_nguyên_tắc_5_giây_item_2",
+          "label": "[Item 2 of Thứ hai, hãy sử dụng nguyên tắc 5 giây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

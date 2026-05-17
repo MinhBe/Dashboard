@@ -1,0 +1,219 @@
+Hi, xin chào các bạn. Chào mừng các bạn đã đến với Paravision, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay. Tuần này mình xin chia sẻ để các bạn một cuốn sách cực kỳ bổ ích và hữu dụng đó là cuốn trò chơi của rục vọng. Tác giả là tiến sĩ Justin Brewer. Ông ấy là nhà lãnh đạo tư tưởng trong lĩnh vực tự kiểm soát, giám đốc khoa y và tâm thần học tại trường EUMAS, giảng dạy tại trường Đại học Yale và là nhà nghiên cứu tại MIT. Như Shakespeare đã nói rằng, rục vọng giống như ngọn lửa than phải được làm nguội Nếu không nó sẽ đốt cháy tâm hồn Bởi vì một khi ham muốn trong bạn càng nhiều thì càng khó để dừng lại Nó sẽ tiếp tục bị mò rộng giống như là một cái lỗ đen không đáy và không ngừng nuốt trường bạn
+
+Khiến bạn mất tự chủ vì loại cuộc đời Còn ngược lại, một người có rất ít ham muốn Chỉ cần một chút mong đợi được đáp ứng Anh ta sẽ cảm thấy hạnh phúc vô cùng Cuốn sách này sẽ không bàn về một trò chơi cuộc đời nào cả Nhưng nó sẽ cho bạn thấy cái bẫy của rục vọng và ham muốn trong bạn Nó đang tạo ra cho bạn những hạnh phúc giả tạng Khiến bạn một khi thèm muốn là không thể dừng lại
+
+Giống như là bị nghiện vậy Video hôm nay sẽ chỉ ra cho bạn cách để cai nghiện ham muốn Và tìm lại tự do làm chủ chính cuộc đời của mình Mời các bạn cùng lắng nghe Đừng để não bộ biến thành não con địa biển Bạn có biết con địa biển không? Nó còn được gọi là hải sâm Hình dạng của nó thì đen xì, bé xíu và sống ở đại dương
+
+Người ta thường nói rằng Thực chất não của chúng ta chẳng khác gì Não con địa biển Đây chẳng phải là 1 ví von khập khỉa Một sinh vật chỉ có 20.000 tế bào thần kinh như này mà có thể so sánh được với bộ não loài người thông minh có tới 86 tỷ tế bào thần kinh Nhưng khoan vội, bạn cần biết rằng
+
+tế bào thần kinh trong bộ não con người chúng ta cho dù có nhiều gấp bao nhiêu đi chăng nữa thì cũng như bộ não của con đỉa biển Bởi vì chúng đều tuân theo một thói quen cơ bản đó là tìm kiếm lợi thế và tránh mất lợi Như con đỉa biển nơi nào thoải mái có nhiều thức ăn thì nó sẽ tới Nơi nào có ít thức ăn thì nó sẽ đi
+
+Hành động của con người và động vật Về cơ bản thì nó cũng vận hành như vậy Nếu bạn để ý một chút, sẽ thấy chúng ta thích làm nhiều lần Một việc nào đó khi việc ấy cho chúng ta phân thường Tạo cho ta cảm giác hạnh phúc Vui sướng. Ngược lại nếu không có phân thưởng Chúng ta sẽ làm ít đi hoặc là Không làm việc đó nữa. Có một câu nói rằng
+
+Điều gì khiến bạn hạnh phúc nhất định sẽ khiến bạn đau đớn Ở góc nhìn tâm lý học về ham muốn Câu này quả thực không sai Nếu mà hành động chỉ để đáp ứng sự mãn nguyện tức thời Bạn sẽ phải trả giá rất đắt Hành vi theo kiểu tìm kiếm lợi thế và tránh bất loại này cũng chính là lý thuyết về chủ nghĩa hành vi của Skinner. Ông tin rằng, sự phát triển hành vi khác nhau trong thế giới này có liên quan đến điều kiện của người thực hiện. Bạn sẽ duy trì hành vi bằng cách tăng phần thưởng và giảm phản hồi tiêu cực bằng cách làm ít đi.
+
+Đây chính là một thực tiễn cần chúng ta phải suy ngẫm và cũng là lời cảnh tỉnh của tác giả muốn gửi tới chúng ta. Nếu mà bạn chỉ sống giống như thuyết hành vi của Skinner thì hầu hết thời gian của chúng ta đều giống như con hải sâm. chúng ta sẽ rơi vào cặm bẫy của dục vọng lúc nào không hay. Mình giả dụ, khi mà bạn lướt điện thoại thì sẽ xem nó suốt nhiều giờ đồng hồ. Một khi bạn ăn đồ ngọt là sẽ không thể dừng lại. Chúng ta hay thích khoe khoang, thể hiện và một khi đăng hình được nhiều like trên mạng xã hội thì sẽ liên tục làm điều này.
+
+Thậm chí nếu lần sau ít like lần trước có người sẽ làm mọi cách để có được nhiều lời thích hơn. Động lực đằng sau khiến cho chúng ta làm những điều này đó chính là phần thưởng của Tophamin. Phần thưởng này nó sẽ liên tục gọi mở chúng ta. Tác giả cho rằng nếu cứ sống theo kiểu như vậy, sẽ chẳng khác gì tự xác. Mỗi ngày chúng ta đều biết rằng có rất nhiều hành vi không tốt nhưng mà vẫn cứ làm chỉ bởi vì những hành động đó luôn mang lại niềm vui thức thời cho tâm trí và thế là không sao kiểm soát được.
+
+Chính vì đầu này tác giả đã cố gắng tìm ra một cách để giúp cho chúng ta lấy lại được tự do thoát khỏi sự kiềm chế lâu dài của ham muốn. Bây giờ bạn hãy tưởng tượng một chút nếu bị lạc trong khu rừng đen kịt, bạn sẽ làm gì? Có nhiều người sẽ cố gắng đi nhanh hơn để làm cách nào đó thoát khỏi càng sớm càng tốt. Thế nhưng mà càng đi thì sẽ càng vòng vo và tiếp tục bị lạc hơn. Việc tiếp tục đi như thế này, nó chẳng khác gì việc bạn giải quyết vấn đề dựa trên phản xạ có điều kiện trong cuộc sống hàng ngày. Tác giả nói với chúng ta rằng cách duy nhất để thoát khỏi khu rừng đó là ngay lập tức phải dừng lại.
+
+Dừng lại để nhìn nhận phương hướng, tìm lối thoát. Tác giả Justin Brewer, một nhà lãnh đạo tư tưởng trong lĩnh vực kiểm soát. Trước đó thì ông đã chuyên nghiên cứu về sinh học phân tử, nhưng sau thì đã chuyển sang nghiên cứu về bộ não con người và tâm lý học. Ông đã nghiên cứu về một liệu pháp, một cách để ứng dụng vào đời sống thường ngày Giúp chúng ta thoát khỏi sự cám rỗ và không chế của Doberman Đó là tránh niệm Và khi lạc lối trong rừng đen
+
+Việc dừng lại cũng chính là bạn đang sử dụng tránh niệm Bạn sẽ thấy trong rất nhiều video mình đã chia sẻ về tránh niệm Ví dụ như sử dụng tránh niệm để hòa giải với đứa trẻ trong bạn Hòa giải với những điều khiến bạn tổn thương từ thời thơ bé Còn ở video này nó đặc biệt ở chỗ Bạn có thể hiểu rõ cụ thể bản thân mình suốt cuộc đang mong muốn điều gì Bạn có đang rơi vào cắm bẫy của dục vọng hay không? Và tránh niệm sẽ có thể giúp bạn tìm được sự tự do thực sự như thế nào
+
+Còn bây giờ, ở phần tiếp theo chúng ta sẽ tìm hiểu
+
+6 kiểu nghiện mà chúng ta thường mắc phải là gì
+
+Và 6 kiểu nghiện này, bạn còn mấy cái Quay lại một chút về hành động Mà chỉ dựa vào phân thưởng và phản hồi từ bên ngoài Để thiết lập hành vi thói quen Thì hành động đó nhất định sẽ có 1 thiên vị chủ quan Đây là cụm từ thường xuyên xuất hiện trong cuốn sách này
+
+Vậy, thiên vị chủ quan là gì?
+
+Lấy một ví dụ Đó là khi bạn cho rằng nên hút một điều thuốc vào lúc này Nhưng thực chất cơ thể của bạn không hề cần nó Bạn muốn hút vì não bộ đang tiết ra rất nhiều kích thích
+
+Đây là một đánh giá sai, mang tính chủ quan về bản thân
+
+Và hầu như tất cả các hành vi gây nghiện Tạo nên ham muốn, dục vọng Nó đều liên quan đến sự thiên vị chủ quan trong bạn Sự thiên vị chủ quan đầu tiên Giãn bạn tới một cơn nghiện cực kỳ nguy hiểm Mang tên là nghiện trực tiếp Nghiện trực tiếp là kiểu nghiện giống như vết ngứa trên tay bạn Dù bạn biết gãi sẽ bị xước, sẽ bị nhiễm trùng
+
+mà bạn vẫn cứ phải gãi. Đây là những việc mà bạn biết có hậu quả xấu mà bạn vẫn cứ cố tình tiếp tục làm Ví dụ như là hút thuốc, uống rượu quá mức chơi game ngày đêm sử dụng ma túy hay các chất kích thích Thậm chí là việc bạn nghiện xem điện thoại
+
+Vậy làm cách nào để vượt qua được cân nghiệp này
+
+một cách hiệu quả? Trong một cuốn sách có tên là The Self-Driven Tried mà mình đã từng đọc trước kia Nó nói về cách phát triển sự tự chủ Làm thế nào để nuôi dưỡng tính kỳ luật cho trẻ một cách khoa học và hiệu quả Trong đó nó có phân tích khả năng tự kiểm soát của con người Nằm ở vùng vỏ não trước chán
+
+Nhưng sự tự chủ ở vùng vỏ não trước chán Luôn có một kẻ thù lớn khiến nó không thể nào hoạt động tốt được Đó chính là áp lực Qua một nghiên cứu thấy rằng Một người khi gặp căng thẳng Anh ta sẽ lập tức trở về trạng thái gần giống với động vật Ví dụ, khi gặp áp lực Phản ứng đầu tiên của chúng ta là về nhà
+
+Nằm dài trên ghế sofa Xem TV Ăn bánh ăn kẹo Lúc này, vỏ não trước chán sẽ ngay lập tức dừng hoạt động nhường đường cho dopamine. Vì thế, nếu bạn gây áp lực tới bản thân để từ bỏ cơn nghiện trực tiếp như là thuốc lá, chất kích thích, chơi game, chơi điện thoại, ăn ngọt
+
+bạn sẽ rất khó thành công bởi vì vỏ não trước chán của bạn đang quá mệt mỏi Do đó, cách hiệu quả để loại bỏ cơn nghiện trực tiếp không phải là cố gắng tự chủ ép bản thân vào kỷ luật mà là phải có khả năng nhìn rõ bằng tránh niệm Như trong Phật học đã nói rằng Nếu một người không có khả năng nhìn rõ và nhận thức được
+
+thì người đó sẽ sống trong muội Tức là ngu mụi, mê mụi Nó đơn giản đó chính là sống trong vô minh Nếu những gì chúng ta làm hàng ngày Đều đến từ kích thích bên ngoài Thì sẽ như con hải xâm bị dẫn tới một nơi Nơi mà đang là trào lưu của xã hội Nơi mà người ta phổ biến làm gì
+
+Bạn sẽ làm theo Nơi mà Thorpermin điều khiển Bạn sẽ không thể cưỡng lại được Dần ra thì chúng ta sẽ sống chẳng khác gì Mới con hải xâm cả
+
+Vậy cách tốt nhất để cắt đứt cái mụi trong bạn
+
+Đó là phương pháp ring Trong tránh niệm
+
+Phương pháp này sẽ giúp cho chúng ta nhìn rõ cân nghiện
+
+cân nghiện đều đi theo dạng chữ U ngược. Khi cân nghiện từ từ đi lên đỉnh chữ U thì bạn cần phải làm hai việc. Đầu tiên đó là chữ cái ERROR, tức nghĩa là bạn phải nhận biết thư giãn, nhận biết những gì đang trỗi dậy trong bạn, chẳng hạn như là một cơn thèm sau đó thì đừng lo lắng gì cả, hãy giữ cho bản thân được thư giãn. Bước thứ 2 đó là chữ cái A nghĩa là CHOP NHẬN, CHO PHÉP. Đừng chỉ trích bản thân rằng cân nghiện lại đến rồi và bạn thật xấu hổ vì nó. Bạn chỉ cần biết sự thèm muốn hãy cho phép, chấp nhận nó. Thế là đủ. Sau đó thì cơ nghiệm của bạn sẽ lên đến đỉnh chữ U. Lúc này bạn cần phải làm hai bước cuối đó là chữ cái Y tức là khảo sát. Khảo sát toàn bộ cảm xúc,
+
+cảm giác của cơ thể và suy nghĩ hiện có điều gì nó đang xảy ra trong bạn rồi hãy tập trung vào cảm giác đó. Và cuối cùng đó là chữ cái N tức nghĩa là chú ý. Chú ý đến những gì đang xảy ra trong từng khoảnh khắc và trải nghiệm nó đang diễn ra như thế nào trong cơ thể của bạn. Bạn sẽ thấy rằng thông qua thực hành tránh niệm theo phương pháp này bạn không cần thoả mãn ngay khi lên đến đỉnh điểm, mà chỉ cần nhìn thẳng nhìn chăm chăm vào sự thèm muốn cảm giác mong muốn đó sẽ tự khắc dần dần, dần dần đi xuống
+
+và loại nghiện thứ 2 đó chính là nghiện công nghệ tác giả đã kể một chuyện như thế này ông và vợ của mình đến một bảo tàng để xem tranh và phát hiện ra một điều khôi hài rằng hầu hết mọi người đến đây đều chụp hình thay vì trăm chú thưởng thức tranh vẽ họ ngắm tranh một lúc rồi lập tức chủ bản thân thậm chí có người bắt đầu đăng hình lên mạng xã hội
+
+và cúi đầu để trả lời bình luận và xem lực thích.
+
+Tại sao chúng ta không trú tâm
+
+xem các tác phẩm nghệ thuật mà lại chơi với các phương tiện truyền thông? Đó chính là bởi vì chúng ta đã mắc phải cơn nghiện công nghệ Có một cơ sở khoa học đằng sau hoàng muốn này được Đại học Harvard chứng minh như sau
+
+Họ tìm một đám người thanh niên sẵn sàng cho những người tham gia khảo sát nhiều tiền hơn khi mà họ trả lời những câu hỏi về người khác còn cho ít tiền hơn để trả lời câu hỏi về chính bản thân họ
+
+Tuy nhiên, kết quả là người ta nguyện bỏ đi đến 17% số tiền vốn sẽ nhận được, chỉ để có thể nói nhiều hơn về bản thân mình. Ở đây, thực chất chúng ta nghiện sử dụng các phương tiện công nghệ đó là bởi vì điện thoại, iPad máy tính là để kết nối với nhiều người hơn
+
+và cũng thông qua kết nối này, chúng ta mới có thể dễ dàng thể hiện bản thân và nói về mình nhiều hơn. Hay là trong khi nói chuyện giao tiếp, bạn cứ để ý mà xem Người ta chỉ cần nghe bạn nói một điều gì đó cũng sẽ đáp lại rằng, mình cũng đã từng nên đó, mình cũng đã từng làm giống như vậy Nói chung cốt yếu là để xoay về chủ đề
+
+của họ. Bởi vì người ta rất thích nói về bản thân Các nhà khoa học theo dõi bộ não của con người và phát hiện ra rằng, khi mà nói về chính mình, hạt nhân accumbens sẽ ráng lên. Ở đây có một yếu tố giống như một chất keo khiến mong muốn sử dụng công nghệ trong bạn khó bị rời bỏ. Bởi vì nó sẽ được củng cố một cách ngắt đoạn
+
+Trong thị trường ngày nay, có những cuốn sách ngập tràn dạy cho chúng ta cách làm thế nào để cưa đồ đối tượng. Ví dụ như, đối với người bạn đang theo đùa trong thời gian đầu thì bạn phải quan tâm giãn cách, chứ không nên hóa ra cách này là lợi dụng việc thiên vị chủ quan trong não bộ con người. Vì cách mấy ngày hỏi thăm một lần cũng giống như là việc bạn đăng hình cứ chốc chốc bạn phải mở ra, xem bao nhiêu like, bao nhiêu bình luận và những khoảnh khắc ngắt đoạn như vậy
+
+nó sẽ cho bạn tâm lý hưng phấn để bạn tiếp tục theo dõi phản ứng từ người ngoài tới bạn Và thực chất đây cũng chính là thiên vị chủ quan
+
+Vậy chúng ta có thể học cách vứt điện thoại iPad sang một bên
+
+và không chạm tới nó trong vòng 3-4 giờ và cũng có thể dựa trên phương pháp brain mà mình đã trình bày ở trên để tập trung vào cảm giác thèm muốn này, rồi dần dần cho nó từ từ lắng xuống. Lại nghiện thứ 3 đó là nghiện bản thân. Thực ra chứng nghiện công nghệ cũng liên quan đến nghiện bản thân nhưng nghiện bản thân nó không chỉ đơn thuần là thích thể hiện mình mà còn là việc bạn thiết lập bản thân một cách chủ quan. Cái tôi của chúng ta sẽ có xu hướng hình thành qua việc nhận phản hồi
+
+bằng hình thức phần thường trong suốt cuộc đời Tức là tôi là người như thế nào? Sẽ dựa vào việc tôi nhận được bao nhiêu phản hồi trước đó Ví dụ các bạn xem các video của Perversion và phản hồi kênh mang lại rất nhiều điều tốt đẹp cho cộng đồng thì có thể mình sẽ thiết lập bản thân và dần dần càng củng cố con người mình theo những phản hồi này
+
+Nhưng ngược lại, sẽ có những phản hồi tiêu cực như người khác nói chúng ta lười biếng kém cỏi nịnh bọ xấu xí lỗi thòi v.v Chúng ta cũng rất dễ lên cơn nghiện
+
+với những phản hồi như thế này và dần dần thiết lập bản thân theo hướng đó Mặc dù những phản hồi như thế này nó rất phiến diện và chưa chắc chắn là đã đúng
+
+Vậy một người
+
+có tâm trí khỏe mạnh nên là người như thế nào đó là người phải thiết lập được bản thân ở danh giới giữa hai Thái Cực đó nghĩa là ta vẫn biết người khác đánh giá ta có cái tốt, có cái xấu nhưng mà ta sẽ giữ mình ở trạng thái trung gian nếu một người ở Thái Cực nghiện phản hồi tích cực người đó sẽ rất dễ mắc chứng
+
+rối loạn nhân cách ái kỷ
+
+trong cuốn sách Tạm Dịch Là
+
+làm thế nào để đối phó với những tính cách khó khăn của một bác sĩ tâm lý người Pháp nó đã phân tích về những người có tính cách như này và kiểu người rối loạn nhân cách ái kỷ Sẽ dễ dàng cảm giác rối nhất Vì những người này thông thường họ đi đâu cũng sẽ phàn nàn Sẽ cảm thấy cái này không đúng, cái kia không tốt Hơn hết là họ luôn cho rằng bản thân mình phải chết hết
+
+Hay phóng đại mọi chuyện Giả dụ người khác trễ hẹn 5 phút Thì họ sẽ cho rằng người kia không tôn trọng mình Và đặc biệt kiểu người này sẽ không bao giờ thừa nhận sai lầm Và dễ nổi nóng khi mà bị chỉ ra lỗi sai Còn ở cực đối ngược với nó Là những người dối lại nhân cách danh giới Kiểu người này thì dễ tiếp thu những phản hồi tiêu cực về bản thân
+
+Đến nỗi mà họ không còn là chính mình nữa Họ luôn sợ bị từ chối, sợ bị chia cắt với người thân yêu Tâm lý của họ không ổn định và thường có cảm giác trống rỗng dai dặn Thế nên họ sẽ sử dụng việc thu hút chú ý như là một cách lớp đầy khoảng trống trong thâm tâm Chỉ để có được một liều dopamine ngắn hạn Và đây cũng đều là những thiên vị chủ quan cho bản thân
+
+Vậy cách tốt nhất để thoát ra khỏi đó là gì?
+
+Đó là ngay lập tức phải dừng lại Lấy la bàn tránh niệm để trấn tĩnh bản thân Đối mặt với những lời nhận xét phản hồi từ bên ngoài Trước tiên là hãy để bản thân yên tĩnh, đừng vội tự đắc Cũng đừng vội phán xét Tức giận, khủng hoảng Hãy tĩnh tâm lại Biết rõ rằng đơn giản đó là những lời nhận xét thôi
+
+Chấp nhận nó và để ở đó Khi dùng tránh niệm để nhìn trực tiếp về những lời nhận xét của người ngoài Bạn sẽ luôn có thể giữ mình vào trạng thái trung gian Tiếp tục loại nghiện thứ 4 mà rất nhiều người trong chúng ta mắc phải Đó là nghiện phân tâm
+
+Nghiện phân tâm là gì?
+
+Đó là con người sẽ dễ dàng rơi vào trạng thái mơ mộng Mất tập trung đi đâu vân vân theo tổng kê thì một người làm việc công sở sẽ có tới 50 phần trăm thời gian bị phân tâm việc hay để bản thân ở hiện tại nhưng lại suy nghĩ về những điều chưa xảy ra thực chất đó là một cơn nghiện Bởi vì khi bạn nghĩ như vậy não của bạn sẽ kích thích với cảm giác hạnh phúc trong mơ mộng Cảm giác hạnh phúc này cũng là một cảm giác thật của bạn Nhưng mà bạn cần phải phân biệt được Hạnh phúc trong mơ mộng và hạnh phúc trong thực tế Vì khi kết thúc cơn mơ cuộc sống trước mắt bạn nó đã trôi đi Mỗi giây phút bạn nghiện phân tâm đều sẽ phải đánh đổi với mỗi giây phút ở thực tại quan
+
+Cái niềm vui hạnh phúc trong mơ mộng đó Nó là một kiểu đánh lừa tinh vi Vì nó rất dễ khiến bạn trở nên căng thẳng hơn Bởi vì khi giấc mơ chấm dứt Việc trước mắt trong thực tế Nó vẫn chưa được hoàn thành Bạn sẽ dễ dàng trở nên lo âu Ở đây có một kiến thức khoa học liên quan
+
+Đừng nói tới qua cuốn sách Tư duy nhanh và chậm Não bộ của chúng ta có 2 hệ thống tư duy Hệ thống 1 và hệ thống 2 Nếu chúng ta suy nghĩ nghiêm túc Suy nghĩ sâu và tập trung Thì có nghĩa là ta đang sử dụng Vỏ não chán lưng bên
+
+Còn khi đang suy nghĩ vu vơ và phân tâm Thì vỏ não đai và vỏ thủy giữa chán đang hoạt động Nơi này nó được thiết lập theo một chế độ mặc định Nếu bạn rất khó để bình tĩnh, tập trung Thì có nghĩa là chế độ mặc định của bạn luôn được kích hoạt Bất cứ ai có vỏ não đai hoạt động sôi nổi Đều là những người bình thường chưa luyện tập tránh niệm Hay là thiền tránh niệm
+
+Còn đối với những người có thói quen thiền định lâu dài Và những người rèn luyện khả năng tập trung cao Thì khả năng hoạt động ở vỏ não đai sẽ bị chậm lại Thậm chí là nó rất thấp Từ đó họ không dễ bị phân tâm Vì vậy, cách tốt nhất để không bị nghiện phân tâm Đó là luyện tập tránh niệm Về phương pháp cụ thể
+
+Mình khuyên bạn hãy tìm đọc các cuốn sách của bậc thầy tránh niệm Đó là Thiền Sư Thích Nhất Hạnh
+
+Tiếp theo đó là nghiện suy ngẫm
+
+Nhưng suy ngẫm ở đây không phải là suy nghĩ về những điều sắp xảy ra Mà là những mong muốn cố gắng kiểm soát một tình huống Hoặc cuộc sống của mình Kiểu nghiện này thường xảy ra với những người phải tham gia vào một cuộc thi thể thao, âm nhạc, nghệ thuật hay học thuật nào đó Những suy nghĩ để kiểm soát thắng thua là một việc không sai Nhưng mà nếu suy ngẫm quá nhiều bạn sẽ rơi vào trạng thái nghiện và dẫn đến ám ảnh Và lúc này tránh niệm là cách tốt nhất giúp bạn tránh khỏi con nghiện Một khi có thể thư giãn và ý thức ở những khoảnh khắc hiện tại
+
+Tập trung vào hiện tại Những suy ngẫm về thắng thua nó sẽ không còn là rào cả Và ngược lại Nó sẽ giúp bạn làm rất tốt và hiệu quả Loại nghiện cuối cùng đó là nghiện yêu Một người bị rơi vào cặm bẫy nghiện yêu là một người luôn mong cầu cảm giác của họ trong tình cảm sẽ tồn tại mãi mãi Nhưng thực tế, khi tình yêu kết thúc, hóc môn dần sẽ không tiết ra Mọi thứ trở lại bình thường
+
+Nếu không chấp nhận được thực tế này thì người đó sẽ không ngừng tìm kiếm một tình yêu khác cho mình Và việc này nó chỉ để bộ não tiết ra dopamine lấp đầy trống trải, cô đơn, thoả mãn mong muốn của bản thân Và cũng tương tự khi một người có thói quen theo đuổi tình cảm Thì vỏ não đai của anh ta hoạt động rất tích cực Khi theo đuổi thì anh ta sẽ rất hưng phấn duy trì tình cảm biệt lâu. Vậy làm thế nào để cho vỏ não đai bớt bị kích động? Tác giả khuyên rằng, thay vì dành tình yêu cho một người, chúng ta hãy phát triển lòng chắc ẩn. Đây cũng chính là tình yêu nhưng nó nhằm đến nhiều người hơn.
+
+Nếu chỉ tập trung vào tình yêu cho một người, chúng ta sẽ bỏ lỡ đi ý nghĩa sâu hơn của tình yêu. Nhìn từ góc độ này, bạn sẽ thấy khi quá tập trung yêu một người thì đúng hơn là người đó đang yêu bản thân mình hơn bao giờ hết Bởi vì nội tại luôn không đầy đủ nên mới cần tìm kiếm một người nào đó ở bên để bù đắp cân bằng và thoải mãn Khi đó, con người trong mối quan hệ sẽ rất dễ trở nên ích kỷ Đương nhiên, ở đây không phải khuyên bạn Hãy từ bỏ yêu thương một người Mà khuyên bạn đừng để cơn nghiện yêu khiến bạn quá rồn sức Và tập trung vào cảm giác yêu
+
+Theo đuổi một người nào đó Hãy tập trung nhiều hơn vào việc phát triển lòng từ bi Lòng chắc ẩn Cho đi nhiều hơn Và dành tình yêu tới nhiều người nữa Việc luyện tập ngồi tĩnh lặng Và duy trì tránh niệm Sẽ giúp bạn giảm bớt đi sự ích kỷ của bạn ngã
+
+Và gian luyện tình yêu thương của bạn Tới những người xung quanh sẽ nhận ra một điều cốt yếu, đó là cách chúng ta tìm kiếm hạnh phúc. Từ trước đến nay đang đi theo một hướng sai lầm như Đức Phật đã dạy trong con mắt của chúng sinh, đó là hạnh phúc nhưng trong mắt Hòa Thượng, đó lại là đau khổ Trong mắt Chúng Sinh, đó là đau khổ nhưng trong mắt Hòa Thượng, đó lại là hạnh phúc
+
+Hay trong chương 12 Kiểm Dục của Đạo Đức Kinh Lão Tử cũng chỉ ra rằng 5 màu khiến người muốn mắt 5 rộng khiến người điếc tai 5 mùi khiến người tê lưỡi Rồi rong săn bát khiến lòng người hóa cuồng Của cả hiếm có khiến người sinh tai hại Những gì bạn cho là niềm hạnh phúc
+
+Có lẽ mới là nguyên do gieo rắc đau khổ Ngày xưa con người ta dòng ruồi kiếm ăn Để thỏa mãn cơn đói ngay lập tức Bây giờ chúng ta dòng ruồi để tìm kiếm vật chất bên ngoài Sự kích thích giác quan Để khiến bản thân được vui sướng thức thì Vạn thấy không? Từ Phật giáo, đạo gia Hay tâm lý khoa học bây giờ
+
+Tất cả đều cảnh tỉnh chúng ta rằng Hãy thôi ngay việc theo đuổi hạnh phúc giả tạo Cả cuốn sách này, nó cũng xoay quanh việc khuyên bạn phải thực hành tránh niệm Phải tập trung hoàn toàn vào khoảnh khắc hiện tại Nhưng cụ thể hơn nữa là cần phải thực hiện tránh niệm như thế nào Làm thế nào để có thể tập trung vào hiện tại
+
+Vậy thì việc đầu tiên tác giả đã khuyên rằng
+
+Hãy kết hợp 2 ngọn đuốc, tránh niệm và niềm yêu thích Để ngọn lửa được đốt lên Tinh thần át sẽ tự nhiên tập trung
+
+Đây là một sự kết hợp cực kỳ quan trọng và thú vị trong phương pháp tránh niệm mà tác giả đã đưa ra Bạn có bao giờ tự hỏi khi nào chúng ta khó thập trung nhất không? Đó là khi tâm trí chúng ta cảm thấy buồn trồn, hồi hộp. Cảm giác này thôi thúc chúng ta mong muốn có nhiều hơn nữa một thứ gì đó mà bạn chưa thoải mãn được. Điều này sẽ khiến tâm trí bạn trở nên phấn khích và con người cũng cứ ngỡ rằng cảm giác phấn khích này cũng chính là niềm vui.
+
+Giả dụ qua 1 tháng làm việc bỗng nhiên xếp thưởng cho bạn 5 triệu bạn chắc chắn sẽ rất vui mừng và phấn khỏi đúng không? Nhưng đằng sau sự phấn khích này nó luôn mang theo một sự khó chịu đó là cảm giác hồi hộp Thôi thúc bạn muốn nhiều hơn nữa, bạn sẽ nghĩ rằng lần này là 5 triệu
+
+Vậy thì mình sẽ cố gắng hơn để lần sau có thể được 6-7 triệu
+
+Hay là bạn cũng có thể nghĩ rằng mình được thưởng người khác thì không
+
+Vậy là mình thật tài giỏi
+
+Mình sẽ phải cố gắng hơn nữa để tiếp tục phát huy Thực chất suy nghĩ này cũng chỉ là Bạn đang muốn giữ hình ảnh yêu Việt của mình trong mắt sếp và mọi người Bạn thấy đấy, đây là hậu quả của niềm vui đến từ sự phân khích Niềm vui đến từ lòng hiếu kỳ thì nó sẽ ổn định hơn Hiếu kỳ ở đây không phải là tò mò
+
+Tại sao người ta lại thường tiền cho bạn
+
+Mà là đặt những câu hỏi cho chính bạn, cho việc bạn đang làm ở khoảnh khắc hiện tại Giống như Leonardo da Vinci Trong những năm cuối đời, ông ấy không vội gửi bán những bức tranh Mà ông vẫn đang suy nghĩ làm thế nào để bức tranh đó đẹp hơn Ông vẫn đem lòng hiếu kỳ để nghiên cứu hình dạng lưỡi của con chim gõ kiến Và khi làm như vậy, ông sẽ hoàn toàn không có căng thẳng hay áp lực Quay lại với cuộc sống từng nhật Nếu bạn làm bất cứ việc gì có thể thu hút lòng hiếu kỳ của bạn
+
+Ví dụ như khi làm bài tập, khi làm việc, khi đi du lịch, khi ăn cơm Với lòng hiếu kỳ nó sẽ giúp bạn có thể nhìn sâu Làm thế nào để có thể khiến việc này có ý nghĩa hơn Làm thế nào để tìm ra cách tốt nhất Khi có một tâm trí hiếu kỳ Bạn làm gì cũng cảm thấy vui vẻ hơn Mà niềm vui đó mới là niềm vui thực sự Nó sẽ không phản hội bạn
+
+Từ đó, tự khắc, bạn sẽ có thể duy trì được sự tập trung Và không phải ép bùa bản thân nữa
+
+Phương pháp thứ 2 có đề cập đến là
+
+Kết hợp tránh niệm với sự tử tế Bạn có nhận thấy rằng Ngày càng có nhiều người xấu tính chửi bới, chút giận trên mạng xã hội hay không? Kinh nghiệm bản thân Chúng ta đặc biệt thích xem người khác nói gì về mình Lúc này Bất cứ điều gì
+
+kèm với cảm xúc tức giận được phát biểu ra đều có nhiều khả năng thu hút người khác Đối với những người chỉ cần gặp điều không đủ ý mình mà ngay lập tức có thể bộc lộ ra sự tức giận bằng cách chỉ trích phê phán người khác
+
+Họ tưởng rằng mình đang có thể thoả mãn cơ nghiệm bản thân Nhưng thực chất sự tức giận đó sẽ khiến cho họ đau khổ Bởi vì họ sẽ không bao giờ Họ học được cách bình tĩnh và nhìn nhận khách quan
+
+Bạn đừng xem thường sự khác biệt giữa xấu tính Và tốt bụng, nó sẽ quyết định tâm trí của bạn Thư thái thanh thản đến mức nào
+
+Ngoài ra, quan trọng không kém
+
+Chúng ta phải học cách từ tế Nhưng hãy từ tế thực sự khi bạn đối xử tốt với người khác Mà người ta không đáp ứng lại giống như bạn đã từng làm Cũng chẳng thành vấn đề gì cả Vì nếu bạn để bản thân thức giận Không hài lòng vì điều này Thì lòng từ tế của bạn chỉ là một cuộc trao đổi Để thoả mãn bản thân mà thôi
+
+Vì vậy, ở đây phải phát triển lòng tốt bụng và tử tế trong bạn Những người có tấm lòng rộng mở và nhân từ luôn có thể dễ dàng ngồi yên và tập trung
+
+Ngoài ra tác giả còn đưa ra 2 phương pháp nữa
+
+Đó là đi vào trạng thái dòng chảy Và luyện tập khả năng phục hồi bằng sự kiên cường Trạng thái dòng chảy nói một cách đơn giản Là bạn làm việc gì đó thời gian trôi qua mà bạn không hề hay biết Lúc này bạn đã tập trung hoàn toàn tâm ý vào việc đó
+
+Trong cuốn sách Flow đã trình bày rất rõ và chi tiết về vấn đề này
+
+Bạn có thể tìm đọc hoặc tìm hiểu thông qua video trước đó mình đã từng làm về cuốn sách này Và chỉ khi quên đi chính mình, bạn mới có thể hòa nhập vào cuộc sống Và chỉ khi trong đầu không còn nhiều tranh luận, vướng mắt và suy tư Thì thời điểm bạn đang làm việc gì đó nó mới không trở nên vô ích Cách luyện tập để đi vào trạng thái dòng chảy Không những giúp cho bạn có thể duy trì được tránh niệm Mà còn khiến bạn tạo nên năng lực cốt lõi để sống thành công và hạnh phúc hơn
+
+Cuối cùng tác giả đã chỉ ra
+
+Thời đại bây giờ con người ai cũng có một khả năng rất giỏi Đó là khả năng phản ứng Khi bị kích thích Là lập tức phản ứng Đây chính là đặc điểm chung Được tuân theo nguyên tắc phản xạ Có điều kiện của Skinner Chúng ta đã nuôi dưỡng bản thân
+
+Bởi thông tin và cảm xúc từ bên ngoài Từ thuở thơ ấu Đến khi trưởng thành Do đó cái hố của sự thèm muốn Sẽ ngày càng bị đau sâu hơn
+
+Vậy chúng ta phải loại bỏ khả năng này
+
+Bằng cách tăng cường khả năng phục hồi Bằng sự kiên cường Khả năng phục hồi
+
+Bằng sự kiên cường là gì?
+
+Có nghĩa là Bạn phải thôi việc Phản ứng ngay lập tức với những kích thích từ bên ngoài Mà phải chọn cách buông tay, buông bỏ đi Những tham sân si trong bạn Và những người có thể buông bỏ thực sự Thì đều rất kiên cường Việc để luyện tập ý chí kiên cường
+
+Có thể buông bỏ những thèm muốn trong bạn Theo mình trước tiên hãy bắt đầu từ việc hiểu rõ bản thân Hằng ngày đọc sách cũng là cách tốt nhất Để bạn có thể hiểu chính mình Khi đó bạn có thể thoát khỏi Những thao túng của phản ứng được đặt mặc định trong bạn Rồi trên đây là những gì khô lợi nhất Của cuốn sách này mà mình muốn gửi tới các bạn
+
+Mình thấy rằng cuốn sách này rất giống với cuốn Why Purism is True mà mình đã từng làm 2 phần ở video số 24 và 26. Cả hai cuốn sách này đều đang giúp chúng ta trả lời những câu hỏi, cũng là vấn đề của cả một đời người phải cố gắng vượt qua. Đó là tại sao chúng ta luôn mong cầu liên tục để thỏa mãn ngay lập tức mà rồi lại cảm thấy chống rỗng? Suốt cuộc là chúng ta đang mong muốn điều gì? Ai sở hiệu bộ não của bạn? Và cuối cùng ai đang đau khổ? Chúng ta luôn khao khát nhiều hơn và không chịu khuất phục trước những gì mang lại nhẹ nhõm, thỏa mãn tạm thời. Vì thế rơi vào một chu kỳ không bao giờ hài lòng Tất cả những điều này đều khiến con người sẽ bỏ lỡ khoảnh khắc trọn vẹn của hiện tại Và cuốn sách này cũng như các cuốn sách về tránh niệm mà mình đã giới thiệu
+
+Mình tin rằng nó sẽ giúp bạn giải phóng khởi siêng xích của ảo giác và cặp bẫy của dục vọng Mong rằng con đường tránh niệm mà bạn sắp bước tới Sẽ dẫn bạn đến gần hơn với trái tim và thực tại của mình
+
+Cuối cùng, giúp bạn lấy lại sự tự do khỏi những khống chế bấy lâu nay của những ham muốn Cảm ơn bạn Cảm ơn bạn đã lắng nghe Nếu bạn cảm thấy video này có ích, hãy chia sẻ tới những người cần nó Hãy ủng hộ mình bằng một nút like Nhấn nút theo dõi Mở nút chuông thông báo để đón xem những video mới nhất hàng tuần Một lần nữa
+
+Cảm ơn bạn Hẹn gặp lại các bạn ở những video tiếp theo

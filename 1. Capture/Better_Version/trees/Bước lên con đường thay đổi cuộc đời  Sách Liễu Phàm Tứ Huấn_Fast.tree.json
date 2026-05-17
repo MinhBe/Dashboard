@@ -1,0 +1,67 @@
+{
+  "source_type": "youtube",
+  "word_count": 4137,
+  "estimated_leaf_nodes": 7,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 7 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cũng_là_một_dạng_lỗi_lầm_cần_xám_gối",
+      "label": "Cũng là một dạng lỗi lầm cần xám gối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "vậy_nên_lỗi_do_tâm_tạo_ác_phải_từ_tâm_mà_sửa",
+      "label": "Vậy nên, lỗi do tâm tạo ác phải từ tâm mà sửa.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "điều_thứ_hai_đó_là_sám_hối_xử_lỗi_bằng_tâm_tôn_kính",
+      "label": "Điều thứ hai đó là sám hối xử lỗi bằng tâm tôn kính.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "điều_thứ_hai_đó_là_sám_hối_xử_lỗi_bằng_tâm_tôn_kính_item_1",
+          "label": "[Item 1 of Điều thứ hai đó là sám hối xử lỗi bằng tâm tôn kính. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_đó_là_sám_hối_xử_lỗi_bằng_tâm_tôn_kính_item_2",
+          "label": "[Item 2 of Điều thứ hai đó là sám hối xử lỗi bằng tâm tôn kính. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_những_hành_động_ấy_có_đáng_chê_trách_không",
+      "label": "Vậy những hành động ấy có đáng chê trách không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "có_thể_là_một_mình_hoặc_kết_hợp_sức_mạnh_của_nhiều_người",
+      "label": "Có thể là một mình hoặc kết hợp sức mạnh của nhiều người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    }
+  ]
+}

@@ -1,0 +1,271 @@
+{
+  "source_type": "youtube",
+  "word_count": 6699,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tiếp_theo_đó_nó_có_thể_khiến_bạn_gặp_rắc_rối",
+      "label": "Tiếp theo đó, nó có thể khiến bạn gặp rắc rối",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "tiếp_theo_đó_nó_có_thể_khiến_bạn_gặp_rắc_rối_item_1",
+          "label": "[Item 1 of Tiếp theo đó, nó có thể khiến bạn gặp rắc rối — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_đó_nó_có_thể_khiến_bạn_gặp_rắc_rối_item_2",
+          "label": "[Item 2 of Tiếp theo đó, nó có thể khiến bạn gặp rắc rối — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "giao_tiếp_bằng_cảm_xúc_là_gì",
+      "label": "Giao tiếp bằng cảm xúc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "cuối_cùng_sau_những_cảm_xúc_tệ_hại_như_vậy_bạn_muốn_sống_khá",
+      "label": "Cuối cùng, sau những cảm xúc tệ hại như vậy, bạn muốn sống khác đi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "cảm_xúc_là_một_con_dao_hai_lưỡi",
+      "label": "Cảm xúc là một con dao hai lưỡi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_thì_hiểu_rõ_những_điều_này_để_làm_gì",
+      "label": "Vậy thì hiểu rõ những điều này để làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "họ_ở_bên_ngoài_là_một_người_chứng_trạng_giải_quyết_ổn_thỏa_c",
+      "label": "Họ ở bên ngoài là một người chứng trạng giải quyết ổn thỏa công việc,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "bên_cạnh_đó_họ_sẽ_bị_kích_động",
+      "label": "Bên cạnh đó, họ sẽ bị kích động.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cuối_cùng_đó_là_cha_mẹ_kiểu_từ_chối",
+      "label": "Cuối cùng đó là cha mẹ kiểu từ chối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_thì_nguyên_nhân_mù_chốt_ở_đây_là_lịch_sử_đã_lặp_lại",
+      "label": "Vậy thì nguyên nhân mù chốt ở đây là lịch sử đã lặp lại.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tại_sao_lại_vậy",
+      "label": "Tại sao lại vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_đối_mặt_với_bức_tường_thành_cứng_nhắc_này",
+      "label": "Vậy thì bây giờ, đối mặt với bức tường thành cứng nhắc này,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "tại_sao_bố_mẹ_lại_đối_xử_với_tôi_như_vậy",
+      "label": "Tại sao bố mẹ lại đối xử với tôi như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_thì_cách_tốt_nhất_đó_là_dừng_lại_một_phút",
+      "label": "Vậy thì cách tốt nhất đó là dừng lại một phút,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "vậy_nên_bạn_cần_cho_mình_thật_nhiều_cơ_hội_để_luyện_tập",
+      "label": "Vậy nên bạn cần cho mình thật nhiều cơ hội để luyện tập,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_thì_muốn_từ_chối_một_cách_lý_trí",
+      "label": "Vậy thì, muốn từ chối một cách lý trí",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "tư_duy_phản_biệt_chỉ_là_một_công_cụ_quan_trọng",
+      "label": "Tư duy phản biệt chỉ là một công cụ quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "đang_tạo_ra_không_gian_cho_bản_thân",
+      "label": "đang tạo ra không gian cho bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "đây_cũng_là_một_phương_pháp_tự_bảo_vệ",
+      "label": "Đây cũng là một phương pháp tự bảo vệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "tại_sao_con_lại_như_thế_này",
+      "label": "Tại sao con lại như thế này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "khi_bạn_trưởng_thành_cha_mẹ_cũng_sẽ_trưởng_thành",
+      "label": "Khi bạn trưởng thành, cha mẹ cũng sẽ trưởng thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "đầu_tiên_là_quyền_thiết_lập_danh_giới",
+      "label": "Đầu tiên là quyền thiết lập danh giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "2_quyền_không_bị_đe_dọa_cảm_xúc",
+      "label": "2. Quyền không bị đe dọa cảm xúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 184",
+      "children": [
+        {
+          "key": "2_quyền_không_bị_đe_dọa_cảm_xúc_item_1",
+          "label": "[Item 1 of 2. Quyền không bị đe dọa cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "2_quyền_không_bị_đe_dọa_cảm_xúc_item_2",
+          "label": "[Item 2 of 2. Quyền không bị đe dọa cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "3_quyền_tự_chủ_cảm_xúc_và_tự_do_tinh_thần",
+      "label": "3. Quyền tự chủ cảm xúc và tự do tinh thần",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 188",
+      "children": [
+        {
+          "key": "3_quyền_tự_chủ_cảm_xúc_và_tự_do_tinh_thần_item_1",
+          "label": "[Item 1 of 3. Quyền tự chủ cảm xúc và tự do tinh thần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "3_quyền_tự_chủ_cảm_xúc_và_tự_do_tinh_thần_item_2",
+          "label": "[Item 2 of 3. Quyền tự chủ cảm xúc và tự do tinh thần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "4_quyền_lựa_chọn_mối_quan_hệ",
+      "label": "4. Quyền lựa chọn mối quan hệ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 192",
+      "children": [
+        {
+          "key": "4_quyền_lựa_chọn_mối_quan_hệ_item_1",
+          "label": "[Item 1 of 4. Quyền lựa chọn mối quan hệ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "4_quyền_lựa_chọn_mối_quan_hệ_item_2",
+          "label": "[Item 2 of 4. Quyền lựa chọn mối quan hệ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "5_quyền_tự_chủ",
+      "label": "5. Quyền tự chủ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 196",
+      "children": [
+        {
+          "key": "5_quyền_tự_chủ_item_1",
+          "label": "[Item 1 of 5. Quyền tự chủ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "5_quyền_tự_chủ_item_2",
+          "label": "[Item 2 of 5. Quyền tự chủ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_quyền_chăm_sóc_và_bảo_vệ_chính_mình",
+      "label": "Cuối cùng, quyền chăm sóc và bảo vệ chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    }
+  ]
+}

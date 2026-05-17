@@ -1,0 +1,53 @@
+{
+  "source_type": "youtube",
+  "word_count": 3898,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "trong_cuốn_sách_này_đã_chỉ_ra_rằng",
+      "label": "Trong cuốn sách này đã chỉ ra rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "chỉ_là_một_công_cụ_bị_lợi_dụng",
+      "label": "Chỉ là một công cụ bị lợi dụng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "chỉ_là_một_công_cụ_bị_lợi_dụng_item_1",
+          "label": "[Item 1 of Chỉ là một công cụ bị lợi dụng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "chỉ_là_một_công_cụ_bị_lợi_dụng_item_2",
+          "label": "[Item 2 of Chỉ là một công cụ bị lợi dụng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nên_mỗi_khi_quan_sát_thấy_cảm_giác",
+      "label": "Vậy nên mỗi khi quan sát thấy cảm giác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "đây_mới_là_trạng_thái_tốt_nhất_cho_một_người_yêu_tú_bản_lĩnh",
+      "label": "Đây mới là trạng thái tốt nhất cho một người yêu tú bản lĩnh thực sự.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    }
+  ]
+}

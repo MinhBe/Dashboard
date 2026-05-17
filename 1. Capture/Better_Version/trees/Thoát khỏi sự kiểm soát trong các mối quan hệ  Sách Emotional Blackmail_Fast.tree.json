@@ -1,0 +1,179 @@
+{
+  "source_type": "youtube",
+  "word_count": 5851,
+  "estimated_leaf_nodes": 23,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 23 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "sữa_thao_túng_và_cam_chiêu",
+      "label": "sữa thao túng và cam chiêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "cuối_cùng_thoát_khỏi_mê_cung",
+      "label": "cuối cùng thoát khỏi mê cung",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đầu_tiên_mình_sẽ_dùng_cụ_từ",
+      "label": "Đầu tiên mình sẽ dùng cụ từ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "và_chúng_ta_có_thể_dễ_dàng_nhận_ra_ngay",
+      "label": "Và chúng ta có thể dễ dàng nhận ra ngay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "ấy_lại_là_một_quá_trình_thao_túng",
+      "label": "ấy lại là một quá trình thao túng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "đầu_tiên_đó_là_đưa_ra_yêu_cầu",
+      "label": "đầu tiên đó là đưa ra yêu cầu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "cuối_cùng_sau_những_căng_thẳng_và_giằng_co",
+      "label": "Cuối cùng, sau những căng thẳng và giằng co",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "đầu_tiên_hành_vi_theo_lối_suy_nghĩ_nhị_nguyên",
+      "label": "Đầu tiên, hành vi theo lối suy nghĩ nhị nguyên.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "vì_sợ_bị_gắn_mác_là_không_đoan_chính",
+      "label": "vì sợ bị gắn mác là không đoan chính.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "đây_là_một_ví_dụ_điển_hình_của_lối_suy_nghĩ_nhị_nguyên",
+      "label": "Đây là một ví dụ điển hình của lối suy nghĩ nhị nguyên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "nỗi_sợ_cam_kết_hoặc_là_một_vấn_đề_tâm_lý_tiêm_ẩn_nào_đó",
+      "label": "nỗi sợ cam kết hoặc là một vấn đề tâm lý tiêm ẩn nào đó.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "so_sánh_chính_là_một_trong_những_hình_thức",
+      "label": "So sánh chính là một trong những hình thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "tại_sao_không_được_như_họ",
+      "label": "Tại sao không được như họ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_thì_tại_sao_chúng_ta_lại_bị_đau_khổ",
+      "label": "Vậy thì tại sao chúng ta lại bị đau khổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_thì",
+      "label": "Vậy thì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "sẽ_bị_nằm_giữ_là_gì",
+      "label": "Sẽ bị nằm giữ là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "có_4_kiểu_người_như_sau_sẽ_rất_dễ_bị_thao_túng_tình_cảm",
+      "label": "Có 4 kiểu người như sau sẽ rất dễ bị thao túng tình cảm.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 128",
+      "children": [
+        {
+          "key": "có_4_kiểu_người_như_sau_sẽ_rất_dễ_bị_thao_túng_tình_cảm_item_1",
+          "label": "[Item 1 of Có 4 kiểu người như sau sẽ rất dễ bị thao túng tình cảm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_4_kiểu_người_như_sau_sẽ_rất_dễ_bị_thao_túng_tình_cảm_item_2",
+          "label": "[Item 2 of Có 4 kiểu người như sau sẽ rất dễ bị thao túng tình cảm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_cụ_thể_cách_ứng_phó_trước_thao_túng_tình_cảm_sẽ_như",
+      "label": "Vậy thì cụ thể cách ứng phó trước thao túng tình cảm sẽ như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "vậy_nên_họ_phải_trở_nên_cứng_rắn",
+      "label": "Vậy nên họ phải trở nên cứng rắn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "chiến_lược_đầu_tiên_đó_là_bỏ_đi_sự_giao_tiếp_phòng_thủ",
+      "label": "Chiến lược đầu tiên đó là bỏ đi sự giao tiếp phòng thủ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "ngoài_ra_bạn_có_thể_khơi_gợi_sự_tò_mò",
+      "label": "Ngoài ra bạn có thể khơi gợi sự tò mò",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "điều_quan_trọng_hơn_hết_là_bạn_học_được_cách_yêu_người_khác",
+      "label": "Điều quan trọng hơn hết là bạn học được cách yêu người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    }
+  ]
+}

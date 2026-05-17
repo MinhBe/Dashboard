@@ -1,0 +1,185 @@
+{
+  "source_type": "youtube",
+  "word_count": 5812,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "ngoài_ra_chúng_ta_sẽ_thấy_một_quyền_lực_ở_tầng_cao_hơn_nữa",
+      "label": "Ngoài ra chúng ta sẽ thấy một quyền lực ở tầng cao hơn nữa",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "ngoài_ra_chúng_ta_sẽ_thấy_một_quyền_lực_ở_tầng_cao_hơn_nữa_item_1",
+          "label": "[Item 1 of Ngoài ra chúng ta sẽ thấy một quyền lực ở tầng cao hơn nữa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_chúng_ta_sẽ_thấy_một_quyền_lực_ở_tầng_cao_hơn_nữa_item_2",
+          "label": "[Item 2 of Ngoài ra chúng ta sẽ thấy một quyền lực ở tầng cao hơn nữa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "ngoài_ra_chúng_ta_sẽ_thấy_một_quyền_lực_ở_tầng_cao_hơn_nữa_item_3",
+          "label": "[Item 3 of Ngoài ra chúng ta sẽ thấy một quyền lực ở tầng cao hơn nữa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_sao_chúng_ta_có_được_những_quyền_lực_đấy",
+      "label": "Vậy làm sao chúng ta có được những quyền lực đấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "và_ngay_bây_giờ_ở_nhiều_video_trước",
+      "label": "và ngay bây giờ. Ở nhiều video trước",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 22",
+      "children": [
+        {
+          "key": "và_ngay_bây_giờ_ở_nhiều_video_trước_item_1",
+          "label": "[Item 1 of và ngay bây giờ. Ở nhiều video trước — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_ngay_bây_giờ_ở_nhiều_video_trước_item_2",
+          "label": "[Item 2 of và ngay bây giờ. Ở nhiều video trước — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_trong_ngày_mà_bạn_dễ_dàng_thực_hiện",
+      "label": "đầu tiên trong ngày mà bạn dễ dàng thực hiện.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "thứ_hai_chúng_ta_ăn_uống_với_ý_thức_biết_ơn_và_tôn_trọng",
+      "label": "Thứ hai, chúng ta ăn uống với ý thức biết ơn và tôn trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "thứ_hai_chúng_ta_ăn_uống_với_ý_thức_biết_ơn_và_tôn_trọng_item_1",
+          "label": "[Item 1 of Thứ hai, chúng ta ăn uống với ý thức biết ơn và tôn trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_chúng_ta_ăn_uống_với_ý_thức_biết_ơn_và_tôn_trọng_item_2",
+          "label": "[Item 2 of Thứ hai, chúng ta ăn uống với ý thức biết ơn và tôn trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_ba_bạn_ăn_để_chuyển_hóa_những_hành_vi_tâm_trí_bất_t",
+      "label": "Điều thứ ba, bạn ăn để chuyển hóa những hành vi tâm trí bất thiện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 66",
+      "children": [
+        {
+          "key": "điều_thứ_ba_bạn_ăn_để_chuyển_hóa_những_hành_vi_tâm_trí_bất_t_item_1",
+          "label": "[Item 1 of Điều thứ ba, bạn ăn để chuyển hóa những hành vi tâm trí bất thiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_ba_bạn_ăn_để_chuyển_hóa_những_hành_vi_tâm_trí_bất_t_item_2",
+          "label": "[Item 2 of Điều thứ ba, bạn ăn để chuyển hóa những hành vi tâm trí bất thiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hơn_nữa_khi_bạn_tập_trung_vào_công_việc_đang_làm",
+      "label": "Hơn nữa khi bạn tập trung vào công việc đang làm,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "nhà_đây_là_gì",
+      "label": "Nhà đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "tiếp_nữa_là_một_phương_pháp_mà_mình_nghĩ",
+      "label": "Tiếp nữa là một phương pháp mà mình nghĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "ngoài_ra_nếu_cảm_thấy_quá_mệt_mỏi",
+      "label": "Ngoài ra, nếu cảm thấy quá mệt mỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "bên_cạnh_đó_thầy_thiết_nhất_hạnh_đã_chia_sẻ_một_phương_pháp",
+      "label": "Bên cạnh đó, Thầy Thiết Nhất Hạnh đã chia sẻ một phương pháp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "ngoài_ra_còn_có_cách_tổ_chức_một_cuộc_họp_trong_tránh_niệm",
+      "label": "Ngoài ra, còn có cách tổ chức một cuộc họp trong tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "trong_cuốn_sách_7_thói_quen_để_thành_đạt",
+      "label": "trong cuốn sách 7 Thói quen để thành đạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "nói_khi_thảo_luật_quên_được_nói_là_gì",
+      "label": "nói khi thảo luật. Quên được nói là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "cuối_cùng_còn_có_một_điều_mà_chúng_ta_cần_phải_ban_tới",
+      "label": "Cuối cùng còn có một điều mà chúng ta cần phải ban tới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    }
+  ]
+}

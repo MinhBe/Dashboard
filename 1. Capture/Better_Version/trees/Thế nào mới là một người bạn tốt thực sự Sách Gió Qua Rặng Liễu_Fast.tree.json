@@ -1,0 +1,72 @@
+{
+  "source_type": "youtube",
+  "word_count": 3570,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "thế_nào_mới_là_một_người_bạn_tốt_thực_sự",
+      "label": "Thế nào mới là một người bạn tốt thực sự?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "cuối_cùng_gặt_hái_được_sự_chuyển_hóa_và_trưởng_thành",
+      "label": "Cuối cùng gặt hái được sự chuyển hóa và trưởng thành.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "mang_tên_thế_nào_mới_là_một_người_bạn_tốt_thực_sự",
+      "label": "Mang tên thế nào mới là một người bạn tốt thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "thực_chất_là_một_nguyên_tắc_cốt_lõi_trong_quan_hệ_bạn_bè",
+      "label": "Thực chất là một nguyên tắc cốt lõi trong quan hệ bạn bè",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cuối_cùng_danh_giới_tài_chính_cũng_cần_phải_rõ_ràng_trong_tí",
+      "label": "Cuối cùng danh giới tài chính cũng cần phải rõ ràng trong tính bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "vốn_là_một_người_dùng_lý_trí_và_nguyên_tắc",
+      "label": "Vốn là một người dùng lý trí và nguyên tắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_thì_như_thế_nào_mới_là_một_người_bạn_thực_sự_hiểu_ta",
+      "label": "Vậy thì như thế nào mới là một người bạn thực sự hiểu ta?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "điều_quan_trọng_là_biết_giữ_một_khoảng_cách_vừa_đủ",
+      "label": "Điều quan trọng là biết giữ một khoảng cách vừa đủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "cuối_cùng_hãy_sẵn_sàng_giúp_đỡ_bạn_bè",
+      "label": "Cuối cùng hãy sẵn sàng giúp đỡ bạn bè",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    }
+  ]
+}

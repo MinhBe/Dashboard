@@ -1,0 +1,162 @@
+{
+  "source_type": "youtube",
+  "word_count": 2911,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_thử_thách_hết_sức_khó_khăn_trong_đời_của_cô",
+      "label": "Đây là một thử thách hết sức khó khăn trong đời của cô",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "và_cô_cũng_là_một",
+      "label": "và cô cũng là một",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "những_kỳ_thi_hay_là_một_cuộc_đàm_phán_quan_trọng",
+      "label": "Những kỳ thi hay là một cuộc đàm phán quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "năng_lực_tồn_tại_là_một_năng_lực_mà_cho_dù",
+      "label": "Năng lực tồn tại là một năng lực mà cho dù",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_làm_sao_để_có_được_sức_mạnh_này",
+      "label": "Vậy làm sao để có được sức mạnh này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "thứ_nhất_chúng_ta_thường_không_biết_mình_là_ai",
+      "label": "Thứ nhất, chúng ta thường không biết mình là ai.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 40",
+      "children": [
+        {
+          "key": "thứ_nhất_chúng_ta_thường_không_biết_mình_là_ai_item_1",
+          "label": "[Item 1 of Thứ nhất, chúng ta thường không biết mình là ai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_chúng_ta_thường_không_biết_mình_là_ai_item_2",
+          "label": "[Item 2 of Thứ nhất, chúng ta thường không biết mình là ai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hay_là_bạn_là_một_con_ngoan_trò_giỏi",
+      "label": "Hay là bạn là một con ngoan trò giỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "khát_khao_cao_cả_của_tôi_là_gì",
+      "label": "Khát khao cao cả của tôi là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "thứ_hai_chúng_ta_còn_rất_dễ_nghĩ_mình_là_cái_rốn_của_vũ_trụ",
+      "label": "Thứ hai, chúng ta còn rất dễ nghĩ mình là cái rốn của vũ trụ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "thứ_hai_chúng_ta_còn_rất_dễ_nghĩ_mình_là_cái_rốn_của_vũ_trụ_item_1",
+          "label": "[Item 1 of Thứ hai, chúng ta còn rất dễ nghĩ mình là cái rốn của vũ trụ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_chúng_ta_còn_rất_dễ_nghĩ_mình_là_cái_rốn_của_vũ_trụ_item_2",
+          "label": "[Item 2 of Thứ hai, chúng ta còn rất dễ nghĩ mình là cái rốn của vũ trụ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_không_đến_mức_như_chúng_ta_nghĩ",
+      "label": "Và không đến mức như chúng ta nghĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "hãy_giả_vờ_là_một_người_chiến_thắng_cho_đến_khi_bạn_chiến_th",
+      "label": "Hãy giả vờ là một người chiến thắng cho đến khi bạn chiến thắng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "thứ_nhất_tư_thế_năng_lượng_cao",
+      "label": "Thứ nhất, tư thế năng lượng cao.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "thứ_nhất_tư_thế_năng_lượng_cao_item_1",
+          "label": "[Item 1 of Thứ nhất, tư thế năng lượng cao. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tư_thế_năng_lượng_cao_item_2",
+          "label": "[Item 2 of Thứ nhất, tư thế năng lượng cao. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngẳng_đầu_ưỡn_ngực_thẳng_lưng",
+      "label": "Ngẳng đầu, ưỡn ngực, thẳng lưng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "bước_đi_thật_tự_tin_như_một_người_thành_công",
+      "label": "Bước đi thật tự tin như một người thành công",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    }
+  ]
+}

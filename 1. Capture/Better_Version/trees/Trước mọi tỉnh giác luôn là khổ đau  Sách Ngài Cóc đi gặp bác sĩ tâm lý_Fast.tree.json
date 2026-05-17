@@ -1,0 +1,109 @@
+{
+  "source_type": "youtube",
+  "word_count": 3729,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "ngài_cóc_là_một_chú_cóc_giàu_có_tinh_tế_và_phong_độ",
+      "label": "Ngài cóc là một chú cóc giàu có, tinh tế và phong độ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "nhưng_thực_chất_lại_là_một_kẻ_ngoài_cuộc",
+      "label": "Nhưng thực chất lại là một kẻ ngoài cuộc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "cuối_cùng_thì_bị_bắt_vào_tù",
+      "label": "Cuối cùng thì bị bắt vào tù",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "cuối_cùng_bạn_chỉ_có_thể_dựa_vào_chính_mình",
+      "label": "Cuối cùng bạn chỉ có thể dựa vào chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "đầu_tiên_trạng_thái_cái_tôi_là_một_đứa_trẻ",
+      "label": "Đầu tiên, trạng thái cái tôi là một đứa trẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "cuối_cùng_đó_là_trạng_thái_cái_tôi_là_một_người_trưởng_thành",
+      "label": "Cuối cùng đó là trạng thái cái tôi là một người trưởng thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "đây_là_một_trạng_thái_sống_duy_nhất_khiến_cho_một_người_có_t",
+      "label": "Đây là một trạng thái sống duy nhất khiến cho một người có thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "vậy_làm_như_thế_nào_để_có_thể_điều_chỉnh_được",
+      "label": "Vậy làm như thế nào để có thể điều chỉnh được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "còn_nếu_là_một_người_lớn_đang_bị_tổn_thương",
+      "label": "Còn nếu là một người lớn đang bị tổn thương",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "còn_nếu_là_một_người_lớn_đang_bị_tổn_thương_item_1",
+          "label": "[Item 1 of Còn nếu là một người lớn đang bị tổn thương — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "còn_nếu_là_một_người_lớn_đang_bị_tổn_thương_item_2",
+          "label": "[Item 2 of Còn nếu là một người lớn đang bị tổn thương — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_mới_là_trạng_thái_sống_lành_mạnh_nhất",
+      "label": "Đây mới là trạng thái sống lành mạnh nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_nên_có_thể_cùng_hợp_tác_và_thúc_đẩy_lẫn_nhau",
+      "label": "Vậy nên có thể cùng hợp tác và thúc đẩy lẫn nhau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    }
+  ]
+}

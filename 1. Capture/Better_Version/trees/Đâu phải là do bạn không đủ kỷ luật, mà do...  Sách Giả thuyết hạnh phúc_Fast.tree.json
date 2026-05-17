@@ -1,0 +1,206 @@
+{
+  "source_type": "youtube",
+  "word_count": 5840,
+  "estimated_leaf_nodes": 23,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 23 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_ý_chí_của_chúng_ta_lại_yếu_đuôi_đến_vậy",
+      "label": "Tại sao ý chí của chúng ta lại yếu đuôi đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "vậy_nên_nếu_chúng_ta_cứ_cố_gắng_đi_theo_xu_hướng_của_khoa_họ",
+      "label": "Vậy nên, nếu chúng ta cứ cố gắng đi theo xu hướng của khoa học xã hội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_sẽ_phải_tư_vấn_cho_nó",
+      "label": "Vậy thì chúng ta sẽ phải tư vấn cho nó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_nên_hãy_quan_sát_kỹ_bản_thân",
+      "label": "Vậy nên hãy quan sát kỹ bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "sở_thích_tiêu_cực_là_một_điều_cực_kỳ_nguy_hiểm",
+      "label": "Sở thích tiêu cực là một điều cực kỳ nguy hiểm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "vậy_thì_lúc_này_xin_bạn_hãy_hỏi",
+      "label": "Vậy thì lúc này, xin bạn hãy hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "thứ_nhất_mọi_người_đều_bình_đẳng",
+      "label": "Thứ nhất, mọi người đều bình đẳng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "thứ_nhất_mọi_người_đều_bình_đẳng_item_1",
+          "label": "[Item 1 of Thứ nhất, mọi người đều bình đẳng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_mọi_người_đều_bình_đẳng_item_2",
+          "label": "[Item 2 of Thứ nhất, mọi người đều bình đẳng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_thế_giới_được_xây_dựng_từ_hiểu_biết_của_tôi",
+      "label": "Thứ hai, thế giới được xây dựng từ hiểu biết của tôi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "thứ_hai_thế_giới_được_xây_dựng_từ_hiểu_biết_của_tôi_item_1",
+          "label": "[Item 1 of Thứ hai, thế giới được xây dựng từ hiểu biết của tôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_thế_giới_được_xây_dựng_từ_hiểu_biết_của_tôi_item_2",
+          "label": "[Item 2 of Thứ hai, thế giới được xây dựng từ hiểu biết của tôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_cánh_cửa_để_suy_ngẫm_thứ_7",
+      "label": "Cuối cùng cánh cửa để suy ngẫm thứ 7",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "điều_quan_trọng_trên_con_đường_mà_con_voi_đang_đi",
+      "label": "Điều quan trọng trên con đường mà con voi đang đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "bước_thứ_nhất",
+      "label": "Bước thứ nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 144",
+      "children": [
+        {
+          "key": "bước_thứ_nhất_item_1",
+          "label": "[Item 1 of Bước thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_thứ_nhất_item_2",
+          "label": "[Item 2 of Bước thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_trước_hết_chúng_ta_cần_phải_xem_lại_điều_gì",
+      "label": "Vậy trước hết chúng ta cần phải xem lại điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "vậy_cách_đặt_mục_tiêu_như_thế_nào",
+      "label": "Vậy cách đặt mục tiêu như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "tiếp_theo_bước_số_2",
+      "label": "Tiếp theo bước số 2",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 164",
+      "children": [
+        {
+          "key": "tiếp_theo_bước_số_2_item_1",
+          "label": "[Item 1 of Tiếp theo bước số 2 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_bước_số_2_item_2",
+          "label": "[Item 2 of Tiếp theo bước số 2 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_học_hỏi_thêm_cho_mình_những_kiến_thức",
+      "label": "Bên cạnh đó, học hỏi thêm cho mình những kiến thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "vậy_nên_chăm_sóc_cẩn_thận_các_mối_quan_hệ_của_mình",
+      "label": "Vậy nên chăm sóc cẩn thận các mối quan hệ của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "ngoài_ra_nếu_gặp_khó_khăn_về_tinh_thần",
+      "label": "Ngoài ra nếu gặp khó khăn về tinh thần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "con_voi_là_một_nguồn_lực_mạnh_mẽ_bên_trong_bạn",
+      "label": "Con voi là một nguồn lực mạnh mẽ bên trong bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "bạn_sẽ_có_thể_là_một_thể_thống_nhất",
+      "label": "Bạn sẽ có thể là một thể thống nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    }
+  ]
+}

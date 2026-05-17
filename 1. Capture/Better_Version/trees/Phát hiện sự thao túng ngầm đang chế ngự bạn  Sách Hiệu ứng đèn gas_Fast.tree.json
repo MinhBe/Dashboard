@@ -1,0 +1,123 @@
+{
+  "source_type": "youtube",
+  "word_count": 4631,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 15 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_cái_số_anh_lại_tồi_tệ_đến_vậy",
+      "label": "Tại sao cái số anh lại tồi tệ đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "không_còn_trinh_tiết_là_một_điều_tầm_thường",
+      "label": "Không còn trinh tiết là một điều tầm thường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cho_dù_là_một_tình_huống_nhỏ_bé_nó_cũng_có_thể_là_khí_độc_từ",
+      "label": "Cho dù là một tình huống nhỏ bé, nó cũng có thể là khí độc từ đến gas.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "tại_sao_nhiều_người_bị_thu_hút_bởi_5_chữ",
+      "label": "Tại sao nhiều người bị thu hút bởi 5 chữ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vẫn_là_một_câu_nói_nổi_tiếng",
+      "label": "Vẫn là một câu nói nổi tiếng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "tiếp_theo",
+      "label": "Tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "cuối_cùng_là_người_thao_túng_kiểu_đe_dọa",
+      "label": "Cuối cùng là người thao túng kiểu đe dọa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_thoát_khỏi_sự_thao_túng",
+      "label": "Vậy làm thế nào để chúng ta thoát khỏi sự thao túng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "bạn_đã_là_một_người_xuất_sắc_có_năng_lực_và_được_người_khác",
+      "label": "Bạn đã là một người xuất sắc, có năng lực và được người khác yêu thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "thứ_nhất_không_nên_hỏi_ai_đúng_ai_sai",
+      "label": "Thứ nhất không nên hỏi ai đúng ai sai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "thứ_nhất_không_nên_hỏi_ai_đúng_ai_sai_item_1",
+          "label": "[Item 1 of Thứ nhất không nên hỏi ai đúng ai sai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_không_nên_hỏi_ai_đúng_ai_sai_item_2",
+          "label": "[Item 2 of Thứ nhất không nên hỏi ai đúng ai sai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_là_đủ",
+      "label": "Vậy là đủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "luôn_là_một_điều_không_đáng_tin_cậy_nhất",
+      "label": "luôn là một điều không đáng tin cậy nhất.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "đây_là_một_nhược_điểm_tâm_lý_của_hầu_hết_chúng_ta",
+      "label": "Đây là một nhược điểm tâm lý của hầu hết chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "vậy_thì_bạn_sẽ_cho_phép_ai_bước_vào_thế_giới_của_mình",
+      "label": "Vậy thì bạn sẽ cho phép ai bước vào thế giới của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    }
+  ]
+}

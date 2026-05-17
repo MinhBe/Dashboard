@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 2674,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_nếu_trừ_thời_gian_ngủ_đi",
+      "label": "Vậy nếu trừ thời gian ngủ đi,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_hiện_tại_bạn_có_cảm_thấy_vui_khi_được_làm_việc_mỗi_ngày",
+      "label": "Vậy hiện tại bạn có cảm thấy vui khi được làm việc mỗi ngày hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "vậy_việc_tu_tập_trong_công_việc",
+      "label": "Vậy, việc tu tập trong công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_chúng_ta_cần_phải_buông_bỏ_những_thứ_như_thế_nào",
+      "label": "Vậy, chúng ta cần phải buông bỏ những thứ như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đầu_tiên_đó_chính_là_buông_bỏ_đi_những_cái_cảm_xúc_vô_ích",
+      "label": "Đầu tiên, đó chính là buông bỏ đi những cái cảm xúc vô ích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "tại_sao_dạo_này_cậu_không_chuyên_tâm_vào_công_việc",
+      "label": "Tại sao dạo này cậu không chuyên tâm vào công việc?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "cuối_cùng_hoàng_nặng_lẽ_xóa_hết_dòng_tin_nhắn_này_đi",
+      "label": "Cuối cùng Hoàng nặng lẽ xóa hết dòng tin nhắn này đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "điều_thứ_2_đó_chính_là",
+      "label": "Điều thứ 2 đó chính là",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "điều_thứ_2_đó_chính_là_item_1",
+          "label": "[Item 1 of Điều thứ 2 đó chính là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_2_đó_chính_là_item_2",
+          "label": "[Item 2 of Điều thứ 2 đó chính là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "điều_thứ_2_đó_chính_là_item_3",
+          "label": "[Item 3 of Điều thứ 2 đó chính là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    }
+  ]
+}

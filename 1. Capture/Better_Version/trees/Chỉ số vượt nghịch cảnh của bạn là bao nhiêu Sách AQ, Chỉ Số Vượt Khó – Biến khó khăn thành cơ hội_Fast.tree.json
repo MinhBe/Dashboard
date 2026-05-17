@@ -1,0 +1,349 @@
+{
+  "source_type": "youtube",
+  "word_count": 6103,
+  "estimated_leaf_nodes": 37,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 37 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "trong_cuốn_sách_này_sẽ_chỉ_ra_những_khó_khăn_mà_bạn_đang_phả",
+      "label": "Trong cuốn sách này sẽ chỉ ra những khó khăn mà bạn đang phải đối mặt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "thứ_nhất_là_kiểu_người_bỏ_cuộc",
+      "label": "Thứ nhất là kiểu người bỏ cuộc.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "thứ_nhất_là_kiểu_người_bỏ_cuộc_item_1",
+          "label": "[Item 1 of Thứ nhất là kiểu người bỏ cuộc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_kiểu_người_bỏ_cuộc_item_2",
+          "label": "[Item 2 of Thứ nhất là kiểu người bỏ cuộc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_đó_là_người_dựng_trại",
+      "label": "Thứ hai đó là người dựng trại.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_người_dựng_trại_item_1",
+          "label": "[Item 1 of Thứ hai đó là người dựng trại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_người_dựng_trại_item_2",
+          "label": "[Item 2 of Thứ hai đó là người dựng trại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_bạn_là_một_người_như_thế_nào",
+      "label": "Vậy bạn là một người như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_đó_là_gốc_dễ",
+      "label": "Cuối cùng đó là gốc dễ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "muốn_là_một_người_leo_núi",
+      "label": "Muốn là một người leo núi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_làm_cách_nào_để_có_thể_vững_vàng_như_cái_cây_này",
+      "label": "Vậy làm cách nào để có thể vững vàng như cái cây này?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "vậy_làm_cách_nào_để_có_thể_vững_vàng_như_cái_cây_này_item_1",
+          "label": "[Item 1 of Vậy làm cách nào để có thể vững vàng như cái cây này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_cách_nào_để_có_thể_vững_vàng_như_cái_cây_này_item_2",
+          "label": "[Item 2 of Vậy làm cách nào để có thể vững vàng như cái cây này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_tỷ_lệ_tội_phạm_khoảng_cách_giàu_nghèo_gia_tăng",
+      "label": "Bên cạnh đó, tỷ lệ tội phạm, khoảng cách giàu nghèo gia tăng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "tiếp_theo",
+      "label": "Tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "tại_sao",
+      "label": "Tại sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "đây_là_một_ngã_rẽ_mà_rất_nhiều_người_đã_lựa_chọn",
+      "label": "Đây là một ngã rẽ mà rất nhiều người đã lựa chọn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 78",
+      "children": [
+        {
+          "key": "đây_là_một_ngã_rẽ_mà_rất_nhiều_người_đã_lựa_chọn_item_1",
+          "label": "[Item 1 of Đây là một ngã rẽ mà rất nhiều người đã lựa chọn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_ngã_rẽ_mà_rất_nhiều_người_đã_lựa_chọn_item_2",
+          "label": "[Item 2 of Đây là một ngã rẽ mà rất nhiều người đã lựa chọn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_bạn_cần_phải_nắm_được",
+      "label": "Tiếp theo, bạn cần phải nắm được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "đầu_tiên_là_chữ_cái_z",
+      "label": "Đầu tiên là chữ cái Z",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "đầu_tiên_là_chữ_cái_z_item_1",
+          "label": "[Item 1 of Đầu tiên là chữ cái Z — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_là_chữ_cái_z_item_2",
+          "label": "[Item 2 of Đầu tiên là chữ cái Z — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "least_giống_như_là_một_công_cụ",
+      "label": "Least giống như là một công cụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_lắng_nghe_điều_gì",
+      "label": "Vậy chúng ta phải lắng nghe điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "tiếp_theo_đó_là_công_cụ_thứ_3",
+      "label": "Tiếp theo đó là công cụ thứ 3",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 152",
+      "children": [
+        {
+          "key": "tiếp_theo_đó_là_công_cụ_thứ_3_item_1",
+          "label": "[Item 1 of Tiếp theo đó là công cụ thứ 3 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_đó_là_công_cụ_thứ_3_item_2",
+          "label": "[Item 2 of Tiếp theo đó là công cụ thứ 3 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_đủ_lý_trí",
+      "label": "Vậy làm thế nào để có đủ lý trí",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "đó_có_phải_là_loại_bỏ_những_yếu_tố_khiến_bản_thân_yếu_đuối_k",
+      "label": "Đó có phải là loại bỏ những yếu tố khiến bản thân yếu đuối không",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "và_xem_nó_giống_như_là_một_điều_không_thể_cứu_vãn",
+      "label": "Và xem nó giống như là một điều không thể cứu vãn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "sử_dụng_nó_như_là_một_lý_do_để_từ_bỏ_đi_hành_động",
+      "label": "Sử dụng nó như là một lý do để từ bỏ đi hành động",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 188",
+      "children": [
+        {
+          "key": "sử_dụng_nó_như_là_một_lý_do_để_từ_bỏ_đi_hành_động_item_1",
+          "label": "[Item 1 of Sử dụng nó như là một lý do để từ bỏ đi hành động — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "sử_dụng_nó_như_là_một_lý_do_để_từ_bỏ_đi_hành_động_item_2",
+          "label": "[Item 2 of Sử dụng nó như là một lý do để từ bỏ đi hành động — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "phương_pháp_đánh_thức_bao_gồm",
+      "label": "Phương pháp đánh thức bao gồm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "thứ_nhất_hãy_gõ_mạnh_vào_bàn_tay_và_kêu_lên",
+      "label": "Thứ nhất, hãy gõ mạnh vào bàn tay và kêu lên.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 194",
+      "children": [
+        {
+          "key": "thứ_nhất_hãy_gõ_mạnh_vào_bàn_tay_và_kêu_lên_item_1",
+          "label": "[Item 1 of Thứ nhất, hãy gõ mạnh vào bàn tay và kêu lên. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_hãy_gõ_mạnh_vào_bàn_tay_và_kêu_lên_item_2",
+          "label": "[Item 2 of Thứ nhất, hãy gõ mạnh vào bàn tay và kêu lên. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_bạn_có_thể_đeo_vòng_tay_cao_su",
+      "label": "Tiếp theo, bạn có thể đeo vòng tay cao su",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    },
+    {
+      "key": "ngoài_ra_tập_thể_dục_cũng_là_một_cách_hữu_hiệu_nhất",
+      "label": "Ngoài ra tập thể dục cũng là một cách hữu hiệu nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "thứ_hai_hãy_nhìn_bản_thân_mình_bé_lại",
+      "label": "Thứ hai, hãy nhìn bản thân mình bé lại",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 208",
+      "children": [
+        {
+          "key": "thứ_hai_hãy_nhìn_bản_thân_mình_bé_lại_item_1",
+          "label": "[Item 1 of Thứ hai, hãy nhìn bản thân mình bé lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_hãy_nhìn_bản_thân_mình_bé_lại_item_2",
+          "label": "[Item 2 of Thứ hai, hãy nhìn bản thân mình bé lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "được_cung_cấp_trong_cuốn_sách_này",
+      "label": "được cung cấp trong cuốn sách này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 220"
+    },
+    {
+      "key": "mình_nghĩ_rằng_đó_là_một_vũ_khí_mạnh_mẽ",
+      "label": "Mình nghĩ rằng đó là một vũ khí mạnh mẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 222"
+    },
+    {
+      "key": "bước_đi_trên_con_đường_của_chính_mình",
+      "label": "bước đi trên con đường của chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 226"
+    }
+  ]
+}

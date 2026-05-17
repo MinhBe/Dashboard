@@ -1,0 +1,277 @@
+{
+  "source_type": "youtube",
+  "word_count": 8046,
+  "estimated_leaf_nodes": 37,
+  "title_hint_n": 7,
+  "minimum_yield_check": "PASS: 37 leaves >= 7 (from title)",
+  "tree": [
+    {
+      "key": "ông_ấy_là_một_trong_những_nhà_tư_tưởng_vĩ_đại",
+      "label": "Ông ấy là một trong những nhà tư tưởng vĩ đại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "và_chúng_ta_có_thể_học_hỏi_được_rất_nhiều_điều_từ_nó",
+      "label": "Và chúng ta có thể học hỏi được rất nhiều điều từ nó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "và_chúng_ta_muốn_thành_công_làm_nên_việc_gì",
+      "label": "Và chúng ta muốn thành công làm nên việc gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "nguyên_tắc_cơ_bản_mà_vạn_vật",
+      "label": "Nguyên tắc cơ bản mà vạn vật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "francis_parkin_đã_từng_nói_rằng",
+      "label": "Francis Parkin đã từng nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "thói_quen_là_một_sức_mạnh_khổng_lồ_vững_chắc",
+      "label": "Thói quen là một sức mạnh khổng lồ vững chắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "thứ_nhất_là_thói_quen_chủ_động",
+      "label": "Thứ nhất là thói quen chủ động",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "thứ_nhất_là_thói_quen_chủ_động_item_1",
+          "label": "[Item 1 of Thứ nhất là thói quen chủ động — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_thói_quen_chủ_động_item_2",
+          "label": "[Item 2 of Thứ nhất là thói quen chủ động — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_cũng_là_một_cái_ý_nghĩa",
+      "label": "Đây cũng là một cái ý nghĩa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_thói_quen_là_gì",
+      "label": "Vậy, thói quen là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "trong_cuốn_sách_đi_tìm_lẽ_sống_của_victor_frank",
+      "label": "Trong cuốn sách đi tìm lẽ sống của Victor Frank",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_là_bạn_lập_tức_cảm_thấy_vô_cùng_tức_giận",
+      "label": "Vậy là bạn lập tức cảm thấy vô cùng tức giận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "vậy_nên_hãy_nhớ_rằng",
+      "label": "Vậy nên hãy nhớ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "điều_thứ_2_mà_chúng_ta_cần_phải_ghi_nhớ_trong_thói_quen_đầu",
+      "label": "Điều thứ 2 mà chúng ta cần phải ghi nhớ trong thói quen đầu tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vòng_tròn_ảnh_hưởng_là_gì",
+      "label": "Vòng tròn ảnh hưởng là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vậy_nên_là_đừng_lãng_phí_thời_gian_của_bạn",
+      "label": "Vậy nên là đừng lãng phí thời gian của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "đầu_tiên_đó_là_luôn_nắm_cho_mình_quyền_lựa_chọn",
+      "label": "Đầu tiên đó là luôn nắm cho mình quyền lựa chọn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "tiếp_theo_thì_chúng_ta_sẽ_nói_đến_thói_quen_thứ_2",
+      "label": "Tiếp theo thì chúng ta sẽ nói đến thói quen thứ 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_bạn_có_đang_bỏ_về_con_của_mình_vì_điều_này_không",
+      "label": "Vậy bạn có đang bỏ về con của mình vì điều này không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "vậy_nếu_như_một_người_lấy_nguyên_tắc_làm_trung_tâm_thì_sẽ_nh",
+      "label": "Vậy nếu như một người lấy nguyên tắc làm trung tâm thì sẽ như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "đầu_tiên_thì_mình_sẽ_nói_tới_một_trò_chơi_rất_thú_vị",
+      "label": "Đầu tiên thì mình sẽ nói tới một trò chơi rất thú vị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "cuối_cùng_thì_cô_ấy_đành_phải_lấy_ra_vài_viên",
+      "label": "Cuối cùng thì cô ấy đành phải lấy ra vài viên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "vậy_đi_nghỉ_dưỡng_bạn_có_muốn_nó_không",
+      "label": "Vậy đi nghỉ dưỡng, bạn có muốn nó không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_phải_làm_sao",
+      "label": "Vậy thì chúng ta phải làm sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "thậm_chí_là_một_số_người_dùng_cái_việc_đọc_sách",
+      "label": "Thậm chí là một số người dùng cái việc đọc sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "đây_thật_sự_là_một_cái_bước_nhảy_rất_khó",
+      "label": "Đây thật sự là một cái bước nhảy rất khó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "tại_sao_mà_mình_muốn_nói_đến_điều_này_đầu_tiên",
+      "label": "Tại sao mà mình muốn nói đến điều này đầu tiên?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "đây_là_một_cái_dữ_liệu_rất_thú_vị_trong_nghiên_cứu_về_giáo_t",
+      "label": "Đây là một cái dữ liệu rất thú vị trong nghiên cứu về giáo tiếp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "phản_ứng_kiểu_tự_chuyện_là_gì",
+      "label": "Phản ứng kiểu tự chuyện là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    },
+    {
+      "key": "điều_thứ_3",
+      "label": "Điều thứ 3",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 214"
+    },
+    {
+      "key": "vậy_chúng_ta_hãy_thử_nghĩ_mà_xem",
+      "label": "Vậy chúng ta hãy thử nghĩ mà xem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 222"
+    },
+    {
+      "key": "sẽ_là_gì",
+      "label": "Sẽ là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 226"
+    },
+    {
+      "key": "đầu_tiên_khi_mà_con_đi_học_về_kêu_chán_với_bố",
+      "label": "Đầu tiên khi mà con đi học về kêu chán với bố",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 234"
+    },
+    {
+      "key": "đây_là_một_cái_kỹ_thuật_để_thực_hiện",
+      "label": "Đây là một cái kỹ thuật để thực hiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 262"
+    },
+    {
+      "key": "và_tiếp_theo",
+      "label": "Và tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 266"
+    },
+    {
+      "key": "lẫn_nhau_có_thể_cùng_hợp_tác_với_người_khác",
+      "label": "lẫn nhau, có thể cùng hợp tác với người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 276"
+    },
+    {
+      "key": "vậy_thì_cuối_cùng_cái_thói_quen_số_7_đó_là_mài_sắc_lưỡi_cưa",
+      "label": "Vậy thì cuối cùng, cái thói quen số 7 đó là mài sắc lưỡi cưa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 278"
+    }
+  ]
+}

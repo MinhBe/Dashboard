@@ -1,0 +1,28 @@
+{
+  "meta": {
+    "domain": "mandarin",
+    "scope": "typing only — không listening/speaking",
+    "source_map": "Assimil Lesson 01–105",
+    "created": "2026-05-14",
+    "curriculum_sequence": [
+      { "concept": "greetings_basic",        "bloom_target": "apply" },
+      { "concept": "tones_system",           "bloom_target": "apply" },
+      { "concept": "numbers_1_to_100",       "bloom_target": "apply" },
+      { "concept": "pronouns_personal",      "bloom_target": "apply" },
+      { "concept": "verb_to_be_shi",         "bloom_target": "apply" },
+      { "concept": "question_particles_ma_ne", "bloom_target": "apply" },
+      { "concept": "classifiers_ge_ben_zhang", "bloom_target": "analyze" },
+      { "concept": "time_expressions",       "bloom_target": "apply" },
+      { "concept": "location_words",         "bloom_target": "apply" },
+      { "concept": "negation_bu_mei",        "bloom_target": "apply" }
+    ],
+    "bloom_levels": {
+      "remember":   "Nhớ từ/cấu trúc khi nhìn",
+      "understand": "Giải thích được khi nào dùng",
+      "apply":      "Viết câu đúng khi gợi ý topic",
+      "analyze":    "Nhận ra lỗi trong câu sai cho trước",
+      "evaluate":   "Viết tự nhiên không cần gợi ý"
+    }
+  },
+  "nodes": {}
+}

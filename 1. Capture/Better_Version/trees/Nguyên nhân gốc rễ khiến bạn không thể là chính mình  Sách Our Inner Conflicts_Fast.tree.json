@@ -1,0 +1,290 @@
+{
+  "source_type": "youtube",
+  "word_count": 5447,
+  "estimated_leaf_nodes": 35,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 35 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_tôi_lại_phải_ước_chế_bày_tỏ_bản_thân",
+      "label": "Tại sao tôi lại phải ước chế bày tỏ bản thân?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "tại_sao_khi_chia_tay_lại_thấy_đau_đớn_như_vậy",
+      "label": "Tại sao khi chia tay lại thấy đau đớn như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "vậy_thì_điều_gì_đang_diễn_ra_trong_nội_tâm_của_chúng_ta",
+      "label": "Vậy thì điều gì đang diễn ra trong nội tâm của chúng ta?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "nguyên_nhân_gốc_dễ_của_nỗi_bất_hạnh_trong_một_người_là_gì",
+      "label": "Nguyên nhân gốc dễ của nỗi bất hạnh trong một người là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "bà_ấy_là_một_nhà_tâm_lý_học_và_bác_sĩ_thâm_thần_người_mỹ_gốc",
+      "label": "Bà ấy là một nhà tâm lý học và bác sĩ thâm thần người Mỹ gốc Đức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "horny_là_một_trong_những_người_sáng_lập_ra_tâm_lý_học_nhân_v",
+      "label": "Horny là một trong những người sáng lập ra tâm lý học nhân văn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "trong_cuốn_sách_này",
+      "label": "Trong cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "nhưng_cũng_là_một_gánh_nặng",
+      "label": "Nhưng cũng là một gánh nặng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "xung_đột_là_một_trạng_thái_bình_thường",
+      "label": "xung đột là một trạng thái bình thường.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_thì_để_tìm_ra_mâu_thuẫn_nội_tâm",
+      "label": "Vậy thì, để tìm ra mâu thuẫn nội tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "đầu_tiên_hãy_rõ_ràng_về_mong_muốn_và_cảm_xúc_trong_bạn",
+      "label": "Đầu tiên, hãy rõ ràng về mong muốn và cảm xúc trong bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "hay_chỉ_vì_là_một_giáo_viên",
+      "label": "Hay chỉ vì là một giáo viên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "cuộc_đời_là_một_chuỗi_lựa_chọn",
+      "label": "Cuộc đời là một chuỗi lựa chọn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tức_là_một_hệ_thống_giá_trị_chỉ_xuất_phát",
+      "label": "Tức là một hệ thống giá trị chỉ xuất phát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "điều_cuối_cùng_đó_là",
+      "label": "Điều cuối cùng đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_nên_xét_ở_góc_độ_này",
+      "label": "Vậy nên, xét ở góc độ này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "thứ_nhất_là_nhóm_tính_cách_làm_hài_lòng_người_khác",
+      "label": "Thứ nhất là nhóm tính cách làm hài lòng người khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 114",
+      "children": [
+        {
+          "key": "thứ_nhất_là_nhóm_tính_cách_làm_hài_lòng_người_khác_item_1",
+          "label": "[Item 1 of Thứ nhất là nhóm tính cách làm hài lòng người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_nhóm_tính_cách_làm_hài_lòng_người_khác_item_2",
+          "label": "[Item 2 of Thứ nhất là nhóm tính cách làm hài lòng người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_còn_có_một_đặc_điểm_thể_hiện_hoàn_toàn_khác",
+      "label": "Bên cạnh đó còn có một đặc điểm thể hiện hoàn toàn khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_nên_họ_sẽ_dễ_dàng_lấy_những_nhận_xét_của_những_người_xun",
+      "label": "Vậy nên, họ sẽ dễ dàng lấy những nhận xét của những người xung quanh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "thứ_hai_đó_là_nhóm_tính_cách_phản_kháng_người_khác",
+      "label": "Thứ hai đó là nhóm tính cách phản kháng người khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 130",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_nhóm_tính_cách_phản_kháng_người_khác_item_1",
+          "label": "[Item 1 of Thứ hai đó là nhóm tính cách phản kháng người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_nhóm_tính_cách_phản_kháng_người_khác_item_2",
+          "label": "[Item 2 of Thứ hai đó là nhóm tính cách phản kháng người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_tất_cả_nỗ_lực_của_người_có_tính_cách_phản_kháng_ng",
+      "label": "Cuối cùng, tất cả nỗ lực của người có tính cách phản kháng người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "đây_không_phải_là_một_hiện_tượng_văn_hóa_tốt",
+      "label": "Đây không phải là một hiện tượng văn hóa tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "hơn_nữa_họ_không_chỉ_giữ_khoảng_cách_với_người_khác",
+      "label": "Hơn nữa, họ không chỉ giữ khoảng cách với người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "đầu_tiên_họ_muốn_duy_trì_khoảng_cách",
+      "label": "Đầu tiên, họ muốn duy trì khoảng cách",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 156",
+      "children": [
+        {
+          "key": "đầu_tiên_họ_muốn_duy_trì_khoảng_cách_item_1",
+          "label": "[Item 1 of Đầu tiên, họ muốn duy trì khoảng cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_họ_muốn_duy_trì_khoảng_cách_item_2",
+          "label": "[Item 2 of Đầu tiên, họ muốn duy trì khoảng cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_cũng_là_nhu_cầu_cao_nhất_trong",
+      "label": "thứ ba cũng là nhu cầu cao nhất trong",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 164",
+      "children": [
+        {
+          "key": "thứ_ba_cũng_là_nhu_cầu_cao_nhất_trong_item_1",
+          "label": "[Item 1 of thứ ba cũng là nhu cầu cao nhất trong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_cũng_là_nhu_cầu_cao_nhất_trong_item_2",
+          "label": "[Item 2 of thứ ba cũng là nhu cầu cao nhất trong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_hóa_giải_những_xung_đột_trong_nộ",
+      "label": "Vậy làm thế nào để chúng ta hóa giải những xung đột trong nội tâm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "đầu_tiên_đó_chính_là_tiến_hành_tự_phân_tích",
+      "label": "Đầu tiên đó chính là tiến hành tự phân tích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "luôn_là_một_việc_làm_quan_trọng_và_then_chốt_nhất",
+      "label": "Luôn là một việc làm quan trọng và then chốt nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "và_sự_tuyệt_vọng_khi_chúng_ta_không_thể_làm_như_vậy",
+      "label": "Và sự tuyệt vọng khi chúng ta không thể làm như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "mà_nó_là_một_tình_yêu_trên_nghĩa_rộng",
+      "label": "mà nó là một tình yêu trên nghĩa rộng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 194"
+    },
+    {
+      "key": "cuối_cùng_là_một_điều_mà_mình_muốn_nhấn_mạnh_tới_mọi_người_r",
+      "label": "Cuối cùng là một điều mà mình muốn nhấn mạnh tới mọi người rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    }
+  ]
+}

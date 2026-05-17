@@ -1,0 +1,214 @@
+{
+  "source_type": "youtube",
+  "word_count": 6744,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "cái_bẫy_sinh_học_đó_là_gì",
+      "label": "Cái bẫy sinh học đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_nhưng_trong_suốt_quá_trình_hành_nghề_y",
+      "label": "Vậy nhưng trong suốt quá trình hành nghề y,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "mũi_của_chúng_ta_là_một_thàm_họa_về_thiết_kế",
+      "label": "Mũi của chúng ta là một thàm họa về thiết kế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "hình_khối_ấy_chính_là_một_cái_ống",
+      "label": "Hình khối ấy chính là một cái ống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "nghĩa_là_trạng_thái_của_ruột",
+      "label": "Nghĩa là trạng thái của ruột",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "ngoài_ra_chúng_cũng_ưa_thích_một_nhóm_họp_chất_khác_gọi_là_p",
+      "label": "Ngoài ra chúng cũng ưa thích một nhóm họp chất khác gọi là polyphenol.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "ngoài_ra_ăn_quá_nhiều_thịt_đỏ_như_là_thịt_heo_thịt_bò",
+      "label": "Ngoài ra ăn quá nhiều thịt đỏ như là thịt heo, thịt bò",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "đây_cũng_là_một_trong_những_cách_mà_cơ_thể_có_thể_giết_chết",
+      "label": "Đây cũng là một trong những cách mà cơ thể có thể giết chết chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "nếu_bạn_không_nhai_kỹ_thức_ăn_vùng_này_rất_dễ_bị_tổn_thương",
+      "label": "Nếu bạn không nhai kỹ thức ăn, vùng này rất dễ bị tổn thương.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "đi_ngoài_là_một_việc_rất_quan_trọng_có_ảnh_hưởng_rất_lớn_đến",
+      "label": "Đi ngoài là một việc rất quan trọng có ảnh hưởng rất lớn đến sức khỏe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_thì_tư_thế_nào_giúp_đi_tiêu_dễ_dàng_nhất",
+      "label": "Vậy thì tư thế nào giúp đi tiêu dễ dàng nhất?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "ngoài_ra_hãy_chú_ý_rằng_không_nên_lạm_dụng_thuốc_nhuận_chàng",
+      "label": "Ngoài ra hãy chú ý rằng không nên lạm dụng thuốc nhuận chàng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "tại_sao_việc_này_lại_quan_trọng",
+      "label": "Tại sao việc này lại quan trọng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "cuối_cùng_để_giữ_một_đường_ruột_khỏe_mạnh",
+      "label": "Cuối cùng để giữ một đường ruột khỏe mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "có_3_vấn_đề_chúng_ta_cần_đặc_biệt_trú_trọng_tới",
+      "label": "Có 3 vấn đề chúng ta cần đặc biệt trú trọng tới",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "có_3_vấn_đề_chúng_ta_cần_đặc_biệt_trú_trọng_tới_item_1",
+          "label": "[Item 1 of Có 3 vấn đề chúng ta cần đặc biệt trú trọng tới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_3_vấn_đề_chúng_ta_cần_đặc_biệt_trú_trọng_tới_item_2",
+          "label": "[Item 2 of Có 3 vấn đề chúng ta cần đặc biệt trú trọng tới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_nguồn_hấp_thụ_vitamin_d_tốt_nhất_là_từ_đâu",
+      "label": "Vậy thì nguồn hấp thụ vitamin D tốt nhất là từ đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_vấn_đề_về_đầu_gối",
+      "label": "Điều thứ 2 đó là vấn đề về đầu gối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "đầu_tiên_cần_chú_ý_đến_đừng_để_não_bị_pha_đập_mạnh",
+      "label": "Đầu tiên, cần chú ý đến đừng để não bị pha đập mạnh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "cuối_cùng_ảnh_hưởng_nghiêm_trọng_đến_cuộc_sống",
+      "label": "Cuối cùng ảnh hưởng nghiêm trọng đến cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "phương_pháp_tốt_nhất_để_bảo_dưỡng_não_bộ",
+      "label": "Phương pháp tốt nhất để bảo dưỡng não bộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "đây_là_một_cơ_chế_sinh_học_tự_nhiên",
+      "label": "Đây là một cơ chế sinh học tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "đây_là_một_phần_phụ_của_tim",
+      "label": "Đây là một phần phụ của tim",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "đầu_tiên_hãy_hạn_chế_chất_béo_bạo_hòa_nhất_là_chất_béo_truyề",
+      "label": "Đầu tiên, hãy hạn chế chất béo bạo hòa, nhất là chất béo truyền hóa.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "cuối_cùng_hãy_giữ_cho_cảm_xúc_của_bạn_luôn_bình_ổn",
+      "label": "Cuối cùng, hãy giữ cho cảm xúc của bạn luôn bình ổn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "cuối_cùng_hãy_giữ_cho_cảm_xúc_luôn_bình_ồn",
+      "label": "Cuối cùng, hãy giữ cho cảm xúc luôn bình ồn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "hơn_nữa_ngửa_đầu_cũng_không_giúp_màu_cam_ngừng_lại",
+      "label": "hơn nữa ngửa đầu cũng không giúp màu cam ngừng lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "và_tinh_vi_này_đã_là_một",
+      "label": "và tinh vi này đã là một",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 212"
+    }
+  ]
+}

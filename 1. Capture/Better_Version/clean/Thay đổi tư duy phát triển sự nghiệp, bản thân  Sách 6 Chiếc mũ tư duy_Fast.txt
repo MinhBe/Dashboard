@@ -1,0 +1,215 @@
+Hi thân mến, chào các bạn. Chào mừng các bạn đã đến với Better Reason, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay. Hôm nay, Better Reason xin chia sẻ với bạn một video đúc kết những gì tinh túy và cốt lõi nhất từ cuốn sách mang tên 6 chiếc mũ tư duy của tiền sĩ triết học y khoa tâm lý học Edward de Bono. Trước tiên hãy cùng nhau ngẫm nghĩ một vài thực trạng như thế này. Bạn có để ý thấy là chúng ta luôn cảm thấy đôi khi những gì không được chọn trước lại là lựa chọn tốt hơn hay không? Khi đường trước ngã rẽ giữa công việc và học tiếp, nếu chọn công việc sau vài năm có thể bạn sẽ hồi tiếc vì không chọn học tiếp. Khi đối mặt với khó khăn về việc có nên hy sinh sự nghiệp vì con cái hay không dù chọn phương án nào, sau này chúng ta sẽ nghĩ rằng giá như lúc đó mình không chọn như vậy thì tốt biết mới. Dường như chúng ta rất khó để đưa ra quyết định mà không trộn lẫn sự hồi tiếc.
+
+Lúc lựa chọn chúng ta nghĩ mình đủ lý trí nhưng sau đó nhìn lại có vẻ như khi đưa ra quyết định chúng ta vẫn chưa cân nhắc toàn diện.
+
+Vậy thì vấn đề nằm ở đâu?
+
+Trong cuốn sách 6 chiếc mũ tư duy, tác giả đã chỉ ra rằng bởi vì chúng ta không biết được lúc nào nên dùng lý trí, lúc nào nên cần cảm xúc để đánh giá vấn đề. Chúng ta không phân biệt được đâu là thông tin khách quan, đâu là ý tưởng đối mới. Chúng ta luôn cố gắng giải quyết quá nhiều vấn đề cùng một lúc. Cảm xúc, thông tin, logic, hy vọng và ý tưởng, tất cả đều lẫn lộn trong đầu chúng ta. Giống như là chúng ta đang lung tung, tung hứng với quá nhiều trái bóng cùng một lúc. Kết quả là chúng ta bị rối tung lên và khó có một quyết định dựa trên suy nghĩ toàn diện. Còn đối với tổ chức, đội nhóm thì cách tư duy này cũng khiến cho quá trình làm việc và thảo luận không hiệu quả, mất thời gian.
+
+Ví dụ, nhắc đến họp hành thì nhiều người thường có ấn tượng không tốt, mọi người thường muốn bày tỏ ý kiến của mình, thậm chí tranh luận, đò mặt tía tai hoặc có những người sẽ im lặng để tránh mâu thuẫn.
+
+Cuối cùng thì cuộc họp sẽ kéo dài 10 tiếng nồng hồ mà vẫn không đưa ra được kết luận hữu ích nào cả. Điều gì đã biến những cuộc họp hướng tới mục đích chung lại trở thành nỗi ám ảnh của nhiều người đến vậy? Câu trả lời đó là bởi vì lối tư duy của mỗi người thường là kết luận trước, sau đó mới bảo vệ kết luận này. Chúng ta thường dùng cảm tính để đánh giá vấn đề, rồi dùng lý chí để chứng minh cho quan điểm của mình hoặc phản bác lại quan điểm của đối phương. Lúc này rất có thể lý chí sẽ biến thành lý lẽ. Rõ ràng cách suy nghĩ này không hiệu quả trong công việc.
+
+Vậy thì phải xử lý như thế nào mới đúng đắn?
+
+Tiên sĩ Edward đã đưa ra mô hình tư duy toàn diện với 6 chiếc mũ. Nó cung cấp công cụ tư duy song song, tìm cách giải quyết vấn đề hiệu quả nhất Thay vì lãng phí thời gian cho sự tranh luận xung được quan điểm Cuốn sách này không những phù hợp đối với một cá nhân mà còn phù hợp với đội nhóm tổ chức Nó được bán trại trên toàn cầu hơn 30 năm qua Đã được dịch ra 40 ngôn ngữ, phát hành tại 54 quốc gia Mang lại lợi ích cho hàng trăm doanh nghiệp hàng đầu thế giới Hàng chục triệu nhân viên, người đi làm, học sinh, sinh viên
+
+Cho đến nay vẫn đang tiếp tục được sử dụng Sự ra đời của 6 chiếc mũ tư duy đã cứu vãn số phận của Thế Vận hội khi những người tổ chức Thế Vận hội Los Angeles năm 1984 đã áp dụng tư duy sáng tạo của 6 chiếc mũ tư duy này biến thế vận hội từ một gánh nặng thành một sự kiện hấp dẫn và thu về lợi nhuận 150 triệu USD. Hai Tập đoàn Dầu khí Quốc tế của Naui từng gặp phải một vấn đề về lắp ráp dầu tiêu tốn 100k USD mỗi ngày sau khi áp dụng 6 chiếc mũ tư duy,
+
+Vấn đề này đã được giải quyết trong vòng 12 phút, chi phí hằng ngày 100.000 USD giảm xuống còn bằng không Hai ngân hàng đầu tư quốc tế JP Morgan đã sử dụng phương pháp tư duy này để giảm 80% thời gian họp và thay đổi văn hóa doanh nghiệp của toàn châu Âu Một trường hợp khác đó là Tập đoàn Đa Quốc gia APP thường mất 30 ngày để thảo luận với một dự án quốc tế Nhưng sau khi áp dụng 6 chiếc mũi tư duy, thời gian thảo luận giảm xuống chỉ còn 2 ngày Lúc này nhiều bạn sẽ hỏi, nghe có vẻ cao siêu như vậy, liệu 6 chiếc mũ tư duy có khó học không? Câu trả lời đương nhiên là không. Thực ra mô hình 6 chiếc mũ tư duy không hay phức tạp, ngừa lại nó lại là nền tảng căn bản để hình thành tư duy toàn diện hơn. Điều mà chúng ta cần dành luyện đó là hiểu rõ về hướng tư duy của 6 chiếc mũ một cách hệ thống.
+
+Phương pháp tư duy này có thể giúp bạn phát triển sự nghiệp, làm việc hiệu quả với đội nhóm, đưa ra những lựa chọn khôn ngoan trong cuộc sống và có thể tránh mâu thuẫn, đạt được sự giao tiếp hiệu quả với người khác. Rồi bây giờ chúng ta sẽ cùng nhau tìm hiểu những điều cốt lõi nhất từ cuốn sách này.
+
+Đầu tiên ta sẽ cùng tìm hiểu 6 chiếc mũi tư duy này như thế nào?
+
+Thoát giả nói rằng mỗi người đều có 6 chiếc mũi tư duy với 6 màu khác nhau đại diện cho 6 cách tư duy khác nhau. Vì mỗi chiếc mũi đại diện cho một loại tư duy chúng ta sẽ giả định ở đây rằng sẽ có 6 người đội 6 chiếc mũi khác nhau cùng tham gia một cuộc họp Và họ sẽ đảm nhận những vai trò như sau
+
+Đầu tiên đó là người đội mũ tư duy màu trắng
+
+Màu trắng đại diện cho sự trung lập và khách quan Kiểu tư duy này có thể tập trung vào các sự kiện, dữ liệu Không mang cảm xúc và quan điểm cá nhân Khi đội mũ trắng, người này thường nghĩ tới 3 vấn đề Chúng ta hiện có thông tin gì? Chúng ta cần thêm thông tin gì? Làm thế nào để chúng ta có được thông tin cần thiết Tiếp đến là người đội mũ tư duy đỏ
+
+Màu đỏ tượng trưng cho cảm xúc, sự nóng nảy và trực giác Người đội mũ tư duy này luôn có câu hỏi Tư duy này có thể không cần đến bằng chứng, lý do hay cơ sở mà có thể nhanh chóng đưa ra kết luật. Nhưng bên cạnh đấy khi đội mũ tư duy đó cũng có thể giúp cho người đó lắng nghe cảm xúc thực sự từ bên trong.
+
+Tiếp theo đó là người đội mũ tư duy màu đen.
+
+Màu đen thì là màu ưu ám và nghiêm túc nó đại diện cho sự phê phán và cẩn trọng. Mũ tư duy màu đen này sẽ giúp cho một người nhìn thấy những khuyết điểm của vấn đề. Tránh sự lạc quan mù quáng. Câu hỏi đặt ra trong quá trình tư duy là Vấn đề ở đâu? Cách suy nghĩ này có gì sai? Kết quả sẽ ra sao nếu suy nghĩ theo cách này Còn người đội ngũ tư duy màu vàng sẽ ngược lại Màu vàng giống như tiên nắng mặt trời, nó đại diện cho sự lạc quan, hy vọng và tích cực
+
+Người đội ngũ màu vàng sẽ nhìn thấy mặt tươi sáng của vấn đề Tràn đầy niềm tin và động lực Câu hỏi mà họ hay nghĩ đến đó là
+
+Những yếu tố tích cực là gì? Có những khía cạnh? Có giá trị nào?
+
+Ý tưởng này có điểm gì hấp dẫn không? Sau đó là người đội ngũ tư duy xanh lá Xanh lá sẽ khiến cho chúng ta liên tưởng tới cỏ cây và sức sống. Nó cũng đại diện cho sự đổi mới và cải cách. Khi đội mũ tư duy xanh lá, sẽ giúp thoát khỏi những khuôn khổ, dũng cảm thử nghiệm những điều mới mẻ. Người đội mũ này sẽ nghĩ
+
+Chúng ta có ý tưởng nào? Chúng ta còn cách nào khác để làm việc này không? Chúng ta còn có thể làm gì khác nữa không?
+
+Cuối cùng đó là người đội mũ xanh ra trời.
+
+Màu xanh này là màu xanh của bầu trời. Nó đại diện cho một tầm nhìn bao quát. Người đội mũ sinh ra trời sẽ chịu trách nhiệm kiểm soát, điều chỉnh quá trình tư duy Tổng kết tư duy và đưa ra kết luận Quá trình suy nghĩ sẽ xoay quanh các câu hỏi như sau Chúng ta đã làm được gì? Chúng ta cần làm gì?
+
+Bước tiếp theo
+
+Ta sẽ làm gì? 6 chiếc mũ tư duy này 6 cách tư duy khác nhau Nhưng chúng lại bổ sung lẫn nhau
+
+Và làm cho tư duy của chúng ta trở nên toàn diện
+
+Sâu sắc hơn Tuy nhiên
+
+Vấn đề ở đây là gì?
+
+Khi nào 6 người này sẽ xảy ra tranh cãi Khi nào tư duy của bạn dối rắm khi nào chúng ta giải quyết vấn đề không hiệu quả. Khi có 6 người, đội 6 chiếc mũ với 6 màu khác nhau tại cùng một thời điểm Mỗi người mỗi ý, kết quả sẽ không ai như ai Vấn đề không được giải quyết, mọi người trở nên đối đầu Đây chính là sự hỗn loạn Và hãy tưởng tượng khi cá nhân bạn giải quyết một vấn đề
+
+Trong bạn luôn có 6 người với 6 chiếc mũ từ gì khác nhau như thế Nếu bạn không thiết lập một chật tự rõ ràng mà để cùng một lúc 6 chiếc mũ cùng lên tiếng thì chắc chắn bạn sẽ dối lại Hãy nhớ lại đã bao lần bạn xử lý một vấn đề vô cùng khó khăn mà luôn cảm thấy đầu óc mình dối tung lên. Đây chính là vì tư duy của bạn không có hệ thống và mất trật tự, chúng ta luôn sử dụng quá nhiều tư duy cho một phần đẻ
+
+hoặc sử dụng sai màu, sai trật tự Vì thế suy nghĩ của chúng ta không thông xuất Cách nhìn không toàn diện
+
+Phương pháp giải quyết mắc nhiều thiếu sót
+
+Giống như cuốn sách The One Thing có nói Chúng ta không thể xử lý nhiều việc cùng một lúc video này sẽ tăng nguy cơ sai sót Nếu bạn vừa nghe sách, vừa thái rau củ khi câu chuyện trong sách lôi cuốn quá rất có thể bạn sẽ tự cắt vào tay mình Tư di cũng như vậy. Để tránh sự hỗn loạn này, chúng ta phải nắm được những nguyên thắc cơ bản nhưng cũng vô cùng hiệu quả đó là lần lượt đội 6 chiếc mũ tư di một cách có chất tự
+
+sử dụng đơn lẻ từng chiếc cái này đội xong rồi mới đến cái tiếp theo Đối với đội nhóm, chúng ta cần chú ý rằng tất cả mọi người tại cùng một thời điểm chỉ nên đội cùng một chiếc mũ tư di cùng màu suy nghĩ kỹ càng rồi mới đổi sang một màu mũ khác Đây chính là tư di song song tức là tư di mỗi người đi trên đường riêng của mình
+
+Nhưng ở mỗi một khía cạnh vấn đề, chúng ta đi song song với nhau cùng hướng tới một mục đích chung. Còn đối với cá nhân, bạn cần phải có hệ thống tư duy 6 chiếc mũ một cách toàn diện để biết nên đội mũ nào trước, mũ nào sau theo một trật tự hợp lý. Có như vậy bạn mới không hồi hận vì những gì đã nói đã làm. Cần chú ý một điều ở đây rằng phân giả định 6 người đội 6 chiếc mũ đó là để chúng ta dễ hình dung. 6 chiếc mũ tư duy thực ra là sáu hướng tư duy của một người. Nó không phải dùng để mô tả hay phân loại. Người này có tư duy mũ màu đỏ, người kia có tư duy mũ đen
+
+Không phải như vậy Chính xác bất kỳ người nào cũng có thể sử dụng 6 chiếc mũ tư duy này
+
+Vậy thì tiếp theo chúng ta sẽ cùng đến phần quan trọng nhất
+
+Đó là cùng nhau tìm hiểu cách sử dụng 6 chiếc mũ này Tìm hiểu hệ thống chặt tự Và khi nào ta nên sử dụng mũ tư duy nào Trước hết để có thể sử dụng một cách tốt nhất Chúng ta cần phải hiểu rõ cơ chế nền tảng Mà các mũ tư duy bổ sung và hỗ trợ cho nhau như thế nào Nếu không rõ nền tảng thì cách áp dụng 6 chiếc mũ này sẽ trở nên máy móc.
+
+Đầu tiên chúng ta sẽ tìm hiểu mũ trắng và đỏ, cảm xúc và lý trí giống như là một điệu nhảy trong não bộ. Khi nhìn thấy một học sinh ngồi trong lớp đang chồng cằm, ngậm bút và nhìn về phía bên cạnh,
+
+suy nghĩ đầu tiên của bạn là gì?
+
+Có phải bạn sẽ nghĩ cậu bé này đang lơ đãng mơ màng? Rõ ràng khi nhìn thấy một cảnh tượng, chúng ta thường có xu hướng đánh giá dựa trên những quan niệm và kinh nghiệm từ trước. Giống như khi thấy chồng về muộn, phản ứng đầu tiên của bạn rất có thể là anh lại đi đâu về trễ thế này, thay vì đơn giản nói là anh về muộn rồi. Lúc này chiếc mũ tư duy màu trắng chính là để giúp cho chúng ta nhìn nhận sự việc một cách chung lập nhất. Tác giả nói rằng mũ trắng có thể giúp cho chúng ta phân biệt giữa sự thật và giải thích.
+
+Khi đội chiếc mũ tư duy màu trắng, chúng ta có thể thu thập các thông tin liên quan cung cấp nền tảng vững chắc cho tư duy sau này. Bạn để ý điều này cũng giống như cảnh sát phá án, họ không vội vàng giải thích, cũng không tin vào những thứ gần giống với sự thật tiết của sự thật. Đối với bất cứ sự việc
+
+và vấn đề nào, chúng ta cần phải đội mũ
+
+màu trắng trước khi buông một lời nói hay đưa ra kết luận. Thái độ khách quan của mũ trắng sẽ biến chúng ta trở thành một vị thẩm phán công bằng, giúp chúng ta xử lý vấn đề không bị ảnh hưởng bởi thiên kiến cá nhân. Khi đã hiểu đủ sự thật, bạn mới có thể bỏ mũ trắng xuống và đội lên chiếc mũ tư duy màu đỏ
+
+Khác hoàn toàn về tư duy màu trắng Tư duy màu đỏ cung cấp cảm xúc và cảm nhận. Nếu bạn chưa có mũ màu trắng bằng cảm tính, cũng vì những gì không vừa ý mà khó kiềm chế được con quỷ giận dữ nóng nảy trong mình. Tóm lại cơ chế nền tảng ở đây đó là khi giải quyết vấn đề luôn cần đội mũ trắng trước rồi sau đó mới đội mũ tư duyên màu đỏ. Bởi vì có như vậy, mũ đỏ mới phát huy được công dụng tuyệt vời của nó Đó là khai thác cảm xúc, tình cảm chân thực nhất trong bạn và để trực sắc dẫn được sự giải phòng Cảm xúc này giống như một nghệ sĩ nhiệt tình, giúp bạn xử lý vấn đề với đầy đam mê và sáng tạo
+
+Cảm xúc và lý trí này giống như một điệu nhảy trong bộ não Chúng ta phải học cách chuyển đối khéo léo giữa mũ trắng và mũ đỏ Nhiều người khi đưa ra quyết định hoặc chỉ dựa vào lý trí Hoặc chỉ dựa vào cảm tính Khi học cách chuyển nổi hợp lý giữa hai chiếc mũ này Sẽ giúp cho quyết định của chúng ta trở nên sáng suốt hơn Rồi tiếp theo chúng ta sẽ cùng tìm hiểu Câu chế giữa mũ tư duy màu đen và vạng
+
+Bi quan và lạc quan đều là những yếu tố cần thiết trên đường đời của chúng ta Có thể ở đây nhiều bạn đã không còn xa lạ với câu chuyện về nửa ly nước. Cùng một ly nước, có người thấy còn hẳn nửa ly nước cơ mà. Trong khi có người thì thấy chỉ còn nửa ly nước thôi.
+
+Vậy thì suy nghĩ như thế nào là tốt hơn?
+
+Nhiều người có thể nghĩ rằng tư duy theo lối lạc quan còn nửa ly nước là sẽ tốt hơn. Nhưng theo tác giả, cả hai cách suy nghĩ, lạc quan và bi quan đều cần thiết. Nếu bạn suy nghĩ còn nửa ly nước trong mô hình 6 chiếc mũi tư duy tương ứng với mũi tư duy màu vàng. Mũi tư duy màu vàng đó là đánh giá tích cực. tính xây dựng và khích lệ. Khi lâm vào khó khăn, chúng ta đặc biệt cần phải suy nghĩ theo mũ vàng. Và khi giải quyết vấn đề, mũ tư duy vàng sẽ dùng để tìm kiếm giải pháp cho vấn đề kích thích tiềm năng của chúng ta. Thái độ lạc quan này giống như một người hướng dẫn tươi sáng. Còn suy nghĩ chỉ còn có nửa ly nước thì sẽ tương ứng với mũ tư duy màu đen so với mũ tư duy màu vàng.
+
+Mũ đen giống như một kỹ sư cẩn trọng, xử lý vấn đề một cách thận trọng và toàn diện hơn. Nó tìm cách tránh những nguy hiểm, khó khăn Chỉ ra những điểm bất lợi, rủi ro Hoặc những điều có hại cần chú ý Nó cũng là cơ sở cho sự sống còn Thành công của chúng ta Hà chi mũ tư duy đen và vàng này Là mình nhớ đến chuyến đi huyền thoại
+
+Tới năm cực của nhà thám hiểm Sharkleton Ông đã 4 lần đến 5 cực Mỗi lần đều gặp phải hoàn cảnh khó khăn Đặc biệt trong lần thám hiểm thứ 3 Ông đã gặp phải thời tiết khắc nghiệt Nhưng ông đã dẫn dắt đội thám hiểm đầu tranh hơn 700 ngày
+
+cuối cùng đưa tất cả thành viên trở về an toàn.
+
+Trong sự kiện này, Shackleton đã phát huy tối đa chức năng của chiếc mũi tư duy màu đen và vàng. Tư duy màu vàng giúp ông có hy vọng vào tương lai. Tư duy mũi đen giúp ông chú ý đến môi trường khác biệt hiện tại, cẩn trọng trong từng chi tiết hơn. Nếu thiếu một trong hai sẽ không có điều kỳ diệu nào xảy ra. Như vị thủ tướng vĩ đại nhất của lịch sử Anh Quốc Winston Churchill đã từng nói Người lạc quan nhìn thấy cơ hội trong mỗi khủng hoảng, Người bi quan nhìn thấy khủng hoảng trong mỗi cơ hội Cả ai thực ra không mâu thuẫn
+
+Vì vậy khi nhìn nhận vấn đề Nhất thiết phải đội lần lượt hai mũ tư duy Đen và vàng Trật tự đội lên tốt nhất Đó là mũ màu vàng trước rồi đến mũ đen Suy nghĩ về giá trị trước Sau đó mới nghĩ đến khó khăn Điều này sẽ giúp chúng ta tạo nên động lực tích cực
+
+Còn nếu chúng ta suy nghĩ về khó khăn trước Thì sẽ làm giảm sự tự tin và tích cực của chúng ta Thậm chí là bi quan đến mức Lời suy nghĩ về giá trị Thêm vào đó, dùng mũ đen xong, chúng ta cần có mũ xanh lá. Mũ đen sẽ giúp cho chúng ta thấy vấn đề hay khó khăn, rủi ro. Nhưng mũ xanh lá được dùng sau đó sẽ khuyến khích chúng ta suy nghĩ, khám phá giải pháp cho các vấn đề của mũ đen.
+
+Nếu sau mũ đen không có mũ xanh lá, mọi người sẽ không nghĩ ra ý tưởng, giải pháp và vấn đề sẽ khó mà giải quyết được. Tiếp đến chúng ta sẽ cùng tìm hiểu kỹ hơn về mũ tư duy sinh lá qua một quan hệ tương hỗ với mũ tư duy sinh da trời. Ý tưởng có thể bay bỏng, nhưng hành động phải thực tế. Khi nhắc đến họp hành, nhiều người cảm thấy rất đau đầu. Ví dụ trong cuộc họp về xây dựng dự án, mọi người bày tỏ ý tương bay bỏng, thậm chí bàn luận vài giờ liên tiếp. Nhưng khi cuộc họp kết thúc, giống như mọi thứ lại quay về điểm xuất phát.
+
+Cuộc họp không đưa ra được kết luận thực tế nào cũng không có kế hoạch rõ ràng cho các bước tiếp theo. Cuộc họp như vậy sẽ chỉ tốn thời gian. Nếu như ở đây chúng ta có chiếc mũ tư duy sinh ra trời thì mọi chuyện sẽ khác. Tha giả nói rằng, mũ xanh ra trời là chiếc mũ kiểm soát. Khi đội nó lên, chúng ta có thể như một người nhạc trường Xác định chủ đề tư duy, tập trung vào trọng điểm, Định nghĩa vấn đề và hình thành vấn đề Nói đơn giản, mũ tư duy xanh ra trời sẽ giám sát tư duy
+
+Tổng kết và tổ chức quá trình tư duy Do đó muốn một cuộc họp có kết luận chính xác Sử dụng mũ xanh ra trời là thích hợp nhất
+
+Bên cạnh đó, chúng ta cũng biết rằng
+
+Những ý tưởng sáng tạo là không thể thiếu Điều này đòi hỏi chúng ta phải đội chiếc mũ tư duy xanh lá. Đây là chiếc mũ thách thức các quan niệm cũ, mở ra chân trời mới cho chúng ta. Tinh thần đổi mới này giống như một nhà thám hiểm dũng cảm, giúp chúng ta xử lý vấn đề với vô vàn khả năng. Giống như nhà sáng lập, Benasonic có từng nói
+
+bất cứ ai nếu không suy ngẫm cửa trôi theo dòng đời đều sẽ trở nên hưu quạnh. Cách suy ngẫm cần có ở đây đó chính là sự kết hợp giữa mũ tư duy xanh da trời và xanh lá để những ý tưởng của mẫu xanh lá hy vọng có thể thành hiện thực. Thì trước hết phải có một tư duy phân tích và tổng hợp
+
+của chiếc mũ xanh da trời. Hãy chú ý rằng, mũ xanh dương có vai trò vô cùng quan trọng trong quá trình tư duy của chúng ta mỗi phần nên bắt đầu và kết thúc bằng mũ xanh da trời. Bạn có thể hình dung mũ xanh da trời giống như là bia sách lúc bắt đầu mũ xanh da trời xác định vấn đề trọng tâm và thứ tự sử dụng các mũ Lúc kết thúc, nó sẽ tổng kết và lập kế hoạch cho các bước tiếp theo.
+
+Rồi sau khi hiểu rõ được cơ chế nền đảng hoạt động bổ sung và hỗ trợ nhau giữa các mũi tư duy, chúng ta sẽ cùng tìm hiểu cụ thể trật tự sử dụng hệ thống 6 chiếc mũ này. Ở phần này mình sẽ phân tích riêng biệt hệ thống trật tự mũi tư duy dành cho đội nhóm, cho cá nhân và ứng dụng trong giao tiếp bạn có thể lựa chọn cho phù hợp với nhu cầu của mình.
+
+Đầu tiên, đối với đội nhóm, thông thường có 3 loại trình tự được ứng dụng Tuy nhiên ở bất kỳ trường hợp nào, các thành viên trong đội nhóm trước hết đều cần phải thống nhất Đồng bộ một trình tự. Chúng ta sẽ có 3 kiểu chật tự hiệu dụng đối với đội nhóm như sau Kiểu thứ 1 Trình tự cố định Khi chúng ta chuẩn bị và tiến hành cho một cuộc họp Bạn nên bắt đầu hệ thống 6 mũ tư duy về các màu như sau
+
+Đầu tiên là xanh ra trời
+
+Tiếp đến là màu trắng Tiếp đến là xinh lá cây Rồi màu vàng Màu đen Và đỏ Nó tương ứng với các hướng tư duy sau
+
+Đầu tiên đó là chúng ta tổng hợp quá trình, tiếp đến là thu nhập thông tin, rồi ý tưởng, phân tích lợi ích, phân tích rủi ro và cuối cùng đam mê, cảm xúc. Trong quá trình họp sẽ lần lượt sử dụng mũi tư duy theo thứ tự này và đặt thời gian cho mỗi chiếc mũ với trình tự cố định như vậy sẽ giúp cho mỗi thành viên nắm bắt trung tâm của cuộc họp. Thông qua việc lần lượt sử dụng các kiểu tư duy đã chọn, cuộc họp sẽ tiến triển một cách có hệ thống Rồi kiểu trật tự thứ 2 đối với đội nhóm đó là chèn một cách linh hoạt Đôi khi không phải lúc nào chúng ta cũng có thể tư duy theo trình tự cố định như trên Những lúc chưa có đầy đủ thông tin và sự chuẩn bị, chúng ta cần linh hoạt chèn tư duy Ví dụ như là đầu tiên chúng ta sẽ sử dụng mũ xanh da trời
+
+Tiếp đến là vàng, đen rồi đỏ Có thể chèn thêm mũ trắng nếu có đủ thông tin vào vị trí giữa màu xanh da trời và màu vàng
+
+Bên cạnh đó nếu có ý tưởng đổi mới thì hãy thêm màu xanh lá sau khi sử dụng mũ màu đỏ Kiểu thứ 3 đối với đội nhóm đó là trình tự linh hoạt tùy theo tình huống cụ thể. Khi nào thì áp dụng trình tự này? Khi mà trình tự phát biểu trong cuộc họp không chắc chắn, trình tự linh hoạt này sẽ giúp bạn đáp ứng tốt hơn mọi nhu cầu phát biểu của mọi người tham gia. Ví dụ chúng ta sẽ sử dụng đội ngũ đỏ trước rồi đến đen hoặc là màu vàng. Ở đây chúng ta sẽ phải lưu ý trong việc quản lý thời gian toàn bộ quá trình.
+
+Đầu tiên hãy chú ý dành ít nhất 30 giây cho ngũ đỏ.
+
+Thứ hai, hãy thông báo cho mọi người về việc phân bổ thời gian trong tầm khoảng 3-4 phút.
+
+Cuối cùng đó là có thể kéo dài thời gian cho mỗi chiếc mũ nếu cần.
+
+Nhưng để cụ thể hơn, trình tự sử dụng hệ thống có thể được phân nhỏ, các mũi tư duy hãy sử dụng lặp lại ở các khâu khác nhau. Ở đây thì mình có một chật tự chi tiết hơn dành cho đỡ nhóm. Đó là ví dụ trong một cuộc họp chúng ta sẽ chia cuộc họp nhóm này thành ba giai đoạn. Giai đoạn đầu tiên khi mở đầu cuộc họp. Khi bắt đầu cuộc họp, chúng ta sẽ sử dụng mũ xanh da trời để đưa ra chủ đề thiết lập chật tự của các mũ và phân bổ thời gian, xây dựng giàn ý các bước và nội dung.
+
+Tiếp theo, chúng ta sẽ sử dụng mũ đỏ để bày tỏ cảm xúc, rồi kế tiếp sử dụng mũ trắng để chia sẻ thông tin đã biết và thông tin cần thiết tìm ra giá trị thực tế. Cần nhớ rằng ở phần này, chúng ta sẽ không sử dụng mũ đen và mũ xanh lá cây.
+
+Bước qua giai đoạn 2, đó là giai đoạn giữ cuộc họp.
+
+Ở đây thì chúng ta sẽ sử dụng đó là mũ xanh da trời đầu tiên để tóm tắt lại nội dung hiện tại, kiểm tra tiến trình. Sau đó hãy đội mũ màu đỏ để kiểm tra sự thay đổi cảm xúc. Tiếp đến mũ màu trắng thu thập thêm thông tin kể đến mũ màu xanh lá cây tập trung các ý tưởng rồi đội tiếp mũ màu vàng để tìm kiếm giá trị thực tế và kế tiếp đội mũ đen nhận diện các khó khăn thiếu sót có thể xuất hiện. Rồi cuối cùng, chúng ta sẽ đổi mũ xanh dương một lần nữa để tìm ra các phương pháp khắc phục cho vấn đề lo ngại của mũ đen.
+
+Cuối cùng, chúng ta sẽ đi đến phần kết thúc cuộc họp.
+
+Ở giai đoạn này, một lần nữa bạn phải đổi mũ xanh da trời để tóm tắt, tổng kết và tiếp tục các bước tiếp theo. Thêm một lần nữa, chúng ta đổi lên mũ màu đỏ để kiểm tra phản ứng, đạt được sự đồng thuận. Kế tiếp, hãy đổi mũ xanh lá để cải thiện một số ý tưởng trước đó. Hay liệt kê các phương pháp lựa chọn khác.
+
+Cuối cùng, hãy đội mũ màu đen để có thể kiểm tra sự cố nếu như có.
+
+Ở phần cuối này chúng ta cũng có thể kết hợp thêm mũ màu đỏ để thắt chặt nhịt huyết hơn. Rồi trên đây chính là trật tự đội mũ tư duy một cách có hệ thống dành cho đội nhóm. Còn bây giờ chúng ta sẽ tiếp tục tìm hiểu cách áp dụng trật tự hệ thống dành cho cá nhân. Khi gặp một vấn đề mà bạn cần suy xét cần đưa ra quyết định hoặc với tư cách
+
+một thành viên tham gia vào công việc của đội nhóm bạn có thể sử dụng trình tự như sau Để xem xét lại một vấn đề trước đó
+
+Đầu tiên hãy sử dụng mũi xanh dương để trả lời cho câu hỏi
+
+Trọng tâm của vấn đề là gì?
+
+Tiếp đến 2 đội mũ vàng
+
+Những lợi ích, ưu điểm là gì?
+
+Những gì đang hoạt động tốt Các khía cạnh thích cực nào Bao gồm cả những gì đã có Và các tiềm năng của chúng Tiếp đến là mũi đen Hãy đặt câu hỏi rằng Những thách thức
+
+Những nhược điểm hiện tại là gì
+
+Các vấn đề xuất hiện
+
+Và tiêm ẩn là gì
+
+Rồi chúng ta sẽ sử dụng mũi xanh lá
+
+và tiếp theo chúng ta sẽ đổi mũ trắng
+
+còn cần những thông tin gì bạn sẽ dùng cách nào để có được những thông tin đó các thành viên khác trong nhóm của bạn thì sao họ có bổ sung gì cho thông tin mà bạn đã có hay không rồi tiếp đến chúng ta sẽ đổi mũ đỏ trực giác của bạn nói gì cảm giác của bạn ra sao ở đây chúng ta cần chú ý rằng
+
+bạn không cần phải cố gắng giải thích nguyên nhân cũng không cần phải hợp lý hóa chung chỉ cần ghi lại 1-2 câu
+
+và cuối cùng chúng ta sẽ một lần nữa
+
+đổi mũ xanh dương ở bước cuối cùng để tóm tắt lại suy nghĩ của bạn nếu có thể thì hãy đưa ra kết luận vắng tất cả những phân tích, suy xét này. Hãy lập ra kế hoạch hành động cho bạn. Rồi phần cuối cùng chúng ta sẽ cùng tìm hiểu trật tựa hệ thống 6 chiếc mũi tư duy dùng cho khi giao tiếp. Ở đây đầu tiên chúng ta sẽ dùng mũ màu trắng để trả lời cho câu hỏi
+
+Thông tin bạn đã biết về chủ đề này là gì?
+
+Sự thật này đã được xác nhận một cách khách quan hay không? Tiếp đến chúng ta đội mũ sinh lá. Bạn có thể nghĩ ra ý tưởng gì không? Rồi đội mũ sinh ra chơi.
+
+Kết quả mà chúng ta đang cố gắng đạt được là gì?
+
+Rồi đến mũ đỏ, bạn có phiền bó mũ đỏ ra vài phút không? Tiếp đến mũ màu đen Những chỗ nào có thể xảy ra sai sót Rồi cuối cùng là mũ màu vàng Điều tích cực nào có trong đây Rồi trên đây là toàn bộ những đúc kết về cuốn sách này Có thể nói rằng 6 chiếc mũ tư duy Là công cụ lập lại trật tự tư duy
+
+Giúp bạn thoát khỏi sự hỗn loạn Rồi dhem trong suy nghĩ Từ đó có cái nhìn toàn diện Sâu sắc Tạo ra nhiều ý tưởng mới cho cuộc sống và công việc Với phương pháp 6 chiếc mũ tư duy Trọng tâm của chúng ta sẽ chuyển từ đây là gì sang có thể như thế nào Chuyển từ phàn nạn thực trạng
+
+Sang trạng thái làm thế nào để thiết lập con đường tiến về phía trước Khi sử dụng 6 chiếc mũi tư duy Chúng ta có thể sử dụng bất kỳ chiếc mũ nào Tùy theo nhu cầu Và không cần thiết phải sử dụng tất cả các chiếc mũ Trạng thái lý tưởng luôn là thứ tự của các mũ đã được xác định trước Không có thứ tự nào là đúng duy nhất Thứ tự có thể thay đổi tùy theo chủ đề và người sử dụng
+
+Đây chỉ là những công cụ tư duy
+
+Nó không phải là một khuôn mẫu máy móc nào cả
+
+Và điều vô cùng quan trọng ở đây đó là Bạn cần phải xây dựng nền tảng và hệ thống tư duy toàn diện cho mình Mục đích của 6 chiếc mũi tư duy Là để bạn thiết lập một trật tự trong não bộ Tránh mất kiểm soát cảm xúc, nhìn nhận phiến diện vấn đề Thiếu sót trong phương hướng giải quyết Và không thể sáng tạo đồn mới bản thân Giống như câu nói rằng
+
+Một việc nếu có thể được suy ngẫm Thì chắc chắn có thể được suy nghĩ một cách rõ ràng Vì vậy mong tất cả chúng ta Đừng bao giờ ngừng suy ngẫm Hãy giải luyện tư duy của bạn Học cách suy nghĩ kỹ trước khi mở lời và đưa ra quyết định Nó có thể giúp cho chúng ta trở thành một người sống thông suốt hơn Cảm ơn bạn đã lắng nghe
+
+Nếu bạn cảm thấy video này có ích Hãy chia sẻ từ những người cần nó Cho mình 1 nút like Nhấn nút đăng ký Và mở nút chuông thông báo Để đón xem những video mới nhất mỗi tuần Một lần nữa Cảm ơn các bạn
+
+Và hẹn gặp lại các bạn ở những video tiếp theo

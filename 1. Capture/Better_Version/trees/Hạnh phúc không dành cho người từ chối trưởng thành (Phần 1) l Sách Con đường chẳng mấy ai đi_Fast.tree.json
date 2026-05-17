@@ -1,0 +1,144 @@
+{
+  "source_type": "youtube",
+  "word_count": 4671,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_cuốn_sách_đáng_kinh_ngạc_bởi_vì_ngay_khi_lần_đầu",
+      "label": "Đây là một cuốn sách đáng kinh ngạc bởi vì ngay khi lần đầu ra mắt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "giống_như_là_một_viên_sòi_nhỏ_ném_xuống_mặt_biển_không_hề_gọ",
+      "label": "Giống như là một viên sòi nhỏ ném xuống mặt biển không hề gọn sóng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "tại_sao_bạn_không_chịu_trưởng_thành",
+      "label": "Tại sao bạn không chịu trưởng thành?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "về_tâm_trí_và_tinh_thần",
+      "label": "về tâm trí và tinh thần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "nhưng_tại_sao_chúng_ta_vẫn_không_chịu_trưởng_thành",
+      "label": "Nhưng tại sao chúng ta vẫn không chịu trưởng thành?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đầu_tiên_đó_là_trì_hoãn",
+      "label": "Đầu tiên đó là trì hoãn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_nên_chính_lúc_này_bước_đầu_tiên_là_hãy_quan_sát_nhìn_nhậ",
+      "label": "Vậy nên chính lúc này, bước đầu tiên là hãy quan sát, nhìn nhận,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "mà_nó_còn_là_phương_pháp_tạo_ra_cho_bạn_một_sức_mạnh_nội_tâm",
+      "label": "mà nó còn là phương pháp tạo ra cho bạn một sức mạnh nội tâm,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "tác_giả_là_một_nhà_tâm_lý_trị_liệu",
+      "label": "Tác giả là một nhà tâm lý trị liệu,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_tại_sao_cô_không_lái_xe_đến_khu_dân_cư_của_quân_nhân_ngư",
+      "label": "Vậy tại sao cô không lái xe đến khu dân cư của quân nhân người Mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_cô_có_thể_học_lái_xe_số_sàn",
+      "label": "vậy cô có thể học lái xe số sàn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "nguyên_tắc_thứ_3",
+      "label": "Nguyên tắc thứ 3",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vậy_cuối_tuần_thứ_7_này_được_không",
+      "label": "Vậy cuối tuần thứ 7 này được không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_có_nghĩa_là",
+      "label": "Vậy có nghĩa là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_thì",
+      "label": "Vậy thì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 110",
+      "children": [
+        {
+          "key": "vậy_thì_item_1",
+          "label": "[Item 1 of Vậy thì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_item_2",
+          "label": "[Item 2 of Vậy thì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_đây_người_ngã_lụn_nhào_và_đau_đớn_sẽ_chính_là_bạn",
+      "label": "tiếp theo đây người ngã lụn nhào và đau đớn sẽ chính là bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    }
+  ]
+}

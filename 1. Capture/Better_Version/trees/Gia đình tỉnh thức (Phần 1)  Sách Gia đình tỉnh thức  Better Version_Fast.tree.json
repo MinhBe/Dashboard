@@ -1,0 +1,155 @@
+{
+  "source_type": "youtube",
+  "word_count": 5680,
+  "estimated_leaf_nodes": 17,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 17 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_chủ_đề_rất_mới",
+      "label": "Đây là một chủ đề rất mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_nhưng_không_phải_ai_cũng_đủ_tin_tưởng_và_sẵn_sàng_thực_h",
+      "label": "Vậy nhưng không phải ai cũng đủ tin tưởng và sẵn sàng thực hiện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "vậy_nhưng_không_phải_ai_cũng_đủ_tin_tưởng_và_sẵn_sàng_thực_h_item_1",
+          "label": "[Item 1 of Vậy nhưng không phải ai cũng đủ tin tưởng và sẵn sàng thực hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nhưng_không_phải_ai_cũng_đủ_tin_tưởng_và_sẵn_sàng_thực_h_item_2",
+          "label": "[Item 2 of Vậy nhưng không phải ai cũng đủ tin tưởng và sẵn sàng thực hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_tôi_quan_trọng",
+      "label": "Thứ ba, tôi quan trọng.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 30",
+      "children": [
+        {
+          "key": "thứ_ba_tôi_quan_trọng_item_1",
+          "label": "[Item 1 of Thứ ba, tôi quan trọng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tôi_quan_trọng_item_2",
+          "label": "[Item 2 of Thứ ba, tôi quan trọng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nhưng_tại_sao_bạn_lại_bực_tức_vì_những_điều_này",
+      "label": "Nhưng tại sao bạn lại bực tức vì những điều này?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "nhưng_tại_sao_bạn_lại_bực_tức_vì_những_điều_này_item_1",
+          "label": "[Item 1 of Nhưng tại sao bạn lại bực tức vì những điều này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nhưng_tại_sao_bạn_lại_bực_tức_vì_những_điều_này_item_2",
+          "label": "[Item 2 of Nhưng tại sao bạn lại bực tức vì những điều này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_cái_bẫy_lớn_nhất_ở_đây_là_gì",
+      "label": "Vậy thì cái bẫy lớn nhất ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "hoặc_là_một_người_mẹ_không_tệ",
+      "label": "Hoặc là một người mẹ không tệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_thì_tình_yêu_thương_con_cái_thực_sự",
+      "label": "Vậy thì tình yêu thương con cái thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "bước_ra_khỏi_cái_tôi_của_mình",
+      "label": "Bước ra khỏi cái tôi của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_nếu_không_yêu_cầu_không_dạy_bào",
+      "label": "Vậy nếu không yêu cầu, không dạy bào,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_nên_xin_đừng_tước_đi_cơ_hội_học_cách",
+      "label": "Vậy nên xin đừng tước đi cơ hội học cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "tiếp_theo_đó_là_nỗi_sợ_số_5",
+      "label": "Tiếp theo đó là nỗi sợ số 5",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "xem_con_giống_như_là_một_phần_mờ_rộng",
+      "label": "Xem con giống như là một phần mờ rộng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "đây_chính_là_phương_pháp_trị_liệu_tốt_cho_bạn",
+      "label": "đây chính là phương pháp trị liệu tốt cho bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "đó_cũng_là_một_dấu_hiệu_cho_thấy",
+      "label": "đó cũng là một dấu hiệu cho thấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    }
+  ]
+}

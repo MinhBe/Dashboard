@@ -1,0 +1,125 @@
+{
+  "source_type": "youtube",
+  "word_count": 2640,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_đạo_phật_luôn_đúng_một_cái_tiêu_đề_rất_là_táo_bạo_ph",
+      "label": "Tại sao Đạo Phật luôn đúng? Một cái tiêu đề rất là táo bạo phải không?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "tại_sao_đạo_phật_luôn_đúng_một_cái_tiêu_đề_rất_là_táo_bạo_ph_item_1",
+          "label": "[Item 1 of Tại sao Đạo Phật luôn đúng? Một cái tiêu đề rất là táo bạo phải không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_đạo_phật_luôn_đúng_một_cái_tiêu_đề_rất_là_táo_bạo_ph_item_2",
+          "label": "[Item 2 of Tại sao Đạo Phật luôn đúng? Một cái tiêu đề rất là táo bạo phải không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_bản_chất_con_người_bị_tri_phối_bởi_cảm_xúc",
+      "label": "Thứ ba, bản chất con người bị tri phối bởi cảm xúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 10",
+      "children": [
+        {
+          "key": "thứ_ba_bản_chất_con_người_bị_tri_phối_bởi_cảm_xúc_item_1",
+          "label": "[Item 1 of Thứ ba, bản chất con người bị tri phối bởi cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_bản_chất_con_người_bị_tri_phối_bởi_cảm_xúc_item_2",
+          "label": "[Item 2 of Thứ ba, bản chất con người bị tri phối bởi cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chúng_ta_không_thể_nhìn_thế_giới_một_cách_khách_quan",
+      "label": "Chúng ta không thể nhìn thế giới một cách khách quan.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tại_sao_lại_khai_màn_vào_bộ_phim_này",
+      "label": "Tại sao lại khai màn vào bộ phim này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tại_sao_robert_wright_lại_dùng_bộ_phim_này_để_làm_dẫn_mở",
+      "label": "Tại sao Robert Wright lại dùng bộ phim này để làm dẫn mở?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "và_khiến_cho_chúng_ta_cảm_nhận_được_những_thứ_vui_ngắn_ngủi",
+      "label": "Và khiến cho chúng ta cảm nhận được những thứ vui ngắn ngủi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "và_con_người_chúng_ta_không_ngừng_theo_đuổi_sự_thoải_mãn_tiế",
+      "label": "Và con người chúng ta không ngừng theo đuổi sự thoải mãn tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "và_chúng_ta_lại_tiếp_tục_khao_khát_những_thứ_khác_nhiều_hơn",
+      "label": "Và chúng ta lại tiếp tục khao khát những thứ khác nhiều hơn nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "đau_khổ_là_một_khái_niệm_quan_trọng_trong_vật_giáo",
+      "label": "Đau khổ là một khái niệm quan trọng trong Vật Giáo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_rất_thích_ăn_đồ_ngọt",
+      "label": "Tại sao chúng ta lại rất thích ăn đồ ngọt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "có_99_khả_năng_âm_thanh_đó_là_tiếng_gió_thổi",
+      "label": "Có 99% khả năng âm thanh đó là tiếng gió thổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    }
+  ]
+}

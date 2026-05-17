@@ -1,0 +1,274 @@
+{
+  "source_type": "youtube",
+  "word_count": 6713,
+  "estimated_leaf_nodes": 34,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 34 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_bạn_thực_sự_là_ai",
+      "label": "Vậy thì bạn thực sự là ai?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "sakura_là_một_bậc_thầy_giang_ngộ_một_yogi_nhà_huyền_bí_học",
+      "label": "Sakura là một bậc thầy giang ngộ, một yogi nhà huyền bí học,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "bước_thứ_nhất_đó_là_hiểu_bản_thân",
+      "label": "Bước thứ nhất đó là hiểu bản thân.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "bước_thứ_nhất_đó_là_hiểu_bản_thân_item_1",
+          "label": "[Item 1 of Bước thứ nhất đó là hiểu bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_thứ_nhất_đó_là_hiểu_bản_thân_item_2",
+          "label": "[Item 2 of Bước thứ nhất đó là hiểu bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_việc_thừa_thải",
+      "label": "đây là một việc thừa thải",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "bước_cuối_cùng_trong_hành_trình_thiết_kế_lại_vận_mệnh",
+      "label": "Bước cuối cùng trong hành trình thiết kế lại vận mệnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "làm_chủ_cơ_thể_cánh_cổng_dẫn_đến_giác_mộ",
+      "label": "Làm chủ cơ thể cánh cổng dẫn đến giác mộ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_nên_con_người_có_thể_rất_giỏi_trong_nhận_thức_thế_giới_b",
+      "label": "Vậy nên con người có thể rất giỏi trong nhận thức thế giới bên ngoài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "cơ_thể_là_một_phần_của_trái_đất",
+      "label": "Cơ thể là một phần của Trái Đất.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_hướng_nội_để_ngừng_đồng_nhất_bản_thân_với_c",
+      "label": "Điều thứ 2 đó là hướng nội để ngừng đồng nhất bản thân với cơ thể.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "hay_sự_thật_là_gì",
+      "label": "Hay sự thật là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "sự_thật_không_phải_là_một_kết_luận",
+      "label": "Sự thật không phải là một kết luận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "đây_là_một_quan_niệm_sai_lầm",
+      "label": "Đây là một quan niệm sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "điều_cuối_cùng_đó_là",
+      "label": "Điều cuối cùng đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "cần_học_cách_cân_bằng_cơ_thể",
+      "label": "Cần học cách cân bằng cơ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đây_là_một_việc_vô_cùng_quan_trọng",
+      "label": "Đây là một việc vô cùng quan trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "đây_là_một_việc_vô_cùng_quan_trọng_item_1",
+          "label": "[Item 1 of Đây là một việc vô cùng quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_việc_vô_cùng_quan_trọng_item_2",
+          "label": "[Item 2 of Đây là một việc vô cùng quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "đây_là_một_việc_vô_cùng_quan_trọng_item_3",
+          "label": "[Item 3 of Đây là một việc vô cùng quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_nhất_hòa_hợp_5_nguyên_tố",
+      "label": "Điều thứ nhất, hòa hợp 5 nguyên tố",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "điều_thứ_nhất_hòa_hợp_5_nguyên_tố_item_1",
+          "label": "[Item 1 of Điều thứ nhất, hòa hợp 5 nguyên tố — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_nhất_hòa_hợp_5_nguyên_tố_item_2",
+          "label": "[Item 2 of Điều thứ nhất, hòa hợp 5 nguyên tố — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đất_nước_lửa_không_khí_và_không_gian",
+      "label": "Đất, nước, lửa, không khí và không gian",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "đây_là_một_phương_pháp_thanh_lọc_tuổi_yêu_cho_cơ_thể",
+      "label": "Đây là một phương pháp thanh lọc tuổi yêu cho cơ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_đồng_bộ_với_mặt_trời_để_cân_bằng_âm_dương",
+      "label": "Điều thứ 2 đó là đồng bộ với mặt trời để cân bằng âm dương.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "đầu_tiên_thì_mình_sẽ_nói_về_vấn_đề_ăn_uống",
+      "label": "Đầu tiên thì mình sẽ nói về vấn đề ăn uống.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "vậy_nên_ăn_gì_và_ăn_chay_hay_là_ăn_mặn",
+      "label": "Vậy nên ăn gì? Và ăn chay hay là ăn mặn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "vậy_đâu_mới_là_thức_ăn_lý_tưởng_cho_bạn",
+      "label": "Vậy đâu mới là thức ăn lý tưởng cho bạn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "hơn_nữa_thịt_sẽ_bị_phân_hủy_trong_môi_trường_ấm_ướt_của_dạ_d",
+      "label": "Hơn nữa, thịt sẽ bị phân hủy trong môi trường ấm ướt của dạ dày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "hơn_nữa_nhiều_người_đề_cao_quá_mức_việc_nạp_protein",
+      "label": "Hơn nữa, nhiều người đề cao quá mức việc nạp protein.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "ngoài_ra_thức_ăn_nấu_chín_thường_phá_hủy_8090_enzim_tự_nhiên",
+      "label": "Ngoài ra, thức ăn nấu chín thường phá hủy 80-90% enzim tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "ngoài_ra_vẫn_có_thể_thực_hành_tư_thế_ngừa",
+      "label": "Ngoài ra vẫn có thể thực hành tư thế ngừa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "tiếp_theo_một_yếu_tố_cuối_cùng",
+      "label": "Tiếp theo một yếu tố cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "sự_tồn_tại_là_một_vũ_trụ_nhảy_múa",
+      "label": "Sự tồn tại là một vũ trụ nhảy múa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "thực_chất_tình_dục_là_một_điều_tự_nhiên",
+      "label": "Thực chất tình dục là một điều tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "vậy_thì_tóm_lại_là_có_nhu_cầu_tình_dục_là_không_sai",
+      "label": "Vậy thì tóm lại là, có nhu cầu tình dục là không sai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    }
+  ]
+}

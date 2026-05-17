@@ -1,0 +1,109 @@
+{
+  "source_type": "youtube",
+  "word_count": 2816,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 13 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "đó_chính_là_tim_ferriss",
+      "label": "đó chính là Tim Ferriss.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "anh_ấy_là_một_tác_giả_doanh_nhân_diễn_giả_nổi_tiếng_của_mỹ",
+      "label": "Anh ấy là một tác giả, doanh nhân, diễn giả nổi tiếng của Mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "đây_tuyệt_đối_là_một_cuốn_sách_vô_cùng_giá_trị",
+      "label": "Đây tuyệt đối là một cuốn sách vô cùng giá trị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "và_sau_đây_mình_sẽ_chia_sẻ_với_các_bạn_những_đúc_kết_về_kinh",
+      "label": "Và sau đây, mình sẽ chia sẻ với các bạn những đúc kết về kinh nghiệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_thể_có_được_một_buổi_sáng_thắng_lợi",
+      "label": "Vậy làm thế nào để có thể có được một buổi sáng thắng lợi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "đây_không_chỉ_là_một_sự_thực_hiện_nhiên",
+      "label": "Đây không chỉ là một sự thực hiện nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "tức_là_một_siêu_kỹ_năng",
+      "label": "tức là một siêu kỹ năng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "hay_là_khả_năng_tự_giảm_bớt_căng_thẳng",
+      "label": "hay là khả năng tự giảm bớt căng thẳng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "phương_pháp_luyện_tập_thiền_định_thì_rất_đơn_giản",
+      "label": "Phương pháp luyện tập thiền định thì rất đơn giản,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "tony_là_một_huấn_luyện_viên_cuộc_sống_của_mỹ",
+      "label": "Tony là một huấn luyện viên cuộc sống của Mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "vậy_để_giải_quyết_vấn_đề_này",
+      "label": "Vậy để giải quyết vấn đề này",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "vậy_để_giải_quyết_vấn_đề_này_item_1",
+          "label": "[Item 1 of Vậy để giải quyết vấn đề này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_để_giải_quyết_vấn_đề_này_item_2",
+          "label": "[Item 2 of Vậy để giải quyết vấn đề này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hơn_nữa_đây_cũng_là_một_kiểu_thị_xác_khóa_những_khó_khăn",
+      "label": "Hơn nữa đây cũng là một kiểu thị xác khóa những khó khăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    }
+  ]
+}

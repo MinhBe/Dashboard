@@ -1,0 +1,79 @@
+{
+  "source_type": "youtube",
+  "word_count": 5664,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "bạn_có_phải_là_một_người_nhạy_cảm",
+      "label": "Bạn có phải là một người nhạy cảm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "rất_có_thể_bạn_là_một_người_nhẹ_cảm_cao",
+      "label": "Rất có thể bạn là một người nhẹ cảm cao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "rất_có_thể_bạn_là_một_người_nhạy_cảm_cao",
+      "label": "rất có thể bạn là một người nhạy cảm cao.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_hãy_đối_thoại_về_chính_cảm_xúc_ấy",
+      "label": "Cuối cùng hãy đối thoại về chính cảm xúc ấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "tiếp_tới_đó_là_phương_pháp_thứ_4",
+      "label": "Tiếp tới đó là phương pháp thứ 4",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "xấu_cũng_đừng_bớt_hức_hỏi_rằng",
+      "label": "xấu. Cũng đừng bớt hức hỏi rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "tại_sao_người_đó_lại_làm_điều_ấy",
+      "label": "tại sao người đó lại làm điều ấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "cơn_giận_như_là_một_dạng_năng_lượng",
+      "label": "cơn giận như là một dạng năng lượng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "bước_qua_bi_thương_vào_hòa_giải_với_thực_tại",
+      "label": "bước qua bi thương vào hòa giải với thực tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_thì_bạn_đã_sẵn_sàng_mở_món_quà_ấy_ra_chưa",
+      "label": "Vậy thì bạn đã sẵn sàng mở món quà ấy ra chưa?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    }
+  ]
+}

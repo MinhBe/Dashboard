@@ -1,0 +1,109 @@
+{
+  "source_type": "youtube",
+  "word_count": 2389,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tác_giả_nói_với_chúng_ta_rằng",
+      "label": "Tác giả nói với chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "bước_tiến_triển_này",
+      "label": "Bước tiến triển này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "đầu_tiên_việc_chồng_lúa_mì",
+      "label": "Đầu tiên, việc chồng lúa mì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "đây_là_một_cuốn_sách_rất_nổi_tiếng_về_sự_tiến_hóa_của_loài_n",
+      "label": "Đây là một cuốn sách rất nổi tiếng về sự tiến hóa của loài người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "đây_là_một_khả_năng_vô_cùng_mạnh_mẽ",
+      "label": "Đây là một khả năng vô cùng mạnh mẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "có_lẽ_là_một_cú_lửa_bịt_lớn_nhất_trong_lịch_sử",
+      "label": "Có lẽ là một cú lửa bịt lớn nhất trong lịch sử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "đắng_kẻ_nhưng_đó_lại_là_một_chiến_thắng",
+      "label": "đắng kẻ nhưng đó lại là một chiến thắng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "bước_vào_thời_đại_địa_chế",
+      "label": "Bước vào thời đại địa chế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "vậy_điều_gì_đã_xảy_ra",
+      "label": "Vậy điều gì đã xảy ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_rốt_cuộc_xu_thế_của_nhân_loại_là_hợp_nhiều_hay_là_phân_n",
+      "label": "Vậy rốt cuộc xu thế của nhân loại là hợp nhiều hay là phân nhiều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "đầu_tiên_sự_hợp_nhất_đến_từ_việc_do_tôn_giáo_mang_lại",
+      "label": "Đầu tiên, sự hợp nhất đến từ việc do tôn giáo mang lại",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 76",
+      "children": [
+        {
+          "key": "đầu_tiên_sự_hợp_nhất_đến_từ_việc_do_tôn_giáo_mang_lại_item_1",
+          "label": "[Item 1 of Đầu tiên, sự hợp nhất đến từ việc do tôn giáo mang lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_sự_hợp_nhất_đến_từ_việc_do_tôn_giáo_mang_lại_item_2",
+          "label": "[Item 2 of Đầu tiên, sự hợp nhất đến từ việc do tôn giáo mang lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

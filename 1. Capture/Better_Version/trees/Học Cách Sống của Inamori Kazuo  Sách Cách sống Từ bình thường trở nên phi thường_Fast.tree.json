@@ -1,0 +1,262 @@
+{
+  "source_type": "youtube",
+  "word_count": 5657,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_mình_lại_muốn_chia_sẻ_cuốn_sách_này",
+      "label": "Tại sao mình lại muốn chia sẻ cuốn sách này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "và_hành_động_đúng_nắn_thì_ý_nghĩa",
+      "label": "và hành động đúng nắn thì ý nghĩa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "cuộc_sống_của_ông_là_gì_liệu_chúng_ta",
+      "label": "cuộc sống của ông là gì? Liệu chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_thì",
+      "label": "vậy thì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "nhưng_nó_không_phải_là_một_ảo_ảnh_như_mơ",
+      "label": "nhưng nó không phải là một ảo ảnh như mơ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "chân_lý_đó_là_gì",
+      "label": "Chân lý đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_thể_mài_dũa_linh_hồn_của_mình",
+      "label": "Vậy làm thế nào để có thể mài dũa linh hồn của mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_thì_hai_công_thức_đó_là_gì",
+      "label": "Vậy thì hai công thức đó là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "vậy_thì_hai_công_thức_đó_là_gì_item_1",
+          "label": "[Item 1 of Vậy thì hai công thức đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_hai_công_thức_đó_là_gì_item_2",
+          "label": "[Item 2 of Vậy thì hai công thức đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tuy_nhiên_tư_duy_triết_học_là_gì_và_phải_thay_đổi_như_thế_nà",
+      "label": "Tuy nhiên, tư duy triết học là gì? Và phải thay đổi như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tại_sao_chúng_ta_nên_đi_học",
+      "label": "Tại sao chúng ta nên đi học?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "tại_sao_lại_phải_kiếm_tiền",
+      "label": "Tại sao lại phải kiếm tiền?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tại_sao_phải_lập_gia_đình",
+      "label": "Tại sao phải lập gia đình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "chúng_mình_sẽ_nói_kỹ_hơn_ở_phần_phía_sau",
+      "label": "Chúng mình sẽ nói kỹ hơn ở phần phía sau.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "tiếp_theo_chúng_ta_sẽ_cùng_đến_với_công_thức_số_2",
+      "label": "Tiếp theo chúng ta sẽ cùng đến với công thức số 2.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 72",
+      "children": [
+        {
+          "key": "tiếp_theo_chúng_ta_sẽ_cùng_đến_với_công_thức_số_2_item_1",
+          "label": "[Item 1 of Tiếp theo chúng ta sẽ cùng đến với công thức số 2. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_chúng_ta_sẽ_cùng_đến_với_công_thức_số_2_item_2",
+          "label": "[Item 2 of Tiếp theo chúng ta sẽ cùng đến với công thức số 2. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_cụ_thể_chúng_ta_sẽ_phải_thay_đổi_như_thế_nào",
+      "label": "Vậy thì cụ thể chúng ta sẽ phải thay đổi như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "tại_sao_ông_lại_nói_cái_này_không_ổn",
+      "label": "Tại sao ông lại nói cái này không ổn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "thường_sẽ_chỉ_hình_dung_được_một_kết_quả_tổng_quát_và_đại_kh",
+      "label": "Thường sẽ chỉ hình dung được một kết quả tổng quát và đại khái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "nguyên_thác_đầu_tiên_là_gì",
+      "label": "Nguyên thác đầu tiên là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 110",
+      "children": [
+        {
+          "key": "nguyên_thác_đầu_tiên_là_gì_item_1",
+          "label": "[Item 1 of Nguyên thác đầu tiên là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nguyên_thác_đầu_tiên_là_gì_item_2",
+          "label": "[Item 2 of Nguyên thác đầu tiên là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_hãy_xem_thử_bản_thân_bạn_thuộc_kiểu_người_nào",
+      "label": "Vậy hãy xem thử bản thân bạn thuộc kiểu người nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "tại_sao_cứ_phải_cố_gắng_kiếm_thật_nhiều_tiền",
+      "label": "tại sao cứ phải cố gắng kiếm thật nhiều tiền?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "và_ngược_lại_liệu_chúng_ta_nên_từ_bỏ_việc_theo_đuổi_giàu_có",
+      "label": "Và ngược lại, liệu chúng ta nên từ bỏ việc theo đuổi giàu có hơn ư?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "phương_pháp_để_bạn_có_thể_vững_bước_trên_hành_trình_tu_tập_n",
+      "label": "Phương pháp để bạn có thể vững bước trên hành trình tu tập này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "bản_thân_là_một_điều_gì_không_phải_chỉ_vì_cá_nhân_bạn",
+      "label": "Bản thân là một điều gì không phải chỉ vì cá nhân bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "tiếp_theo_không_để_cảm_tính_và_phiền_não_chi_phối",
+      "label": "Tiếp theo, không để cảm tính và phiền não chi phối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "điều_thứ_hai_đó_là_hãy_nâng_cao_khả_năng_suy_ngẫm_sâu_sắc_củ",
+      "label": "Điều thứ hai đó là hãy nâng cao khả năng suy ngẫm sâu sắc của mình",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 166",
+      "children": [
+        {
+          "key": "điều_thứ_hai_đó_là_hãy_nâng_cao_khả_năng_suy_ngẫm_sâu_sắc_củ_item_1",
+          "label": "[Item 1 of Điều thứ hai đó là hãy nâng cao khả năng suy ngẫm sâu sắc của mình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_đó_là_hãy_nâng_cao_khả_năng_suy_ngẫm_sâu_sắc_củ_item_2",
+          "label": "[Item 2 of Điều thứ hai đó là hãy nâng cao khả năng suy ngẫm sâu sắc của mình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_chúng_ta_phải_biết_ơn_với_cuộc_sống_hiện_tại_của_mìn",
+      "label": "Tại sao chúng ta phải biết ơn với cuộc sống hiện tại của mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "vậy_thì_cách_chúng_ta_coi_bản_thân_cuộc_sống",
+      "label": "Vậy thì cách chúng ta coi bản thân cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    }
+  ]
+}

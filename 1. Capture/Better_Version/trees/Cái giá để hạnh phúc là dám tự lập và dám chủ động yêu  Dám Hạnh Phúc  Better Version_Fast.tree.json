@@ -1,0 +1,139 @@
+{
+  "source_type": "youtube",
+  "word_count": 4634,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_nhưng_yêu_thương_thực_sự_đó_là_gì",
+      "label": "Vậy nhưng yêu thương thực sự đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "tự_lập_thực_sự_là_một_cuộc_cách_mạng_nội_tâm",
+      "label": "Tự lập thực sự là một cuộc cách mạng nội tâm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "vậy_như_thế_nào_mới_là_tự_lập_thực_sự",
+      "label": "Vậy như thế nào mới là tự lập thực sự?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "đầu_tiên_đó_là_giải_phóng_bản_thân_khỏi_tư_duy_đổ_lũi_cho_qu",
+      "label": "Đầu tiên đó là giải phóng bản thân khỏi tư duy đổ lũi cho quá khứ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "bước_thứ_2_để_tự_lập_đó_chính_là",
+      "label": "bước thứ 2 để tự lập đó chính là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "tại_sao_lại_thế",
+      "label": "Tại sao lại thế?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "tại_sao_chuyện_này_xảy_ra_với_tôi",
+      "label": "Tại sao chuyện này xảy ra với tôi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_tôi_phải_làm_gì",
+      "label": "Vậy thì bây giờ tôi phải làm gì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "vậy_thì_bây_giờ_tôi_phải_làm_gì_item_1",
+          "label": "[Item 1 of Vậy thì bây giờ tôi phải làm gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_bây_giờ_tôi_phải_làm_gì_item_2",
+          "label": "[Item 2 of Vậy thì bây giờ tôi phải làm gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chỉ_là_một_vòng_tròn_bế_tắc",
+      "label": "chỉ là một vòng tròn bế tắc.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "chỉ_là_một_vòng_tròn_bế_tắc_item_1",
+          "label": "[Item 1 of chỉ là một vòng tròn bế tắc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "chỉ_là_một_vòng_tròn_bế_tắc_item_2",
+          "label": "[Item 2 of chỉ là một vòng tròn bế tắc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_sao_để_thoát_khỏi_hồ_đen_này",
+      "label": "Vậy làm sao để thoát khỏi Hồ Đen này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_thế_nào_là_chủ_động_yêu",
+      "label": "Vậy thế nào là chủ động yêu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "tình_yêu_thực_chất_đó_là_một_nhiệm_vụ_của_bạn_một_chủ_đề_của",
+      "label": "Tình yêu thực chất đó là một nhiệm vụ của bạn, một chủ đề của bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "hay_nỗi_buồn_khổ_vì_không_được_đáp_ứng",
+      "label": "Hay nỗi buồn khổ vì không được đáp ứng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "bạn_là_một_hành_động_thể_hiện_con_người_bạn_muốn_trở_thành",
+      "label": "Bạn là một hành động thể hiện con người bạn muốn trở thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    }
+  ]
+}

@@ -1,0 +1,211 @@
+{
+  "source_type": "youtube",
+  "word_count": 6355,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 25 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "khi_bà_mới_chỉ_là_một_cô_bé_lên_năm",
+      "label": "khi bà mới chỉ là một cô bé lên năm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "cuối_cùng_vì_không_thể_chịu_đựng_nổi_sự_quây_dối_và_bạo_hành",
+      "label": "Cuối cùng vì không thể chịu đựng nổi sự quây dối và bạo hành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "bước_vào_tuổi_16",
+      "label": "Bước vào tuổi 16",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "cuối_cùng_thì_sau_6_tháng_phép_màu_đã_xảy_ra",
+      "label": "Cuối cùng thì sau 6 tháng, phép màu đã xảy ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "từ_đó_nâng_cao_chất_lượng_cuộc_sống",
+      "label": "Từ đó nâng cao chất lượng cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_thì_bạn_đã_làm_điều_gì_để_có_thể_khiến_phép_màu_xảy_ra",
+      "label": "Vậy thì bạn đã làm điều gì để có thể khiến phép màu xảy ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_thì_những_vấn_đề_của_bạn_thường_gặp_là_gì",
+      "label": "Vậy thì những vấn đề của bạn thường gặp là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 40",
+      "children": [
+        {
+          "key": "vậy_thì_những_vấn_đề_của_bạn_thường_gặp_là_gì_item_1",
+          "label": "[Item 1 of Vậy thì những vấn đề của bạn thường gặp là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_những_vấn_đề_của_bạn_thường_gặp_là_gì_item_2",
+          "label": "[Item 2 of Vậy thì những vấn đề của bạn thường gặp là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nên_bà_bắt_đầu_có_những_suy_nghĩ_tự_ti_mặc_cảm",
+      "label": "Vậy nên bà bắt đầu có những suy nghĩ tự ti mặc cảm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "thân_và_tâm_là_một_thể_hợp_nhất",
+      "label": "Thân và tâm là một thể hợp nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "họ_coi_ho_là_một_loại_bệnh_và_tìm_thầy_kiềm_thuốc_khắp_nơi_đ",
+      "label": "Họ coi ho là một loại bệnh và tìm thầy kiềm thuốc khắp nơi để chữa trị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "ngoài_ra_cổ_họng_còn_đại_diện_cho_sự_sáng_tạo_và_trải_nghiệm",
+      "label": "Ngoài ra, cổ họng còn đại diện cho sự sáng tạo và trải nghiệm tự do.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "nhưng_tại_sao_bạn_lại_phát_sinh_sự_kháng_cự",
+      "label": "Nhưng tại sao bạn lại phát sinh sự kháng cự?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "đây_là_một_nghịch_lý_chỉ_khi_bạn_quan_sát_thấy_sự_kháng_cựu",
+      "label": "Đây là một nghịch lý chỉ khi bạn quan sát thấy sự kháng cựu trong mình",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "đây_là_một_nghịch_lý_chỉ_khi_bạn_quan_sát_thấy_sự_kháng_cựu_item_1",
+          "label": "[Item 1 of Đây là một nghịch lý chỉ khi bạn quan sát thấy sự kháng cựu trong mình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_nghịch_lý_chỉ_khi_bạn_quan_sát_thấy_sự_kháng_cựu_item_2",
+          "label": "[Item 2 of Đây là một nghịch lý chỉ khi bạn quan sát thấy sự kháng cựu trong mình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ví_dụ_khi_gặp_khó_khăn_nhưng_thường_trì_hoãn_và_làm_việc_dễ",
+      "label": "Ví dụ khi gặp khó khăn nhưng thường trì hoãn và làm việc dễ trước",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "thứ_hai_sự_kháng_cự_này_có_thể_thể_hiện_ngay_trong_lời_nói_c",
+      "label": "Thứ hai, sự kháng cự này có thể thể hiện ngay trong lời nói của bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 126",
+      "children": [
+        {
+          "key": "thứ_hai_sự_kháng_cự_này_có_thể_thể_hiện_ngay_trong_lời_nói_c_item_1",
+          "label": "[Item 1 of Thứ hai, sự kháng cự này có thể thể hiện ngay trong lời nói của bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_sự_kháng_cự_này_có_thể_thể_hiện_ngay_trong_lời_nói_c_item_2",
+          "label": "[Item 2 of Thứ hai, sự kháng cự này có thể thể hiện ngay trong lời nói của bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ví_dụ_nghĩ_rằng",
+      "label": "Ví dụ nghĩ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "tiếp_theo_người_yêu_bản_thân_là_người_sống_cho_hiện_tại",
+      "label": "Tiếp theo, người yêu bản thân là người sống cho hiện tại.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "bước_bỏ_đi_sự_oán_giận_sự_trách_móc",
+      "label": "Bước bỏ đi sự oán giận, sự trách móc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "cuối_cùng_đối_phương_thật_sự_là_người_như_thế_nào",
+      "label": "Cuối cùng, đối phương thật sự là người như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "người_khác_luôn_là_một_tấm_gương_phản_chiếu_để_bạn_nhìn_thấy",
+      "label": "Người khác luôn là một tấm gương phản chiếu để bạn nhìn thấy mình.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "cuối_cùng_bạn_sẽ_nhận_ra_rằng",
+      "label": "Cuối cùng bạn sẽ nhận ra rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "đây_là_một_cách_giúp_bạn_khẳng_định_chính_mình",
+      "label": "Đây là một cách giúp bạn khẳng định chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    }
+  ]
+}

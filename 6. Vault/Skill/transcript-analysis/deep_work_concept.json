@@ -1,0 +1,43 @@
+{
+  "key": "deep_work_concept",
+  "label": "Khái niệm Deep Work",
+  "domain": "book",
+  "bloom_target": "understand",
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Better Version",
+    "source_section": "Phút 0:00 - 5:00",
+    "extracted": "Deep Work là những hoạt động làm việc trong trạng thái tập trung cao độ, không bị xao nhãng, giúp đẩy khả năng nhận thức của bạn tới giới hạn. Những nỗ lực này tạo ra giá trị mới, cải thiện kỹ năng và rất khó để sao chép.",
+    "argument_flow": "Vấn đề: Sự xao nhãng trong thời đại số -> Giải pháp: Deep Work -> Định nghĩa: Tập trung sâu, không xao nhãng -> Kết quả: Tạo ra giá trị hiếm và khó sao chép.",
+    "core_question": "Deep Work là gì và tại sao nó lại trở thành năng lực cốt lõi trong nền kinh tế hiện đại?",
+    "misconception_seeds": [
+      "Làm việc nhiều giờ là Deep Work — Thực tế Deep Work nhấn mạnh vào cường độ tập trung chứ không phải thời gian.",
+      "Vừa làm việc vừa check tin nhắn vẫn có thể Deep Work — Thực tế bất kỳ sự xao nhãng nhỏ nào cũng phá vỡ trạng thái này."
+    ],
+    "transfer_question": "Nếu bạn là một lập trình viên, hãy mô tả sự khác biệt giữa việc 'viết code trong trạng thái Deep Work' và 'viết code khi đang mở tab Facebook bên cạnh'.",
+    "anchor_story": "Tác giả nhắc đến việc trong nền kinh tế số, những người có khả năng học nhanh các kỹ năng phức tạp và tạo ra kết quả ở mức độ thượng thừa sẽ là những người thành công nhất.",
+    "falsifiability": "Nếu những công việc đòi hỏi tập trung cao độ có thể dễ dàng được thực hiện bởi AI hoặc những người làm việc hời hợt, thì giá trị của Deep Work sẽ bị giảm sút.",
+    "dig_deeper_questions": {
+      "apply": "Lên lịch một khoảng thời gian 90 phút trong ngày mai để thực hiện Deep Work cho nhiệm vụ quan trọng nhất của bạn.",
+      "analyze": "Phân tích các yếu tố gây xao nhãng lớn nhất trong môi trường làm việc hiện tại của bạn.",
+      "evaluate": "Đánh giá hiệu quả công việc của bạn trong một tuần qua dựa trên tỷ lệ giữa Deep Work và Shallow Work.",
+      "create": "Thiết kế một không gian làm việc lý tưởng để tối đa hóa khả năng rơi vào trạng thái Deep Work."
+    },
+    "next_actions": [
+      "Xác định 1 nhiệm vụ quan trọng nhất cần Deep Work mỗi ngày.",
+      "Tắt toàn bộ thông báo điện thoại và máy tính trong khung giờ làm việc sâu."
+    ]
+  },
+  "explanation": {
+    "child": "Hãy tưởng tượng bạn đang xây một tòa tháp bằng những quân bài. Nếu có ai đó cứ chọc vào bạn hoặc làm bạn phân tâm, tòa tháp sẽ đổ. Deep Work giống như việc bạn vào một căn phòng yên tĩnh, đóng cửa lại và chỉ tập trung xây tòa tháp đó cho đến khi nó cao thật cao mà không bị ai làm phiền.",
+    "student": "Deep Work là thuật ngữ do Cal Newport đặt ra để chỉ trạng thái làm việc tập trung sâu (concentrated focus) vào một nhiệm vụ đòi hỏi tư duy cao. Nó đối lập hoàn toàn với 'Shallow Work' (làm việc hời hợt như check email, họp hành vụn vặt). Deep Work giúp tối ưu hóa việc truyền dẫn thần kinh trong các mạch não liên quan đến kỹ năng đó.",
+    "expert": "Về mặt nhận thức, Deep Work tận dụng khả năng tập trung có chủ đích để tối đa hóa hiệu suất đầu ra trên mỗi đơn vị thời gian (Intensity of Focus x Time). Nó đòi hỏi việc giảm thiểu 'attention residue' (thặng dư chú ý) phát sinh từ việc chuyển đổi ngữ cảnh liên tục. Đây là điều kiện tiên quyết để đạt được trạng thái Flow và thực hiện các nhiệm vụ có độ phức tạp cao trong kinh tế tri thức."
+  },
+  "learner_state": {
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "confidence_level": 0.0,
+    "last_reviewed": null,
+    "review_history": []
+  }
+}

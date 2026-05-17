@@ -1,0 +1,16 @@
+{
+  "source_type": "youtube",
+  "word_count": 235,
+  "estimated_leaf_nodes": 0,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 0 leaves < 3 minimum (youtube/short) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "main_topic",
+      "label": "Main Topic (no sections detected)",
+      "type": "branch",
+      "depth": 1,
+      "section": "full transcript"
+    }
+  ]
+}

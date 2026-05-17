@@ -1,0 +1,83 @@
+{
+  "source_type": "youtube",
+  "word_count": 2769,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 8 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_họ_lại_có_thể_đạt_được_tự_do_tài_chính_rất_nhanh",
+      "label": "Tại sao họ lại có thể đạt được tự do tài chính rất nhanh,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "và_đáng_để_chúng_ta_học_tập_ở_đây",
+      "label": "Và đáng để chúng ta học tập ở đây",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "và_đáng_để_chúng_ta_học_tập_ở_đây_item_1",
+          "label": "[Item 1 of Và đáng để chúng ta học tập ở đây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_đáng_để_chúng_ta_học_tập_ở_đây_item_2",
+          "label": "[Item 2 of Và đáng để chúng ta học tập ở đây — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "mục_đích_kiếm_tiền_của_bạn_là_gì",
+      "label": "Mục đích kiếm tiền của bạn là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "mục_đích_kiếm_tiền_của_bạn_là_gì_item_1",
+          "label": "[Item 1 of Mục đích kiếm tiền của bạn là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "mục_đích_kiếm_tiền_của_bạn_là_gì_item_2",
+          "label": "[Item 2 of Mục đích kiếm tiền của bạn là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thời_gian_năng_lượng_và_tiền_bạc_là_gì_đó_chính_là_chúng_đều",
+      "label": "thời gian, năng lượng và tiền bạc là gì? Đó chính là chúng đều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "và_làm_cho_tâm_trí_của_chúng_ta_trở_nên_mạnh_mẽ_hơn",
+      "label": "và làm cho tâm trí của chúng ta trở nên mạnh mẽ hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "và_vì_chúng_ta_chỉ_sống",
+      "label": "Và vì chúng ta chỉ sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    }
+  ]
+}

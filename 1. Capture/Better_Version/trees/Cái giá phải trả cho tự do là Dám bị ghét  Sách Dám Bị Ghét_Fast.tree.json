@@ -1,0 +1,209 @@
+{
+  "source_type": "youtube",
+  "word_count": 5013,
+  "estimated_leaf_nodes": 26,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 26 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_thuyết",
+      "label": "Đây là một thuyết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "do_các_nguyên_nhân_là_một_loạt",
+      "label": "do các nguyên nhân là một loạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "trong_thâm_tâm_bạn_ngay_lúc_này_là_gì",
+      "label": "trong thâm tâm bạn ngay lúc này là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "hơn_nữa_những_điều_này_có_ảnh_hưởng_rất_lớn",
+      "label": "Hơn nữa, những điều này có ảnh hưởng rất lớn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "nhưng_danh_giới_ở_đây_là_gì",
+      "label": "Nhưng danh giới ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tại_sao_nó_lại_quan_trọng_trong_các_mối_quan_hệ",
+      "label": "Tại sao nó lại quan trọng trong các mối quan hệ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_yêu_chính_mình",
+      "label": "Vậy làm thế nào để yêu chính mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "vậy_nên_cuốn_sách_này_mới_có_tiêu_đề",
+      "label": "Vậy nên cuốn sách này mới có tiêu đề",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "vậy_nên_cuốn_sách_này_mới_có_tiêu_đề_item_1",
+          "label": "[Item 1 of Vậy nên cuốn sách này mới có tiêu đề — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_cuốn_sách_này_mới_có_tiêu_đề_item_2",
+          "label": "[Item 2 of Vậy nên cuốn sách này mới có tiêu đề — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_cũng_là_một_kiểu_thao_túng",
+      "label": "Đây cũng là một kiểu thao túng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "cuối_cùng_dẫn_đến_căng_thẳng_trong_mối_quan_hệ",
+      "label": "Cuối cùng dẫn đến căng thẳng trong mối quan hệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "đừng_cãi_lời_bố_mẹ",
+      "label": "Đừng cãi lời bố mẹ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "tại_sao_có_mỗi_việc_còn_con_như_vậy_mà_anh_cũng_không_làm_nổ",
+      "label": "Tại sao có mỗi việc còn con như vậy mà anh cũng không làm nổi, v.v.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "tức_là_một_mối_quan_hệ_nhìn_từ_trên_xuống_dưới",
+      "label": "Tức là một mối quan hệ nhìn từ trên xuống dưới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "mà_mình_đã_từng_giới_thiệu_ý_nghĩa_cuộc_sống_là_gì",
+      "label": "mà mình đã từng giới thiệu ý nghĩa cuộc sống là gì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 112",
+      "children": [
+        {
+          "key": "mà_mình_đã_từng_giới_thiệu_ý_nghĩa_cuộc_sống_là_gì_item_1",
+          "label": "[Item 1 of mà mình đã từng giới thiệu ý nghĩa cuộc sống là gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "mà_mình_đã_từng_giới_thiệu_ý_nghĩa_cuộc_sống_là_gì_item_2",
+          "label": "[Item 2 of mà mình đã từng giới thiệu ý nghĩa cuộc sống là gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "mối_quan_hệ_chiều_ngang_đó_chính_là_lấy_bình_đẳng_làm_cốt_lõ",
+      "label": "Mối quan hệ chiều ngang đó chính là lấy bình đẳng làm cốt lõi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "cuối_cùng_cho_video_ngày_hôm_nay",
+      "label": "Cuối cùng cho video ngày hôm nay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_thì_phải_đi_đến_đích_cuối_cùng_của_việc_xây_dựng_mối_qua",
+      "label": "Vậy thì phải đi đến đích cuối cùng của việc xây dựng mối quan hệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "nghĩa_là_một_cảm_giác_mà_khi_bạn_coi_tất_cả_mọi_người",
+      "label": "nghĩa là một cảm giác mà khi bạn coi tất cả mọi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là_chấp_nhận_bản_thân",
+      "label": "Bước đầu tiên đó là chấp nhận bản thân.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "mỗi_chúng_ta_đều_là_một_thể_thống_nhất",
+      "label": "Mỗi chúng ta đều là một thể thống nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "bước_số_2_đó_là_tin_tưởng_người_khác",
+      "label": "Bước số 2 đó là tin tưởng người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "cuối_cùng_đó_là_đóng_góp_cho_người_khác",
+      "label": "Cuối cùng đó là đóng góp cho người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "đây_được_coi_là_một_chiếc_lý_mà_tất_cả_các_bậc_hiến_nhân",
+      "label": "Đây được coi là một chiếc lý mà tất cả các bậc hiến nhân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "và_hạnh_phúc_luôn_là_một_món_quà_của_khoảnh_khắc_hiện_tại",
+      "label": "và hạnh phúc luôn là một món quà của khoảnh khắc hiện tại.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "source_type": "youtube",
+  "word_count": 2645,
+  "estimated_leaf_nodes": 12,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 12 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "tại_sao_cái_này_lại_quan_trọng",
+      "label": "Tại sao cái này lại quan trọng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "và_quản_lý_thời_gian_hiệu_quả_nhất",
+      "label": "Và quản lý thời gian hiệu quả nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_thể_sử_dụng_đúng_thời_gian_cho_bản_thâ",
+      "label": "Vậy làm thế nào để có thể sử dụng đúng thời gian cho bản thân?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "nó_cần_phù_hợp_với_3_điều_kiện_như_sau",
+      "label": "Nó cần phù hợp với 3 điều kiện như sau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "đầu_tiên_việc_này_phải_là_việc_có_tính_cấp_ách",
+      "label": "Đầu tiên, việc này phải là việc có tính cấp ách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "giống_như_mình_là_một_người_làm_nghiên_cứu",
+      "label": "Giống như mình là một người làm nghiên cứu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_làm_thế_nào_thì_có_thể_làm_được",
+      "label": "Vậy làm thế nào thì có thể làm được?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_cách_tạo_ra_thời_gian_chính_là_luyện_tập_khả_năng_tập_tr",
+      "label": "Vậy cách tạo ra thời gian chính là luyện tập khả năng tập trung.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "cuối_cùng_đối_với_giấc_ngủ",
+      "label": "Cuối cùng, đối với giấc ngủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "hơn_nữa_những_bức_xạ_địa_tử",
+      "label": "Hơn nữa, những bức xạ địa tử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "phương_pháp_khoa_học_ở_đây_đó_chính_là",
+      "label": "Phương pháp khoa học ở đây đó chính là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_là_trên_đây_là_những_gì_mình_muốn_chia_sẻ_với_các_bạn",
+      "label": "Vậy là trên đây là những gì mình muốn chia sẻ với các bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    }
+  ]
+}

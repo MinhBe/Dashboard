@@ -1,0 +1,283 @@
+{
+  "source_type": "youtube",
+  "word_count": 6137,
+  "estimated_leaf_nodes": 34,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 34 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nguyên_tắc_đầu_tiên",
+      "label": "Nguyên tắc đầu tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "năng_lực_học_tập_là_gì",
+      "label": "Năng lực học tập là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể",
+      "label": "Vậy làm thế nào để chúng ta có thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "thứ_nhất_chuyển_đổi_tư_duy",
+      "label": "Thứ nhất, chuyển đổi tư duy",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "thứ_nhất_chuyển_đổi_tư_duy_item_1",
+          "label": "[Item 1 of Thứ nhất, chuyển đổi tư duy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_chuyển_đổi_tư_duy_item_2",
+          "label": "[Item 2 of Thứ nhất, chuyển đổi tư duy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_loại_bỏ_rào_cản_học_tập",
+      "label": "Thứ ba, loại bỏ rào cản học tập",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 32",
+      "children": [
+        {
+          "key": "thứ_ba_loại_bỏ_rào_cản_học_tập_item_1",
+          "label": "[Item 1 of Thứ ba, loại bỏ rào cản học tập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_loại_bỏ_rào_cản_học_tập_item_2",
+          "label": "[Item 2 of Thứ ba, loại bỏ rào cản học tập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_chuyển_đổi_mô_hình_tư_duy_là_gì",
+      "label": "Vậy chuyển đổi mô hình tư duy là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "vậy_chuyển_đổi_mô_hình_tư_duy_là_gì_item_1",
+          "label": "[Item 1 of Vậy chuyển đổi mô hình tư duy là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_chuyển_đổi_mô_hình_tư_duy_là_gì_item_2",
+          "label": "[Item 2 of Vậy chuyển đổi mô hình tư duy là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra",
+      "label": "Ngoài ra,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cũng_là_một_giải_pháp_rất_tốt",
+      "label": "cũng là một giải pháp rất tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "rồi_trên_đây_là_phương_pháp",
+      "label": "Rồi trên đây là phương pháp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "tiếp_theo",
+      "label": "Tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "vậy_thì_khối_kiến_thức_là_gì",
+      "label": "Vậy thì Khối Kiến Thức là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_thì_ở_đây_chúng_ta_sẽ_cụ_thể",
+      "label": "Vậy thì ở đây chúng ta sẽ cụ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là_tập_trung_vào_thông_tin_bạn_cần_xây",
+      "label": "Bước đầu tiên đó là tập trung vào thông tin bạn cần xây,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "nếu_bị_phân_tâm_ở_bước_này_rất_khó_có_thể_thực_hiện",
+      "label": "Nếu bị phân tâm ở bước này rất khó có thể thực hiện.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_là_đủ_chúng_ta_cũng_không_cần_phải_đi_tìm_hiểu_quá_sâu",
+      "label": "Vậy là đủ, chúng ta cũng không cần phải đi tìm hiểu quá sâu.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "đầu_tiên_thì_chúng_ta_sẽ_có_phương_pháp_hồi_tưởng",
+      "label": "Đầu tiên thì chúng ta sẽ có phương pháp hồi tưởng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "đây_có_thể_là_một_cách_học_không_hiệu_quả",
+      "label": "Đây có thể là một cách học không hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "tại_sao_não_bộ_lại_trì_hoãn",
+      "label": "Tại sao não bộ lại trì hoãn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 132",
+      "children": [
+        {
+          "key": "tại_sao_não_bộ_lại_trì_hoãn_item_1",
+          "label": "[Item 1 of Tại sao não bộ lại trì hoãn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_não_bộ_lại_trì_hoãn_item_2",
+          "label": "[Item 2 of Tại sao não bộ lại trì hoãn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_này_có_nghĩa_là_gì",
+      "label": "Điều này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "hơn_nữa_điều_này_chỉ_thích_hợp_cho_những_công_việc",
+      "label": "Hơn nữa, điều này chỉ thích hợp cho những công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "vậy_nên_tác_giả_đã_đề_xuất_cho_chúng_ta_có_thể_đánh_bại_trì",
+      "label": "Vậy nên, tác giả đã đề xuất cho chúng ta có thể đánh bại trì hoãn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "phòng_tuần_hoàn_thói_quen_là_gì",
+      "label": "Phòng tuần hoàn thói quen là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "vậy_ở_bước_đầu_tiên",
+      "label": "Vậy ở bước đầu tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "bước_tiếp_theo_đó_là_điều_chỉnh_quy_trình_phản_ứng",
+      "label": "Bước tiếp theo đó là điều chỉnh quy trình phản ứng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "để_thay_đổi_thói_quen_chỉ_hoãn",
+      "label": "Để thay đổi thói quen chỉ hoãn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_là_phải_tin_rằng",
+      "label": "Điều quan trọng nhất là phải tin rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "phương_pháp_này_rất_đơn_giản",
+      "label": "Phương pháp này rất đơn giản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "hơn_nữa_theo_kinh_nghiệm_cá_nhân_của_mình",
+      "label": "Hơn nữa theo kinh nghiệm cá nhân của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "điều_tiếp_theo_chúng_ta_cần_chú_ý",
+      "label": "Điều tiếp theo chúng ta cần chú ý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "sau_cùng_đó_là_một_vài_lời_nhắn_nhủ_tới_mọi_người",
+      "label": "Sau cùng đó là một vài lời nhắn nhủ tới mọi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    }
+  ]
+}

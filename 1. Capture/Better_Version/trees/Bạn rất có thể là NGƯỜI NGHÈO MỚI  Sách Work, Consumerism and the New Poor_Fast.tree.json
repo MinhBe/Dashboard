@@ -1,0 +1,149 @@
+{
+  "source_type": "youtube",
+  "word_count": 5241,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_chúng_ta_luôn_không_có_thời_gian",
+      "label": "Tại sao chúng ta luôn không có thời gian",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_hãy_quay_trở_lại_với_năm_1764",
+      "label": "Đầu tiên, chúng ta hãy quay trở lại với năm 1764",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "bước_vào_thời_đại_sản_xuất_công_nghiệp",
+      "label": "Bước vào thời đại sản xuất công nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_thì_những_người_chọn_làm_ở_nhà_máy_thì_sao",
+      "label": "Vậy thì những người chọn làm ở nhà máy thì sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đạo_đức_công_việc_là_gì",
+      "label": "Đạo đức công việc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "vậy_nên_họ_cần_phải_cầu_trợ_sự_giúp_đỡ_của_xã_hội",
+      "label": "Vậy nên, họ cần phải cầu trợ sự giúp đỡ của xã hội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "vậy_thế_nào_là_người_nghèo_mới_tại_sao",
+      "label": "Vậy thế nào là người nghèo mới? Tại sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "mới_là_gì_chủ_nghĩa_tiêu_dùng",
+      "label": "mới là gì? Chủ nghĩa tiêu dùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_hãy_nhìn_vào_một_thực_tế",
+      "label": "Đầu tiên chúng ta hãy nhìn vào một thực tế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "và_khiến_chúng_ta_bị_mắc_kẹt_sâu_vào_trong_đó",
+      "label": "Và khiến chúng ta bị mắc kẹt sâu vào trong đó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_thì_bạn_có_phải_là_một_người_nghèo_mới_không",
+      "label": "Vậy thì bạn có phải là một người nghèo mới không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "vậy_theo_nhiều_phương_pháp_làm_giàu_trước_giờ",
+      "label": "Vậy theo nhiều phương pháp làm giàu trước giờ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "như_là_một_ngôi_nhà_che_nắng_che_mưa",
+      "label": "Như là một ngôi nhà che nắng, che mưa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "đây_thực_sự_mới_là_một_điều_khó_khăn",
+      "label": "Đây thực sự mới là một điều khó khăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "cuối_cùng_hãy_sâu_chuỗi_lại_toàn_bộ_từ_góc_nhìn_xã_hội_học",
+      "label": "Cuối cùng, hãy sâu chuỗi lại toàn bộ từ góc nhìn xã hội học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "đầu_tiên_đó_là_về_tiêu_dùng",
+      "label": "Đầu tiên đó là về tiêu dùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "tiếp_theo_về_công_việc",
+      "label": "Tiếp theo, về công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "giá_trị_và_ý_nghĩa_thực_sự_của_công_việc_đối_với_bạn_là_gì",
+      "label": "Giá trị và ý nghĩa thực sự của công việc đối với bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "vậy_nên_mong_tất_cả_chúng_ta_đều_có_đủ_tỉnh_thức",
+      "label": "Vậy nên, mong tất cả chúng ta đều có đủ tỉnh thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    }
+  ]
+}

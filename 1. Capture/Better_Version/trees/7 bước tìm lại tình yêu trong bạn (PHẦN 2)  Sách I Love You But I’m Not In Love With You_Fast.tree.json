@@ -1,0 +1,153 @@
+{
+  "source_type": "youtube",
+  "word_count": 3001,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": 7,
+  "minimum_yield_check": "PASS: 18 leaves >= 7 (from title)",
+  "tree": [
+    {
+      "key": "hôm_nay_là_một_video_nối_tiếc_nội_dung_cuốn_sách",
+      "label": "Hôm nay là một video nối tiếc nội dung cuốn sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_thì_ở_bước_số_5_mở_đầu_cho_video_phần_2_này",
+      "label": "Vậy thì ở bước số 5 mở đầu cho video phần 2 này,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "tại_sao_chúng_ta_phải_cân_bằng",
+      "label": "Tại sao chúng ta phải cân bằng?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "tại_sao_chúng_ta_phải_cân_bằng_item_1",
+          "label": "[Item 1 of Tại sao chúng ta phải cân bằng? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_chúng_ta_phải_cân_bằng_item_2",
+          "label": "[Item 2 of Tại sao chúng ta phải cân bằng? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "như_là_một_thói_quen",
+      "label": "Như là một thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_chúng_ta_sẽ_phải_làm_như_thế_nào",
+      "label": "Vậy thì bây giờ chúng ta sẽ phải làm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "ngoài_ra_tác_giả_khuyên_chúng_ta_rằng",
+      "label": "Ngoài ra, tác giả khuyên chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "và_cách_để_chúng_ta_giải_quyết_vấn_đề_ra_sao",
+      "label": "Và cách để chúng ta giải quyết vấn đề ra sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "trong_cuốn_sách_này_cung_cấp_cho_bạn_rất_nhiều_kỹ_thuật_luyệ",
+      "label": "Trong cuốn sách này, cung cấp cho bạn rất nhiều kỹ thuật luyện tập",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "trong_cuốn_sách_này_cung_cấp_cho_bạn_rất_nhiều_kỹ_thuật_luyệ_item_1",
+          "label": "[Item 1 of Trong cuốn sách này, cung cấp cho bạn rất nhiều kỹ thuật luyện tập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "trong_cuốn_sách_này_cung_cấp_cho_bạn_rất_nhiều_kỹ_thuật_luyệ_item_2",
+          "label": "[Item 2 of Trong cuốn sách này, cung cấp cho bạn rất nhiều kỹ thuật luyện tập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_rồi_cuối_cùng_chúng_ta_sẽ_thấy_là",
+      "label": "Và rồi cuối cùng chúng ta sẽ thấy là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vậy_bây_giờ_tôi_có_nên_nói_ra_với_người_ấy",
+      "label": "Vậy bây giờ tôi có nên nói ra với người ấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "có_1_người_chồng_đã_nói_ra_cõi_lòng_của_mình",
+      "label": "có 1 người chồng đã nói ra cõi lòng của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "tại_sao_cuộc_sống_của_tôi_phải_tiếp_diễn_như_thế_này",
+      "label": "Tại sao cuộc sống của tôi phải tiếp diễn như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "phân_tích_quá_độ_nó_là_một_việc",
+      "label": "Phân tích quá độ nó là một việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "cuối_cùng_cũng_sẽ_không_giải_quyết_được_vấn_đề_gì_cả",
+      "label": "Cuối cùng cũng sẽ không giải quyết được vấn đề gì cả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "cuối_cùng_thì_sự_việc_sẽ_ngày_càng_tệ_hơn",
+      "label": "Cuối cùng thì sự việc sẽ ngày càng tệ hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "thì_đó_có_thể_là_một_việc_giúp_bạn_giải_thoá_ra",
+      "label": "Thì đó có thể là một việc giúp bạn giải thoá ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    }
+  ]
+}

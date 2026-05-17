@@ -1,0 +1,123 @@
+{
+  "source_type": "youtube",
+  "word_count": 5244,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 15 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_làm_cách_nào_để_thoát_khỏi_khổ_đau",
+      "label": "Vậy làm cách nào để thoát khỏi khổ đau?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "bạn_một_lần_nữa_lặp_lại_vòng_xoáy_này",
+      "label": "Bạn một lần nữa lặp lại vòng xoáy này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_thì_xin_hãy_tự_hỏi_những_món_đồ_bạn_hí_hừng_mua_sắm_về",
+      "label": "Vậy thì xin hãy tự hỏi những món đồ bạn hí hừng mua sắm về.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_nhưng_bạn_có_thực_sự_một_lần",
+      "label": "Vậy nhưng bạn có thực sự một lần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "càng_uống_nước_mặn_càng_khát_trái_cổ",
+      "label": "càng uống nước mặn, càng khát trái cổ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_thì_bạn_đang_lắp_nghiêng_về_phía_nào",
+      "label": "Vậy thì bạn đang lắp nghiêng về phía nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_chúng_ta_cần_làm_trước_tiên",
+      "label": "Điều quan trọng nhất chúng ta cần làm trước tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "điều_tiếp_theo_đó_là_biết_rõ_bản_thân_muốn_làm_gì",
+      "label": "Điều tiếp theo đó là biết rõ bản thân muốn làm gì.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 78",
+      "children": [
+        {
+          "key": "điều_tiếp_theo_đó_là_biết_rõ_bản_thân_muốn_làm_gì_item_1",
+          "label": "[Item 1 of Điều tiếp theo đó là biết rõ bản thân muốn làm gì. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_tiếp_theo_đó_là_biết_rõ_bản_thân_muốn_làm_gì_item_2",
+          "label": "[Item 2 of Điều tiếp theo đó là biết rõ bản thân muốn làm gì. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nên_một_lần_nữa_mình_muốn_nhắn_nhủ_với_bạn_rằng",
+      "label": "Vậy nên một lần nữa mình muốn nhắn nhủ với bạn rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "trong_dòng_chày_nhân_quả_vô_tận",
+      "label": "Trong dòng chày Nhân quả vô tận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "điều_quan_trọng_là_giữ_cho_tâm_trí_luôn_bình_thàn",
+      "label": "Điều quan trọng là giữ cho tâm trí luôn bình thàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "cuối_cùng_là_một_câu_nói_kinh_điển",
+      "label": "Cuối cùng là một câu nói kinh điển",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "không_phải_là_một_bệnh_lý_phản_xã_hội_mà_là_lựa_chọn_có_ý_th",
+      "label": "Không phải là một bệnh lý phản xã hội mà là lựa chọn có ý thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "vậy_còn_bạn",
+      "label": "Vậy còn bạn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    }
+  ]
+}

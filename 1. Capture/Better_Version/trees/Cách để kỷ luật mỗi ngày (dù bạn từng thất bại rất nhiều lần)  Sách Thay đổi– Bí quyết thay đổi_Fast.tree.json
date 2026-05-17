@@ -1,0 +1,97 @@
+{
+  "source_type": "youtube",
+  "word_count": 3985,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "còn_ta_chỉ_là_người_phàm",
+      "label": "còn ta chỉ là người phàm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "thế_rồi_ngày_qua_ngày_chúng_ta_vẫn_mãi_sống_trong_vòng_lợn_q",
+      "label": "Thế rồi ngày qua ngày chúng ta vẫn mãi sống trong vòng lợn quân,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "thì_tất_cả_cũng_chỉ_là_một_bản_kế_hoạch_trên_giấy_mà_thôi",
+      "label": "thì tất cả cũng chỉ là một bản kế hoạch trên giấy mà thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "phương_pháp_toàn_diện_3_trụ_cột_giúp_bạn_dễ_dàng_duy_trì_kỷ",
+      "label": "Phương pháp toàn diện 3 trụ cột giúp bạn dễ dàng duy trì kỷ luật",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "phương_pháp_toàn_diện_3_trụ_cột_giúp_bạn_dễ_dàng_duy_trì_kỷ_item_1",
+          "label": "[Item 1 of Phương pháp toàn diện 3 trụ cột giúp bạn dễ dàng duy trì kỷ luật — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "phương_pháp_toàn_diện_3_trụ_cột_giúp_bạn_dễ_dàng_duy_trì_kỷ_item_2",
+          "label": "[Item 2 of Phương pháp toàn diện 3 trụ cột giúp bạn dễ dàng duy trì kỷ luật — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_đây_chính_là_tìm_kiếm_điểm_sáng",
+      "label": "Vậy thì đây chính là tìm kiếm điểm sáng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_thì_hãy_bắt_tay_ngay_và_thực_hiện",
+      "label": "Vậy thì hãy bắt tay ngay và thực hiện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 46",
+      "children": [
+        {
+          "key": "vậy_thì_hãy_bắt_tay_ngay_và_thực_hiện_item_1",
+          "label": "[Item 1 of Vậy thì hãy bắt tay ngay và thực hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_hãy_bắt_tay_ngay_và_thực_hiện_item_2",
+          "label": "[Item 2 of Vậy thì hãy bắt tay ngay và thực hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hãy_thử_nghĩ_tôi_là_một_người_đang_học_guitar",
+      "label": "Hãy thử nghĩ tôi là một người đang học guitar",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "cuối_cùng_góc_độ_cực_kỳ_quan_trọng",
+      "label": "Cuối cùng góc độ cực kỳ quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    }
+  ]
+}

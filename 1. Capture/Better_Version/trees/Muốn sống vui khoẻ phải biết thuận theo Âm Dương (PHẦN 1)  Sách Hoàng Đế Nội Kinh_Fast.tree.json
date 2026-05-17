@@ -1,0 +1,232 @@
+{
+  "source_type": "youtube",
+  "word_count": 6298,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "có_nghĩa_là_gì",
+      "label": "Có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_thì_thế_nào",
+      "label": "vậy thì thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "nhưng_tại_sao",
+      "label": "nhưng tại sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "khí_huyết_là_gì",
+      "label": "Khí huyết là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "vậy_nên_nếu_dương_trong_bạn_không_đủ",
+      "label": "Vậy nên nếu dương trong bạn không đủ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "vậy_nên_nếu_dương_trong_bạn_không_đủ_item_1",
+          "label": "[Item 1 of Vậy nên nếu dương trong bạn không đủ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_nếu_dương_trong_bạn_không_đủ_item_2",
+          "label": "[Item 2 of Vậy nên nếu dương trong bạn không đủ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_2_để_có_thể_thuận_theo_âm_dương",
+      "label": "Điều thứ 2 để có thể thuận theo âm dương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "có_2_hào_dương_bao_ngoài",
+      "label": "Có 2 hào dương bao ngoài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "có_2_hào_âm_trên_dưới",
+      "label": "Có 2 hào âm trên dưới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "chúng_là_một_thể",
+      "label": "Chúng là một thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_tiếp_theo_thế_nào_mới_là_người_âm_dương_cân_bằng",
+      "label": "Vậy tiếp theo, thế nào mới là người âm dương cân bằng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "ngoài_ra_cứ_bắp_nhão_hay_đau_mỏi",
+      "label": "Ngoài ra cứ bắp nhão hay đau mỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "tiếp_theo_đó_là_người_thiếu_âm",
+      "label": "Tiếp theo đó là người thiếu âm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "ngoài_ra_còn_bị_tào_bón",
+      "label": "Ngoài ra còn bị tào bón",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "ngoài_ra_còn_hay_phim_học_mãn_tính_do_phế_nhiệt",
+      "label": "Ngoài ra còn hay phim học mãn tính do phế nhiệt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "cuối_cùng_là_người_âm_dương_hòa_hợp",
+      "label": "Cuối cùng là người âm Dương Hòa Hợp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "tĩnh_lang_thực_sự_là_một_phẩm_hạnh_tuyệt_vời",
+      "label": "Tĩnh lang thực sự là một phẩm hạnh tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "đầu_tiên_đó_là",
+      "label": "Đầu tiên đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "rượu_là_một_vật_chất_rất_kỳ_diệu",
+      "label": "Rượu là một vật chất rất kỳ diệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "hơn_nữa_người_trẻ_cũng_rất_thích_ăn_đồ_lạnh",
+      "label": "Hơn nữa, người trẻ cũng rất thích ăn đồ lạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    },
+    {
+      "key": "vậy_con_người_hiện_đại_đang_theo_đuổi_điều_gì",
+      "label": "Vậy con người hiện đại đang theo đuổi điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "sinh_mệnh_là_một_đường_dài_liên_tục",
+      "label": "Sinh mệnh là một đường dài liên tục",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_nên_cách_tốt_nhất_là_phải_thay_đổi",
+      "label": "Vậy nên cách tốt nhất là phải thay đổi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 192",
+      "children": [
+        {
+          "key": "vậy_nên_cách_tốt_nhất_là_phải_thay_đổi_item_1",
+          "label": "[Item 1 of Vậy nên cách tốt nhất là phải thay đổi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_cách_tốt_nhất_là_phải_thay_đổi_item_2",
+          "label": "[Item 2 of Vậy nên cách tốt nhất là phải thay đổi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_đó_là_cần_chuyển_đổi_môi_trường_sống",
+      "label": "Thứ ba đó là cần chuyển đổi môi trường sống",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 200",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_cần_chuyển_đổi_môi_trường_sống_item_1",
+          "label": "[Item 1 of Thứ ba đó là cần chuyển đổi môi trường sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_cần_chuyển_đổi_môi_trường_sống_item_2",
+          "label": "[Item 2 of Thứ ba đó là cần chuyển đổi môi trường sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_việc_tăng_cường_sức_đề_kháng",
+      "label": "Ngoài ra việc tăng cường sức đề kháng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 210"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_trong_cuộc_đời_chúng_ta",
+      "label": "Điều quan trọng nhất trong cuộc đời chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 220"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "source_type": "youtube",
+  "word_count": 3084,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cũng_là_một_đạo_lý_ấy",
+      "label": "cũng là một đạo lý ấy,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "thứ_nhất_tư_duy_về_điều_kiện_tiên_quyết",
+      "label": "Thứ nhất, tư duy về điều kiện tiên quyết",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "thứ_nhất_tư_duy_về_điều_kiện_tiên_quyết_item_1",
+          "label": "[Item 1 of Thứ nhất, tư duy về điều kiện tiên quyết — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tư_duy_về_điều_kiện_tiên_quyết_item_2",
+          "label": "[Item 2 of Thứ nhất, tư duy về điều kiện tiên quyết — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_tại_sao_trang_tử_lại_dùng_hình_ảnh_9_bạn_rạm",
+      "label": "Thứ hai, tại sao Trang Tử lại dùng hình ảnh 9 bạn rạm?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "thứ_hai_tại_sao_trang_tử_lại_dùng_hình_ảnh_9_bạn_rạm_item_1",
+          "label": "[Item 1 of Thứ hai, tại sao Trang Tử lại dùng hình ảnh 9 bạn rạm? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_tại_sao_trang_tử_lại_dùng_hình_ảnh_9_bạn_rạm_item_2",
+          "label": "[Item 2 of Thứ hai, tại sao Trang Tử lại dùng hình ảnh 9 bạn rạm? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trong_cuốn_sách_thái_căn_đàm_có_câu",
+      "label": "Trong cuốn sách Thái Căn Đàm có câu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "hay_thậm_chí_là_một_mối_thù_hận_khiến_ta_không_thể_bước_đi_t",
+      "label": "hay thậm chí là một mối thù hận khiến ta không thể bước đi thanh thàn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "hãy_tự_vấn_chính_mình_rằng_cây_ngô_đồng_của_tôi_là_gì",
+      "label": "Hãy tự vấn chính mình rằng, cây ngô đồng của tôi là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "suối_ngọt_của_tôi_là_gì",
+      "label": "Suối ngọt của tôi là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "chỉ_là_một_phần_rất_nhỏ_thúc_đẩy_ta",
+      "label": "chỉ là một phần rất nhỏ, thúc đẩy ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    }
+  ]
+}

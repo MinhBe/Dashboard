@@ -1,0 +1,125 @@
+{
+  "source_type": "youtube",
+  "word_count": 4229,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thế_nhưng_mấy_ai_thực_sự_hiểu_rõ_tận_hưởng_cô_đơn_là_gì",
+      "label": "Thế nhưng mấy ai thực sự hiểu rõ tận hưởng cô đơn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "đơn_độc_là_một_trạng_thái_bên_ngoài",
+      "label": "Đơn độc là một trạng thái bên ngoài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "đây_là_một_sự_thật_hiện_sinh",
+      "label": "Đây là một sự thật hiện sinh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "trong_cuốn_sách_căn_phòng_riêng_có_một_câu_nói_như_thế_này",
+      "label": "Trong cuốn sách Căn phòng riêng có một câu nói như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "cô_đơn_là_một_điều_không_thể_tránh_khỏi",
+      "label": "Cô đơn là một điều không thể tránh khỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "đầu_tiên_đó_là_cô_đơn_tự_đóng_kín_hay_còn_gọi_là_tự_cách_ly",
+      "label": "Đầu tiên đó là cô đơn tự đóng kín, hay còn gọi là tự cách ly.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cô_đơn_với_họ_là_một_sự_tự_do_so_với_ôn_ào",
+      "label": "Cô đơn với họ là một sự tự do so với ôn ào.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "cô_đơn_không_còn_là_một_không_gian_để_tự_so_chiếu_và_chữa_là",
+      "label": "Cô đơn không còn là một không gian để tự so chiếu và chữa lành",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "cô_đơn_không_còn_là_một_không_gian_để_tự_so_chiếu_và_chữa_là_item_1",
+          "label": "[Item 1 of Cô đơn không còn là một không gian để tự so chiếu và chữa lành — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cô_đơn_không_còn_là_một_không_gian_để_tự_so_chiếu_và_chữa_là_item_2",
+          "label": "[Item 2 of Cô đơn không còn là một không gian để tự so chiếu và chữa lành — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_đó_là_ái_kỷ_song_song_đây_là_những_người_ảo_tưởng_r",
+      "label": "Đầu tiên đó là ái kỷ song song, đây là những người ảo tưởng rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 66",
+      "children": [
+        {
+          "key": "đầu_tiên_đó_là_ái_kỷ_song_song_đây_là_những_người_ảo_tưởng_r_item_1",
+          "label": "[Item 1 of Đầu tiên đó là ái kỷ song song, đây là những người ảo tưởng rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_đó_là_ái_kỷ_song_song_đây_là_những_người_ảo_tưởng_r_item_2",
+          "label": "[Item 2 of Đầu tiên đó là ái kỷ song song, đây là những người ảo tưởng rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hơn_nữa_một_người_có_tính_cách_hy_sinh",
+      "label": "Hơn nữa, một người có tính cách hy sinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tại_sao_tôi_yêu_cô_ấy_như_vậy",
+      "label": "Tại sao tôi yêu cô ấy như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_giải_thoát_bản_thân_khỏi_nỗi_sợ_cô_đơn",
+      "label": "Vậy làm thế nào để giải thoát bản thân khỏi nỗi sợ cô đơn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    }
+  ]
+}

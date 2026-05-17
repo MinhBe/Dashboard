@@ -1,0 +1,183 @@
+{
+  "source_type": "youtube",
+  "word_count": 5624,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "trong_cuốn_sách_lean_in_đã_phân_tích_một_cách_sâu_sắc",
+      "label": "trong cuốn sách Lean In đã phân tích một cách sâu sắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "tuần_này_thì_là_một_tập_đặc_biệt_và_cũng_là_một_món_quà",
+      "label": "Tuần này thì là một tập đặc biệt và cũng là một món quà.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 10",
+      "children": [
+        {
+          "key": "tuần_này_thì_là_một_tập_đặc_biệt_và_cũng_là_một_món_quà_item_1",
+          "label": "[Item 1 of Tuần này thì là một tập đặc biệt và cũng là một món quà. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tuần_này_thì_là_một_tập_đặc_biệt_và_cũng_là_một_món_quà_item_2",
+          "label": "[Item 2 of Tuần này thì là một tập đặc biệt và cũng là một món quà. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bình_chọn_là_một_trong_100_người_phụ_nữ_ảnh_hưởng_nhất_thế_g",
+      "label": "Bình chọn là một trong 100 người phụ nữ, ảnh hưởng nhất thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "kết_quả_là_một_lãnh_đạo_bước_ra_và_nói_với_cô",
+      "label": "Kết quả là một lãnh đạo bước ra và nói với cô",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "câu_này_có_nghĩa_là_gì",
+      "label": "Câu này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "cuối_cùng_thì_họ_tạc_lưỡi",
+      "label": "Cuối cùng thì họ tạc lưỡi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "bạn_đời_là_gì",
+      "label": "Bạn đời là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "tại_sao_trong_hầu_hết_nhiều_gia_đình",
+      "label": "Tại sao trong hầu hết nhiều gia đình",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 100",
+      "children": [
+        {
+          "key": "tại_sao_trong_hầu_hết_nhiều_gia_đình_item_1",
+          "label": "[Item 1 of Tại sao trong hầu hết nhiều gia đình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_trong_hầu_hết_nhiều_gia_đình_item_2",
+          "label": "[Item 2 of Tại sao trong hầu hết nhiều gia đình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bạn_không_cần_phải_là_một_người_phụ_nữ_toàn_năng",
+      "label": "Bạn không cần phải là một người phụ nữ toàn năng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "chứ_không_phải_là_một_cái_thang_đứng",
+      "label": "Chứ không phải là một cái thang đứng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "giống_như_là_một_chiếc_thang",
+      "label": "Giống như là một chiếc thang",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "thứ_nhất_là_bạn_phải_đặt_ra_ước_mơ_dài_hạn",
+      "label": "Thứ nhất là bạn phải đặt ra ước mơ dài hạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 146",
+      "children": [
+        {
+          "key": "thứ_nhất_là_bạn_phải_đặt_ra_ước_mơ_dài_hạn_item_1",
+          "label": "[Item 1 of Thứ nhất là bạn phải đặt ra ước mơ dài hạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_bạn_phải_đặt_ra_ước_mơ_dài_hạn_item_2",
+          "label": "[Item 2 of Thứ nhất là bạn phải đặt ra ước mơ dài hạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "rồi_tiếp_đến_là_một_lời_khuyên_quan_trọng_không_kém",
+      "label": "Rồi tiếp đến là một lời khuyên quan trọng không kém",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "cuối_cùng_là_lời_khuyên_thứ_8",
+      "label": "Cuối cùng là lời khuyên thứ 8",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "hơn_hết_nó_là_một_cuộc_chiến_đấu",
+      "label": "Hơn hết nó là một cuộc chiến đấu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "bước_đầu_tiên_quan_trọng_hơn_hết",
+      "label": "Bước đầu tiên quan trọng hơn hết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "cô_không_chỉ_là_một_ceo",
+      "label": "Cô không chỉ là một CEO",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    }
+  ]
+}

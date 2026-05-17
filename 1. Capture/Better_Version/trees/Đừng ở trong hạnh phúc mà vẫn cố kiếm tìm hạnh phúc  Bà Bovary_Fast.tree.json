@@ -1,0 +1,72 @@
+{
+  "source_type": "youtube",
+  "word_count": 3479,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "và_đến_tận_bây_giờ",
+      "label": "Và đến tận bây giờ,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "leon_là_một_người_đa_năng_khéo_léo_trong_cư_xử",
+      "label": "Leon là một người đa năng khéo léo trong cư xử.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng_đến_ngày_hẹn_chỉ_để_lại_một_bức_thư",
+      "label": "cuối cùng đến ngày hẹn, chỉ để lại một bức thư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "nhưng_với_kẻ_lão_luyện_tình_trương_như_rodolf",
+      "label": "Nhưng với kẻ lão luyện tình trương như Rodolf",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "tất_cả_chỉ_là_một_ván_cờ_đã_được_sắp_đặt_từ_đâu",
+      "label": "Tất cả chỉ là một ván cờ đã được sắp đặt từ đâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cuối_cùng_chọn_cái_chết_bằng_cách",
+      "label": "cuối cùng chọn cái chết bằng cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "cuối_cùng_luôn_sẽ_nhận_về_một_bài_học_với_cái_giá_đắt_hơn_th",
+      "label": "Cuối cùng luôn sẽ nhận về một bài học với cái giá đắt hơn thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_cô_và_cả_gia_đình_đều_bị_hủy_hoại",
+      "label": "Cuối cùng cô và cả gia đình đều bị hủy hoại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "vậy_nên_hãy_trân_trọng_hạnh_phúc_đang_có_sẵn_trong_tay_bạn",
+      "label": "Vậy nên hãy trân trọng hạnh phúc đang có sẵn trong tay bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    }
+  ]
+}

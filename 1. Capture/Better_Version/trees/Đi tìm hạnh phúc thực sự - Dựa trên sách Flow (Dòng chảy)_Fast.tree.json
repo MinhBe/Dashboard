@@ -1,0 +1,333 @@
+{
+  "source_type": "youtube",
+  "word_count": 2992,
+  "estimated_leaf_nodes": 36,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 36 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "có_bao_giờ_tự_hỏi_bản_thân",
+      "label": "Có bao giờ tự hỏi bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 0"
+    },
+    {
+      "key": "tại_sao_không_thấy_thực_sự_hạnh_phúc",
+      "label": "Tại sao không thấy thực sự hạnh phúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "luôn_là_một_mục_tiêu_vĩnh_hẳng_của_con_người",
+      "label": "Luôn là một mục tiêu vĩnh hẳng của con người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "hạnh_phúc_là_gì",
+      "label": "Hạnh phúc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_làm_sao_để_có_thể_sống_hạnh_phúc",
+      "label": "Vậy làm sao để có thể sống hạnh phúc?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_nhưng_điều_gì_khiến_chúng_ta_ngày_càng_làm_tăng_độ_hỗn_l",
+      "label": "Vậy nhưng điều gì khiến chúng ta ngày càng làm tăng độ hỗn loạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "trong_cuốn_sách_con_đường_chẳng_mấy_ai_đi",
+      "label": "Trong cuốn sách Con đường chẳng mấy ai đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "tất_cả_chúng_ta_cuối_cùng_cũng_sẽ_trở_về_với_cát_bụi",
+      "label": "Tất cả chúng ta cuối cùng cũng sẽ trở về với cát bụi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "tất_cả_chúng_ta_cuối_cùng_cũng_sẽ_trở_về_với_cát_bụi_item_1",
+          "label": "[Item 1 of Tất cả chúng ta cuối cùng cũng sẽ trở về với cát bụi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tất_cả_chúng_ta_cuối_cùng_cũng_sẽ_trở_về_với_cát_bụi_item_2",
+          "label": "[Item 2 of Tất cả chúng ta cuối cùng cũng sẽ trở về với cát bụi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_chúng_ta_rất_dễ_bị_phân_tâm",
+      "label": "Thứ hai, chúng ta rất dễ bị phân tâm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 42",
+      "children": [
+        {
+          "key": "thứ_hai_chúng_ta_rất_dễ_bị_phân_tâm_item_1",
+          "label": "[Item 1 of Thứ hai, chúng ta rất dễ bị phân tâm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_chúng_ta_rất_dễ_bị_phân_tâm_item_2",
+          "label": "[Item 2 of Thứ hai, chúng ta rất dễ bị phân tâm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_chính_bản_thân_của_chúng_ta",
+      "label": "Và chính bản thân của chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả",
+      "label": "hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả_item_1",
+          "label": "[Item 1 of hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả_item_2",
+          "label": "[Item 2 of hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả_item_3",
+          "label": "[Item 3 of hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả_item_4",
+          "label": "[Item 4 of hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        },
+        {
+          "key": "hay_đúc_kết_các_kinh_nghiệm_thì_đó_cũng_là_cách_chúng_ta_phả_item_5",
+          "label": "[Item 5 of hay đúc kết các kinh nghiệm thì đó cũng là cách chúng ta phản entropy. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 5"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_bạn_phải_yêu_thích_những_gì_bạn_làm",
+      "label": "Thứ nhất, bạn phải yêu thích những gì bạn làm.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "thứ_nhất_bạn_phải_yêu_thích_những_gì_bạn_làm_item_1",
+          "label": "[Item 1 of Thứ nhất, bạn phải yêu thích những gì bạn làm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_bạn_phải_yêu_thích_những_gì_bạn_làm_item_2",
+          "label": "[Item 2 of Thứ nhất, bạn phải yêu thích những gì bạn làm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "có_khả_năng_thành_thạo_những_gì_bạn_làm",
+      "label": "Có khả năng thành thạo những gì bạn làm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "thứ_ba_đó_là_những_hoạt_động_có_tính_thử_thách",
+      "label": "Thứ ba, đó là những hoạt động có tính thử thách",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 66",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_những_hoạt_động_có_tính_thử_thách_item_1",
+          "label": "[Item 1 of Thứ ba, đó là những hoạt động có tính thử thách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_những_hoạt_động_có_tính_thử_thách_item_2",
+          "label": "[Item 2 of Thứ ba, đó là những hoạt động có tính thử thách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_sau_khi_thực_hiện_xong",
+      "label": "Thứ tư, sau khi thực hiện xong",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "thứ_tư_sau_khi_thực_hiện_xong_item_1",
+          "label": "[Item 1 of Thứ tư, sau khi thực hiện xong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_sau_khi_thực_hiện_xong_item_2",
+          "label": "[Item 2 of Thứ tư, sau khi thực hiện xong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tuy_nhiên_có_thể_bạn_sẽ_đặt_ra_câu_hỏi_là",
+      "label": "Tuy nhiên, có thể bạn sẽ đặt ra câu hỏi là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_chơi_game_hay_những_trò_vui_tiêu_khiển",
+      "label": "Vậy chơi game? Hay những trò vui tiêu khiển",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_cụ_thể_chúng_ta_phải_ứng_dụng_như_thế_nào",
+      "label": "Vậy cụ thể chúng ta phải ứng dụng như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "tại_sao_chúng_ta_hay_chỉ_hoãn_công_việc_và_dễ_dàng_bỏ_cuộc",
+      "label": "Tại sao chúng ta hay chỉ hoãn công việc và dễ dàng bỏ cuộc?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 92",
+      "children": [
+        {
+          "key": "tại_sao_chúng_ta_hay_chỉ_hoãn_công_việc_và_dễ_dàng_bỏ_cuộc_item_1",
+          "label": "[Item 1 of Tại sao chúng ta hay chỉ hoãn công việc và dễ dàng bỏ cuộc? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_chúng_ta_hay_chỉ_hoãn_công_việc_và_dễ_dàng_bỏ_cuộc_item_2",
+          "label": "[Item 2 of Tại sao chúng ta hay chỉ hoãn công việc và dễ dàng bỏ cuộc? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ví_dụ_mỗi_ngày_viết_200500_chữ_thôi",
+      "label": "ví dụ mỗi ngày viết 200-500 chữ thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "bên_cạnh_đó_để_viết_tốt_hơn_bạn_cần_không_ngừng_nâng_cao_khả",
+      "label": "bên cạnh đó, để viết tốt hơn bạn cần không ngừng nâng cao khả năng đọc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "và_bước_thứ_3_là_một_bước_vô_cùng_quan_trọng_để_đi_vào_trạng",
+      "label": "Và bước thứ 3 là một bước vô cùng quan trọng để đi vào trạng thái flow",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "và_chúng_ta_dần_bị_nhấn_chìm_trong_sự",
+      "label": "và chúng ta dần bị nhấn chìm trong sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "flow_của_chính_mình_khi_đó",
+      "label": "flow của chính mình. Khi đó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "điều_thứ_hai",
+      "label": "Điều thứ hai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 130",
+      "children": [
+        {
+          "key": "điều_thứ_hai_item_1",
+          "label": "[Item 1 of Điều thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_item_2",
+          "label": "[Item 2 of Điều thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

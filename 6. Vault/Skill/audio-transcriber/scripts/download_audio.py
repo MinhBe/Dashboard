@@ -39,6 +39,8 @@ def download_audio(url: str, output_dir: str) -> dict:
         sys.executable, "-m", "yt_dlp",
         "--dump-json",
         "--no-download",
+        "--cookies-from-browser", "chrome",
+        "--js-runtimes", "node",
         url,
     ]
     if ffmpeg_dir:
@@ -66,6 +68,8 @@ def download_audio(url: str, output_dir: str) -> dict:
         "--audio-format", "wav",
         "--audio-quality", "0",
         "--postprocessor-args", "ffmpeg:-ac 1 -ar 16000",
+        "--cookies-from-browser", "chrome",
+        "--js-runtimes", "node",
         "-o", output_template,
         url,
     ]

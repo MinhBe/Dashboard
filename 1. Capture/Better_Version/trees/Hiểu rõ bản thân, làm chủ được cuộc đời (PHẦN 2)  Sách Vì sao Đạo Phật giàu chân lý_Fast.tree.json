@@ -1,0 +1,135 @@
+{
+  "source_type": "youtube",
+  "word_count": 4045,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đầu_tiên_con_người_là_sản_phẩm_của_quá_trình_tiến_hóa",
+      "label": "Đầu tiên con người là sản phẩm của quá trình tiến hóa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "điều_thứ_2_đó_là",
+      "label": "Điều thứ 2 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "và_chúng_ta_đang_sống_trong_ảo_ảnh_bị_não_bộ_đánh_lừa",
+      "label": "Và chúng ta đang sống trong ảo ảnh bị não bộ đánh lừa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "vậy_cảm_xúc_thì_sao",
+      "label": "Vậy cảm xúc thì sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tại_sao_nó_luôn_đối_đầu_với_bạn",
+      "label": "Tại sao nó luôn đối đầu với bạn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "khái_niệm_về_cái_tôi_giúp_cho_chúng_ta_tồn_tại",
+      "label": "Khái niệm về cái tôi giúp cho chúng ta tồn tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_tại_sao_tôi_lại_làm_những_việc_khiến_tôi_đau_khổ",
+      "label": "Vậy tại sao tôi lại làm những việc khiến tôi đau khổ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_mô_đun_nào_sẽ_làm_chủ_điều_hành_trong_bộ_não_của_chúng_t",
+      "label": "Vậy mô đun nào sẽ làm chủ điều hành trong bộ não của chúng ta?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "giống_như_là_một_quốc_hội_lộn_xộn_trong",
+      "label": "giống như là một quốc hội lộn xộn. Trong",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "vậy_lúc_này_ta_có_còn_là_ta_nữa_không",
+      "label": "Vậy lúc này ta có còn là ta nữa không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "phương_pháp_rút_ra_được_từ_cuốn_sách_này",
+      "label": "Phương pháp rút ra được từ cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "phương_pháp_thiền_định_thì_thực_hiện_rất_đơn_giản",
+      "label": "Phương pháp thiền định thì thực hiện rất đơn giản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "tránh_niệm_là_gì",
+      "label": "Tránh niệm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_nếu_bạn_tin_rằng_cơ_thể_này_không_phải_là_của_bạn",
+      "label": "Vậy, nếu bạn tin rằng cơ thể này không phải là của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "nếu_bạn_là_một_người_hâm_mộ_cuồng_nhiệt",
+      "label": "Nếu bạn là một người hâm mộ cuồng nhiệt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "và_quan_trọng_là_chúng_ta_sống_là_chính_mình",
+      "label": "Và quan trọng là chúng ta sống là chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "cuối_cùng_tác_giả_nói_thiền_thực_sự_khiến_cho_tôi_hạnh_phúc",
+      "label": "Cuối cùng tác giả nói thiền thực sự khiến cho tôi hạnh phúc hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    }
+  ]
+}

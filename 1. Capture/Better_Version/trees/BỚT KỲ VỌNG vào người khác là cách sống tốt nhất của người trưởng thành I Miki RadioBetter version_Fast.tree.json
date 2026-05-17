@@ -1,0 +1,37 @@
+{
+  "source_type": "youtube",
+  "word_count": 1728,
+  "estimated_leaf_nodes": 4,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 4 leaves < 8 minimum (youtube/medium) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "đây_là_một_chủ_đề_có_lẽ_ai_cũng_biết",
+      "label": "Đây là một chủ đề có lẽ ai cũng biết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "tại_sao_lại_có_những_người_sếp_hay_kỳ_vọng_vào_nhân_viên",
+      "label": "Tại sao lại có những người sếp hay kỳ vọng vào nhân viên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tại_sao_anh_ấy_không_phụ_mình_rửa_bát",
+      "label": "Tại sao anh ấy không phụ mình rửa bát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_còn_những_lúc_bạn_bị_bệnh",
+      "label": "Vậy còn những lúc bạn bị bệnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    }
+  ]
+}

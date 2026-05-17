@@ -1,0 +1,253 @@
+{
+  "source_type": "youtube",
+  "word_count": 5666,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "cuối_cùng_chúng_ta_cũng_không_có_được_niềm_vui",
+      "label": "Cuối cùng, chúng ta cũng không có được niềm vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "cuối_cùng_là_hưởng_thụ_thân_xác",
+      "label": "Cuối cùng là hưởng thụ thân xác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tập_trung_sống_trung_thành_với_giác_quan_của_bạn",
+      "label": "Tập trung, sống trung thành với giác quan của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_cần_phải_biết_rằng_niềm_vui_được_kích_thíc",
+      "label": "Đầu tiên chúng ta cần phải biết rằng niềm vui được kích thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "hiện_diện_là_gì",
+      "label": "Hiện diện là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "tiếp_theo_là_một_phương_pháp_củng_cố_vô_cùng_quan_trọng",
+      "label": "Tiếp theo là một phương pháp củng cố vô cùng quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "phương_pháp_có_được_niềm_vui_thứ_4_là_tự_tin_và_mỏ_lòng",
+      "label": "Phương pháp có được niềm vui thứ 4 là tự tin và mỏ lòng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "đây_chính_là_phương_pháp_thứ_5_để_sống_vui",
+      "label": "Đây chính là phương pháp thứ 5 để sống vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "phật_giáo_không_phải_là_một_chí_huệ",
+      "label": "Phật giáo không phải là một chí huệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "khái_niệm_về_niềm_vui",
+      "label": "Khái niệm về niềm vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "tại_sao_con_người_cần_phải_học_cách_biết_ơn",
+      "label": "Tại sao con người cần phải học cách biết ơn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "kiên_trì_chính_là_phương_pháp_thứ_8_giúp_bạn_có_được_niềm_vu",
+      "label": "Kiên trì chính là phương pháp thứ 8 giúp bạn có được niềm vui.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "phấn_đấu_là_một_quá_trình_khó_khăn_và_nỗ_lực_quý_giá",
+      "label": "Phấn đấu là một quá trình khó khăn và nỗ lực quý giá.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "tức_là_những_việc_ta_muốn_thay_đổi_nhưng_không_thể_thay_đổi",
+      "label": "Tức là những việc ta muốn thay đổi nhưng không thể thay đổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_để_vui_sống_hay_học_cách_buông_bỏ_những_thứ_không_thể_th",
+      "label": "Vậy để vui sống hay học cách buông bỏ những thứ không thể thay đổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "sự_mâu_thuẫn_này_là_một_nghịch_lý_trong_đời",
+      "label": "Sự mâu thuẫn này là một nghịch lý trong đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "bên_cạnh_đó_hãy_chăm_sóc_tốt_cho_cơ_thể_của_bạn",
+      "label": "Bên cạnh đó, hãy chăm sóc tốt cho cơ thể của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_được_niềm_vui_kiểu_này",
+      "label": "Vậy làm thế nào để có được niềm vui kiểu này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "tại_sao_bạn_không_tìm_thấy_sức_mạnh_nội_tại",
+      "label": "Tại sao bạn không tìm thấy sức mạnh nội tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "vậy_trên_thực_tế_tính_cách_chúng_ta_thể_hiện",
+      "label": "Vậy trên thực tế, tính cách chúng ta thể hiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "đó_cũng_là_một_loại_tăng_trưởng",
+      "label": "Đó cũng là một loại tăng trưởng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "đây_là_một_từ_trong_cuốn_sách_mà_aristotle_đã_viết_cho_con_t",
+      "label": "Đây là một từ trong cuốn sách mà Aristotle đã viết cho con trai mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "trong_phần_này_tác_giả_đưa_ra_cho_chúng_ta_2_lời_khuyên",
+      "label": "Trong phần này, tác giả đưa ra cho chúng ta 2 lời khuyên.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 168",
+      "children": [
+        {
+          "key": "trong_phần_này_tác_giả_đưa_ra_cho_chúng_ta_2_lời_khuyên_item_1",
+          "label": "[Item 1 of Trong phần này, tác giả đưa ra cho chúng ta 2 lời khuyên. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "trong_phần_này_tác_giả_đưa_ra_cho_chúng_ta_2_lời_khuyên_item_2",
+          "label": "[Item 2 of Trong phần này, tác giả đưa ra cho chúng ta 2 lời khuyên. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_một_tình_yêu_thực_sự_là_mong_muốn_làm_cho_người_kia",
+      "label": "Thứ hai, một tình yêu thực sự là mong muốn làm cho người kia hạnh phúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 172",
+      "children": [
+        {
+          "key": "thứ_hai_một_tình_yêu_thực_sự_là_mong_muốn_làm_cho_người_kia_item_1",
+          "label": "[Item 1 of Thứ hai, một tình yêu thực sự là mong muốn làm cho người kia hạnh phúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_một_tình_yêu_thực_sự_là_mong_muốn_làm_cho_người_kia_item_2",
+          "label": "[Item 2 of Thứ hai, một tình yêu thực sự là mong muốn làm cho người kia hạnh phúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_đó_là_niềm_vui_hoàn_mỹ",
+      "label": "Đầu tiên đó là niềm vui hoàn mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "nhưng_đây_là_một_con_đường_tiến_triển_cùng_5_tháng",
+      "label": "Nhưng đây là một con đường tiến triển cùng 5 tháng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "và_cuối_cùng_đó_là_một_niềm_vui_khi_sinh_ra",
+      "label": "Và cuối cùng đó là một niềm vui khi sinh ra",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 188",
+      "children": [
+        {
+          "key": "và_cuối_cùng_đó_là_một_niềm_vui_khi_sinh_ra_item_1",
+          "label": "[Item 1 of Và cuối cùng đó là một niềm vui khi sinh ra — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_cuối_cùng_đó_là_một_niềm_vui_khi_sinh_ra_item_2",
+          "label": "[Item 2 of Và cuối cùng đó là một niềm vui khi sinh ra — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "một_là_trạng_thái_cuối_cùng",
+      "label": "Một là trạng thái cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 194"
+    }
+  ]
+}

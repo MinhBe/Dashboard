@@ -1,0 +1,288 @@
+{
+  "source_type": "youtube",
+  "word_count": 5964,
+  "estimated_leaf_nodes": 36,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 36 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_vấn_đề_nằm_ở_đâu",
+      "label": "Vậy thì vấn đề nằm ở đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_thì_phải_xử_lý_như_thế_nào_mới_đúng_đắn",
+      "label": "Vậy thì phải xử lý như thế nào mới đúng đắn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "đầu_tiên_ta_sẽ_cùng_tìm_hiểu_6_chiếc_mũi_tư_duy_này_như_thế",
+      "label": "Đầu tiên ta sẽ cùng tìm hiểu 6 chiếc mũi tư duy này như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "đầu_tiên_đó_là_người_đội_mũ_tư_duy_màu_trắng",
+      "label": "Đầu tiên đó là người đội mũ tư duy màu trắng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "tiếp_theo_đó_là_người_đội_mũ_tư_duy_màu_đen",
+      "label": "Tiếp theo đó là người đội mũ tư duy màu đen.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "những_yếu_tố_tích_cực_là_gì_có_những_khía_cạnh_có_giá_trị_nà",
+      "label": "Những yếu tố tích cực là gì? Có những khía cạnh? Có giá trị nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "cuối_cùng_đó_là_người_đội_mũ_xanh_ra_trời",
+      "label": "Cuối cùng đó là người đội mũ xanh ra trời.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "bước_tiếp_theo",
+      "label": "Bước tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vấn_đề_ở_đây_là_gì",
+      "label": "Vấn đề ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "phương_pháp_giải_quyết_mắc_nhiều_thiếu_sót",
+      "label": "Phương pháp giải quyết mắc nhiều thiếu sót",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "vậy_thì_tiếp_theo_chúng_ta_sẽ_cùng_đến_phần_quan_trọng_nhất",
+      "label": "Vậy thì tiếp theo chúng ta sẽ cùng đến phần quan trọng nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "suy_nghĩ_đầu_tiên_của_bạn_là_gì",
+      "label": "suy nghĩ đầu tiên của bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "và_vấn_đề_nào_chúng_ta_cần_phải_đội_mũ",
+      "label": "và vấn đề nào, chúng ta cần phải đội mũ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "vậy_thì_suy_nghĩ_như_thế_nào_là_tốt_hơn",
+      "label": "Vậy thì suy nghĩ như thế nào là tốt hơn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "cuối_cùng_đưa_tất_cả_thành_viên_trở_về_an_toàn",
+      "label": "cuối cùng đưa tất cả thành viên trở về an toàn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "bên_cạnh_đó_chúng_ta_cũng_biết_rằng",
+      "label": "Bên cạnh đó, chúng ta cũng biết rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "bên_cạnh_đó_chúng_ta_cũng_biết_rằng_item_1",
+          "label": "[Item 1 of Bên cạnh đó, chúng ta cũng biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bên_cạnh_đó_chúng_ta_cũng_biết_rằng_item_2",
+          "label": "[Item 2 of Bên cạnh đó, chúng ta cũng biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "bên_cạnh_đó_chúng_ta_cũng_biết_rằng_item_3",
+          "label": "[Item 3 of Bên cạnh đó, chúng ta cũng biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_là_xanh_ra_trời",
+      "label": "Đầu tiên là xanh ra trời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "đầu_tiên_hãy_chú_ý_dành_ít_nhất_30_giây_cho_ngũ_đỏ",
+      "label": "Đầu tiên hãy chú ý dành ít nhất 30 giây cho ngũ đỏ.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 140",
+      "children": [
+        {
+          "key": "đầu_tiên_hãy_chú_ý_dành_ít_nhất_30_giây_cho_ngũ_đỏ_item_1",
+          "label": "[Item 1 of Đầu tiên hãy chú ý dành ít nhất 30 giây cho ngũ đỏ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_hãy_chú_ý_dành_ít_nhất_30_giây_cho_ngũ_đỏ_item_2",
+          "label": "[Item 2 of Đầu tiên hãy chú ý dành ít nhất 30 giây cho ngũ đỏ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_đó_là_có_thể_kéo_dài_thời_gian_cho_mỗi_chiếc_mũ_nế",
+      "label": "Cuối cùng đó là có thể kéo dài thời gian cho mỗi chiếc mũ nếu cần.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "bước_qua_giai_đoạn_2_đó_là_giai_đoạn_giữ_cuộc_họp",
+      "label": "Bước qua giai đoạn 2, đó là giai đoạn giữ cuộc họp.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "cuối_cùng_chúng_ta_sẽ_đi_đến_phần_kết_thúc_cuộc_họp",
+      "label": "Cuối cùng, chúng ta sẽ đi đến phần kết thúc cuộc họp.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "cuối_cùng_hãy_đội_mũ_màu_đen_để_có_thể_kiểm_tra_sự_cố_nếu_nh",
+      "label": "Cuối cùng, hãy đội mũ màu đen để có thể kiểm tra sự cố nếu như có.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "tiếp_đến_2_đội_mũ_vàng",
+      "label": "Tiếp đến 2 đội mũ vàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "những_lợi_ích_ưu_điểm_là_gì",
+      "label": "Những lợi ích, ưu điểm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    },
+    {
+      "key": "và_tiêm_ẩn_là_gì",
+      "label": "Và tiêm ẩn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "rồi_chúng_ta_sẽ_sử_dụng_mũi_xanh_lá",
+      "label": "Rồi chúng ta sẽ sử dụng mũi xanh lá",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "và_tiếp_theo_chúng_ta_sẽ_đổi_mũ_trắng",
+      "label": "và tiếp theo chúng ta sẽ đổi mũ trắng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "và_cuối_cùng_chúng_ta_sẽ_một_lần_nữa",
+      "label": "và cuối cùng chúng ta sẽ một lần nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "thông_tin_bạn_đã_biết_về_chủ_đề_này_là_gì",
+      "label": "Thông tin bạn đã biết về chủ đề này là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "kết_quả_mà_chúng_ta_đang_cố_gắng_đạt_được_là_gì",
+      "label": "Kết quả mà chúng ta đang cố gắng đạt được là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 196",
+      "children": [
+        {
+          "key": "kết_quả_mà_chúng_ta_đang_cố_gắng_đạt_được_là_gì_item_1",
+          "label": "[Item 1 of Kết quả mà chúng ta đang cố gắng đạt được là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "kết_quả_mà_chúng_ta_đang_cố_gắng_đạt_được_là_gì_item_2",
+          "label": "[Item 2 of Kết quả mà chúng ta đang cố gắng đạt được là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_chỉ_là_những_công_cụ_tư_duy",
+      "label": "Đây chỉ là những công cụ tư duy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "nó_không_phải_là_một_khuôn_mẫu_máy_móc_nào_cả",
+      "label": "Nó không phải là một khuôn mẫu máy móc nào cả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    }
+  ]
+}

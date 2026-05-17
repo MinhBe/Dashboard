@@ -1,0 +1,206 @@
+{
+  "source_type": "youtube",
+  "word_count": 5487,
+  "estimated_leaf_nodes": 23,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 23 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "hơn_nữa_các_trường_phái_vô_cùng_đa_giá",
+      "label": "Hơn nữa, các trường phái vô cùng đa giá,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đây_là_một_cuốn_sách_được_viết_bởi_bác_sĩ_lý_tân",
+      "label": "Đây là một cuốn sách được viết bởi bác sĩ Lý Tân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "câu_này_có_nghĩa_là_gì",
+      "label": "Câu này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "tinh_thần_không_được_ổn_định",
+      "label": "tinh thần không được ổn định.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đây_cũng_là_một_nguyên_nhân_dẫn_đến",
+      "label": "Đây cũng là một nguyên nhân dẫn đến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "dưỡng_hình_là_một_cách_tốt_nhất",
+      "label": "Dưỡng hình là một cách tốt nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_nhiều_người_cũng_thường_xuyên_tập_thể_dục",
+      "label": "Tại sao nhiều người cũng thường xuyên tập thể dục,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "và_tiếp_theo_chúng_ta_sẽ_cùng_tìm_hiểu_về_vấn_đề_này",
+      "label": "Và tiếp theo chúng ta sẽ cùng tìm hiểu về vấn đề này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "trước_hết_chúng_ta_cần_phải_hiểu_được_nguồn_gốc_của_khí_là_g",
+      "label": "Trước hết chúng ta cần phải hiểu được nguồn gốc của khí là gì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 82",
+      "children": [
+        {
+          "key": "trước_hết_chúng_ta_cần_phải_hiểu_được_nguồn_gốc_của_khí_là_g_item_1",
+          "label": "[Item 1 of Trước hết chúng ta cần phải hiểu được nguồn gốc của khí là gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "trước_hết_chúng_ta_cần_phải_hiểu_được_nguồn_gốc_của_khí_là_g_item_2",
+          "label": "[Item 2 of Trước hết chúng ta cần phải hiểu được nguồn gốc của khí là gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_thức_dậy_chúng_ta_có_thể_vận_động",
+      "label": "và thức dậy, chúng ta có thể vận động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "có_4_yếu_tố_tham_chiếu_để_tự_chẳng_đoán_xem",
+      "label": "Có 4 yếu tố tham chiếu để tự chẳng đoán xem",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "có_4_yếu_tố_tham_chiếu_để_tự_chẳng_đoán_xem_item_1",
+          "label": "[Item 1 of Có 4 yếu tố tham chiếu để tự chẳng đoán xem — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_4_yếu_tố_tham_chiếu_để_tự_chẳng_đoán_xem_item_2",
+          "label": "[Item 2 of Có 4 yếu tố tham chiếu để tự chẳng đoán xem — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "có_4_yếu_tố_tham_chiếu_để_tự_chẳng_đoán_xem_item_3",
+          "label": "[Item 3 of Có 4 yếu tố tham chiếu để tự chẳng đoán xem — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "có_4_yếu_tố_tham_chiếu_để_tự_chẳng_đoán_xem_item_4",
+          "label": "[Item 4 of Có 4 yếu tố tham chiếu để tự chẳng đoán xem — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        }
+      ]
+    },
+    {
+      "key": "dẫn_khí_là_gì",
+      "label": "Dẫn khí là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_là_đủ",
+      "label": "Vậy là đủ!",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "thứ_nhất_thần_phải_định_và_thư_giãn",
+      "label": "Thứ nhất, thần phải định và thư giãn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 126",
+      "children": [
+        {
+          "key": "thứ_nhất_thần_phải_định_và_thư_giãn_item_1",
+          "label": "[Item 1 of Thứ nhất, thần phải định và thư giãn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_thần_phải_định_và_thư_giãn_item_2",
+          "label": "[Item 2 of Thứ nhất, thần phải định và thư giãn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tức_là_trạng_thái_tinh_thần_của_bệnh_nhân_phải_bình_thường",
+      "label": "Tức là trạng thái tinh thần của bệnh nhân phải bình thường",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 128",
+      "children": [
+        {
+          "key": "tức_là_trạng_thái_tinh_thần_của_bệnh_nhân_phải_bình_thường_item_1",
+          "label": "[Item 1 of Tức là trạng thái tinh thần của bệnh nhân phải bình thường — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tức_là_trạng_thái_tinh_thần_của_bệnh_nhân_phải_bình_thường_item_2",
+          "label": "[Item 2 of Tức là trạng thái tinh thần của bệnh nhân phải bình thường — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_này_cũng_là_một_bài_học_lớn_cho_chúng_ta",
+      "label": "Điều này cũng là một bài học lớn cho chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    }
+  ]
+}

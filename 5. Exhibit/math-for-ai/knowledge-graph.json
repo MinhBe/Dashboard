@@ -1,0 +1,22 @@
+{
+  "meta": {
+    "domain": "math-for-ai",
+    "scope": "Mathematics foundations for understanding AI/ML systems",
+    "created": "2026-05-14",
+    "curriculum_sequence": [
+      { "concept": "vectors_and_spaces",          "bloom_target": "apply" },
+      { "concept": "matrix_operations",           "bloom_target": "apply" },
+      { "concept": "dot_product_and_similarity",  "bloom_target": "analyze" },
+      { "concept": "matrix_multiplication",       "bloom_target": "apply" },
+      { "concept": "eigenvalues_eigenvectors",    "bloom_target": "understand" },
+      { "concept": "derivatives_and_gradient",    "bloom_target": "apply" },
+      { "concept": "chain_rule",                  "bloom_target": "apply" },
+      { "concept": "partial_derivatives",         "bloom_target": "apply" },
+      { "concept": "probability_basics",          "bloom_target": "apply" },
+      { "concept": "conditional_probability_bayes", "bloom_target": "analyze" },
+      { "concept": "distributions_gaussian",      "bloom_target": "understand" },
+      { "concept": "expectation_and_variance",    "bloom_target": "apply" }
+    ]
+  },
+  "nodes": {}
+}

@@ -1,0 +1,97 @@
+{
+  "source_type": "youtube",
+  "word_count": 4168,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_bố_mẹ_không_hiểu_cho_con_tại_sao_con_tôi",
+      "label": "Tại sao bố mẹ không hiểu cho con? Tại sao con tôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "lý_do_đó_là_gì",
+      "label": "Lý do đó là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "lý_do_đó_là_gì_item_1",
+          "label": "[Item 1 of Lý do đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "lý_do_đó_là_gì_item_2",
+          "label": "[Item 2 of Lý do đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nhưng_trước_lời_cầu_hôn_liên_tục",
+      "label": "Vậy nhưng trước lời cầu hôn liên tục",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_nhưng_khi_nhìn_thấy_người_mình_yêu_không_còn_vẹn_toàn_và",
+      "label": "Vậy nhưng khi nhìn thấy người mình yêu không còn vẹn toàn và nghèo khó",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 78",
+      "children": [
+        {
+          "key": "vậy_nhưng_khi_nhìn_thấy_người_mình_yêu_không_còn_vẹn_toàn_và_item_1",
+          "label": "[Item 1 of Vậy nhưng khi nhìn thấy người mình yêu không còn vẹn toàn và nghèo khó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nhưng_khi_nhìn_thấy_người_mình_yêu_không_còn_vẹn_toàn_và_item_2",
+          "label": "[Item 2 of Vậy nhưng khi nhìn thấy người mình yêu không còn vẹn toàn và nghèo khó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thay_vì_cam_chịu",
+      "label": "Thay vì cam chịu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "tiếp_theo_là_buông_tay_những_gì_đã_có",
+      "label": "Tiếp theo là buông tay những gì đã có",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "đây_là_một_câu_chuyện_tình_yêu_cổ_tích_với_cái_kết_đẹp",
+      "label": "đây là một câu chuyện tình yêu cổ tích với cái kết đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "sau_tất_cả_là_một_lời_khuyên_từ_chim_nghiệm_cá_nhân_của_mình",
+      "label": "Sau tất cả là một lời khuyên từ chim nghiệm cá nhân của mình.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    }
+  ]
+}

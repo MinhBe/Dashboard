@@ -1,0 +1,127 @@
+{
+  "source_type": "youtube",
+  "word_count": 4841,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_thị_trấn_nhỏ_bên_bờ_biển_kary",
+      "label": "Đây là một thị trấn nhỏ bên bờ biển Kary.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "ai_cũng_là_một_hòn_đảo_cô_đơn",
+      "label": "Ai cũng là một hòn đảo cô đơn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "ai_cũng_là_một_hòn_đảo_cô_đơn_item_1",
+          "label": "[Item 1 of Ai cũng là một hòn đảo cô đơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ai_cũng_là_một_hòn_đảo_cô_đơn_item_2",
+          "label": "[Item 2 of Ai cũng là một hòn đảo cô đơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_khen_ngợi_anh_là_một_vĩ_nhân_nhưng",
+      "label": "và khen ngợi anh là một vĩ nhân. Nhưng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "bà_đã_cho_thấy_mình_là_một_người_phụ_nữ",
+      "label": "Bà đã cho thấy mình là một người phụ nữ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "giống_như_là_một_lời_nguyện_của_tâm_hồn",
+      "label": "giống như là một lời nguyện của tâm hồn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "bình_yên_thực_sự_của_vấn_mạnh",
+      "label": "bình yên thực sự của vấn mạnh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_thì_tại_sao_con_người_lại_ngày_càng_cô_đơn",
+      "label": "Vậy thì tại sao con người lại ngày càng cô đơn?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "vậy_thì_tại_sao_con_người_lại_ngày_càng_cô_đơn_item_1",
+          "label": "[Item 1 of Vậy thì tại sao con người lại ngày càng cô đơn? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_tại_sao_con_người_lại_ngày_càng_cô_đơn_item_2",
+          "label": "[Item 2 of Vậy thì tại sao con người lại ngày càng cô đơn? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_là_ta_lại_chìm_vào_nỗi_cô_đơn_thứ_hai",
+      "label": "Vậy là ta lại chìm vào nỗi cô đơn thứ hai.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 114",
+      "children": [
+        {
+          "key": "vậy_là_ta_lại_chìm_vào_nỗi_cô_đơn_thứ_hai_item_1",
+          "label": "[Item 1 of Vậy là ta lại chìm vào nỗi cô đơn thứ hai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_là_ta_lại_chìm_vào_nỗi_cô_đơn_thứ_hai_item_2",
+          "label": "[Item 2 of Vậy là ta lại chìm vào nỗi cô đơn thứ hai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "video_hôm_nay_chỉ_là_một_góc_bàn_về_nỗi_cô_đơn_của_một_cá_th",
+      "label": "Video hôm nay chỉ là một góc bàn về nỗi cô đơn của một cá thể.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "cuối_cùng_mình_rất_mong_có_thể_truyền_tải_tới_bạn_một_thông",
+      "label": "Cuối cùng, mình rất mong có thể truyền tải tới bạn một thông điệp rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    }
+  ]
+}

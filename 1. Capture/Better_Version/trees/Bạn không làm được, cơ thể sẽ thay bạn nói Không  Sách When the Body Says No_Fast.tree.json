@@ -1,0 +1,424 @@
+{
+  "source_type": "youtube",
+  "word_count": 6742,
+  "estimated_leaf_nodes": 49,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 49 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tiếp_theo_bạn_được_phân_tìm_đến_một_bác_sĩ",
+      "label": "Tiếp theo, bạn được phân tìm đến một bác sĩ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_y_học_hiện_đại_đang_thiếu_sót_điều_gì",
+      "label": "Vậy, y học hiện đại đang thiếu sót điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tính_nhị_nguyên_là_gì",
+      "label": "Tính nhị nguyên là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "một_quan_hệ_giữa_cơ_thể_và_bệnh_tật",
+      "label": "một quan hệ giữa cơ thể và bệnh tật.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "hơn_nữa_càng_là_bác_sĩ_chuyên_nghiệp",
+      "label": "Hơn nữa, càng là bác sĩ chuyên nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng_ngay_cả_liều_dùng_thuốc_gây_t_mạnh_nhất",
+      "label": "Cuối cùng, ngay cả liều dùng thuốc gây T mạnh nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đây_là_một_loại_bệnh_thuộc_nhóm_bệnh_tự_miễn",
+      "label": "Đây là một loại bệnh thuộc nhóm bệnh tự miễn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "trong_cơ_thể_của_cô_ấy_là_gì",
+      "label": "Trong cơ thể của cô ấy là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "vậy_nên_căn_bệnh_quái_ác_của_mary",
+      "label": "Vậy nên căn bệnh quái ác của Mary",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_khi_tâm_thân_không_thể_hợp_nhất_với_nhau",
+      "label": "Vậy khi tâm, thân không thể hợp nhất với nhau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "áp_lực_là_một_chuỗi_phản_ứng",
+      "label": "Áp lực là một chuỗi phản ứng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "chính_là_một_tình_trạng_không_lành_mạnh",
+      "label": "chính là một tình trạng không lành mạnh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "vậy_nên_cơ_chế_phản_ứng",
+      "label": "Vậy nên cơ chế phản ứng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "cho_rằng_ông_là_một_bác_sĩ_gia_đình_thiếu_kinh_nghiệm",
+      "label": "cho rằng ông là một bác sĩ gia đình thiếu kinh nghiệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_thì_khi_có_cái_nhìn_rõ_ràng_hơn",
+      "label": "Vậy thì khi có cái nhìn rõ ràng hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_phương_pháp_tự_chữa_lành_là_như_thế_nào",
+      "label": "Vậy phương pháp tự chữa lành là như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "đầu_tiên_nhận_thức_và_chấp_nhận_với_bản_thân_rằng",
+      "label": "Đầu tiên nhận thức và chấp nhận với bản thân rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "thứ_nhất",
+      "label": "Thứ nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 132",
+      "children": [
+        {
+          "key": "thứ_nhất_item_1",
+          "label": "[Item 1 of Thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_item_2",
+          "label": "[Item 2 of Thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai",
+      "label": "Thứ hai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 136",
+      "children": [
+        {
+          "key": "thứ_hai_item_1",
+          "label": "[Item 1 of Thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_item_2",
+          "label": "[Item 2 of Thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_đó_là_niêm_mạc_ruột_của_hệ_thống_tiêu_hóa",
+      "label": "Thứ ba, đó là niêm mạc ruột của hệ thống tiêu hóa.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 140",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_niêm_mạc_ruột_của_hệ_thống_tiêu_hóa_item_1",
+          "label": "[Item 1 of Thứ ba, đó là niêm mạc ruột của hệ thống tiêu hóa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_niêm_mạc_ruột_của_hệ_thống_tiêu_hóa_item_2",
+          "label": "[Item 2 of Thứ ba, đó là niêm mạc ruột của hệ thống tiêu hóa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_dẫn_đến_ung_thư",
+      "label": "Cuối cùng dẫn đến ung thư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "đây_thực_sự_là_một_suy_nghĩ_sai_lầm",
+      "label": "Đây thực sự là một suy nghĩ sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "ngoài_ra_tác_giả_còn_chỉ_ra_một_vài_quan_điểm_sai_lầm",
+      "label": "Ngoài ra tác giả còn chỉ ra một vài quan điểm sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "vậy_những_suy_nghĩ_sai_lầm_đó_là_gì",
+      "label": "Vậy những suy nghĩ sai lầm đó là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 166",
+      "children": [
+        {
+          "key": "vậy_những_suy_nghĩ_sai_lầm_đó_là_gì_item_1",
+          "label": "[Item 1 of Vậy những suy nghĩ sai lầm đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_những_suy_nghĩ_sai_lầm_đó_là_gì_item_2",
+          "label": "[Item 2 of Vậy những suy nghĩ sai lầm đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vì_thế_tôi_phải_cố_gắng_nhiều_hơn",
+      "label": "Vì thế tôi phải cố gắng nhiều hơn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 170",
+      "children": [
+        {
+          "key": "vì_thế_tôi_phải_cố_gắng_nhiều_hơn_item_1",
+          "label": "[Item 1 of Vì thế tôi phải cố gắng nhiều hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vì_thế_tôi_phải_cố_gắng_nhiều_hơn_item_2",
+          "label": "[Item 2 of Vì thế tôi phải cố gắng nhiều hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nếu_không_tôi_sẽ_không_yên_tâm",
+      "label": "Nếu không, tôi sẽ không yên tâm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "thứ_ba_tôi_phải_có_trách_nhiệm_với_mọi_người_xung_quanh",
+      "label": "Thứ ba, tôi phải có trách nhiệm với mọi người xung quanh.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 176",
+      "children": [
+        {
+          "key": "thứ_ba_tôi_phải_có_trách_nhiệm_với_mọi_người_xung_quanh_item_1",
+          "label": "[Item 1 of Thứ ba, tôi phải có trách nhiệm với mọi người xung quanh. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tôi_phải_có_trách_nhiệm_với_mọi_người_xung_quanh_item_2",
+          "label": "[Item 2 of Thứ ba, tôi phải có trách nhiệm với mọi người xung quanh. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nó_được_coi_là_một_cảm_xúc_tích_cực_về_mặt_sinh_lý",
+      "label": "nó được coi là một cảm xúc tích cực về mặt sinh lý",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 182",
+      "children": [
+        {
+          "key": "nó_được_coi_là_một_cảm_xúc_tích_cực_về_mặt_sinh_lý_item_1",
+          "label": "[Item 1 of nó được coi là một cảm xúc tích cực về mặt sinh lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nó_được_coi_là_một_cảm_xúc_tích_cực_về_mặt_sinh_lý_item_2",
+          "label": "[Item 2 of nó được coi là một cảm xúc tích cực về mặt sinh lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "nó_được_coi_là_một_cảm_xúc_tích_cực_về_mặt_sinh_lý_item_3",
+          "label": "[Item 3 of nó được coi là một cảm xúc tích cực về mặt sinh lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là_học_cách_biểu_đạt",
+      "label": "Bước đầu tiên đó là học cách biểu đạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "cuối_cùng_là_bước_số_3",
+      "label": "Cuối cùng là bước số 3",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "vậy_thì_sau_khi_bạn_có_thể_thừa_nhận_bản_thân",
+      "label": "Vậy thì sau khi bạn có thể thừa nhận bản thân,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 202"
+    },
+    {
+      "key": "bạn_đang_đi_trên_con_đường_tự_chữa_lành",
+      "label": "Bạn đang đi trên con đường tự chữa lành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 216"
+    },
+    {
+      "key": "tại_sao_bạn_phải_tìm_cách_chữa_lành_thân_tâm",
+      "label": "Tại sao bạn phải tìm cách chữa lành thân tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    },
+    {
+      "key": "vậy_thì_đã_đến_lúc",
+      "label": "Vậy thì đã đến lúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 222"
+    },
+    {
+      "key": "có_2_cách_chính_để_làm_điều_này",
+      "label": "Có 2 cách chính để làm điều này",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 232",
+      "children": [
+        {
+          "key": "có_2_cách_chính_để_làm_điều_này_item_1",
+          "label": "[Item 1 of Có 2 cách chính để làm điều này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_2_cách_chính_để_làm_điều_này_item_2",
+          "label": "[Item 2 of Có 2 cách chính để làm điều này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_đó_là_theo_đuổi_mong_muốn_sáng_tạo_của_bản_thân",
+      "label": "Đầu tiên, đó là theo đuổi mong muốn sáng tạo của bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 234"
+    },
+    {
+      "key": "đây_là_một_loại_hiện_thân_của_sức_sống",
+      "label": "Đây là một loại hiện thân của sức sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 238"
+    },
+    {
+      "key": "đây_cũng_là_một_cách_vô_cùng_hữu_hiệu_để_bạn_chứng_lạnh",
+      "label": "Đây cũng là một cách vô cùng hữu hiệu để bạn chứng lạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 242"
+    },
+    {
+      "key": "và_giờ_chúng_ta_cần_phải_có_thêm_một_sự_thống_nhất_nữa",
+      "label": "Và giờ chúng ta cần phải có thêm một sự thống nhất nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 250"
+    },
+    {
+      "key": "tại_sao",
+      "label": "Tại sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 256"
+    }
+  ]
+}

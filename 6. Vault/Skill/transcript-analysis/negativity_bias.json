@@ -1,0 +1,51 @@
+{
+  "domain": "book",
+  "bloom_target": "understand",
+  "depth_level": 1,
+  "parent_concept": null,
+  "contradictions": [],
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Better Version",
+    "source_section": "phút 0-5",
+    "trust_level": "EXTRACTED",
+    "flags": [],
+    "argument_flow": "hook → problem → evolutionary mechanism → modern consequence",
+    "core_question": "Tại sao não bộ con người lại có xu hướng ưu tiên ghi nhớ những điều tiêu cực hơn là tích cực?",
+    "extracted": "Từ hàng trăm triệu năm, não bộ của chúng ta tiến hóa để ưu tiên ghi nhận nguy hiểm. Thiên kiến tiêu cực khiến cho mọi ký ức đau buồn, thất bại hoặc mất mát cứ thể dính chặt vào neuron thần kinh rồi dễ dàng khơi lên những lo âu và giận dữ. Thứ chế này từng cứu tổ tiên ta khỏi thù giữ Nhưng ngày nay nó lại khiến bạn mắc kẹt trong vòng luẩn quần của căng thẳng và phiền muộn.",
+    "anchor_story": "Trong một ngày có 20 việc xảy ra, 19 điều suôn sẻ nhưng chỉ 1 việc không như ý, đến tối điều bạn nhớ nhất và trăn trở nhất chính là sự việc không như ý đó.",
+    "falsifiability": "Nếu con người có thể dễ dàng quên đi nguy hiểm và chỉ nhớ niềm vui, tỷ lệ sống sót trong tự nhiên sẽ giảm xuống do không học được từ các mối đe dọa.",
+    "tiers": {
+      "child": "Não bộ giống như một người bảo vệ cực kỳ cẩn thận. Ông ấy luôn nhìn chăm chú vào những con quái vật đáng sợ để bảo vệ con, nhưng lại quên mất việc nhìn vào những bông hoa đẹp xung quanh. Đó là lý do con hay buồn vì một câu chê hơn là vui vì mười câu khen.",
+      "student": "Thiên kiến tiêu cực (negativity bias) là một cơ chế tiến hóa. Não bộ ưu tiên các kích thích tiêu cực vì chúng đại diện cho mối đe dọa sinh tồn. Vùng hạnh nhân (amygdala) phản ứng nhanh với nguy hiểm, biến các trải nghiệm xấu thành ký ức dài hạn nhanh hơn các trải nghiệm tốt.",
+      "expert": "Negativity bias vận hành dựa trên sự ưu tiên xử lý của hệ thống limbic. Các trải nghiệm tiêu cực được mã hóa vào trí nhớ tiềm ẩn (implicit memory) một cách bền vững hơn do nhu cầu tránh né hiểm họa. Điều này tạo ra sự mất cân bằng trong việc hình thành cấu trúc thần kinh, đòi hỏi sự can thiệp có chủ đích để tái lập trình."
+    },
+    "misconception_seeds": [
+      "Tôi là người bi quan bẩm sinh — sai vì đây là cơ chế sinh tồn chung của loài người, không phải lỗi cá nhân.",
+      "Cần phải loại bỏ hoàn toàn suy nghĩ tiêu cực — sai vì cơ chế này vẫn cần thiết để cảnh báo nguy hiểm, mục tiêu là cân bằng lại chứ không phải tiêu diệt."
+    ],
+    "transfer_question": "Nếu bạn nhận được 10 phản hồi tốt về dự án và 1 phản hồi chỉ trích nặng nề, bạn sẽ làm gì để không bị 'velcro' (dính chặt) vào phản hồi tiêu cực đó?",
+    "dig_deeper_questions": {
+      "apply": "Liệt kê 3 sự kiện tiêu cực nhỏ trong ngày và quan sát cách tâm trí bạn 'nhai đi nhai lại' chúng.",
+      "analyze": "So sánh tốc độ ghi nhớ một nỗi sợ so với một niềm vui bất chợt.",
+      "evaluate": "Đánh giá lợi ích và tác hại của negativity bias trong môi trường làm việc hiện đại (nơi không còn thú dữ nhưng nhiều áp lực xã hội).",
+      "create": "Thiết kế một thử nghiệm nhỏ để kiểm chứng xem việc chú ý vào 5 điều tích cực có làm giảm tác động của 1 điều tiêu cực hay không."
+    },
+    "next_actions": [
+      "Ghi chép lại các khoảnh khắc 'bị dính' vào điều tiêu cực trong ngày.",
+      "Thực hiện bài tập dừng lại 10 giây khi nhận được một lời khen."
+    ],
+    "open_questions": [],
+    "last_reextracted": "2026-05-15"
+  },
+  "learner_state": {
+    "belief_prior": null,
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "consecutive_correct": 0,
+    "hint_fails_total": 0,
+    "needs_restructure": false,
+    "next_review": null,
+    "personal_misconceptions": {}
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "source_type": "youtube",
+  "word_count": 4340,
+  "estimated_leaf_nodes": 27,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 27 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_liệu_như_thế_có_phải_là_đang_đi_sai_đường_không",
+      "label": "Vậy liệu như thế có phải là đang đi sai đường không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "và_bữa_tiệc_vui_sớm_muộn_cũng_sẽ_tan",
+      "label": "Và bữa tiệc vui sớm muộn cũng sẽ tan",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "hơn_nữa_những_niềm_vui_này_cũng_thường_xuyên_bị_làm_phiền",
+      "label": "Hơn nữa, những niềm vui này cũng thường xuyên bị làm phiền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_làm_sao",
+      "label": "Vậy chúng ta phải làm sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "giữa_hai_thái_cực_là_một_yêu_điểm_vô_cùng_quý_giá",
+      "label": "giữa hai thái cực là một yêu điểm vô cùng quý giá.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "ngài_ban_đầu_vốn_là_một_thái_tử_được_hưởng_thụ_cuộc_sống_xa",
+      "label": "Ngài ban đầu vốn là một thái tử được hưởng thụ cuộc sống xa hoa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "nếu_không_nó_sẽ_chỉ_là_một_khoái_cảm_thoáng_qua",
+      "label": "Nếu không nó sẽ chỉ là một khoái cảm thoáng qua",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "và_mãi_mãi_dưới_sự_kiểm_soát_của_yếu_tố_bên_ngoài",
+      "label": "Và mãi mãi dưới sự kiểm soát của yếu tố bên ngoài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "mới_là_một_niềm_tin_mù_quáng_là_tuyệt_vọng",
+      "label": "mới là một niềm tin mù quáng, là tuyệt vọng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "trong_cuốn_sách_tạm_dịch_là",
+      "label": "trong cuốn sách tạm dịch là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "có_thể_thấy_niềm_vui_là_một_phiên_bản_mạnh_mẽ_hơn",
+      "label": "Có thể thấy niềm vui là một phiên bản mạnh mẽ hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_khiến_niềm_vui",
+      "label": "Vậy làm thế nào để khiến niềm vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "trò_chuyện_với_chiếc_gia_về_niềm_vui",
+      "label": "trò chuyện với chiếc gia về niềm vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đầu_tiên_là_một_chiếc_gia_người_do_thái",
+      "label": "Đầu tiên là một chiếc gia người Do Thái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "sinh_năm_1632_tại_amsterdam_vào_thế_kỷ_17",
+      "label": "sinh năm 1632 tại Amsterdam vào thế kỷ 17",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "amsterdam_là_một_trung_tâm_kinh_tế_phát_triển_nhất_của_thế_g",
+      "label": "Amsterdam là một trung tâm kinh tế phát triển nhất của thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vậy_là_bạn_đã_đánh_mất_niềm_vui_thực_sự_ngay_vào_giây_phút_n",
+      "label": "Vậy là bạn đã đánh mất niềm vui thực sự ngay vào giây phút này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "tiếp_theo_200_năm_sau",
+      "label": "Tiếp theo, 200 năm sau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "nature_là_một_nhà_chiết_học_rất_nổi_tiếng",
+      "label": "Nature là một nhà chiết học rất nổi tiếng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "cả_hai_đều_cho_rằng",
+      "label": "Cả hai đều cho rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "niềm_vui_là_một_sức_mạnh_của_cuộc_sống",
+      "label": "Niềm vui là một sức mạnh của cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "cuối_cùng_vào_năm_1859",
+      "label": "Cuối cùng, vào năm 1859",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "niềm_vui_thực_sự_là_khả_năng_đáp_ứng_nhu_cầu_của_bản_thân",
+      "label": "niềm vui thực sự là khả năng đáp ứng nhu cầu của bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "vậy_nên_sẽ_có_lúc",
+      "label": "vậy nên sẽ có lúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "đều_là_một_quá_trình_đầy_khó_khăn",
+      "label": "đều là một quá trình đầy khó khăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "tiếp_theo_là_có_được_niềm_vui_hoàn_mỹ",
+      "label": "Tiếp theo là có được niềm vui hoàn mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "và_cuối_cùng_là_phương_pháp_để_có_niềm_vui_không_thể_bỏ_lỡ_t",
+      "label": "Và cuối cùng là phương pháp để có niềm vui không thể bỏ lỡ trong đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    }
+  ]
+}

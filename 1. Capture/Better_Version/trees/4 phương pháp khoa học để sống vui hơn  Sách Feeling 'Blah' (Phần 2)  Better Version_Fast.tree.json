@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 2904,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 10 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "và_hôm_nay_chúng_ta_sẽ_đi_tiếp_một_bước_quan_trọng_hơn",
+      "label": "Và hôm nay chúng ta sẽ đi tiếp một bước quan trọng hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "đây_là_một_bản_thiết_kế_hành_động_cụ_thể",
+      "label": "Đây là một bản thiết kế hành động cụ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "đây_luôn_là_một_lộ_trình_mang_lại_hiệu_quả",
+      "label": "Đây luôn là một lộ trình mang lại hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "đầu_tiên_hãy_chủ_động_cho_dopamine_nghỉ_ngơi_giác_lái_cho_nó",
+      "label": "Đầu tiên hãy chủ động cho dopamine nghỉ ngơi, giác lái cho nó.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tiếp_theo_hãy_thiết_kể_lại_niềm_vui",
+      "label": "Tiếp theo, hãy thiết kể lại niềm vui",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "ngoài_ra_hãy_ăn_nhiều_rau_xanh_trái_cây_mũ_cốc_miền_hạt",
+      "label": "Ngoài ra, hãy ăn nhiều rau xanh, trái cây, mũ cốc, miền hạt",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "ngoài_ra_hãy_ăn_nhiều_rau_xanh_trái_cây_mũ_cốc_miền_hạt_item_1",
+          "label": "[Item 1 of Ngoài ra, hãy ăn nhiều rau xanh, trái cây, mũ cốc, miền hạt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_hãy_ăn_nhiều_rau_xanh_trái_cây_mũ_cốc_miền_hạt_item_2",
+          "label": "[Item 2 of Ngoài ra, hãy ăn nhiều rau xanh, trái cây, mũ cốc, miền hạt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_quan_trọng_là_để_cơ_thể_bạn_cảm_nhận_được_sự_ấm_áp",
+      "label": "Điều quan trọng là để cơ thể bạn cảm nhận được sự ấm áp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "nhưng_là_một_người_cổ_đại_về_cách_nuôi_dưỡng_tâm_hồn",
+      "label": "nhưng là một người cổ đại về cách nuôi dưỡng tâm hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "cuối_cùng_thì_mình_chúc_bạn_có_thể_lau_sạch_lớp_bụi_sám",
+      "label": "Cuối cùng thì mình chúc bạn có thể lau sạch lớp bụi sám",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    }
+  ]
+}

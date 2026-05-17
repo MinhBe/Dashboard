@@ -1,0 +1,130 @@
+{
+  "source_type": "youtube",
+  "word_count": 4629,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_một_người_trong_thời_điểm_khó_khăn_nhất_nên_phải_làm",
+      "label": "Vậy thì một người trong thời điểm khó khăn nhất nên phải làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "con_mẹ_là_một_người_giúp_việc",
+      "label": "Con mẹ là một người giúp việc.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 22",
+      "children": [
+        {
+          "key": "con_mẹ_là_một_người_giúp_việc_item_1",
+          "label": "[Item 1 of Con mẹ là một người giúp việc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "con_mẹ_là_một_người_giúp_việc_item_2",
+          "label": "[Item 2 of Con mẹ là một người giúp việc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_ông_lại_bắt_đầu_sáng_tác_ra_những_bản_dao_hưởng_hu",
+      "label": "Cuối cùng ông lại bắt đầu sáng tác ra những bản dao hưởng huyền thoại,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "niềm_vui_đích_thực_là_gì",
+      "label": "Niềm vui đích thực là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "xây_lăng_mộ_là_một_nhiệm_vụ_cực_kỳ_lớn_và_đòi_hỏi_thời_gian",
+      "label": "Xây lăng mộ là một nhiệm vụ cực kỳ lớn và đòi hỏi thời gian.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "cuối_cùng_đã_hoàn_thành_được_bức_tượng",
+      "label": "Cuối cùng đã hoàn thành được bức tượng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "cuộc_đời_tôi_là_một_chuỗi_những_thất_bại",
+      "label": "Cuộc đời tôi là một chuỗi những thất bại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "hoàn_hảo_chỉ_là_một_hình_tượng_gia_tạo",
+      "label": "Hoàn hảo chỉ là một hình tượng gia tạo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "bước_lên_đà_vinh_quang_này",
+      "label": "Bước lên đà vinh quang này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "bước_vào_thế_giới",
+      "label": "Bước vào thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "bước_ra_khỏi_cuộc_đời_ta",
+      "label": "Bước ra khỏi cuộc đời ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "mà_là_cứu_cả_nhân_loại",
+      "label": "Mà là cứu cả nhân loại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "ông_là_một_người_hùng_thực_sự",
+      "label": "Ông là một người hùng thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "cuối_cùng_đã_quay_lại_đến_đáp_cho_ông",
+      "label": "Cuối cùng đã quay lại đến đáp cho ông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "cuối_cùng_sẽ_trở_lại_dưới_một_hình_thức_khác",
+      "label": "Cuối cùng sẽ trở lại dưới một hình thức khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "source_type": "youtube",
+  "word_count": 2770,
+  "estimated_leaf_nodes": 6,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 6 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "chỉ_hoãn_là_một_thói_quen_hay_rời_lại_việc_quan_trọng_cần_ph",
+      "label": "Chỉ hoãn là một thói quen hay rời lại việc quan trọng cần phải làm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "thứ_nhất_là_con_voi_tượng_trưng_cho_cảm_xúc",
+      "label": "Thứ nhất là con voi, tượng trưng cho cảm xúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "thứ_nhất_là_con_voi_tượng_trưng_cho_cảm_xúc_item_1",
+          "label": "[Item 1 of Thứ nhất là con voi, tượng trưng cho cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_con_voi_tượng_trưng_cho_cảm_xúc_item_2",
+          "label": "[Item 2 of Thứ nhất là con voi, tượng trưng cho cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_mình_lại_phải_để_đến_ngày_thứ_2_mới_làm",
+      "label": "Tại sao mình lại phải để đến ngày thứ 2 mới làm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 46",
+      "children": [
+        {
+          "key": "tại_sao_mình_lại_phải_để_đến_ngày_thứ_2_mới_làm_item_1",
+          "label": "[Item 1 of Tại sao mình lại phải để đến ngày thứ 2 mới làm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_mình_lại_phải_để_đến_ngày_thứ_2_mới_làm_item_2",
+          "label": "[Item 2 of Tại sao mình lại phải để đến ngày thứ 2 mới làm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_hãy_cho_mình_thêm_động_lực",
+      "label": "Vậy thì hãy cho mình thêm động lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    }
+  ]
+}

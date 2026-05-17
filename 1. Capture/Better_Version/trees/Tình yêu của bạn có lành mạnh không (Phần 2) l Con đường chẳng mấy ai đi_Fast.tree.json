@@ -1,0 +1,231 @@
+{
+  "source_type": "youtube",
+  "word_count": 5574,
+  "estimated_leaf_nodes": 24,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 24 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thứ_hai_những_biểu_hiện_của_tình_yêu_thích_thực_là_gì",
+      "label": "Thứ hai, những biểu hiện của tình yêu thích thực là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 6",
+      "children": [
+        {
+          "key": "thứ_hai_những_biểu_hiện_của_tình_yêu_thích_thực_là_gì_item_1",
+          "label": "[Item 1 of Thứ hai, những biểu hiện của tình yêu thích thực là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_những_biểu_hiện_của_tình_yêu_thích_thực_là_gì_item_2",
+          "label": "[Item 2 of Thứ hai, những biểu hiện của tình yêu thích thực là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_ngừng_lời_biếng_để_đi_hết_con_đường_chẳng_mấy_ai_đi",
+      "label": "Thứ ba, ngừng lời biếng để đi hết con đường chẳng mấy ai đi.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "thứ_ba_ngừng_lời_biếng_để_đi_hết_con_đường_chẳng_mấy_ai_đi_item_1",
+          "label": "[Item 1 of Thứ ba, ngừng lời biếng để đi hết con đường chẳng mấy ai đi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_ngừng_lời_biếng_để_đi_hết_con_đường_chẳng_mấy_ai_đi_item_2",
+          "label": "[Item 2 of Thứ ba, ngừng lời biếng để đi hết con đường chẳng mấy ai đi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đó_cũng_là_một_dạng_cuộc_phụ_thuộc",
+      "label": "Đó cũng là một dạng cuộc phụ thuộc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "đây_là_một_triệu_chứng_tâm_lý_thường_thấy_trong_cuộc_sống_củ",
+      "label": "Đây là một triệu chứng tâm lý thường thấy trong cuộc sống của chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng_trong_suốt_cả_cuộc_đời",
+      "label": "Cuối cùng trong suốt cả cuộc đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "yêu_là_một_quá_trình_không_ngừng_mỏ_rộng_danh_giới_tự_thân",
+      "label": "yêu là một quá trình không ngừng mỏ rộng danh giới tự thân.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "và_chúng_ta_cứ_nghĩ_rằng_cảm_giác_tim_đập_loạt_nhịp_này_chín",
+      "label": "Và chúng ta cứ nghĩ rằng cảm giác tim đập loạt nhịp này chính là yêu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "và_chúng_ta_cứ_nghĩ_rằng_cảm_giác_tim_đập_loạt_nhịp_này_chín_item_1",
+          "label": "[Item 1 of Và chúng ta cứ nghĩ rằng cảm giác tim đập loạt nhịp này chính là yêu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_chúng_ta_cứ_nghĩ_rằng_cảm_giác_tim_đập_loạt_nhịp_này_chín_item_2",
+          "label": "[Item 2 of Và chúng ta cứ nghĩ rằng cảm giác tim đập loạt nhịp này chính là yêu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_khi_bạn_tập_trung_hoàn_toàn_vào_một_đối_tượng",
+      "label": "Thứ hai, khi bạn tập trung hoàn toàn vào một đối tượng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "thứ_hai_khi_bạn_tập_trung_hoàn_toàn_vào_một_đối_tượng_item_1",
+          "label": "[Item 1 of Thứ hai, khi bạn tập trung hoàn toàn vào một đối tượng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_khi_bạn_tập_trung_hoàn_toàn_vào_một_đối_tượng_item_2",
+          "label": "[Item 2 of Thứ hai, khi bạn tập trung hoàn toàn vào một đối tượng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_rốt_cuộc_thế_nào_mới_là_tình_yêu_đích_thực",
+      "label": "Vậy rốt cuộc thế nào mới là tình yêu đích thực?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_rốt_cuộc_trong_tình_yêu_phải",
+      "label": "Vậy rốt cuộc trong tình yêu phải",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 110",
+      "children": [
+        {
+          "key": "vậy_rốt_cuộc_trong_tình_yêu_phải_item_1",
+          "label": "[Item 1 of Vậy rốt cuộc trong tình yêu phải — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_rốt_cuộc_trong_tình_yêu_phải_item_2",
+          "label": "[Item 2 of Vậy rốt cuộc trong tình yêu phải — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba",
+      "label": "Thứ ba",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 116",
+      "children": [
+        {
+          "key": "thứ_ba_item_1",
+          "label": "[Item 1 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_item_2",
+          "label": "[Item 2 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_mà_bác_cũng_chịu_đựng_được",
+      "label": "vậy mà bác cũng chịu đựng được.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "đây_cũng_chỉ_là_một_dạng_của_việc_trốn_tránh_vấn_đề_của_bản",
+      "label": "đây cũng chỉ là một dạng của việc trốn tránh vấn đề của bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "cuối_cùng_sẽ_kết_thúc_bằng_một_tiếng_nổ_vùng",
+      "label": "Cuối cùng sẽ kết thúc bằng một tiếng nổ vùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "thì_nó_là_một_quá_trình_giảm_entropy",
+      "label": "Thì nó là một quá trình giảm entropy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "tình_yêu_đích_thực_đối_với_bạn_là_gì",
+      "label": "Tình yêu đích thực đối với bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "cuối_cùng_đừng_quên_ủng_hộ_better_version",
+      "label": "Cuối cùng, đừng quên ủng hộ Better Version",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    }
+  ]
+}

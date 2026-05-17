@@ -1,0 +1,65 @@
+{
+  "source_type": "youtube",
+  "word_count": 3316,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 8 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_chúng_ta_vẫn_không_thể_có_được",
+      "label": "Tại sao chúng ta vẫn không thể có được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "mình_có_thể_là_một_kẻ_ngốc",
+      "label": "Mình có thể là một kẻ ngốc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "ông_là_một_vị_chết_gia_suốt_đời_buồn_khổ",
+      "label": "Ông là một vị chết gia suốt đời buồn khổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "khi_ham_muốn_được_thoả_mãn_thì_sinh_ra_buồn_chán",
+      "label": "khi ham muốn được thoả mãn thì sinh ra buồn chán.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "vậy_đừng_trước_một_cuộc_đời_bi_thảm_để_đau_khổ_và_vô_nghĩa_n",
+      "label": "Vậy đừng trước một cuộc đời bi thảm để đau khổ và vô nghĩa như vậy.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "ngoài_ra_nietzsche_còn_có_sở_thích",
+      "label": "Ngoài ra, Nietzsche còn có sở thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "việc_coi_đau_khổ_là_một_sự_đối_lập",
+      "label": "Việc coi đau khổ là một sự đối lập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "phải_loại_bỏ_là_một_điều_thật_ngu_ngốc",
+      "label": "phải loại bỏ là một điều thật ngu ngốc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    }
+  ]
+}

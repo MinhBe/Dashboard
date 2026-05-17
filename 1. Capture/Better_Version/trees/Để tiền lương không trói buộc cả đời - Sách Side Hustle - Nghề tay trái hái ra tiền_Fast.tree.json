@@ -1,0 +1,231 @@
+{
+  "source_type": "youtube",
+  "word_count": 3151,
+  "estimated_leaf_nodes": 24,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 24 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "và_một_chiều_mà_chúng_ta_cần_phải_xây_dựng",
+      "label": "và một chiều mà chúng ta cần phải xây dựng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "theo_ý_nghĩa_truyền_thống",
+      "label": "theo ý nghĩa truyền thống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "nghề_tế_trái_là_một_công_việc",
+      "label": "nghề tế trái là một công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "bởi_vì_đó_là_phương_pháp_phù_hợp_với_tác_giả",
+      "label": "bởi vì đó là phương pháp phù hợp với tác giả,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_hôm_nay_mình_xin_được_đặt_trọng_điểm_của_bài_chia_sẻ_này",
+      "label": "Vậy hôm nay mình xin được đặt trọng điểm của bài chia sẻ này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đầu_tiên_nghề_tay_trái_thực_sự_khác_với_những_gì_bạn_nghĩ",
+      "label": "Đầu tiên, nghề tay trái thực sự khác với những gì bạn nghĩ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "thứ_hai_việc_làm_thêm_là_một_công_việc_mang_tính_lặp_lại",
+      "label": "Thứ hai, việc làm thêm là một công việc mang tính lặp lại",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "thứ_hai_việc_làm_thêm_là_một_công_việc_mang_tính_lặp_lại_item_1",
+          "label": "[Item 1 of Thứ hai, việc làm thêm là một công việc mang tính lặp lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_việc_làm_thêm_là_một_công_việc_mang_tính_lặp_lại_item_2",
+          "label": "[Item 2 of Thứ hai, việc làm thêm là một công việc mang tính lặp lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_trên_là_một_bảng_excel_rất_chuyên_nghiệp",
+      "label": "Bên trên là một bảng Excel rất chuyên nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "hơn_nữa_anh_ấy_còn_có_một_dự_định_lớn_hơn",
+      "label": "Hơn nữa, anh ấy còn có một dự định lớn hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "điều_cuối_cùng",
+      "label": "Điều cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "thì_đó_không_phải_là_một_nghề_tay_trái_thực_sự",
+      "label": "Thì đó không phải là một nghề tay trái thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "thứ_nhất_chuyên_sâu_vào_một_năng_lực",
+      "label": "Thứ nhất, chuyên sâu vào một năng lực",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "thứ_nhất_chuyên_sâu_vào_một_năng_lực_item_1",
+          "label": "[Item 1 of Thứ nhất, chuyên sâu vào một năng lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_chuyên_sâu_vào_một_năng_lực_item_2",
+          "label": "[Item 2 of Thứ nhất, chuyên sâu vào một năng lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_bạn_có_thể_tìm_cách_biến_bản_thân_thành_một_người_biết_r",
+      "label": "Vậy bạn có thể tìm cách biến bản thân thành một người biết rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "vậy_bạn_có_thể_tìm_cách_biến_bản_thân_thành_một_người_biết_r_item_1",
+          "label": "[Item 1 of Vậy bạn có thể tìm cách biến bản thân thành một người biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_bạn_có_thể_tìm_cách_biến_bản_thân_thành_một_người_biết_r_item_2",
+          "label": "[Item 2 of Vậy bạn có thể tìm cách biến bản thân thành một người biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cần_không_phải_là_một_cái_máy_khoan",
+      "label": "cần không phải là một cái máy khoan",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "cần_không_phải_là_một_cái_máy_khoan_item_1",
+          "label": "[Item 1 of cần không phải là một cái máy khoan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cần_không_phải_là_một_cái_máy_khoan_item_2",
+          "label": "[Item 2 of cần không phải là một cái máy khoan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_giải_quyết_vấn_đề_đó",
+      "label": "Thứ hai là giải quyết vấn đề đó",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "thứ_hai_là_giải_quyết_vấn_đề_đó_item_1",
+          "label": "[Item 1 of Thứ hai là giải quyết vấn đề đó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_giải_quyết_vấn_đề_đó_item_2",
+          "label": "[Item 2 of Thứ hai là giải quyết vấn đề đó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_là_phát_hiện_ra_nhu_cầu",
+      "label": "Tiếp theo là phát hiện ra nhu cầu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "tiếp_theo_là_phát_hiện_ra_nhu_cầu_item_1",
+          "label": "[Item 1 of Tiếp theo là phát hiện ra nhu cầu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_là_phát_hiện_ra_nhu_cầu_item_2",
+          "label": "[Item 2 of Tiếp theo là phát hiện ra nhu cầu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thì_đây_quả_thực_là_một_hành_động_vô_cùng_nguy_hiểm",
+      "label": "Thì đây quả thực là một hành động vô cùng nguy hiểm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "quy_trình_hóa_là_một_trong_những_bước_vô_cùng_quan_trọng",
+      "label": "Quy trình hóa là một trong những bước vô cùng quan trọng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    }
+  ]
+}

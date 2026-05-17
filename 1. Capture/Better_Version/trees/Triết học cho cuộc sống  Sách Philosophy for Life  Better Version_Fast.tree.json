@@ -1,0 +1,207 @@
+{
+  "source_type": "youtube",
+  "word_count": 5767,
+  "estimated_leaf_nodes": 27,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 27 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "hay_là_nhớ_lại_hồi_đi_học_đi",
+      "label": "Hay là nhớ lại hồi đi học đi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "môn_triết_thực_sự_là_một_điều_gì_đó_ác_mộng_với_rất_nhiều_ng",
+      "label": "Môn triết thực sự là một điều gì đó ác mộng với rất nhiều người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "mà_nó_là_một_chân_lý_sâu_sắc",
+      "label": "mà nó là một chân lý sâu sắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "bên_cạnh_đó_nó_cũng_trở_thành_tiền_đề",
+      "label": "Bên cạnh đó, nó cũng trở thành tiền đề",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "cô_ấy_là_một_nhân_viên_quân_y_phục_vụ_trên_trực_thăng",
+      "label": "Cô ấy là một nhân viên quân y phục vụ trên trực thăng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_anh_nghĩ_sao_tôi_nên_làm_gì_đây",
+      "label": "Vậy anh nghĩ sao? Tôi nên làm gì đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "đây_mới_thực_sự_là_một_khoảng_thời_gian_khủng_khiếp_nhất_cuộ",
+      "label": "Đây mới thực sự là một khoảng thời gian khủng khiếp nhất cuộc đời cô",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "và_đây_cũng_chính_là_một_chiếc_lý_trung_cơm",
+      "label": "Và đây cũng chính là một chiếc lý trung cơm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "và_đây_cũng_chính_là_một_chiếc_lý_trung_cơm_item_1",
+          "label": "[Item 1 of Và đây cũng chính là một chiếc lý trung cơm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_đây_cũng_chính_là_một_chiếc_lý_trung_cơm_item_2",
+          "label": "[Item 2 of Và đây cũng chính là một chiếc lý trung cơm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "như_là_một_sự_kiên_cường",
+      "label": "Như là một sự kiên cường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "và_hai_là_những_gì_chúng_ta_không_thể_kiểm_soát",
+      "label": "Và hai là những gì chúng ta không thể kiểm soát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "nhưng_điều_duy_nhất_chúng_ta_có_thể_kiểm_soát_là_gì",
+      "label": "Nhưng điều duy nhất chúng ta có thể kiểm soát là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "vậy_thì_ở_đây_chúng_ta_nên_làm_như_thế_nào",
+      "label": "Vậy thì ở đây chúng ta nên làm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "ông_chính_là_một_nhân_vật_quan_trọng_nhất_trong_lịch_sử_triế",
+      "label": "Ông chính là một nhân vật quan trọng nhất trong lịch sử triết học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "tận_hưởng_là_một_điều_rất_quan_trọng_trong_cuộc_đời",
+      "label": "Tận hưởng là một điều rất quan trọng trong cuộc đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "nhưng_đó_là_một_kiểu_sung_sướng_do_xã_hội_áp_đặt",
+      "label": "Nhưng đó là một kiểu sung sướng do xã hội áp đặt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "đây_là_một_câu_hỏi",
+      "label": "Đây là một câu hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "mà_bởi_vì_ông_còn_là_một_nhà_tự_nhiên_học",
+      "label": "Mà bởi vì ông còn là một nhà tự nhiên học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_được_những_đức_tính_tốt",
+      "label": "Vậy làm thế nào để chúng ta có được những đức tính tốt?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "ví_dụ_như_là",
+      "label": "Ví dụ như là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "dũng_cảm_cũng_là_một_đức_tính_tốt",
+      "label": "Dũng cảm cũng là một đức tính tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "vậy_thì_rốt_cuộc_như_thế_nào_mới_là_hạnh_phúc",
+      "label": "Vậy thì rốt cuộc như thế nào mới là hạnh phúc?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "bên_cạnh_đó_thì_trong_hầu_hết_các_tình_huống_ứng_xử",
+      "label": "Bên cạnh đó thì trong hầu hết các tình huống ứng xử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "và_dưới_đây_là_một_bảng_biểu_đức_tính_tốt",
+      "label": "Và dưới đây là một bảng biểu Đức tính tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "chiết_học_là_một_loại_chi_thức_chuyên_năng_lượng_vào_lòng_ng",
+      "label": "Chiết học là một loại chi thức chuyên năng lượng vào lòng người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "cuối_cùng_trở_lại_với_tiêu_đề_của_cuốn_sách_này",
+      "label": "Cuối cùng trở lại với tiêu đề của cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "nó_chỉ_là_một_phần_nhỏ_của_cuốn_sách",
+      "label": "Nó chỉ là một phần nhỏ của cuốn sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    }
+  ]
+}

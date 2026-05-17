@@ -1,0 +1,292 @@
+{
+  "source_type": "youtube",
+  "word_count": 6756,
+  "estimated_leaf_nodes": 34,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 34 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "ngoài_ra_còn_rất_nhiều_biện_pháp_giữ_cho_da_đẹp_khác",
+      "label": "Ngoài ra còn rất nhiều biện pháp giữ cho da đẹp khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "thứ_nhất_là_người_rất_chăm_chút_cho_da",
+      "label": "Thứ nhất là người rất chăm chút cho da",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "thứ_nhất_là_người_rất_chăm_chút_cho_da_item_1",
+          "label": "[Item 1 of Thứ nhất là người rất chăm chút cho da — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_người_rất_chăm_chút_cho_da_item_2",
+          "label": "[Item 2 of Thứ nhất là người rất chăm chút cho da — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nhưng_nó_không_chỉ_là_một_bức_tường_bảo_vệ_đơn_thuần",
+      "label": "Nhưng nó không chỉ là một bức tường bảo vệ đơn thuần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "phải_chú_ý_rằng_đây_là_một_điều_tốt_mà_cơ_thể_dành_cho_bạn",
+      "label": "Phải chú ý rằng đây là một điều tốt mà cơ thể dành cho bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "đầu_tiên_thì_sẽ_phải_sử_dụng_các_sản_phẩm_làm_sạch",
+      "label": "Đầu tiên thì sẽ phải sử dụng các sản phẩm làm sạch.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "bên_cạnh_đó_thì_tác_gia_có_nói_rằng_sau_hàng_vạn_năm_tiền_hó",
+      "label": "Bên cạnh đó thì tác gia có nói rằng sau hàng vạn năm tiền hóa,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "cuối_cùng_đã_bị_chính_chúng_ta_xóa_sạch",
+      "label": "cuối cùng đã bị chính chúng ta xóa sạch.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "đầu_tiên_đó_là_bước_tẩy_trang",
+      "label": "Đầu tiên đó là bước tẩy trang",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "thứ_nhất_độ_ph_của_bề_mặt_da_con_người_là_4555_có_tính_acid",
+      "label": "Thứ nhất độ pH của bề mặt da con người là 4.5-5.5 có tính acid yếu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 82",
+      "children": [
+        {
+          "key": "thứ_nhất_độ_ph_của_bề_mặt_da_con_người_là_4555_có_tính_acid_item_1",
+          "label": "[Item 1 of Thứ nhất độ pH của bề mặt da con người là 4.5-5.5 có tính acid yếu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_độ_ph_của_bề_mặt_da_con_người_là_4555_có_tính_acid_item_2",
+          "label": "[Item 2 of Thứ nhất độ pH của bề mặt da con người là 4.5-5.5 có tính acid yếu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_các_sản_phẩm_làm_bằng_acid_amine",
+      "label": "Tiếp theo, các sản phẩm làm bằng acid amine",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "tiếp_theo_đó_là_khi_sửa_mặt_thì_hãy_hết_sức_nhẹ_nhàng",
+      "label": "Tiếp theo đó là khi sửa mặt thì hãy hết sức nhẹ nhàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "đầu_tiên_thì_bạn_cần_phải_biết_rằng",
+      "label": "Đầu tiên thì bạn cần phải biết rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "đầu_tiên_thì_bạn_cần_phải_biết_rằng_item_1",
+          "label": "[Item 1 of Đầu tiên thì bạn cần phải biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_thì_bạn_cần_phải_biết_rằng_item_2",
+          "label": "[Item 2 of Đầu tiên thì bạn cần phải biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "đầu_tiên_thì_bạn_cần_phải_biết_rằng_item_3",
+          "label": "[Item 3 of Đầu tiên thì bạn cần phải biết rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_là_tan_nhang",
+      "label": "Thứ nhất là tan nhang",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 108",
+      "children": [
+        {
+          "key": "thứ_nhất_là_tan_nhang_item_1",
+          "label": "[Item 1 of Thứ nhất là tan nhang — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_tan_nhang_item_2",
+          "label": "[Item 2 of Thứ nhất là tan nhang — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_đúng_đôi_ngồi",
+      "label": "Thứ hai là đúng đôi ngồi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 110",
+      "children": [
+        {
+          "key": "thứ_hai_là_đúng_đôi_ngồi_item_1",
+          "label": "[Item 1 of Thứ hai là đúng đôi ngồi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_đúng_đôi_ngồi_item_2",
+          "label": "[Item 2 of Thứ hai là đúng đôi ngồi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_cách_tốt_nhất_để_tránh_tổn_hại_bởi_bức_xạ_mật_trời",
+      "label": "Vậy thì cách tốt nhất để tránh tổn hại bởi bức xạ mật trời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vậy_chúng_ta_có_thể_ở_dưới_ánh_nóng_mặt_trời_trong_bao_lâu",
+      "label": "Vậy chúng ta có thể ở dưới ánh nóng mặt trời trong bao lâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "bên_cạnh_đó_các_nhà_nghiên_cứu_nhận_thấy",
+      "label": "Bên cạnh đó, các nhà nghiên cứu nhận thấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "đây_là_một_trong_những_liệu_pháp_tốt_nhất_cho_làn_da_của_bạn",
+      "label": "Đây là một trong những liệu pháp tốt nhất cho làn da của bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "điều_tiếp_theo_bạn_cần_phải_chú_ý_đó_là_hãy_vận_động_nhiều_h",
+      "label": "Điều tiếp theo bạn cần phải chú ý đó là hãy vận động nhiều hơn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "ngoài_ra_thì_bạn_hãy_tránh_việc_ngồi_quá_lâu",
+      "label": "Ngoài ra thì bạn hãy tránh việc ngồi quá lâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "cuối_cùng_muốn_da_trẻ_đẹp",
+      "label": "Cuối cùng, muốn da trẻ đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "cũng_chỉ_là_một_trải_nghiệm_để_bạn_trưởng_thành_và_tiến_bộ",
+      "label": "cũng chỉ là một trải nghiệm để bạn trưởng thành và tiến bộ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "vậy_thực_sự_chẳng_lẽ_chăm_sóc_da_chỉ_cần_rửa_mặt",
+      "label": "Vậy thực sự chẳng lẽ chăm sóc da chỉ cần rửa mặt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "cũng_là_một_người_theo_chủ_nghĩa_tối_giản_thì_mình_thấy_rằng",
+      "label": "cũng là một người theo chủ nghĩa tối giản thì mình thấy rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_nên_bước_chăm_sóc_da_chỉ_cần_sử_dụng_một_loại_là_đủ",
+      "label": "Vậy nên bước chăm sóc da, chỉ cần sử dụng một loại là đủ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 194"
+    },
+    {
+      "key": "đây_rõ_ràng_là_một_sự_thật_rất_đơn_giản",
+      "label": "Đây rõ ràng là một sự thật rất đơn giản,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    },
+    {
+      "key": "cuối_cùng_chúng_ta_cần_biết_rằng",
+      "label": "Cuối cùng, chúng ta cần biết rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "vậy_nên",
+      "label": "Vậy nên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 210"
+    }
+  ]
+}

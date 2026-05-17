@@ -1,0 +1,61 @@
+{
+  "key": "negativity_bias",
+  "domain": "book",
+  "label": "Thiên kiến tiêu cực (Negativity Bias)",
+  "bloom_target": "understand",
+  "depth_level": 1,
+  "parent_concept": null,
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Hardwiring Happiness - Rick Hanson",
+    "source_section": "[00:32]-[00:54], [04:35]-[05:23]",
+    "trust_level": "EXTRACTED",
+    "flags": ["EVOLUTIONARY BIOLOGY", "NEUROSCIENCE"],
+    "argument_flow": "Cơ chế tiến hóa → Ưu tiên mối đe dọa → Hệ quả tâm lý hiện đại",
+    "core_question": "Tại sao não bộ con người lại có xu hướng ghi nhớ những trải nghiệm tiêu cực sâu sắc hơn những điều tích cực?",
+    "extracted": "Từ hàng trăm triệu năm, não bộ của chúng ta tiến hóa để ưu tiên ghi nhận nguy hiểm. Thiên kiến tiêu cực khiến cho mọi ký ức đau buồn, thất bại hoặc mất mát cứ thể dính chặt vào neuron thần kinh rồi dễ dàng khơi lên những lo âu và giận dữ. Não bộ có một cơ chế bảo vệ đặc biệt được gọi là cái xấu mạnh hơn cái tốt. Não bộ được thiết kế để giúp chúng ta tồn tại, nó ưu tiên phát hiện mối đe dọa, đề cao sự cảnh giác và phản ứng nhanh với nguy hiểm.",
+    "inferred": "Thiên kiến tiêu cực không phải là một lỗi của não bộ mà là một tính năng sinh tồn lỗi thời trong môi trường hiện đại.",
+    "anchor_story": "Nếu bạn đi một mình trong con hẻm vắng và cảm giác như ai đó đang bám theo, ngay lập tức não bộ sẽ kích thích hệ thống cảnh báo, đưa bạn vào trạng thái sẵn sàng phòng vệ.",
+    "falsifiability": "Nếu con người có thể dễ dàng quên đi các mối nguy hiểm như cách chúng ta quên lời khen, tỷ lệ tử vong do tai nạn hoặc thú dữ trong lịch sử tiến hóa sẽ cao hơn rất nhiều.",
+    "tiers": {
+      "child": "Hãy tưởng tượng não của chúng ta giống như một tấm băng dính đặc biệt: nó rất dính với những thứ 'gai góc' như nỗi sợ hay nỗi buồn, nhưng lại trơn tuột như phủ Teflon với những thứ 'mềm mại' như niềm vui. Ngày xưa, việc nhớ kỹ nơi có hổ báo giúp tổ tiên chúng ta sống sót, nên não đã học cách giữ chặt những kỷ niệm đáng sợ đó.",
+      "student": "Thiên kiến tiêu cực (negativity bias) là xu hướng của hệ thần kinh ưu tiên ghi nhận, xử lý và lưu trữ các kích thích tiêu cực hơn là tích cực. Vùng hạnh nhân (amygdala) đóng vai trò trung tâm trong việc quét các mối đe dọa. Cơ chế này được gọi là 'cái xấu mạnh hơn cái tốt', giúp sinh vật phản ứng nhanh với nguy hiểm nhưng lại gây ra căng thẳng mãn tính trong môi trường hiện đại khi các mối đe dọa không còn mang tính sinh mạng.",
+      "expert": "Negativity bias là một sự thích nghi tiến hóa dựa trên nguyên tắc tối thiểu hóa sai lầm loại II (bỏ sót mối nguy hiểm). Não bộ vận hành theo cơ chế 'băng dính cho trải nghiệm tiêu cực và Teflon cho trải nghiệm tích cực'. Sự mất cân bằng này ảnh hưởng đến việc củng cố trí nhớ dài hạn (LTP) trong các mạch cảm xúc, khiến các nút thần kinh liên quan đến lo âu được kích hoạt với ngưỡng thấp hơn."
+    },
+    "misconception_seeds": [
+      "Luôn suy nghĩ tiêu cực là do bản tính xấu hoặc yếu đuối — thực tế đó là cơ chế sinh tồn tự nhiên của não bộ.",
+      "Chỉ cần cố gắng phớt lờ điều xấu là sẽ hạnh phúc — thực tế não bộ ưu tiên xử lý cái xấu để bảo vệ tính mạng nên cần phương pháp chủ động để cân bằng."
+    ],
+    "transfer_question": "Nếu bạn nhận được 10 lời khen và 1 lời chê trong một ngày, tại sao lời chê lại ám ảnh bạn nhiều hơn và cơ chế này đã giúp tổ tiên chúng ta như thế nào?",
+    "dig_deeper_questions": {
+      "apply": "Ghi lại một trải nghiệm tiêu cực trong ngày và phân tích xem nó có thực sự là mối đe dọa đến sinh tồn hay không.",
+      "analyze": "Tại sao việc hiểu về nguồn gốc tiến hóa của thiên kiến tiêu cực lại giúp giảm bớt sự tự trách bản thân?",
+      "evaluate": "Đánh giá tác động của mạng xã hội đối với thiên kiến tiêu cực của con người hiện đại.",
+      "create": "Thiết kế một môi trường làm việc có thể giảm thiểu tác động của thiên kiến tiêu cực giữa các đồng nghiệp."
+    },
+    "next_actions": [
+      "Thực hành nhận diện khoảnh khắc não bộ đang 'phóng đại' một vấn đề nhỏ.",
+      "Chia sẻ kiến thức về negativity bias với một người bạn đang gặp căng thẳng."
+    ],
+    "open_questions": [],
+    "last_reextracted": "2026-05-14"
+  },
+  "relations": {
+    "prerequisites": [],
+    "examples_of": null,
+    "contrasts_with": [],
+    "supports": [],
+    "cross_domain": []
+  },
+  "learner_state": {
+    "belief_prior": null,
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "consecutive_correct": 0,
+    "hint_fails_total": 0,
+    "needs_restructure": false,
+    "next_review": null,
+    "personal_misconceptions": {}
+  },
+  "contradictions": []
+}

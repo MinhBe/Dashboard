@@ -1,0 +1,203 @@
+Hi, thân mến chào các bạn. Chào mừng các bạn đã quay trở lại với Better Vision, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn dịch hay. Có một câu nói như thế này, một cuộc đời hạnh phúc là sâu chuỗi của những lựa chọn đúng. Hằng ngày não bộ của chúng ta liên tục phải đưa ra quyết định hoặc chuẩn bị lựa chọn cho một quyết định từ những điều đơn giản nhỏ nhạt trong cuộc sống như là Chọn thức khuya hay dậy sớm, ăn thức ăn nhanh hay đồ ăn lành mạnh Chọn đọc sách hay chơi game Rồi đến những quyết định lớn hơn như là Chúng ta nên làm gì, nên sống như thế nào và nên trở thành người ra sao Tuy nhiên có rất nhiều lúc trong đời chúng ta biết rõ rằng bản thân mình nên làm gì
+
+Thậm chí là đã đưa ra cam kết để thay đổi Nhưng cuối cùng vẫn lựa chọn những điều khiến cho bản thân húi hận Biết rõ rằng muốn giảm cân nhưng vẫn không nghẻ Cưỡng lại bữa lầu nướng toàn món khoái khẩu Biết rõ cần phải đi ngủ sớm nhưng vẫn thất bại trước chiếc điện thoại trong tay. Biết rõ rằng trì hoãn là không tốt nhưng vẫn luôn chần trừ để rồi phải gấp rút, hoàn thành công việc vào ngày cuối cùng. Ngày này qua ngày khác bạn liên tục bị cuốn đi lạc mất chính mình với những quyết định sai lầm.
+
+Vậy thì là sức mạnh nào đang kiểm soát hành vi của bạn?
+
+Tại sao ý chí của chúng ta lại yếu đuôi đến vậy?
+
+Có thể bạn cho rằng đó là vì bản thân tôi không có đủ kỷ luật, không đủ tự chủ cũng không có đủ lý trí. Nhưng những lý do này chỉ nằm trên bề mặt của sự việc. bạn muốn kỷ luật, gạt hái thành công và có được cuộc sống viên mãn thì bạn không thể bắt đầu bằng việc bác ép chính mình phải có lý trí hay lý trí mạnh mẽ đứng từ khóc độ của hàng loạt những quyết định hằng ngày và trong suốt cả cuộc đời
+
+Hạnh phúc đơn giản là lựa chọn là năng lực để lựa chọn Cuốn sách mà ngày hôm nay Petal Version xin chia sẻ với các bạn mang tên Giả thuyết hạnh phúc của tác giả Jonathan Haidt một nhà tâm lý học nổi tiếng một nhà tư tưởng lớn người đề xuất ra
+
+tâm lý học tích cực Ông sẽ nói cho bạn biết rằng Thực chất, nguyên nhân sâu xa khiến ý chí bạn yếu kém và đứng trước lựa chọn bạn luôn thiểu đi năng lực trở nên hạnh phúc. Đó là bởi vì bạn chưa thực sự hiểu được trong bạn đang có hai hệ thống kiểm soát tâm lý đang hoạt động cùng một lúc đó là con voi khổng lồ và người cõi voi nhỏ bé. Quân sách này là sự kết hợp các tri thức từ nhiều lĩnh vực như tâm lý học, triết học, xã hội học, tôn giáo, luân lý học và nhân học Đồng thời, sử dụng kết quả nghiên cứu từ ngành khoa học thần kinh và tâm lý học xã hội hiện đại để kiểm chứng những giả thuyết cổ điển về hạnh phúc Nó được các nhà tâm lý học nổi tiếng khác như Martin Seilman, Barry Schwartz và Mike Hurley Tác giả của cuốn sách mình rất yêu thích, dòng chảy mà mình đã từng giới thiệu
+
+Cùng với nhiều tờ báo như là People The Times đều nhiệt tình giới thiệu cuốn sách này Void và Người Kể Voi không chỉ là cuốn sách về hạnh phúc, tâm lý học và phát triển cá nhân Mà nó còn là câu chuyện về tâm và trí trong bạn Hiểu được nó sẽ giúp bạn biết cách đi đúng đường Hướng tới một cuộc sống hạnh phúc thực sự Rồi bây giờ mời các bạn cùng lắng nghe nội dung chia sẻ ngày hôm nay Chúng ta chỉ là người cưỡi voi Không phải kẻ trị vì con voi
+
+Tâm lý của chúng ta hoạt động như thế nào Đức Phật có một bài kẹ như thế này Trước tâm này buông lung chạy theo ái rục lạc Nay ta tránh chế ngự như cầm móc điều voi Từ ban đầu, Đức Phật đã ví tâm lý của con người Giống như con voi hoang dã Tự do, thỏa mãn ham muốn Nhưng con người vẫn có thể trở thành người cưỡi voi
+
+nắm trong tay dây cương, điều khiển con voi to lớn. Ngay cả khi nó tức giận, nóng nảy, đầy chấp niệm, chúng ta vẫn có thể kiểm soát. Về mặt này, tâm hồn và bản năng của chúng ta sống như một con voi hoang dã trong khi lý trí của chúng ta chính là người điều khiển voi. Đây cũng là phép liên tưởng đối tác giả sử dụng xuyên suốt cuốn sách này và cả trong 10 năm nghiên cứu giảng dạy của ông. Những năm gần đây, lĩnh vực khoa học xã hội luôn khẳng định rằng con người là cá nhân có lý trí,
+
+có khả năng sử dụng tài nguyên có sẵn để đặt ra mục tiêu và đạt được mục tiêu. Tuy nhiên, thực tế không phải lúc nào cũng như vậy. Lấy một ví dụ đó là chính bản thân mình. Đôi khi mình hẹn dậy sớm để 6 giờ có thể viết tiếp nội dung mà khi nghe tiếng báo thức vẫn tắt đi để ngủ tiếp. Tác giả nói với chúng ta rằng Thực chất, lòng tham, sự ích kỳ, nỗi sợ, niềm yêu thích, sự thoải mái thường chiến thắng lý trí của chúng ta
+
+Trừ khi con voi không có ý muốn riêng của nó chúng ta mới có thể điều khiển và chiến thắng Còn nếu một khi con voi muốn làm điều gì đó, chúng ta lại thường không thể kiểm soát.
+
+Vậy nên, nếu chúng ta cứ cố gắng đi theo xu hướng của khoa học xã hội
+
+rằng nhất định phải bất chấp rèn luyện kỷ luật mà bỏ qua việc thấu hiểu con tim, bản năng, bản chất từ con voi trong mình thì bạn sẽ rất khó đạt được sự thống nhất giữa tâm và trí để rồi có được cuộc sống như mong muốn Bởi vì lý tính của con người thực sự hoạt động dựa vào cảm xúc chỉ khi não bộ đưa lớp đầy cảm xúc, lý tính mới trở nên hiệu quả
+
+Bên cạnh đó, theo nghiên cứu chỉ ra rằng tâm lý con người là một quá trình vô cùng phức tạp. Nó có thể được chia thành 4 phần, tâm và thân, não trái và não phải, cảm tính và ly tính kiểm soát và tự động Và chúng đang hoạt động xung đột với nhau Đây cũng chính là lý do khiến bản thân bạn bị chia cắt Điều chia cắt đầu tiên đó là cơ thể và tâm trí của chúng ta thường hay có xung đột Một nhà triết học người Pháp chỉ ra rằng từng bộ phận trên cơ thể chúng ta đều có cảm xúc và quan điểm riêng của nó kiểm soát phản ứng của cơ thể. Điều chia cắt thứ 2 đó là sự không hợp tác
+
+giữa não trái và não phải. Não trái là người cởi voi, còn não phải là con voi. Nhưng não trái cũng thường lừa dối não phải. Trung tâm xử lý ngôn ngữ của não trái rất giỏi trong việc tạo ra các lý do. Trong đó có cả những lý do không hợp lý. Người cởi voi cho dù không hiểu lý do đó nhưng vẫn
+
+có thể ra mệnh lệch cho con voi một cách tự nhiên. Cuối cùng quan trọng nhất là sự chia cắt còn thể hiện ở hệ thống kiểm soát và tự động hóa. Hệ thống Tuy nhiên, con voi thường bị kiểm soát bởi ham muốn và cám rỗ. Nó nắm trong tay nút kích hoạt dopamine, hormone hạnh phúc khiến bạn làm những thứ khiến bản thân hưng phấn. Thế nhưng thực tế, cái gì càng hấp dẫn thì lại càng hại. Đó là lý do tại sao con voi trong bạn tuy thích làm những gì nó muốn, lướt điện thoại hàng giờ, quá độ sử dụng caffeine, thuốc lá, tình dục hay đồ ngọt v.v. Những thứ này kích thích ra nhiều dopamine nhưng dễ khiến bạn bội thực và rồi ngập tràn trong chống rỗng. trong trống rỗng. Lúc này hệ thống kiểm soát
+
+là người cưỡi voi sẽ hoạt động Người cưỡi voi đại diện cho những suy nghĩ sâu rộng có tầm nhìn xa và kế hoạch dài hạn Tuy nhiên, vấn đề ở đây là Người cưỡi voi chỉ có thể đóng vai trò như một nhà cô vấn đưa ra lời khuyên cho con voi chứ không thể kiểm soát hoàn toàn hành vi của nó. Tóm lại, chúng ta là
+
+người cưỡi voi nhưng không phải là kẻ trị vì con voi. Bạn và tôi không phải là một đức vua mà chỉ có thể là người tư vấn cho con voi hành động
+
+Vậy thì chúng ta sẽ phải tư vấn cho nó
+
+mở ra để có thể nhìn nhận và hiểu rõ con voi to lớn trong bạn. Từ đó, giúp bạn biết cách hòa hợp với con voi và trở thành người điều khiển voi đi đúng con đường hạnh phúc thực sự của chính mình Hiểu và hòa hợp với con voi trong bạn. Cánh cửa đầu tiên, voi hành động dựa vào bảng đo sự yêu thích Có một thí nghiệm như thế này, 1 con khỉ thử ăn 1 loại trái cây chưa từng nếm trước đây Nếu trái cây ngọt, con khỉ sẽ cảm thấy vui vẻ, ăn ngay 1 miếng lớn và bảng đo lương sự yêu thích của nó sẽ hiển thị, tôi thích. Ngược lại nếu trái cây có vị đắng, nó sẽ cảm thấy không vui và không bao giờ gắn nữa
+
+Con voi trong chúng ta luôn có một bảng đo sự yêu thích và đa số hành động đều được quyết định dựa vào cái bảng này Trong tâm lý học còn gọi là Hiệu ứng kích hoạt cảm xúc Khi voi nhìn thấy các từ như là Hy vọng, Vui chơi, Giải trí Voi sẽ đọc rất nhanh và cảm thấy vui vẻ
+
+Còn khi voi nhìn thấy các từ như là Cái chết, Thiệt thòi, Buồn chán Voi sẽ ngay lập tức có những phản ứng tiêu cực Lúc này, người cưỡi voi có thể nói điều này không phải là chuyện bình thường sao? Ai cũng có những thứ họ thích và không thích. Đúng vậy! Nhưng mà chúng ta hãy nghĩ sâu hơn một chút với những câu hỏi như thế này Bạn thích công việc gì?
+
+Bạn muốn sống ở đâu? Bạn muốn tìm kiếm người bạn đời như thế nào? Bạn muốn sống cuộc đời ra sao? Trên những câu hỏi quan trọng liên quan đến vận mệnh này Liệu người cưỡi voi có thể dễ dàng nói Hay để con voi quyết định theo bản năng hay không? Tất nhiên là không thể Nhưng bạn cần phải chú ý rằng
+
+Con voi hay người cưỡi voi của thế kỷ 21 Đang sống trong một môi trường thông tin quá rộng lớn và hỗn tạp Bạn rất khó để biết được thứ gì mà bản thân thực sự cần Lúc này, thích hay không thích là cách chủ yếu mà con voi chọn lọc đưa ra đánh giá nội dung Nếu người cưỡi voi không tập trung quan sát Không chú ý đến Có thể sẽ mê mãi trong ảo tưởng được tạo ra với con voi Với xung quanh
+
+Đều có thể dễ dàng là những thứ bạn thích Dần dần Người cưỡi voi sẽ mất đi lý trí Mà bản thân nên có Hoàng đế La Mã Marcus Aurelius Đã từng nói Toàn bộ vũ trụ luôn thay đổi không ngừng
+
+Bạn nghĩ cuộc sống như thế nào thì nó chính là như thế đó Cuộc sống thực sự là cái mà chúng ta nghĩ Tuy nhiên thực tế, suy nghĩ của chúng ta Thường hình thành một cách nhanh chóng và không có ý thức Hãy tận trọng với những lần Con voi kia la lùi rằng Chỉ mua thương hiệu tôi thích Chỉ xem nội dung mà tôi thích
+
+Chỉ giao tiếp với những người tôi thích Chỉ ở trong ngôi nhà mà tôi thích
+
+Vậy nên hãy quan sát kỹ bản thân
+
+Một lần nhìn lại những điều Bản thân đang thích và không thích Và xem đâu là ảo tưởng Đâu là niềm yêu thích thực sự Rồi, tiếp theo là cánh cửa số 2 Sở thích tiêu cực Dựa trên nguyên tắc thiết kế loài trong thế giới động vật Phản ứng của động vật với những điều tồi tệ
+
+sẽ mạnh hơn so với những điều tốt Điều này cũng đúng với con voi trong bạn Chúng ta thường có tâm lý nhạy cảm hơn so với những điều xấu Con người sẽ chú ý nhiều hơn đến những thông tin sự kiện tiêu cực và phản ứng với chúng nhanh hơn, mạnh hơn và kéo dài hơn so với những điều tích cực
+
+Ví dụ như khi nghe một tin tốt con voi có thể chỉ phản ứng trong một chút lát Nhưng khi nghe tin xấu, con voi sẽ có nỗi sợ hại kéo dài và không thể bình tĩnh trong một thời gian.
+
+Sở thích tiêu cực là một điều cực kỳ nguy hiểm
+
+Bởi khi con voi quá tập trung vào thông tin tiêu cực, tạo ra phản ứng không tích cực Nếu như không nhận được sự an ủi hay động viên ổn định, bạn sẽ trở nên đau khổ khác thường Giống như câu nói của Benjamin Franklin Chúng ta có thể cảm nhận rõ ràng một chút đau đớn Nhưng khi khỏe mạnh lại không cảm nhận gì cả Tiếp đến chúng ta sẽ cùng mở ra cánh cửa số 3 Tự cho mình là đúng Ở đây, con voi nói rằng những gì tôi thấy mới là đúng
+
+Người khác cũng nên cảm nhận giống tôi Người cưỡi voi lên trả lời Chính xác Tôi chỉ có thể tin vào những gì tôi thấy Con voi tiếp tục Tôi thích đọc về những scandal trong làng giải trí Người cưỡi voi cũng đồng ý và nói rằng Thỉnh thoảng đọc tin đồn cũng không có gì là xấu
+
+Con voi khẳng định Tôi có thể đánh giá người khác Và chính bản thân tôi một cách khách quan Người cưỡi voi đáp Tất nhiên miễn là tôi muốn làm như vậy Không biết khi nghe cuộc đối tại này Bạn có cảm thấy có điều gì đó không ổn không? Thực chất, đây là dấu hiệu của sự tự cho mình là đúng
+
+Của cả con voi và người cưỡi voi Có rất nhiều những tư duy cho mình là đúng Ví dụ như là mọi người thích đọc tin đồn Vì chúng cho phép họ dễ dàng đánh giá người khác Dựa trên giá trị của chính mình Và cảm thấy trong đạo đức của bản thân yêu việt hơn Đây chính là tư duy yêu việt đạo đức Hay là người có tư duy theo chủ nghĩa
+
+Hiện thực ngây thơ mạnh mẽ Tin rằng thế giới tôi thấy Và cảm nhận là thực tế nhất Người khác cũng nên đồng ý quan điểm này với tôi Những người như vậy nghĩ rằng bản thân mình không thiên vị nhưng thực chất họ không biết rằng chính quan điểm cá nhân này lại thuộc dạng thành kiến vị kỷ
+
+hoặc là kiểu tư duy tự luyến trong vô thức Dễ dàng nhìn thấy lỗi nhỏ của người khác Nhưng với mình thì ngược lại Bạn không tìm kiếm nguyên nhân bên trong bản thân Vớt lờ khuyết điểm của chính mình như trong phúc âm Matthew có nói Chúng ta có thể nhìn thấy cái rằm nhỏ xíu trong mắt người khác
+
+nhưng nhắm mắt làm ngơ trước cái xài nhà khổng lồ trong mắt mình Nhà tâm lý học David Dunning từng tiến hành một thí nghiệm Mọi người luôn đánh giá quá cao những việc làm tốt của mình Trong khi đánh giá rất khách quan hành vi của người khác Khi đánh giá người khác, chúng ta sẽ căn cứ vào thực tế Nhưng khi đánh giá bản thân thì lại làm ngược lại
+
+Chúng ta từng vô thức gắn kết bản thân với những yêu điểm đẹp đẽ Sau đó tìm kiếm lợi thế cho chính mình Và sẽ nghĩ mình giỏi thật đấy Sau đó rơi vào trạng thái tự đắc, tự luyến bản thân Điều tương tự cũng xảy ra khi chúng ta phạm sai lầm Chúng ta sẽ cố gắng hết sức trở thành luật sư Tìm ra mọi lý do để bảo chữ mạnh mẽ nhất cho chính mình Và bạn phải biết rằng những tâm lý bản năng này
+
+Có thể khiến bạn gặp rắc rối trong việc hợp tác với người khác Vì bạn sẽ luôn cho rằng Bản thân tôi hơn người Rồi cảm thấy mình xứng đáng hơn
+
+Vậy thì lúc này, xin bạn hãy hỏi
+
+Người cưỡi voi trong mình Bạn muốn trở thành người như thế nào? Cả voi và người cưỡi voi cần phải xem xét lại bản thân Dựa vào 3 nguyên tắc sau
+
+Thứ nhất, mọi người đều bình đẳng
+
+Thứ hai, thế giới được xây dựng từ hiểu biết của tôi
+
+Nhưng đó chưa chắc là sự thật Và thứ ba, cần phải tự mở lòng để hiểu rõ về bản thân mình Tiếp đến ở cánh cửa quan trọng thứ tư Chúng ta sẽ nhìn thấy Voi có một phản ứng bản năng Luôn bộc pháp một cách tự nhiên Đó là Có đi có lại mới toại lòng nhau
+
+Khi ai đó đối tốt Mang lại lợi ích cho ta Ta sẽ muốn báo đáp Trả ơn Và mang lại lợi ích cho họ Nhưng ngược lại một mặt khác Của chính bản năng này Mà dẫn đến sự tàn ác
+
+Đó là Ăn miếng trả miếng Có oán phải báo Có thù phải trả nợ máu, đền máu, v.v Trong tâm hồn mỗi con voi chúng ta luôn có một cảm xúc đạo đức mạnh mẽ mang tên công bằng và chính trực
+
+Thế nên khi xem phim chúng ta sẽ luôn mong rằng kẻ ác phải bị chừng trị người hiền thì phải được gặp lành Từ góc độ tâm lý học sự có đi có lại bắt nguồn từ bản chất thích bắt trước của chúng ta
+
+Khi thân thiết với người mình thích chúng ta sẽ vô thức làm giống cách thức mà người đó nói chuyện đi đứng và thậm chí là cả suy nghĩ Chúng ta cũng thích những người bắt trước mình và đối xử tử tế hơn với những người này.
+
+Bởi lẽ việc bắt trước là để thể hiện rằng chúng ta là cùng một nhóm bản chất bầy đàn đã khắc sâu trong gen của chúng ta. Khi biết được bản năng có đi có lại này trong con voi, chúng ta cần phải nhìn rõ bản thân hơn ở trong các mối quan hệ không để hận thù hay sự phiến diện đi đến một hành động sai lầm. Chúng ta cũng có thể sử dụng bản năng có đi có lại như một cán cân trong mối quan hệ giữa bạn bè và người yêu. Cần chú ý là cái cán cân này nó luôn cần phải có sự cân bằng
+
+và có trường mực cho đi quá nhiều hay quá ít ngay từ đầu cũng có thể là yếu tố hủy hoại một quan hệ nào đó. Việc tặng quà cho nhau đúng cách, giúp đỡ lẫn nhau một cách chân thành có thể nâng cao một quan hệ rất nhiều. Và hãy nhớ rằng lời dạy từ hàng ngàn năm trước của khổng tử nó luôn là nguyên thắc cơ bản có thể làm kim chỉ nam cho chúng ta trong suốt cuộc đời Đó là đừng làm cho người khác những gì
+
+mà bạn không muốn người khác làm điều đó với chính mình Cánh cửa số 5 Tham lam và tiêu dùng để khoe khoang Bạn sẽ nhìn rõ sự tham lam luôn có trong con voi của bạn Hay quay lại với bảng đo yêu thích của con voi Đối với các sự vật khác nhau Nó luôn ánh dấu thích, có cảm xúc tốt hoặc không thích Kinh tỏng
+
+Sau đó đem kết quả này thông báo cho người cưỡi voi Người cưỡi voi rất sẵn lòng Tìm thấy cái gì đó mà con voi thích để tự thoả mãn Quy trình này lặp đi lặp lại hằng ngày Đến mức mà người cưỡi voi hình thành một xu hướng cụ thể Con voi muốn gì Người cưỡi voi sẽ cung cấp cho nó Khi không thể đáp ứng con voi
+
+Người cưỡi voi cũng bắt đầu nổi cáu vì không thể tự thỏa mãn con voi. Do Grace, đừng nói rằng trên thế giới này thật kỳ lạ có quá nhiều thứ tôi không cần sự ám ảnh về vật chất
+
+thường khiến cho người cưỡi voi trở thành tù binh của chúng Chúng ta cần biết rằng thích và không thích đôi khi nó không quan trọng điều bạn cần chú ý quan tâm thực sự đó là
+
+tôi cần hay không cần Từ cái tính tham lam trong con voi cả người cưỡi voi và con voi bắt đầu tiêu dùng để khoai khoang tức là tiêu dùng các sản phẩm chỉ để người khác có thể thấy
+
+và lấy đó làm biểu tượng cho vị thế không phải từ giá trị tài sản khách quan mà từ đánh giá của những người xung quanh. Nếu người điều khiển con voi lớn lên cho một môi trường so sánh, nơi mọi người ca ngợi sự giàu có và thông minh, coi thường sự nghèo khó học phần thấp thì người điều khiển con voi lớn lên sẽ khó tránh khỏi bị tác động bởi môi trường này và luôn muốn trở nên cao quý hơn vượt trội hơn trong mọi việc.
+
+Con voi cũng quen với việc tiêu dùng để khoe khoang chỉ nhằm tăng thêm giá trị cho danh tiếng của nó nhưng điều đáng mỉa mai là cố gắng ra vẻ và thực sự trở thành Đó là hai khái niệm hoàn toàn khác nhau Tiêu dùng để khoe khoang chỉ làm cho người điều khiển voi ra vẻ, sống cho bề ngoài Chứ không phải thực sự trở thành Và việc biến bản thân trở thành nô lẽ của tiêu dùng Mình đã có bài chia sẻ phân tích rất kỹ qua video các cuốn sách
+
+Người nghèo mới và Tâm lý học về tiền Bạn có thể xem và tìm hiểu thêm ở đó Ở đây tóm lại là Khi biết được tâm lý này của con voi và người cưỡi voi Chúng ta không phải tránh né tiêu dùng Mà nên chú ý lại mục tiêu để tiêu tiền Hãy tiêu dùng mà không để khoe khoang Tức là tiêu dùng thứ gì đó
+
+Dựa trên giá trị của sản phẩm Và không phải để thể hiện vị thế cá nhân Hay chưng bày vô diễn cho bản thân mình Rồi chúng ta sẽ bước tới Cánh cửa số 6 Để nhìn thấy sự tự trọng quá cao Ở mỗi con voi Voi rất dễ tự ái
+
+Và bảo vệ lòng tự tôn của mình Voi sẽ không quan tâm đến việc Có gây tổn thương cho người khác hay không Lúc này Con voi thúc đẩy Người cưỡi voi Thể hiện cảm xúc Theo cách của nó
+
+Ngược lại Lòng tự trọng quá yếu Dẫn đến thiếu tự tin Và con voi thường tìm lỗi ở bản thân và tự chỉ trích mình Khi gặp khó khăn, phản ứng đầu tiên thường không phải là vượt qua Mà là rút lui hoặc đừng im tại chỗ Trong sách có gợi ý cho chúng ta cách để nâng cao sự tự trọng hợp lý Đó là học một kỹ năng nào đó mà bạn có khả năng thực hiện
+
+Và khiến cho bản thân cảm thấy tự hào hơn
+
+Cuối cùng cánh cửa để suy ngẫm thứ 7
+
+Đó là nghịch lý của sự lựa chọn Như từ đầu mình còn nói, hạnh phúc là lựa chọn Nhưng lựa chọn luôn có nghịch lý của nó có quá nhiều lựa chọn lại thường làm cho chúng ta không hạnh phúc hơn. Nhiều người vẫn nghĩ tôi phải kiếm được thật nhiều tiền, có được thật nhiều quyền để có thể có nhiều sự lựa chọn nắm sự chủ động trong tay. Con người luôn đánh giá quá cao việc lấy vẻ cho mình nhiều sự lựa chọn còn phải cố gắng thi vào ngành này để ra trường mới có nhiều sự lựa chọn nghề nghiệp
+
+hay là anh cần phải làm một công ty tốt để có cơ hội tìm kiếm một đối tác tốt trong tương lai. Lời khuyên đại loại như thế này Trong thực tế chúng ta đã nghe không ít Bạn cần biết rằng, hạnh phúc là lựa chọn và cũng là một loại năng lực. Năng lực ở đây là năng lực lựa chọn đúng và hợp lý. Có nhiều lựa chọn không phải lúc nào cũng là điều tốt. Người phân vân sẽ luôn phân vân
+
+Và người cố gắng cân nhắc lợi ích sẽ khó lòng cân nhắc được tất cả lợi ích
+
+Điều quan trọng trên con đường mà con voi đang đi
+
+Không phải là giúp nó đối diện được với bao nhiêu ngã rẽ có được bao nhiêu sự lựa chọn Mà là đảm bảo việc con voi có thể tiến về phía trước Quan trọng nhất không phải là tập trung vào những cái có thể lựa chọn Mà là hành động để lựa chọn Rồi, chúng mình đã bước qua 7 cánh cửa Để hiểu rõ hơn về con voi trong bạn Ở phần cuối cùng
+
+Hãy cùng nhau tìm hiểu Cách để trở thành một người cưỡi voi Làm sao để không ngù quáng theo bản năng Nhưng vẫn có thể đi đúng con đường Xuất phát từ trái tim Để bước tới hạnh phúc Mình đã tổng hợp từ sách Hai bước quan trọng như sau
+
+Bước thứ nhất
+
+Hợp tác với con voi Như tất cả đã phân tích bên trên Việc quan trọng trước hết Là chúng ta cần nhận ra Một quan hệ giữa voi và người cưỡi voi Chúng ta phải thừa nhận rằng không ai hoàn hảo Cả voi và người cưỡi voi ít nhiều đều có điểm yếu Hãy chấp nhận những khuyết điểm này như là một phần của cái tôi toàn diện trong bạn
+
+Có nghĩa là hãy chấp nhận bản thân, nhìn thẳng vào con người thật của chính mình Tác giả còn nói rằng chúng ta là sự kết hợp của người cưỡi voi và con voi Muốn điều khiển con voi chỉ bằng ý chí thôi không đủ Mà phải tìm cách hợp tác với nó Vì sức khỏe và chất lượng tinh thần của chúng ta Phụ thuộc vào chính sự hợp tác này Đối mặt với ý chí yêu đuối của mình Chúng ta cũng có thể học theo Đức Phật bằng cách tránh xa các nguồn cám rỗ, tạo ra cảm giác khó chịu
+
+Hoặc là không nhìn, không nghe, không suy nghĩ đến những thứ kích hoạt dopamine Từ bảng đo yêu thích của con voi Phật tìm cách vượt qua sự yếu đuối trước dục phọng của loài người Bằng cách nhìn chăm chú và sát chết thổi dữa Tương tự chúng ta có thể nhìn vào cái số nước dư thừa ở cửa hàng lầu Để mà không ăn uống quá độ khi muốn giảm cân Chỉ cần nhắm vào cái gì đó mà hệ thống tự động hóa của bản thân ghép vào chúng Chúng ta có thể dần thay đổi ham muốn của con voi và điều khiển nó tốt hơn
+
+Bạn cần nhớ rằng, thực ra trong con voi luôn có một sức mạnh và động lực to lớn Nhưng cách duy nhất để có thể đưa những động lực này hoạt động đúng đường Đó là người cưỡi voi luôn cần phải không ngừng xem xét Phải nhìn lại bản thân
+
+Vậy trước hết chúng ta cần phải xem lại điều gì?
+
+Hãy xem lại những suy nghĩ hành vi tự động hóa của bản thân Ví dụ về đến nhà ăn cơm xong Bạn có nằm lướt điện thoại hàng giờ đồng hồ không? Trước khi đi ngủ bạn có xem phim chơi game tới khuya hay không? Sau đó, nhận ra những niềm tin không hợp lý trong bạn Đó là sự phóng đại Suy nghĩ thái quá Sự cá nhân hóa
+
+Và tư duy phiến diện Trong cuộc sống hàng ngày Hãy đặt ra cho mình Những mục tiêu hành động Thay vì mục tiêu tâm lý
+
+Vậy cách đặt mục tiêu như thế nào
+
+Bạn có thể tham khảo thêm Trong video số 47 Lập kế hoạch 5 Mà mình đã từng chia sẻ trước đây
+
+Tiếp theo bước số 2
+
+Đó là sử dụng phương trình hạnh phúc Tâm lý học tích cực Có đưa ra một phương trình hạnh phúc như thế này Mình sẽ để trên màn hình Trong đó, chữ cái H là độ bền của hạnh phúc thực sự Chữ cái S là phạm vi hài lòng do yếu tố bẩm sinh Chữ cái C là điều kiện sống Chữ cái V là những yếu tố có thể tự kiểm soát
+
+Bạn sẽ thấy để hạnh phúc bên lâu Cần phải kết hợp cả 3 yếu tố Di truyền, điều kiện sống và những thứ có thể kiểm soát Tuy nhiên 2 yếu tố đầu Là những thứ mà chúng ta không thể quyết định được Điều kiện sống chủ yếu là tiền bạc Giới tính, tuổi tác Và nơi cư trú
+
+Là những thứ tồn tại trong một thời gian dài Vì vậy, chúng ta chỉ có thể thích nghi với chúng. Điều duy nhất chúng ta có thể thay đổi được đó chính là những yếu tố có thể kiểm soát. Điều này cũng tương tự với chủ nghĩa khắc kỳ. Thay đổi những thứ trong vòng kiểm soát và chấp nhận những gì không thay đổi được. Tác giả đã đưa ra một số lời khuyên hữu ích cho chúng ta rằng hãy điều chỉnh những yếu tố bên ngoài để nâng cao hạnh phúc như sau.
+
+Thứ nhất, đó là tiếng ồn. Đây là thứ sẽ gây ra đau khổ và chúng ta không bao giờ thích nghi về nó được. Vì vậy, tốt hơn hết là sống ở nơi yên tĩnh. tiền ít hơn, giảm tích trữ của cải.
+
+Bên cạnh đó, học hỏi thêm cho mình những kiến thức
+
+mới, thử nghiệp những điều mới mẻ đồng thời dành nhiều thời gian hơn với gia đình, nghỉ ngơi nhiều hơn và tham gia vào các hoạt động có lợi cho cơ thể và tâm hồn. Tiếp đến, hãy tập thiền định và tăng cường trải nghiệm ròng chạy. Tập trung tuyệt đối quen cả thời gian vào việc làm ở hiện tại. Cuối cùng,
+
+mối quan hệ giữa con người là yếu tố quan trọng ảnh hưởng đến hạnh phúc của chúng ta. Nếu có một người bạn hoặc một người đồng nghiệp khó chịu Hoặc sống với một người bạn đời không hòa thuận trong một thời gian dài Bạn rất khó có được hạnh phúc Vì chúng ta không thể thích nghi với xung đột giữa con người
+
+Vậy nên chăm sóc cẩn thận các mối quan hệ của mình
+
+Học cách nuôi dưỡng tình yêu, tình thân và cả tình bạn Để làm cho cuộc sống của mình trở nên phong phú hơn So với việc chỉ khép mình lại Trong vỏ bọc của sự tổn thương
+
+Ngoài ra nếu gặp khó khăn về tinh thần
+
+Hãy cố gắng tìm các phương pháp phục hồi tâm lý như là suy ngẫm, tự nhận thức và tìm kiếm sự giúp đỡ. Chúng ta có thể viết ra những cảm xúc của mình, những bài học đã học được sau trải nghiệm đó và nguyên nhân đằng sau sự kiện hàng ngày. Điều này có thể giúp bạn tìm thấy ý nghĩa của sự kiện và giải quyết khó khăn một cách sáng suốt hơn. Rồi, trên đây là những gì cố lợi nhất
+
+mà Better Vision đã đúc kết được từ cuốn sách Tâm Lý Học Nổi Tiếng này.
+
+Con voi là một nguồn lực mạnh mẽ bên trong bạn.
+
+Nó là tiềm năng, tiềm ẩn chưa được khai thác hoàn toàn của tiềm thức Là người điều khiển con voi Chúng ta không cần phải quá khát khe Về hành vi tự nhiên của con voi Hãy là bạn của voi Để chúng ta có thể nói với chính con voi của mình rằng Xin chào, con voi của tôi
+
+Tôi hiểu về sự tồn tại của bạn Bây giờ hãy cùng nhau thảo luận Với tương lai của chúng ta Mong cả bạn và tôi Những người cưỡi voi Trước mọi cảm rỗ và dục vọng Trước những yếu điểm của bản năng Có thể chấp nhận
+
+Đón nhận Và hòa hợp Với chính con voi bên trong mình Để cuối cùng
+
+Bạn sẽ có thể là một thể thống nhất
+
+Sáng suốt Tiến về phía trước Nơi hạnh phúc thực sự luôn đang ở đó Cảm ơn bạn đã lắng nghe Nếu bạn cảm thấy video này có ích Hãy chia sẻ tới những người cần nó Cho mình một nút like, nhấn nút đăng ký Và mở nút chuông thông báo để đón xem
+
+Những video mới nhất hàng tuần của mình Một lần nữa cảm ơn các bạn và hẹn gặp lại Các bạn ở những video tiếp theo

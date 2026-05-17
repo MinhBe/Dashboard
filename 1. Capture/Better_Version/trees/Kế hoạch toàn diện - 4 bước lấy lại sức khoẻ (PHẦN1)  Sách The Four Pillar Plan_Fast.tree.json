@@ -1,0 +1,132 @@
+{
+  "source_type": "youtube",
+  "word_count": 5266,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 15 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "tác_giả_chetro_chi_là_một",
+      "label": "Tác giả Chetro Chi là một",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đầu_tiên_đó_là",
+      "label": "Đầu tiên đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "bên_cạnh_đó_hãy_thử",
+      "label": "Bên cạnh đó hãy thử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "đây_là_một_trong_những_nguyên_nhân_khiến_nhiều_người_bị_viêm",
+      "label": "Đây là một trong những nguyên nhân khiến nhiều người bị viêm mặn tính",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_thế_nào_mới_là_thực_phẩm_không_gây_viêm",
+      "label": "Vậy thế nào mới là thực phẩm không gây viêm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "tự_thực_bào_có_nghĩa_là_gì",
+      "label": "Tự thực bào có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_thì_thế_nào_mới_là_nghỉ_ngơi_đúng_cách",
+      "label": "Vậy thì thế nào mới là nghỉ ngơi đúng cách?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "thứ_nhất_đó_là_dành_ít_nhất_15_phút_mỗi_ngày_hoàn_toàn_cho_b",
+      "label": "Thứ nhất, đó là dành ít nhất 15 phút mỗi ngày, hoàn toàn cho bản thân.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_dành_ít_nhất_15_phút_mỗi_ngày_hoàn_toàn_cho_b_item_1",
+          "label": "[Item 1 of Thứ nhất, đó là dành ít nhất 15 phút mỗi ngày, hoàn toàn cho bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_dành_ít_nhất_15_phút_mỗi_ngày_hoàn_toàn_cho_b_item_2",
+          "label": "[Item 2 of Thứ nhất, đó là dành ít nhất 15 phút mỗi ngày, hoàn toàn cho bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "có_thể_chấp_nhận_một_cách_thoải_mái",
+      "label": "có thể chấp nhận một cách thoải mái.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "có_thể_chấp_nhận_một_cách_thoải_mái_item_1",
+          "label": "[Item 1 of có thể chấp nhận một cách thoải mái. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_thể_chấp_nhận_một_cách_thoải_mái_item_2",
+          "label": "[Item 2 of có thể chấp nhận một cách thoải mái. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_sang_ngày_thứ_3_hãy_hủy_bỏ_các_danh_sách_đăng_ký_không",
+      "label": "Bước sang ngày thứ 3, hãy hủy bỏ các danh sách đăng ký không cần thiết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "phương_pháp_này_có_tác_dụng_rõ_rệt_với_sức_khỏe",
+      "label": "Phương pháp này có tác dụng rõ rệt với sức khỏe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "phương_pháp_này_thì_cực_kỳ_đơn_giản",
+      "label": "Phương pháp này thì cực kỳ đơn giản.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "cuối_cùng_mỗi_ngày_ít_nhất_1_lần",
+      "label": "Cuối cùng, mỗi ngày ít nhất 1 lần,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    }
+  ]
+}

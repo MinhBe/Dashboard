@@ -1,0 +1,132 @@
+{
+  "source_type": "youtube",
+  "word_count": 4901,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 15 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nhưng_đây_là_một_sự_hiểu_lầm",
+      "label": "nhưng đây là một sự hiểu lầm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_thì_bạn_hãy_nhớ_rằng",
+      "label": "Vậy thì bạn hãy nhớ rằng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_làm_sao_biết_rằng_mình_đã_thực_sự_buông_bỏ",
+      "label": "Vậy làm sao biết rằng mình đã thực sự buông bỏ?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 32",
+      "children": [
+        {
+          "key": "vậy_làm_sao_biết_rằng_mình_đã_thực_sự_buông_bỏ_item_1",
+          "label": "[Item 1 of Vậy làm sao biết rằng mình đã thực sự buông bỏ? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_sao_biết_rằng_mình_đã_thực_sự_buông_bỏ_item_2",
+          "label": "[Item 2 of Vậy làm sao biết rằng mình đã thực sự buông bỏ? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_vỡ_mộng_vỡ_mộng_là_lúc",
+      "label": "thứ hai, vỡ mộng. Vỡ mộng là lúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "thứ_hai_vỡ_mộng_vỡ_mộng_là_lúc_item_1",
+          "label": "[Item 1 of thứ hai, vỡ mộng. Vỡ mộng là lúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_vỡ_mộng_vỡ_mộng_là_lúc_item_2",
+          "label": "[Item 2 of thứ hai, vỡ mộng. Vỡ mộng là lúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ở_giai_đoạn_này_sẽ_là_gì_đó_là",
+      "label": "ở giai đoạn này sẽ là gì? Đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "nếu_bạn_coi_vỡ_mộng_là_một_món_quà",
+      "label": "Nếu bạn coi vỡ mộng là một món quà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "thì_tốt_hơn_là_nên_chấm_dứt",
+      "label": "thì tốt hơn là nên chấm dứt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "chia_tay_là_một_giải_pháp_tốt",
+      "label": "Chia tay là một giải pháp tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "ngoài_ra_còn_tâm_lý_phụ_thuộc",
+      "label": "Ngoài ra còn tâm lý phụ thuộc.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "và_cặm_bẫy_tiếp_theo_cần_vượt_qua",
+      "label": "Và cặm bẫy tiếp theo cần vượt qua",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "và_cuối_cùng_thì_chúng_ta_cần_tránh_khỏi",
+      "label": "Và cuối cùng thì chúng ta cần tránh khỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "tiếp_theo_viên_tác_số_2",
+      "label": "Tiếp theo, viên tác số 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "đây_là_một_câu_nói_trong_kinh_pháp_cũ",
+      "label": "Đây là một câu nói trong Kinh pháp cũ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_type": "youtube",
+  "word_count": 3655,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 8 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_thì_chẳng_phải_giống_như_là_nhân_vật_a_quy",
+      "label": "Vậy thì chẳng phải giống như là nhân vật A Quy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "nhưng_đây_là_một_liều_thuốc_mê_tạm_thời",
+      "label": "Nhưng đây là một liều thuốc mê tạm thời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "cuối_cùng_làm_tổn_thương_chính_mình_và_cả_những_người_khác",
+      "label": "Cuối cùng làm tổn thương chính mình và cả những người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "nhưng_sự_thật_đằng_sau_câu_chuyện_này_là_gì",
+      "label": "Nhưng sự thật đằng sau câu chuyện này là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vậy_mà_chẳng_cất_một_câu_hát_kịch_nào_khiến_họ_uổng_cả_công",
+      "label": "Vậy mà chẳng cất một câu hát kịch nào khiến họ uổng cả công đi xem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "a_quy_là_một_nhân_vật_nhỏ_bé",
+      "label": "A Quy là một nhân vật nhỏ bé,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "hay_những_giới_hạn_của_cách_mạng_tân_hơi",
+      "label": "hay những giới hạn của cách mạng tân hơi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "đó_quả_thực_là_một_tầng_ý_nghĩa_lớn_mà_lộ_tân_muốn_gửi_gắm",
+      "label": "Đó quả thực là một tầng ý nghĩa lớn mà Lộ Tân muốn gửi gắm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    }
+  ]
+}

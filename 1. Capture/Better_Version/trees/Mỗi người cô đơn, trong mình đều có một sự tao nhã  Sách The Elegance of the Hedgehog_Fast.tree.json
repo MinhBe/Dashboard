@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 3509,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "chị_gái_tính_tình_kiêu_ngạo_vô_cùng_coi_trọng_bản_thân",
+      "label": "Chị gái, tính tình kiêu ngạo vô cùng coi trọng bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "như_nhà_triết_học_kha_trang_đã_nói",
+      "label": "Như nhà triết học Kha Trang đã nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "mỗi_người_đều_là_một_hòn_đảo_trên_biển",
+      "label": "Mỗi người đều là một hòn đảo trên biển",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cô_đơn_vốn_là_trạng_thái_bình_thường_của_cuộc_sống",
+      "label": "Cô đơn vốn là trạng thái bình thường của cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "thì_nên_là_một_người_như_vậy",
+      "label": "thì nên là một người như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "cuối_cùng_biến_mình_thành_kẻ_thù_của_sự_cô_độc",
+      "label": "Cuối cùng biến mình thành kẻ thù của sự cô độc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "cuối_cùng_biến_mình_thành_kẻ_thù_của_sự_cô_độc_item_1",
+          "label": "[Item 1 of Cuối cùng biến mình thành kẻ thù của sự cô độc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_biến_mình_thành_kẻ_thù_của_sự_cô_độc_item_2",
+          "label": "[Item 2 of Cuối cùng biến mình thành kẻ thù của sự cô độc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "renny_không_phải_là_một_bà_già",
+      "label": "Renny không phải là một bà già",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "và_sống_cuộc_sống_mà_chúng_ta_mong_muốn",
+      "label": "Và sống cuộc sống mà chúng ta mong muốn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "trong_cuốn_sách_tác_giả_đã_viết_rằng",
+      "label": "Trong cuốn sách, tác giả đã viết rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    }
+  ]
+}

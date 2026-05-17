@@ -1,0 +1,190 @@
+{
+  "source_type": "youtube",
+  "word_count": 5256,
+  "estimated_leaf_nodes": 22,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 22 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_làm_thế_nào_để_trở_nên_kỳ_luật_hơn",
+      "label": "Vậy thì làm thế nào để trở nên kỳ luật hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "ý_chí_là_một_yếu_tố_ảnh_hưởng",
+      "label": "Ý chí là một yếu tố ảnh hưởng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tại_sao_bạn_dễ_cáu_kỉnh_và_nàn_trí",
+      "label": "Tại sao bạn dễ cáu kỉnh và nàn trí?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "đầu_tiên_muốn_biết_vì_sao_chúng_ta_không_đủ_ý_chí_để_kỳ_luật",
+      "label": "Đầu tiên muốn biết vì sao chúng ta không đủ ý chí để kỳ luật hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "bạn_sẽ_rơi_vào_trạng_thái_ecodeplation",
+      "label": "bạn sẽ rơi vào trạng thái Eco-Deplation,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "tức_là_khả_năng_tự_chủ_bị_tiêu_hao_cạn_kiệt",
+      "label": "tức là khả năng tự chủ, bị tiêu hao cạn kiệt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "thế_chúng_ta_không_nên_huy_động_ý_chí_của",
+      "label": "thế chúng ta không nên huy động ý chí của",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_thì_phải_làm_như_thế_nào",
+      "label": "Vậy thì phải làm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "phương_pháp_đầu_tiên_bổ_sung_năng_lượng_ý_chí_một_cách_khoa",
+      "label": "Phương pháp đầu tiên, bổ sung năng lượng ý chí một cách khoa học nhất.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cuối_cùng_người_ta_phát_hiện",
+      "label": "Cuối cùng người ta phát hiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_chúng_ta_phải_làm_sao",
+      "label": "Vậy thì bây giờ chúng ta phải làm sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_nên_việc_đạt_ra_nhiều_mục_tiêu_như_vậy",
+      "label": "Vậy nên, việc đạt ra nhiều mục tiêu như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "thứ_nhất_họ_lo_lắng_nhiều_hơn",
+      "label": "Thứ nhất, họ lo lắng nhiều hơn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "thứ_nhất_họ_lo_lắng_nhiều_hơn_item_1",
+          "label": "[Item 1 of Thứ nhất, họ lo lắng nhiều hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_họ_lo_lắng_nhiều_hơn_item_2",
+          "label": "[Item 2 of Thứ nhất, họ lo lắng nhiều hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_đó_là_phương_pháp_số_3_vô_cùng_cần_thiết",
+      "label": "Tiếp theo, đó là phương pháp số 3 vô cùng cần thiết.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "thói_quen_đó_là_gì",
+      "label": "Thói quen đó là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "thói_quen_đó_là_gì_item_1",
+          "label": "[Item 1 of Thói quen đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thói_quen_đó_là_gì_item_2",
+          "label": "[Item 2 of Thói quen đó là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_lệ_thần_kỳ_đến_như_vậy",
+      "label": "Tại sao lệ thần kỳ đến như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "cuối_cùng_chúng_mình_sẽ_tìm_hiểu_một_nội_dung_cực_kỳ_quan_tr",
+      "label": "Cuối cùng, chúng mình sẽ tìm hiểu một nội dung cực kỳ quan trọng khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 128",
+      "children": [
+        {
+          "key": "cuối_cùng_chúng_mình_sẽ_tìm_hiểu_một_nội_dung_cực_kỳ_quan_tr_item_1",
+          "label": "[Item 1 of Cuối cùng, chúng mình sẽ tìm hiểu một nội dung cực kỳ quan trọng khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_chúng_mình_sẽ_tìm_hiểu_một_nội_dung_cực_kỳ_quan_tr_item_2",
+          "label": "[Item 2 of Cuối cùng, chúng mình sẽ tìm hiểu một nội dung cực kỳ quan trọng khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_tại_sao_lại_như_vậy",
+      "label": "Vậy thì tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "đó_là_tác_giả_là_một_nhà_khoa_học",
+      "label": "Đó là tác giả là một nhà khoa học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    }
+  ]
+}

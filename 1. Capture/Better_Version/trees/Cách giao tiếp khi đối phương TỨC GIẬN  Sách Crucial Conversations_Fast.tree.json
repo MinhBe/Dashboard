@@ -1,0 +1,250 @@
+{
+  "source_type": "youtube",
+  "word_count": 5766,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_đối_thoại_thêm_chút_là_gì",
+      "label": "Vậy thì đối thoại thêm chút là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "vậy_thì_đối_thoại_thêm_chút_là_gì_item_1",
+          "label": "[Item 1 of Vậy thì đối thoại thêm chút là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_đối_thoại_thêm_chút_là_gì_item_2",
+          "label": "[Item 2 of Vậy thì đối thoại thêm chút là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_bằng_cách_nào",
+      "label": "Vậy thì bằng cách nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "nhưng_tại_sao_chúng_ta_vẫn_rất_dễ_mất_bình_tĩnh_hoặc_đau_buồ",
+      "label": "nhưng tại sao chúng ta vẫn rất dễ mất bình tĩnh hoặc đau buồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "bước_thứ_nhất_là_chúng_ta_cần_phải_hiểu",
+      "label": "Bước thứ nhất là chúng ta cần phải hiểu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "bước_thứ_nhất_là_chúng_ta_cần_phải_hiểu_item_1",
+          "label": "[Item 1 of Bước thứ nhất là chúng ta cần phải hiểu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_thứ_nhất_là_chúng_ta_cần_phải_hiểu_item_2",
+          "label": "[Item 2 of Bước thứ nhất là chúng ta cần phải hiểu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_giao_tiếp_bắt_đầu_từ_trái_tim_là_gì",
+      "label": "Vậy thì giao tiếp bắt đầu từ trái tim là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "thứ_nhất_đó_là_tâm_lý_nạn_nhân",
+      "label": "Thứ nhất đó là tâm lý nạn nhân.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_tâm_lý_nạn_nhân_item_1",
+          "label": "[Item 1 of Thứ nhất đó là tâm lý nạn nhân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_tâm_lý_nạn_nhân_item_2",
+          "label": "[Item 2 of Thứ nhất đó là tâm lý nạn nhân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "về_sự_kiện_đó_c_là_trạng_thái_căng_thẳng",
+      "label": "về sự kiện đó C là trạng thái căng thẳng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "giảm_bớt_căng_thẳng_cách_tốt_nhất_là_gì",
+      "label": "giảm bớt căng thẳng, cách tốt nhất là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "trong_cuốn_sách_nơi_kế_tiếp_hoa_sẽ_nở_có_nói_rằng",
+      "label": "Trong cuốn sách Nơi kế tiếp Hoa Sẽ Nở có nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "điều_bạn_mong_muốn_cuối_cùng_là_gì",
+      "label": "điều bạn mong muốn cuối cùng là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_tôi_mong_muốn_đối_phương_sẽ_đạt_được_điều_gì",
+      "label": "Vậy tôi mong muốn đối phương sẽ đạt được điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "ngoài_ra_nếu_ngay_cả_khi_bạn_bình_tĩnh_đối_thoại",
+      "label": "Ngoài ra, nếu ngay cả khi bạn bình tĩnh đối thoại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "bầu_không_khí_nói_chuyện_trở_nên_tan_tành",
+      "label": "Bầu không khí nói chuyện trở nên tan tành.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "có_2_lý_do",
+      "label": "Có 2 lý do.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "có_2_lý_do_item_1",
+          "label": "[Item 1 of Có 2 lý do. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_2_lý_do_item_2",
+          "label": "[Item 2 of Có 2 lý do. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_quan_trọng_nhất_trong_một_cuộc_trò_chuyện",
+      "label": "Điều quan trọng nhất trong một cuộc trò chuyện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "điều_quan_trọng_nhất_trong_một_cuộc_trò_chuyện_item_1",
+          "label": "[Item 1 of Điều quan trọng nhất trong một cuộc trò chuyện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_quan_trọng_nhất_trong_một_cuộc_trò_chuyện_item_2",
+          "label": "[Item 2 of Điều quan trọng nhất trong một cuộc trò chuyện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nó_thể_hiện_bạn_là_một_người_thực_sự_mạnh_mẽ",
+      "label": "Nó thể hiện bạn là một người thực sự mạnh mẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "phương_pháp_thứ_2_đó_là_giải_thích_bằng_sự_đối_lập",
+      "label": "Phương pháp thứ 2 đó là giải thích bằng sự đối lập.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "mục_đích_của_cuộc_trò_chuyện_trong_bạn_là_gì",
+      "label": "Mục đích của cuộc trò chuyện trong bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "tại_sao_nhiều_người_lại_sợ_sự_thấn_mất_lòng",
+      "label": "Tại sao nhiều người lại sợ sự thấn mất lòng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "tại_sao_sao_lại_thật_quá_thật_lạ_vv",
+      "label": "tại sao, sao lại, thật quá, thật lạ, v.v",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "tại_sao_phải_hỏi_ý_kiến_của_người_khác",
+      "label": "Tại sao phải hỏi ý kiến của người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "đây_cũng_là_một_sự_khích_lệ_tiến_bộ_đối_với_em",
+      "label": "Đây cũng là một sự khích lệ tiến bộ đối với em",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    }
+  ]
+}

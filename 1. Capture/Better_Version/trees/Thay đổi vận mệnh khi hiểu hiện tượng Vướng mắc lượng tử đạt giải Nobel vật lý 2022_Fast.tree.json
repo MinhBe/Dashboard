@@ -1,0 +1,125 @@
+{
+  "source_type": "youtube",
+  "word_count": 3006,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tử_có_nghĩa_là_gì_vướng_mắc_lượng_tử",
+      "label": "tử có nghĩa là gì? Vướng mắc lượng tử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "schrodinger_là_một_nhà_vật_lý_người_mỹ_gốc_áo",
+      "label": "Schrodinger là một nhà vật lý người Mỹ gốc Áo,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "được_gọi_là_một_trạng_thái_thôi",
+      "label": "Được gọi là một trạng thái thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "chứ_không_phải_là_hai_trạng_thái",
+      "label": "Chứ không phải là hai trạng thái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tại_sao_lại_có_thể_tồn_tại_được_một_cái_trạng_thái_kỳ_lạ_như",
+      "label": "Tại sao lại có thể tồn tại được một cái trạng thái kỳ lạ như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_lúc_này_quả_bóng_nó_đang_ở_trạng_thái_trồng_chập_lên_nha",
+      "label": "Vậy lúc này, quả bóng nó đang ở trạng thái trồng chập lên nhau",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "vậy_lúc_này_quả_bóng_nó_đang_ở_trạng_thái_trồng_chập_lên_nha_item_1",
+          "label": "[Item 1 of Vậy lúc này, quả bóng nó đang ở trạng thái trồng chập lên nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_lúc_này_quả_bóng_nó_đang_ở_trạng_thái_trồng_chập_lên_nha_item_2",
+          "label": "[Item 2 of Vậy lúc này, quả bóng nó đang ở trạng thái trồng chập lên nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "có_2_người_nông_dân_đi_tìm_1_đạo_sĩ_già",
+      "label": "Có 2 người nông dân đi tìm 1 đạo sĩ già",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "có_2_người_nông_dân_đi_tìm_1_đạo_sĩ_già_item_1",
+          "label": "[Item 1 of Có 2 người nông dân đi tìm 1 đạo sĩ già — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_2_người_nông_dân_đi_tìm_1_đạo_sĩ_già_item_2",
+          "label": "[Item 2 of Có 2 người nông dân đi tìm 1 đạo sĩ già — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_là_họ_làm_những_công_việc_cấp_thấp",
+      "label": "Bên cạnh đó là họ làm những công việc cấp thấp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "sống_như_là_một_cỗ_máy_làm_những_cái_công_việc_lặp_đi_lặp_lạ",
+      "label": "Sống như là một cỗ máy làm những cái công việc lặp đi lặp lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "cuối_cùng_với_những_nỗ_lực_của_mình",
+      "label": "Cuối cùng với những nỗ lực của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "cái_danh_giới_của_cuộc_đời_bạn",
+      "label": "Cái danh giới của cuộc đời bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_nên_hãy_làm_nhiều_việc_thiện",
+      "label": "Vậy nên, hãy làm nhiều việc thiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    }
+  ]
+}

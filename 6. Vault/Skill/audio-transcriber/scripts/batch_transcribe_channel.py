@@ -110,6 +110,8 @@ def run_benchmark(bench_video_id, config, device, compute_type, beam_size):
         sys.executable, "-m", "yt_dlp",
         "-x", "--audio-format", "wav", "--audio-quality", "0",
         "--postprocessor-args", "ffmpeg:-ac 1 -ar 16000",
+        "--cookies-from-browser", "chrome",
+        "--js-runtimes", "node",
         "--download-sections", "*0-60",
         "-o", output_template, url,
     ]
@@ -314,7 +316,7 @@ def print_config_report(resources, config, workers, quantity_info):
 
 
 def get_video_ids(channel_url):
-    cmd = ["yt-dlp", "--get-id", "--flat-playlist", channel_url]
+    cmd = ["yt-dlp", "--get-id", "--flat-playlist", "--cookies-from-browser", "chrome", "--js-runtimes", "node", channel_url]
     result = subprocess.run(cmd, capture_output=True, text=True)
     if result.returncode != 0:
         eprint(f"  [!] Failed to get video IDs: {result.stderr[:200]}")
@@ -327,6 +329,8 @@ def get_shortest_video_id(video_ids, min_duration=30):
     for vid in video_ids[:10]:
         cmd = [
             "yt-dlp", "--dump-json", "--no-download",
+            "--cookies-from-browser", "chrome",
+            "--js-runtimes", "node",
             f"https://www.youtube.com/watch?v={vid}",
         ]
         result = subprocess.run(cmd, capture_output=True, text=True, timeout=15)

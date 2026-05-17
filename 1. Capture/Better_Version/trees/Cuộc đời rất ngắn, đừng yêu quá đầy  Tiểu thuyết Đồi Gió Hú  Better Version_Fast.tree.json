@@ -1,0 +1,51 @@
+{
+  "source_type": "youtube",
+  "word_count": 3785,
+  "estimated_leaf_nodes": 6,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 6 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_nhưng_catherine_đã_nhận_lời_cầu_hôn",
+      "label": "Vậy nhưng Catherine đã nhận lời cầu hôn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "tính_yêu_quá_tuyệt_đối_đó_là_gì",
+      "label": "Tính yêu quá tuyệt đối đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "cuối_cùng_buộc_vệ_bán_đồ_gió_hú_để_trả_nợ",
+      "label": "cuối cùng buộc vệ bán đồ gió hú để trả nợ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "nhưng_thật_ra_chỉ_là_một_kẻ_bị_quá_khứ_giam_cầm",
+      "label": "Nhưng thật ra chỉ là một kẻ bị quá khứ giam cầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "vậy_thì",
+      "label": "vậy thì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "hãy_là_một_hồ_nước_khi_yêu",
+      "label": "Hãy là một hồ nước khi yêu,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    }
+  ]
+}

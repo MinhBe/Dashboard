@@ -1,0 +1,44 @@
+{
+  "source_type": "youtube",
+  "word_count": 2291,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_là_bạn_phải_thay_đổi_lại",
+      "label": "vậy là bạn phải thay đổi lại.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "giống_như_là_một_chiếc_đinh_ông_ta_đóng_chặt_mình_trên_ngai",
+      "label": "Giống như là một chiếc đinh, ông ta đóng chặt mình trên ngai vàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "và_sống_như_là_một_cái_máy_đếm",
+      "label": "Và sống như là một cái máy đếm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "và_chúng_ta_không_có_thời_gian_để_nhận_thức",
+      "label": "Và chúng ta không có thời gian để nhận thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "nhưng_kết_quả_chỉ_là_một_nỗi_thất_vọng",
+      "label": "Nhưng kết quả chỉ là một nỗi thất vọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    }
+  ]
+}

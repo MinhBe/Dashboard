@@ -1,0 +1,200 @@
+{
+  "source_type": "youtube",
+  "word_count": 6755,
+  "estimated_leaf_nodes": 26,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 26 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "chính_bởi_vì_cô_là_một_nhà_văn_nhà_biên_kịch",
+      "label": "Chính bởi vì cô là một nhà văn, nhà biên kịch",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "và_cũng_bởi_vì_cô_là_một_nhà_tâm_lý_trị_liệu_chuyên_nghiệp",
+      "label": "Và cũng bởi vì cô là một nhà tâm lý trị liệu chuyên nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "tiếp_theo_về_tự_do_bị_hạn_chế",
+      "label": "Tiếp theo về tự do bị hạn chế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "tâm_lý_trị_liệu_là_một_trải_nghiệm_hiện_sinh_về_sự_hiểu_biết",
+      "label": "Tâm lý trị liệu là một trải nghiệm hiện sinh về sự hiểu biết bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "và_giúp_chúng_ta_giải_thoát_khỏi_tình_trạng_khó_khăn_bất_lực",
+      "label": "Và giúp chúng ta giải thoát khỏi tình trạng khó khăn, bất lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "john_là_một_nhà_sản_xuất_đẹp_trai_và_thành_đạt_của_hollywood",
+      "label": "John là một nhà sản xuất đẹp trai và thành đạt của Hollywood",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "hay_nói_chính_xác_hơn_là_một_cô_gái_gọi",
+      "label": "hay nói chính xác hơn là một cô gái gọi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "nói_chung_đây_là_một_phản_ứng_căng_thẳng",
+      "label": "Nói chung đây là một phản ứng căng thẳng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "cuối_cùng_john_đã_lau_nước_mắt_và_ngựa_ngùng_nói_rằng",
+      "label": "Cuối cùng, John đã lau nước mắt và ngựa ngùng nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_thì_anh_đã_cởi_bỏ_được_chiếc_mặt_nạ",
+      "label": "Cuối cùng thì anh đã cởi bỏ được chiếc mặt nạ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "cuối_cùng_thì_anh_đã_cởi_bỏ_được_chiếc_mặt_nạ_item_1",
+          "label": "[Item 1 of Cuối cùng thì anh đã cởi bỏ được chiếc mặt nạ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_thì_anh_đã_cởi_bỏ_được_chiếc_mặt_nạ_item_2",
+          "label": "[Item 2 of Cuối cùng thì anh đã cởi bỏ được chiếc mặt nạ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_thì_cô_ấy_cũng_đã_tìm_ra_câu_trả_lời_cho_mình",
+      "label": "Cuối cùng thì cô ấy cũng đã tìm ra câu trả lời cho mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "cuộc_đời_của_ba_rita_là_một_chuỗi_thất_bại",
+      "label": "Cuộc đời của ba Rita là một chuỗi thất bại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "thì_bà_cũng_không_dám_dùng",
+      "label": "Thì bà cũng không dám dùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "vậy_tại_sao_rita_lại_có_hành_động_kỳ_lạ_như_vậy",
+      "label": "Vậy tại sao Rita lại có hành động kỳ lạ như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "ngay_cả_khi_đó_chỉ_là_một_tờ_giấy_lau_mũi_bình_thường",
+      "label": "Ngay cả khi đó chỉ là một tờ giấy lau mũi bình thường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "nhưng_tại_sao_một_người_mẹ_lại_không_bảo_vệ_con_của_mình",
+      "label": "Nhưng tại sao một người mẹ lại không bảo vệ con của mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_họ_có_thể_cứu_dỗi_và_tái_sinh",
+      "label": "Vậy làm thế nào để họ có thể cứu dỗi và tái sinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "vậy_nên_xin_bạn_hãy_nhớ_rằng",
+      "label": "Vậy nên xin bạn hãy nhớ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "cuối_cùng_thì_cô_bước_vào_phòng_điều_trị_tâm_lý_của_bác_sĩ_w",
+      "label": "Cuối cùng thì cô bước vào phòng điều trị tâm lý của bác sĩ Wendell.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "thật_tự_do_thư_giãn_và_xôi_nổi",
+      "label": "Thật tự do, thư giãn và xôi nổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "giống_như_là_một_nguồn_suối_mạnh_mẽ_tuôn_trào_trong_cô",
+      "label": "Giống như là một nguồn suối mạnh mẽ tuôn trào trong cô",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "vậy_là_cuốn_sách_có_lẽ_bạn_nên_tìm_ai_đó_để_trò_chuyện_đã_ra",
+      "label": "Vậy là cuốn sách Có lẽ bạn nên tìm ai đó để trò chuyện đã ra đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_thì_đã_đến_lúc",
+      "label": "Vậy thì đã đến lúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "không_phải_là_một_người_như_bác_sĩ_laurie",
+      "label": "Không phải là một người như bác sĩ Laurie",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "vậy_nên_đừng_nản_lòng_nếu_không_có_ai_phù_hợp_để_trò_chuyện",
+      "label": "Vậy nên đừng nản lòng nếu không có ai phù hợp để trò chuyện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    }
+  ]
+}

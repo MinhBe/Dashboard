@@ -1,0 +1,294 @@
+{
+  "source_type": "youtube",
+  "word_count": 4435,
+  "estimated_leaf_nodes": 33,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 33 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "trẻ_tuổi_nhất_trong_lịch_sử_nhân_loại",
+      "label": "Trẻ tuổi nhất trong lịch sử nhân loại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "camus_là_một_chiếc_gia_tiểu_thiết_gia_và_là_nhà_viết_kịch_nổ",
+      "label": "Camus là một chiếc gia, tiểu thiết gia và là nhà viết kịch nổi tiếng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 4",
+      "children": [
+        {
+          "key": "camus_là_một_chiếc_gia_tiểu_thiết_gia_và_là_nhà_viết_kịch_nổ_item_1",
+          "label": "[Item 1 of Camus là một chiếc gia, tiểu thiết gia và là nhà viết kịch nổi tiếng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "camus_là_một_chiếc_gia_tiểu_thiết_gia_và_là_nhà_viết_kịch_nổ_item_2",
+          "label": "[Item 2 of Camus là một chiếc gia, tiểu thiết gia và là nhà viết kịch nổi tiếng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_tại_sao_chúng_ta_cứ_phải_lặp_lại_cuộc_đời",
+      "label": "Tại sao? Tại sao chúng ta cứ phải lặp lại cuộc đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "cuối_cùng_1_ngày",
+      "label": "Cuối cùng 1 ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "nên_đặt_ở_đâu",
+      "label": "Nên đặt ở đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "và_cũng_là_một_ẩn_rụ_mà_tác_giả_đang_muốn_nói",
+      "label": "Và cũng là một ẩn rụ mà tác giả đang muốn nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "tuy_nhiên_cuộc_đời_là_một_dòng_sông_vô_tận",
+      "label": "Tuy nhiên cuộc đời là một dòng sông vô tận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_cũng_lên_đến_đỉnh",
+      "label": "Cuối cùng cũng lên đến đỉnh",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "cuối_cùng_cũng_lên_đến_đỉnh_item_1",
+          "label": "[Item 1 of Cuối cùng cũng lên đến đỉnh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_cũng_lên_đến_đỉnh_item_2",
+          "label": "[Item 2 of Cuối cùng cũng lên đến đỉnh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_lại_sinh_ra_rồi_chúng_ta_lại_ra_đi",
+      "label": "và lại sinh ra rồi chúng ta lại ra đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_đối_mặt_với_sự_phi_lý_bạn_sẽ_chọn_làm_gì",
+      "label": "Vậy đối mặt với sự phi lý, bạn sẽ chọn làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_cuộc_sống",
+      "label": "Điều thứ 2 đó là cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "đây_là_một_sự_phi_lý",
+      "label": "Đây là một sự phi lý",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "đây_là_một_sự_phi_lý_item_1",
+          "label": "[Item 1 of Đây là một sự phi lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_sự_phi_lý_item_2",
+          "label": "[Item 2 of Đây là một sự phi lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "đây_là_một_sự_phi_lý_item_3",
+          "label": "[Item 3 of Đây là một sự phi lý — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_câu_nói_nổi_tiếng_nhất_của_ông_đó_là",
+      "label": "Bên cạnh đó, câu nói nổi tiếng nhất của ông đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "kết_thúc_cuộc_đời_mang_tính_chiếc_học_là_gì",
+      "label": "Kết thúc cuộc đời mang tính chiếc học là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "nhưng_tại_sao_chúa_lại_tạo_ra_con_người_ở_một_vị_trí_không_h",
+      "label": "Nhưng tại sao Chúa lại tạo ra con người ở một vị trí không hoàn hảo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "bạn_vẫn_sẽ_là_một_con_người_mới",
+      "label": "Bạn vẫn sẽ là một con người mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "ngoài_ra_sự_phản_kháng_còn_thể_hiện_ở_chỗ",
+      "label": "Ngoài ra, sự phản kháng còn thể hiện ở chỗ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "thông_thường_trong_cuộc_sống_là_gì",
+      "label": "thông thường trong cuộc sống là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_nên_điều_chúng_ta_có_thể_quyết_định",
+      "label": "Vậy nên điều chúng ta có thể quyết định",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "vậy_nên_điều_chúng_ta_có_thể_quyết_định_item_1",
+          "label": "[Item 1 of Vậy nên điều chúng ta có thể quyết định — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_điều_chúng_ta_có_thể_quyết_định_item_2",
+          "label": "[Item 2 of Vậy nên điều chúng ta có thể quyết định — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thì_hòn_đá_vẫn_lan_xuống",
+      "label": "thì hòn đá vẫn lan xuống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vậy_trong_hoàn_cảnh_tuyệt_vọng_như_thế",
+      "label": "Vậy trong hoàn cảnh tuyệt vọng như thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "tại_sao_caesar_first_lại_không_chọn_cách_tự_xác",
+      "label": "Tại sao Caesar First lại không chọn cách tự xác?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 128",
+      "children": [
+        {
+          "key": "tại_sao_caesar_first_lại_không_chọn_cách_tự_xác_item_1",
+          "label": "[Item 1 of Tại sao Caesar First lại không chọn cách tự xác? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_caesar_first_lại_không_chọn_cách_tự_xác_item_2",
+          "label": "[Item 2 of Tại sao Caesar First lại không chọn cách tự xác? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_vượt_qua_sự_phi_lý_của_cu",
+      "label": "Vậy làm thế nào để chúng ta có thể vượt qua sự phi lý của cuộc sống?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 144",
+      "children": [
+        {
+          "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_vượt_qua_sự_phi_lý_của_cu_item_1",
+          "label": "[Item 1 of Vậy làm thế nào để chúng ta có thể vượt qua sự phi lý của cuộc sống? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_vượt_qua_sự_phi_lý_của_cu_item_2",
+          "label": "[Item 2 of Vậy làm thế nào để chúng ta có thể vượt qua sự phi lý của cuộc sống? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_chúng_ta_không_thể_có_một_tương_lai_đầy_hy_vọng",
+      "label": "Và chúng ta không thể có một tương lai đầy hy vọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "mình_sẽ_đau_khổ_vì_điều_đó",
+      "label": "mình sẽ đau khổ vì điều đó.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "điều_quan_trọng_không_phải_là_sống",
+      "label": "Điều quan trọng không phải là sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    }
+  ]
+}

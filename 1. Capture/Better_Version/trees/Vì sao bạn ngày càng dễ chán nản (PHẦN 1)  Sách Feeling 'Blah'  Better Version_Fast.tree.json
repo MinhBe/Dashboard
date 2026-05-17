@@ -1,0 +1,145 @@
+{
+  "source_type": "youtube",
+  "word_count": 3536,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "cuối_cùng_bạn_cũng_thành_công_tốt_đẹp",
+      "label": "Cuối cùng bạn cũng thành công tốt đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "thế_nhưng_bây_giờ_trong_lòng_lại_vô_cùng_bình_thàn",
+      "label": "Thế nhưng bây giờ trong lòng lại vô cùng bình thàn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 4",
+      "children": [
+        {
+          "key": "thế_nhưng_bây_giờ_trong_lòng_lại_vô_cùng_bình_thàn_item_1",
+          "label": "[Item 1 of Thế nhưng bây giờ trong lòng lại vô cùng bình thàn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thế_nhưng_bây_giờ_trong_lòng_lại_vô_cùng_bình_thàn_item_2",
+          "label": "[Item 2 of Thế nhưng bây giờ trong lòng lại vô cùng bình thàn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_di_sản_của_tiên_hóa",
+      "label": "Đây là một di sản của tiên hóa.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "đây_là_một_di_sản_của_tiên_hóa_item_1",
+          "label": "[Item 1 of Đây là một di sản của tiên hóa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_di_sản_của_tiên_hóa_item_2",
+          "label": "[Item 2 of Đây là một di sản của tiên hóa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thế_nhưng_chúng_ta_lại_thường_tiếp_tay",
+      "label": "Thế nhưng chúng ta lại thường tiếp tay,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "thế_nhưng_chúng_ta_lại_thường_tiếp_tay_item_1",
+          "label": "[Item 1 of Thế nhưng chúng ta lại thường tiếp tay, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thế_nhưng_chúng_ta_lại_thường_tiếp_tay_item_2",
+          "label": "[Item 2 of Thế nhưng chúng ta lại thường tiếp tay, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_là_về_mặt_cảm_xúc",
+      "label": "Thứ nhất là về mặt cảm xúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 60",
+      "children": [
+        {
+          "key": "thứ_nhất_là_về_mặt_cảm_xúc_item_1",
+          "label": "[Item 1 of Thứ nhất là về mặt cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_về_mặt_cảm_xúc_item_2",
+          "label": "[Item 2 of Thứ nhất là về mặt cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_hai_đó_là_về_mặt_nhận_thức",
+      "label": "Điều thứ hai đó là về mặt nhận thức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 66",
+      "children": [
+        {
+          "key": "điều_thứ_hai_đó_là_về_mặt_nhận_thức_item_1",
+          "label": "[Item 1 of Điều thứ hai đó là về mặt nhận thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_đó_là_về_mặt_nhận_thức_item_2",
+          "label": "[Item 2 of Điều thứ hai đó là về mặt nhận thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_làm_thế_nào_để_chúng_ta_điều_chỉnh",
+      "label": "Vậy thì làm thế nào để chúng ta điều chỉnh?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_thì_cảm_ơn_bạn_đã_lắng_nghe",
+      "label": "Cuối cùng thì cảm ơn bạn đã lắng nghe.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    }
+  ]
+}

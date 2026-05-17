@@ -1,0 +1,500 @@
+{
+  "source_type": "youtube",
+  "word_count": 7604,
+  "estimated_leaf_nodes": 56,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 56 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_cũng_là_một_cuốn_sách_khác_vô_cùng_nổi_tiếng_của_ông",
+      "label": "Đây cũng là một cuốn sách khác vô cùng nổi tiếng của ông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "7_thứ_cảm_xúc_này_là_gì",
+      "label": "7 thứ cảm xúc này là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_bạn_có_muốn_mua_viên_thuốc_này_không",
+      "label": "Vậy bạn có muốn mua viên thuốc này không?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "vậy_bạn_có_muốn_mua_viên_thuốc_này_không_item_1",
+          "label": "[Item 1 of Vậy bạn có muốn mua viên thuốc này không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_bạn_có_muốn_mua_viên_thuốc_này_không_item_2",
+          "label": "[Item 2 of Vậy bạn có muốn mua viên thuốc này không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_chỉ_nhớ_suy_giảm_và_khả_năng_phàn_đoán_yếu_đi",
+      "label": "Thứ ba, chỉ nhớ suy giảm và khả năng phàn đoán yếu đi.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 24",
+      "children": [
+        {
+          "key": "thứ_ba_chỉ_nhớ_suy_giảm_và_khả_năng_phàn_đoán_yếu_đi_item_1",
+          "label": "[Item 1 of Thứ ba, chỉ nhớ suy giảm và khả năng phàn đoán yếu đi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_chỉ_nhớ_suy_giảm_và_khả_năng_phàn_đoán_yếu_đi_item_2",
+          "label": "[Item 2 of Thứ ba, chỉ nhớ suy giảm và khả năng phàn đoán yếu đi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_gặp_khó_khăn_và_trường_ngại_trong_việc_kết_nối_với_ng",
+      "label": "Thứ tư, gặp khó khăn và trường ngại trong việc kết nối với người khác.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "thứ_tư_gặp_khó_khăn_và_trường_ngại_trong_việc_kết_nối_với_ng_item_1",
+          "label": "[Item 1 of Thứ tư, gặp khó khăn và trường ngại trong việc kết nối với người khác. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_gặp_khó_khăn_và_trường_ngại_trong_việc_kết_nối_với_ng_item_2",
+          "label": "[Item 2 of Thứ tư, gặp khó khăn và trường ngại trong việc kết nối với người khác. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_điều_khiến_bạn_tức_giận_nó_trái_ngược_về_giá_trị_quan",
+      "label": "Thứ ba, điều khiến bạn tức giận nó trái ngược về giá trị quan của bạn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 40",
+      "children": [
+        {
+          "key": "thứ_ba_điều_khiến_bạn_tức_giận_nó_trái_ngược_về_giá_trị_quan_item_1",
+          "label": "[Item 1 of Thứ ba, điều khiến bạn tức giận nó trái ngược về giá trị quan của bạn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_điều_khiến_bạn_tức_giận_nó_trái_ngược_về_giá_trị_quan_item_2",
+          "label": "[Item 2 of Thứ ba, điều khiến bạn tức giận nó trái ngược về giá trị quan của bạn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_bạn_cần_phải_học_cách_đối_thoại_với_bản_thân",
+      "label": "Thứ nhất, bạn cần phải học cách đối thoại với bản thân",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "thứ_nhất_bạn_cần_phải_học_cách_đối_thoại_với_bản_thân_item_1",
+          "label": "[Item 1 of Thứ nhất, bạn cần phải học cách đối thoại với bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_bạn_cần_phải_học_cách_đối_thoại_với_bản_thân_item_2",
+          "label": "[Item 2 of Thứ nhất, bạn cần phải học cách đối thoại với bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai",
+      "label": "Thứ hai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "thứ_hai_item_1",
+          "label": "[Item 1 of Thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_item_2",
+          "label": "[Item 2 of Thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_4",
+      "label": "Điều thứ 4",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "điều_thứ_6",
+      "label": "Điều thứ 6",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "điều_thứ_7_rời_đi",
+      "label": "Điều thứ 7, rời đi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 74",
+      "children": [
+        {
+          "key": "điều_thứ_7_rời_đi_item_1",
+          "label": "[Item 1 of Điều thứ 7, rời đi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_7_rời_đi_item_2",
+          "label": "[Item 2 of Điều thứ 7, rời đi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_cũng_là_một_cách_rất_tốt_để_kiểm_soát_cơn_giận_của_bạn",
+      "label": "Đây cũng là một cách rất tốt để kiểm soát cơn giận của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "họ_đang_ghen_tị",
+      "label": "Họ đang ghen tị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "ghen_tị_là_một_vợ_kịch_nội_tâm",
+      "label": "Ghen tị là một vợ kịch nội tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "đầu_tiên_đó_là_ghen_tị_kiểu_trầm_cảm",
+      "label": "Đầu tiên đó là ghen tị kiểu trầm cảm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 100",
+      "children": [
+        {
+          "key": "đầu_tiên_đó_là_ghen_tị_kiểu_trầm_cảm_item_1",
+          "label": "[Item 1 of Đầu tiên đó là ghen tị kiểu trầm cảm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_đó_là_ghen_tị_kiểu_trầm_cảm_item_2",
+          "label": "[Item 2 of Đầu tiên đó là ghen tị kiểu trầm cảm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là",
+      "label": "Bước đầu tiên đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "bước_thứ_2_đó_là_thể_hiện_sự_ghen_tị_một_cách_tích_cực",
+      "label": "Bước thứ 2 đó là thể hiện sự ghen tị một cách tích cực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "tại_sao_lại_có_thể_nói_như_vậy",
+      "label": "Tại sao lại có thể nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "thứ_nhất_vui_vẻ_làm_cho_con_người_trở_nên_hào_phóng",
+      "label": "Thứ nhất, vui vẻ làm cho con người trở nên hào phóng.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 134",
+      "children": [
+        {
+          "key": "thứ_nhất_vui_vẻ_làm_cho_con_người_trở_nên_hào_phóng_item_1",
+          "label": "[Item 1 of Thứ nhất, vui vẻ làm cho con người trở nên hào phóng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_vui_vẻ_làm_cho_con_người_trở_nên_hào_phóng_item_2",
+          "label": "[Item 2 of Thứ nhất, vui vẻ làm cho con người trở nên hào phóng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_vui_vẻ_rồi_mới_hào_phóng",
+      "label": "Vậy vui vẻ rồi mới hào phóng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "đó_không_phải_là_một_quyết_định_nhanh_chóng",
+      "label": "Đó không phải là một quyết định nhanh chóng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "đầu_tiên_đó_là_niềm_vui_phấn_khích_đến_từ_bên_ngoài",
+      "label": "Đầu tiên, đó là niềm vui phấn khích đến từ bên ngoài.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 148",
+      "children": [
+        {
+          "key": "đầu_tiên_đó_là_niềm_vui_phấn_khích_đến_từ_bên_ngoài_item_1",
+          "label": "[Item 1 of Đầu tiên, đó là niềm vui phấn khích đến từ bên ngoài. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_đó_là_niềm_vui_phấn_khích_đến_từ_bên_ngoài_item_2",
+          "label": "[Item 2 of Đầu tiên, đó là niềm vui phấn khích đến từ bên ngoài. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_trạng_thái_hạnh_phúc_kiểu_aristotle",
+      "label": "Đây là một trạng thái hạnh phúc kiểu Aristotle.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "đây_là_một_cảm_giác_hài_lòng",
+      "label": "Đây là một cảm giác hài lòng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "cuối_cùng_là_cảm_giác_hạnh_phúc_bình_lặng",
+      "label": "Cuối cùng là cảm giác hạnh phúc bình lặng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "vậy_để_cải_thiện_hạnh_phúc_chúng_ta_cần_phải_làm_gì",
+      "label": "Vậy để cải thiện hạnh phúc, chúng ta cần phải làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "khoảnh_khắc_hạnh_phúc_nhất_của_bạn_là_gì",
+      "label": "Khoảnh khắc hạnh phúc nhất của bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "vậy_nên_đừng_để_bản_thân_mất_cân_bằng",
+      "label": "Vậy nên đừng để bản thân mất cân bằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_thì_khi_cảm_thấy_quá_đau_buồn_chúng_ta_cần_phải_làm_gì",
+      "label": "Vậy thì khi cảm thấy quá đau buồn, chúng ta cần phải làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "ngoài_ra_bạn_cũng_có_thể_bày_tỏ_nỗi_buồn",
+      "label": "Ngoài ra, bạn cũng có thể bày tỏ nỗi buồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "vậy_thì_tại_sao_chúng_ta_lại_cảm_thấy_xấu_hổ",
+      "label": "Vậy thì tại sao chúng ta lại cảm thấy xấu hổ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "nguyên_tắc_đầu_tiên_đó_chính_là_tình_nhất_quán",
+      "label": "Nguyên tắc đầu tiên đó chính là tình nhất quán.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    },
+    {
+      "key": "nguyên_tắc_thứ_2_không_có_hành_vi_hỗ_trợ_lẫn_nhau",
+      "label": "Nguyên tắc thứ 2, không có hành vi hỗ trợ lẫn nhau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 212"
+    },
+    {
+      "key": "điều_này_đã_khiến_cô_vô_cùng_xấu_hổ",
+      "label": "Điều này đã khiến cô vô cùng xấu hổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 216"
+    },
+    {
+      "key": "tiếp_theo_nguyên_tắc_thứ_3_đó_là_về_vấn_đề_sinh_lý",
+      "label": "Tiếp theo, nguyên tắc thứ 3 đó là về vấn đề sinh lý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    },
+    {
+      "key": "ngoài_ra_tồi_tệ_hơn_là_có_những_người_vốn_không_tự_ti",
+      "label": "Ngoài ra tồi tệ hơn là có những người vốn không tự ti",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 226"
+    },
+    {
+      "key": "ngoài_ra_đối_với_những_người_có_thói_quen_cố_ý_làm_bé_mặt_bạ",
+      "label": "Ngoài ra, đối với những người có thói quen cố ý làm bé mặt bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 234",
+      "children": [
+        {
+          "key": "ngoài_ra_đối_với_những_người_có_thói_quen_cố_ý_làm_bé_mặt_bạ_item_1",
+          "label": "[Item 1 of Ngoài ra, đối với những người có thói quen cố ý làm bé mặt bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_đối_với_những_người_có_thói_quen_cố_ý_làm_bé_mặt_bạ_item_2",
+          "label": "[Item 2 of Ngoài ra, đối với những người có thói quen cố ý làm bé mặt bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_làm_thế_nào_để_quản_lý_được_sự_đố_kỵ",
+      "label": "Vậy thì làm thế nào để quản lý được sự đố kỵ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 246"
+    },
+    {
+      "key": "thì_hãy_tham_khảo_thêm_ý_kiến_từ_chuyên_gia",
+      "label": "Thì hãy tham khảo thêm ý kiến từ chuyên gia",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 252"
+    },
+    {
+      "key": "nhưng_nó_vẫn_là_một_phần_tâm_lý_lành_mạnh",
+      "label": "Nhưng nó vẫn là một phần tâm lý lành mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 260"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_sợ_những_thứ_trên",
+      "label": "Tại sao chúng ta lại sợ những thứ trên?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 268"
+    },
+    {
+      "key": "thì_bạn_sẽ_cần_phải_tìm_cách_quản_lý_nó",
+      "label": "thì bạn sẽ cần phải tìm cách quản lý nó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 276"
+    },
+    {
+      "key": "điều_thứ_2_hãy_học_cách_nắm_giữ_nỗi_sợ_hãi",
+      "label": "Điều thứ 2, hãy học cách nắm giữ nỗi sợ hãi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 280"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 286"
+    },
+    {
+      "key": "không_hoàn_hảo_mới_là_một_sự_hoàn_hảo_thực_sự",
+      "label": "Không hoàn hảo mới là một sự hoàn hảo thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 298"
+    }
+  ]
+}

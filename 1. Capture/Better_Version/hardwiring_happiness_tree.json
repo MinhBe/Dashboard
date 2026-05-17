@@ -1,0 +1,183 @@
+{
+  "source_type": "book",
+  "word_count": 5546,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 20 minimum (book/long)",
+  "tree": [
+    {
+      "key": "tại_sao_náu_bộ_cần_được_lập_trình_lại",
+      "label": "Tại sao náu bộ cần được lập trình lại?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "tại_sao_náu_bộ_cần_được_lập_trình_lại_item_1",
+          "label": "[Item 1 of Tại sao náu bộ cần được lập trình lại? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_náu_bộ_cần_được_lập_trình_lại_item_2",
+          "label": "[Item 2 of Tại sao náu bộ cần được lập trình lại? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_mức_độ_dễ_tổn_thương",
+      "label": "Thứ hai, mức độ dễ tổn thương",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "thứ_hai_mức_độ_dễ_tổn_thương_item_1",
+          "label": "[Item 1 of Thứ hai, mức độ dễ tổn thương — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_mức_độ_dễ_tổn_thương_item_2",
+          "label": "[Item 2 of Thứ hai, mức độ dễ tổn thương — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_đó_là_năng_lực_ứng_phó",
+      "label": "Thứ ba đó là năng lực ứng phó",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_năng_lực_ứng_phó_item_1",
+          "label": "[Item 1 of Thứ ba đó là năng lực ứng phó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_năng_lực_ứng_phó_item_2",
+          "label": "[Item 2 of Thứ ba đó là năng lực ứng phó — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_giàn_luyện_bằng_cách_nào",
+      "label": "Vậy thì giàn luyện bằng cách nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "tính_dẻo_thần_kinh_có_nghĩa_là_gì",
+      "label": "Tính dẻo thần kinh có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "đây_là_khả_năng_thích_ứng_của_hệ_thần_kinh",
+      "label": "Đây là khả năng thích ứng của hệ thần kinh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_thì_hệ_quả_là_gì",
+      "label": "Vậy thì hệ quả là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tiếp_theo_enrich",
+      "label": "Tiếp theo enrich",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_một_trải_nghiệm_tích_cực",
+      "label": "Vậy làm thế nào để có một trải nghiệm tích cực?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_kiến_tạo_được_niềm_vui",
+      "label": "Vậy làm thế nào để kiến tạo được niềm vui,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "ngoài_ra_thì_hãy_hành_động_lương_thiện_tử_tế_mỗi_ngày",
+      "label": "Ngoài ra thì hãy hành động lương thiện, tử tế mỗi ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "cuối_cùng_hãy_coi_cuộc_sống_như_mọi_cơ_hội",
+      "label": "Cuối cùng, hãy coi cuộc sống như mọi cơ hội.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "còn_bạn_thì_là_một_mình_ghép",
+      "label": "Còn bạn thì là một mình ghép",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "và_đây_chính_là_khả_năng_nhìn_sâu",
+      "label": "Và đây chính là khả năng nhìn sâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "vậy_phải_hấp_thụ_điều_gì_đây",
+      "label": "Vậy phải hấp thụ điều gì đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "vậy_thì",
+      "label": "Vậy thì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "bước_cuối_cùng_trong_quá_trình_tái_lập_trình_não_bộ_đó_là_li",
+      "label": "Bước cuối cùng trong quá trình tái lập trình não bộ đó là Link",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "tuy_nhiên_đây_là_một_quá_trình_đòi_hỏi_sự_vững_vàng_nội_tâm",
+      "label": "Tuy nhiên đây là một quá trình đòi hỏi sự vững vàng nội tâm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    }
+  ]
+}

@@ -1,0 +1,253 @@
+{
+  "source_type": "youtube",
+  "word_count": 4265,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_mức_cao_nhất_trong_lịch_sử",
+      "label": "Đây là một mức cao nhất trong lịch sử.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "tại_sao_không_có_đủ_tiền_mà_họ_vẫn_nhậu_nhẹt",
+      "label": "Tại sao không có đủ tiền mà họ vẫn nhậu nhẹt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "tại_sao_trong_những_gia_đình_nghèo_con_cái_của_họ_không_thíc",
+      "label": "Tại sao trong những gia đình nghèo, con cái của họ không thích đi học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đây_là_một_tác_phẩm_đã_đạt_dạy_nobel_kinh_tế_năm_2019",
+      "label": "Đây là một tác phẩm đã đạt dạy Nobel Kinh tế năm 2019.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "một_người_đang_đi_làm_từ_thiện",
+      "label": "Một người đang đi làm từ thiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "thì_đây_chắc_chắn_là_một_cuốn_sách_rất_đáng_để_đọc_và_suy_ng",
+      "label": "Thì đây chắc chắn là một cuốn sách rất đáng để đọc và suy ngẫm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_lý_do_tại_sao_người_nghèo_lại_vẫn_nghèo",
+      "label": "Vậy lý do tại sao người nghèo lại vẫn nghèo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "liệu_bạn_có_thể_giàu_có",
+      "label": "Liệu bạn có thể giàu có?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "bản_chất_của_nghèo_đói_là_gì",
+      "label": "Bản chất của nghèo đói là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "suy_nghĩ_của_người_nghèo_là_gì",
+      "label": "Suy nghĩ của người nghèo là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_sau_đây_thông_qua_cuốn_sách_này",
+      "label": "Vậy sau đây, thông qua cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "trong_cuốn_sách_đường_đến_bến_tàu_wigan_như_thế_này",
+      "label": "trong cuốn sách Đường đến bến tàu Wigan như thế này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "và_lý_do_tiếp_theo_đó_là",
+      "label": "và lý do tiếp theo đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "tv_cũng_giống_như_là_một_người_bạn_tinh_thần",
+      "label": "TV cũng giống như là một người bạn tinh thần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "nhưng_nó_lại_được_cho_là_một_tục_lệ_bắt_buộc_phải_có",
+      "label": "Nhưng nó lại được cho là một tục lệ bắt buộc phải có",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "ngoài_ra_trong_sách_còn_viết_tới_42_hộ_gia_đình_trên_thế_giớ",
+      "label": "Ngoài ra trong sách còn viết tới 42% hộ gia đình trên thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "và_đây_là_một_điều_vô_cùng_quan_trọng_cần_chúng_ta_phải_chú",
+      "label": "Và đây là một điều vô cùng quan trọng cần chúng ta phải chú ý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "tại_sao_người_nghèo_lại_thiếu_hiểu_biết_như_vậy",
+      "label": "Tại sao người nghèo lại thiếu hiểu biết như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "giáo_dục_là_một_trong_những_cách_thoát_nghèo_trọng_yếu",
+      "label": "Giáo dục là một trong những cách thoát nghèo trọng yếu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "tại_sao_những_người_ở_vùng_nghèo_lại_muốn_sinh_nhiều_con_đến",
+      "label": "Tại sao những người ở vùng nghèo lại muốn sinh nhiều con đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "cũng_là_một_lựa_chọn_mang_tính_kinh_tế",
+      "label": "cũng là một lựa chọn mang tính kinh tế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "cuối_cùng_là_khả_năng_đối_phó_với_rủi_ro",
+      "label": "Cuối cùng là khả năng đối phó với rủi ro",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "tại_sao_người_nghèo_vẫn_hoàn_nghèo",
+      "label": "Tại sao người nghèo vẫn hoàn nghèo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_nghèo",
+      "label": "Tại sao chúng ta lại nghèo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "thứ_nhất_nghèo_là_bởi_vì_cha_mẹ_nghèo",
+      "label": "Thứ nhất, nghèo là bởi vì cha mẹ nghèo",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 168",
+      "children": [
+        {
+          "key": "thứ_nhất_nghèo_là_bởi_vì_cha_mẹ_nghèo_item_1",
+          "label": "[Item 1 of Thứ nhất, nghèo là bởi vì cha mẹ nghèo — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_nghèo_là_bởi_vì_cha_mẹ_nghèo_item_2",
+          "label": "[Item 2 of Thứ nhất, nghèo là bởi vì cha mẹ nghèo — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_nghĩ_tới_niềm_thoả_mãn_tinh_thần",
+      "label": "Thứ hai, nghĩ tới niềm thoả mãn tinh thần",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 172",
+      "children": [
+        {
+          "key": "thứ_hai_nghĩ_tới_niềm_thoả_mãn_tinh_thần_item_1",
+          "label": "[Item 1 of Thứ hai, nghĩ tới niềm thoả mãn tinh thần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_nghĩ_tới_niềm_thoả_mãn_tinh_thần_item_2",
+          "label": "[Item 2 of Thứ hai, nghĩ tới niềm thoả mãn tinh thần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_chỉ_làm_những_kế_hoạch_ngắn_hạn",
+      "label": "Thứ ba, chỉ làm những kế hoạch ngắn hạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 178",
+      "children": [
+        {
+          "key": "thứ_ba_chỉ_làm_những_kế_hoạch_ngắn_hạn_item_1",
+          "label": "[Item 1 of Thứ ba, chỉ làm những kế hoạch ngắn hạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_chỉ_làm_những_kế_hoạch_ngắn_hạn_item_2",
+          "label": "[Item 2 of Thứ ba, chỉ làm những kế hoạch ngắn hạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_phòng_tuần_hoàn_chết_và_cũng_chính_là_cặp_bẫy_của",
+      "label": "Đây là một phòng tuần hoàn chết và cũng chính là cặp bẫy của nghèo khó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    }
+  ]
+}
