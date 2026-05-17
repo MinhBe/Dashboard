@@ -1,0 +1,12 @@
+{
+  "device": "cuda",
+  "compute_type": "float16",
+  "beam_size": 3,
+  "audio_duration": 60.0,
+  "denoise_seconds": 4.95,
+  "transcribe_seconds": 34.58,
+  "denoise_sps": 0.0824,
+  "transcribe_sps": 0.5762,
+  "speed_ratio": 0.14,
+  "benchmark_date": "2026-05-14"
+}
