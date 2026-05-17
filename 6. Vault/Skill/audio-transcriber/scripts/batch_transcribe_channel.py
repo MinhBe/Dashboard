@@ -46,7 +46,9 @@ def eprint(*args, **kwargs):
 def run(cmd, capture=False):
     eprint(f"  [{os.path.basename(cmd[0])}] {' '.join(str(a) for a in cmd[1:])}")
     try:
-        result = subprocess.run(cmd, capture_output=capture, text=True)
+        env = os.environ.copy()
+        env["PYTHONIOENCODING"] = "utf-8"
+        result = subprocess.run(cmd, capture_output=capture, text=True, env=env)
         ok = result.returncode == 0
         return (ok, result.stdout, result.stderr) if capture else (ok, "", "")
     except Exception as e:
@@ -573,7 +575,7 @@ def main():
             metadata_json = os.path.join(vid_dir, "metadata.json")
             speakers_json = os.path.join(vid_dir, "speakers.json")
 
-            ok, _, _ = run([
+            run([
                 sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"),
                 clean_wav, "-o", segments_json,
                 "--model-dir", MODELS_DIR,
@@ -581,11 +583,23 @@ def main():
                 "--compute-type", workers["compute_type"],
                 "--beam-size", str(workers["beam_size"]),
             ])
-            if not ok:
+            # Validate segments file regardless of exit code (CUDA cleanup crash)
+            if not os.path.exists(segments_json) or os.path.getsize(segments_json) < 10:
                 with stats_lock:
                     stats["failed"] += 1
                 tr_queue.task_done()
                 eprint(f"  [!] Transcribe failed for {vid}")
+                continue
+            try:
+                with open(segments_json, "r", encoding="utf-8") as f:
+                    data = json.load(f)
+                if "segments" not in data or not isinstance(data["segments"], list):
+                    raise ValueError("no segments")
+            except Exception:
+                with stats_lock:
+                    stats["failed"] += 1
+                tr_queue.task_done()
+                eprint(f"  [!] Transcribe output invalid for {vid}")
                 continue
 
             with stats_lock:

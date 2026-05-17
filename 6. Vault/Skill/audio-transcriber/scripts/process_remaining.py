@@ -10,7 +10,7 @@ from datetime import datetime
 SCRIPTS_DIR = os.path.dirname(os.path.abspath(__file__))
 SKILL_DIR = os.path.normpath(os.path.join(SCRIPTS_DIR, ".."))
 DEFAULT_TEMP = os.path.join(SKILL_DIR, "temp")
-OUTPUT_DIR = r"C:\Projects\Dashboard\1. Capture\Sandbox1"
+OUTPUT_DIR = r"C:\Users\Admin\Documents\Dashboard\1. Capture\Sandbox1"
 REMAINING_JSON = os.path.join(OUTPUT_DIR, "remaining_videos.json")
 PROCESSED_LOG = os.path.join(SKILL_DIR, "processed_videos_fast.log")
 
@@ -34,7 +34,7 @@ def run(cmd):
     try:
         env = os.environ.copy()
         env["PYTHONIOENCODING"] = "utf-8"
-        result = subprocess.run(cmd, capture_output=True, text=False, env=env)
+        result = subprocess.run(cmd, capture_output=False, text=False, env=env)
         return result.returncode == 0
     except Exception as e:
         eprint(f"  [!] Exception: {e}")
@@ -81,9 +81,19 @@ def process_video(video_id, url):
     device = "cuda" if has_cuda else "cpu"
     compute_type = "float16" if has_cuda else "int8"
     segments_json = os.path.join(vid_dir, "segments.json")
-    ok = run([sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"), clean_wav, "-o", segments_json, "--model-dir", MODELS_DIR, "--device", device, "--compute-type", compute_type, "--beam-size", "3"])
-    if not ok:
+    run([sys.executable, os.path.join(SCRIPTS_DIR, "transcribe.py"), clean_wav, "-o", segments_json, "--model-dir", MODELS_DIR, "--device", device, "--compute-type", compute_type, "--beam-size", "3"])
+    # Validate segments file regardless of exit code (CUDA cleanup crash after write)
+    if not os.path.exists(segments_json) or os.path.getsize(segments_json) < 10:
         eprint(f"  [!] Transcribe failed for {video_id}")
+        shutil.rmtree(vid_dir, ignore_errors=True)
+        return False
+    try:
+        with open(segments_json, "r", encoding="utf-8") as f:
+            data = json.load(f)
+        if "segments" not in data or not isinstance(data["segments"], list):
+            raise ValueError("no segments")
+    except Exception:
+        eprint(f"  [!] Transcribe output invalid for {video_id}")
         shutil.rmtree(vid_dir, ignore_errors=True)
         return False
 

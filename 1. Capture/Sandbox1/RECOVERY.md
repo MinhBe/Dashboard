@@ -2,52 +2,39 @@
 
 ## Trạng thái hiện tại
 
-- **Đã xử lý:** 1 video (`1pyR403UKXs` → `Twitch streamer tự hủy sự nghiệp_Fast.md`)
-- **Còn lại:** 369 videos (trong `remaining_videos.json`)
-- **Thời gian mỗi video (CPU int8, 6 threads):** ~18 phút / video 57 phút
-- **Output folder:** `C:\Projects\Dashboard\1. Capture\Sandbox1`
+- **Đã xử lý:** 81 videos (trong `Sandbox1`)
+- **Còn lại:** 290 videos (trong `remaining_videos.json`)
+- **Device:** CUDA (float16) — ~4-6 phút / video
+- **Output folder:** `C:\Users\Admin\Documents\Dashboard\1. Capture\Sandbox1`
+- **Processed log:** `C:\Users\Admin\Documents\Dashboard\6. Vault\Skill\audio-transcriber\processed_videos_fast.log` (215 entries)
 
-## Đã fix
+## Tiếp tục xử lý (Multi Fast)
 
-1. `C:\Projects\Dashboard\6. Vault\Skill\audio-transcriber\scripts\process_remaining.py`:
-   - `OUTPUT_DIR` → `C:\Projects\Dashboard\1. Capture\Sandbox1`
-   - Auto-detect CUDA/CPU (không còn hardcode `--device cuda`)
-   - Thêm `--max N` để giới hạn số video xử lý
-
-## Tiếp tục xử lý tất cả video còn lại
-
-Mở **PowerShell 7** và chạy:
+Mở **PowerShell** và chạy:
 
 ```powershell
-cd C:\Projects\Dashboard\6. Vault\Skill\audio-transcriber
-python scripts/process_remaining.py
+cd C:\Users\Admin\Documents\Dashboard\6. Vault\Skill\audio-transcriber
+python scripts/batch_transcribe_channel.py "https://www.youtube.com/@SiiniClips" -o "C:\Users\Admin\Documents\Dashboard\1. Capture\Sandbox1" --mode fast --quantity multi
 ```
 
-Script sẽ tự động:
-- Đọc `remaining_videos.json` → xử lý từng video
-- Pipeline: download → denoise → transcribe (CPU int8) → format_fast
-- Output: `{title}_Fast.md` vào `Sandbox1`
-- Update JSON sau mỗi video (remove đã xử lý)
-- Ghi log vào `processed_videos_fast.log` (tránh chạy lại)
+Pipeline tự động:
+- Tải toàn bộ video từ kênh
+- Bỏ qua video đã xử lý (trong `processed_videos_fast.log`)
+- Multi workers: download + denoise song song, GPU transcribe 1 worker
+- Output `{title}_Fast.md` vào Sandbox1
+- Ghi log vào `processed_videos_fast.log`
 
-## Test với 1 video (để kiểm tra)
+## Chạy Solo (thủ công từng cái)
+
+Dùng `process_remaining.py` nếu muốn chạy tuần tự theo `remaining_videos.json`:
 
 ```powershell
-python scripts/process_remaining.py --max 1
+python scripts/process_remaining.py --max 1   # test 1 video
+python scripts/process_remaining.py            # tất cả tuần tự
 ```
 
-## Output format
+## Ghi chú
 
-File `*_Fast.md`:
-```
-### [FAST] Transcript: {title}
-- **Nguồn:** {url}
-- **Ngày:** DD/MM/YYYY
-- **Ngôn ngữ:** {language}
-
----
-
-[00:00] {text}
-[00:05] {text}
-...
-```
+- CUDA crash ở transcribe cleanup đã được fix (validate file thay vì exit code)
+- `process_remaining.py` dùng `remaining_videos.json` làm source of truth
+- `batch_transcribe_channel.py` dùng `processed_videos_fast.log` làm source of truth

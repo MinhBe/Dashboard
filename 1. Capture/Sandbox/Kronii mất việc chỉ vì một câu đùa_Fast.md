@@ -1,6 +1,6 @@
 ### [FAST] Transcript: Kronii "mất việc" chỉ vì một câu đùa
 - **Nguồn:** https://www.youtube.com/watch?v=Sylq7Xf9C9I
-- **Ngày:** 14/05/2026
+- **Ngày:** 14/05/2026 
 - **Ngôn ngữ:** vi
 
 ---
