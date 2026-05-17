@@ -1,0 +1,44 @@
+{
+  "source_type": "youtube",
+  "word_count": 2521,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "đó_cũng_chính_là_một_pocket_list",
+      "label": "Đó cũng chính là một pocket list.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "điều_này_là_một_lẽ_thương_tình_trong_cuộc_đời_mà_ai_cũng_biế",
+      "label": "Điều này là một lẽ thương tình trong cuộc đời mà ai cũng biết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "tim_arvin_là_một_người_sáng_lập_trên_trang_web_wait_but_why",
+      "label": "Tim Arvin là một người sáng lập trên trang web Wait But Why.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "và_tim_cũng_là_một_người_rất_tài_giỏi",
+      "label": "Và Tim cũng là một người rất tài giỏi,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đây_cũng_là_một_việc_vô_cùng_quan_trọng",
+      "label": "Đây cũng là một việc vô cùng quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    }
+  ]
+}

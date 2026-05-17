@@ -1,0 +1,116 @@
+{
+  "source_type": "youtube",
+  "word_count": 4175,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_là_vào_lễ_đình_hôn_của_hai_người",
+      "label": "Vậy là vào lễ đình hôn của hai người,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "và_đó_cũng_không_phải_là_một_tình_yêu_thực_sự",
+      "label": "Và đó cũng không phải là một tình yêu thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "với_những_gì_chưa_đạt_được",
+      "label": "Với những gì chưa đạt được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "bởi_con_người_là_một_động_vật_rất_kỳ_lạ",
+      "label": "Bởi con người là một động vật rất kỳ lạ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "màu_đỏ_lại_là_một_nốt_ruồi_son_trong_tim",
+      "label": "Màu đỏ lại là một nốt ruồi son trong tim",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_sau_câu_chuyện_tình_của_scarlett",
+      "label": "Vậy sau câu chuyện tình của Scarlett",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cuối_cùng_chỉ_có_thể_bị_mắc_kẹt_trong",
+      "label": "cuối cùng chỉ có thể bị mắc kẹt trong",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "cuối_cùng_chỉ_có_thể_bị_mắc_kẹt_trong_item_1",
+          "label": "[Item 1 of cuối cùng chỉ có thể bị mắc kẹt trong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_chỉ_có_thể_bị_mắc_kẹt_trong_item_2",
+          "label": "[Item 2 of cuối cùng chỉ có thể bị mắc kẹt trong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_có_thể_ảnh_hưởng_đến_phong_trào_nữ_quyền",
+      "label": "Tại sao có thể ảnh hưởng đến phong trào nữ quyền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "cô_từng_là_một_tiểu_thư_quý_tộc",
+      "label": "Cô từng là một tiểu thư quý tộc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "ngày_mai_vẫn_sẽ_là_một_ngày_mới",
+      "label": "Ngày mai vẫn sẽ là một ngày mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "con_người_là_một_thể_mâu_thuẫn_sâu_sắc",
+      "label": "Con người là một thể mâu thuẫn sâu sắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "cô_nói_rằng",
+      "label": "Cô nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "ngày_mai_vẫn_sẽ_là_một_ngày_mới",
+      "label": "Ngày mai vẫn sẽ là một ngày mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    }
+  ]
+}

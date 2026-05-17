@@ -1,0 +1,46 @@
+{
+  "source_type": "youtube",
+  "word_count": 296,
+  "estimated_leaf_nodes": 4,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 4 leaves >= 3 minimum (youtube/short)",
+  "tree": [
+    {
+      "key": "hiệu_ứng_tâm_lý_hamburger_là_gì",
+      "label": "Hiệu ứng tâm lý hamburger là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 0",
+      "children": [
+        {
+          "key": "hiệu_ứng_tâm_lý_hamburger_là_gì_item_1",
+          "label": "[Item 1 of Hiệu ứng tâm lý hamburger là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hiệu_ứng_tâm_lý_hamburger_là_gì_item_2",
+          "label": "[Item 2 of Hiệu ứng tâm lý hamburger là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trong_cuốn_sách_giao_tiếp_phi_bạo_lực_có_viết",
+      "label": "Trong cuốn sách Giao tiếp phi bạo lực có viết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "mà_quên_mất_mục_đích_cuối_cùng_mình_muốn_triển_tải_là_gì",
+      "label": "Mà quên mất mục đích cuối cùng mình muốn triển tải là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    }
+  ]
+}

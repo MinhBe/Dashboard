@@ -1,0 +1,51 @@
+{
+  "domain": "book",
+  "bloom_target": "understand",
+  "depth_level": 1,
+  "parent_concept": null,
+  "contradictions": [],
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Better Version",
+    "source_section": "phút 25-30",
+    "trust_level": "EXTRACTED",
+    "flags": [],
+    "argument_flow": "problem → solution overview → acronym introduction (HEAL)",
+    "core_question": "Phương pháp HEAL là gì và nó giúp ích gì trong việc tái lập trình não bộ?",
+    "extracted": "Phương pháp rèn luyện mạch não viết tắt với 4 từ: Đầu tiên là chữ cái H (Have - Có được), tiếp theo là E (Enrich - Làm phong phú), A (Absorb - Hấp thụ) và cuối cùng là L (Link - Liên kết). Đây là lộ trình để chuyển đổi các trải nghiệm tích cực nhất thời thành các cấu trúc não bộ bền vững.",
+    "anchor_story": "Nhiều người trải qua niềm vui nhưng nó trôi đi rất nhanh vì chỉ dừng lại ở bước 'Have' mà không thực hiện các bước tiếp theo để 'Hấp thụ' nó vào não bộ.",
+    "falsifiability": "Nếu việc thực hiện đủ 4 bước này không làm tăng mức độ hạnh phúc tự thân so với việc chỉ đơn thuần có trải nghiệm tích cực, thì quy trình HEAL sẽ không có giá trị gia tăng.",
+    "tiers": {
+      "child": "HEAL giống như việc con trồng một cái cây. H là chọn hạt giống tốt, E là tưới nước cho cây lớn, A là để rễ cây bám sâu vào đất, và L là dùng cây đó để che bóng mát cho những vùng đất khô cằn.",
+      "student": "Phương pháp HEAL là quy trình 4 bước để tối ưu hóa tính dẻo thần kinh. Nó giúp chuyển đổi các trạng thái tâm trí (states) thành các đặc tính thần kinh (traits). Nếu không có E, A, L, các trải nghiệm tích cực chỉ là dữ liệu tạm thời trong bộ nhớ đệm và sớm bị xóa bỏ bởi thiên kiến tiêu cực.",
+      "expert": "HEAL là một giao thức can thiệp vào quá trình củng cố trí nhớ (memory consolidation). Bằng cách kéo dài thời gian chú ý (Enrich) và chủ động thầm thấu cảm xúc (Absorb), chúng ta tăng cường sự truyền tin qua synapse và thúc đẩy các thay đổi về mặt hóa thần kinh, cuối cùng dẫn đến sự tái cấu trúc mạch thần kinh thông qua việc thay thế các mô thức tiêu cực (Link)."
+    },
+    "misconception_seeds": [
+      "Chỉ cần nghĩ về điều tốt đẹp (Have) là đủ — sai vì nếu không làm giàu và hấp thụ, trải nghiệm sẽ không để lại dấu vết bền vững trên não.",
+      "HEAL là phương pháp xóa bỏ hoàn toàn ký ức buồn — sai vì bước Link là để chữa lành và thay đổi phản ứng với ký ức, chứ không phải xóa sổ quá khứ."
+    ],
+    "transfer_question": "Tại sao một người thường xuyên đi du lịch (có nhiều trải nghiệm tích cực) nhưng vẫn có thể cảm thấy không hạnh phúc nếu thiếu các bước E, A, L?",
+    "dig_deeper_questions": {
+      "apply": "Chọn một niềm vui nhỏ trong ngày và thử nhẩm tên 4 bước HEAL khi đang trải nghiệm nó.",
+      "analyze": "Phân tích tại sao bước 'Absorb' (Hấp thụ) lại là bước quan trọng nhất để thay đổi bản sắc cá nhân.",
+      "evaluate": "Đánh giá sự khác biệt giữa việc thực hiện HEAL một cách tự phát và thực hiện có kỷ luật hàng ngày.",
+      "create": "Viết một bài hướng dẫn ngắn về HEAL cho một người bạn đang gặp căng thẳng."
+    },
+    "next_actions": [
+      "Ghi nhớ ý nghĩa của 4 chữ cái H, E, A, L.",
+      "Dán một tờ giấy nhắc nhở chữ 'HEAL' tại bàn làm việc."
+    ],
+    "open_questions": [],
+    "last_reextracted": "2026-05-15"
+  },
+  "learner_state": {
+    "belief_prior": null,
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "consecutive_correct": 0,
+    "hint_fails_total": 0,
+    "needs_restructure": false,
+    "next_review": null,
+    "personal_misconceptions": {}
+  }
+}

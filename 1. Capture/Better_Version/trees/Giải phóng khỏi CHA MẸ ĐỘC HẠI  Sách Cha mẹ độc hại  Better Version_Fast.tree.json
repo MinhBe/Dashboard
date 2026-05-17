@@ -1,0 +1,303 @@
+{
+  "source_type": "youtube",
+  "word_count": 7857,
+  "estimated_leaf_nodes": 33,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 33 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_là_chúng_ta_biết_rằng_mình_cũng_có_thể_nói_xấu_người_khá",
+      "label": "Vậy là chúng ta biết rằng mình cũng có thể nói xấu người khác sau lưng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "bước_chân_vào_xã_hội",
+      "label": "Bước chân vào xã hội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "trong_cuốn_sách_này_tác_giả_sẽ_giúp_chúng_ta_nhìn_nhận",
+      "label": "Trong cuốn sách này, tác giả sẽ giúp chúng ta nhìn nhận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "tại_sao_mẹ_cô_ấy_lại_nói_như_vậy",
+      "label": "Tại sao mẹ cô ấy lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "cả_gia_đình_đã_phát_điên",
+      "label": "Cả gia đình đã phát điên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "cuối_cùng_sandy_chỉ_có_cách_phá_thai",
+      "label": "Cuối cùng Sandy chỉ có cách phá thai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "tại_sao_sandy_lại_có_thể_đưa_mình_lấn_sâu_vào_tổn_thương_như",
+      "label": "Tại sao Sandy lại có thể đưa mình lấn sâu vào tổn thương như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tại_sao_con_không_thể_sống_cuộc_sống_của_chính_mình",
+      "label": "Tại sao con không thể sống cuộc sống của chính mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "nhưng_tại_sao_vẫn_bắt_chúng_làm_theo_ý_mình",
+      "label": "Nhưng tại sao vẫn bắt chúng làm theo ý mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "điều_này_như_là_một_nhu_cầu_bẩm_sinh",
+      "label": "Điều này như là một nhu cầu bẩm sinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "bởi_nghiện_rượu_là_một_điều_đáng_xấu_hổ",
+      "label": "bởi nghiện rượu là một điều đáng xấu hổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "bên_cạnh_đó_những_nhu_cầu_không_được_đáp_ứng_của_trẻ",
+      "label": "Bên cạnh đó, những nhu cầu không được đáp ứng của trẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "ngoài_ra_còn_có_một_số_hành_vi_tinh_vi_hơn_nhiều",
+      "label": "Ngoài ra còn có một số hành vi tinh vi hơn nhiều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "loạn_luân_là_một_tội_ác_nhưng_tại_sao_cha_mẹ_lại_loạn_luân_v",
+      "label": "Loạn luân là một tội ác nhưng tại sao cha mẹ lại loạn luân về con cái",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 140",
+      "children": [
+        {
+          "key": "loạn_luân_là_một_tội_ác_nhưng_tại_sao_cha_mẹ_lại_loạn_luân_v_item_1",
+          "label": "[Item 1 of Loạn luân là một tội ác nhưng tại sao cha mẹ lại loạn luân về con cái — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "loạn_luân_là_một_tội_ác_nhưng_tại_sao_cha_mẹ_lại_loạn_luân_v_item_2",
+          "label": "[Item 2 of Loạn luân là một tội ác nhưng tại sao cha mẹ lại loạn luân về con cái — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_tôi_là_tất_cả_đối_với_bố_mẹ",
+      "label": "Thứ ba, tôi là tất cả đối với bố mẹ.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 154",
+      "children": [
+        {
+          "key": "thứ_ba_tôi_là_tất_cả_đối_với_bố_mẹ_item_1",
+          "label": "[Item 1 of Thứ ba, tôi là tất cả đối với bố mẹ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tôi_là_tất_cả_đối_với_bố_mẹ_item_2",
+          "label": "[Item 2 of Thứ ba, tôi là tất cả đối với bố mẹ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_bố_mẹ_không_thể_sống_thiếu_tôi",
+      "label": "Thứ tư, bố mẹ không thể sống thiếu tôi.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 156",
+      "children": [
+        {
+          "key": "thứ_tư_bố_mẹ_không_thể_sống_thiếu_tôi_item_1",
+          "label": "[Item 1 of Thứ tư, bố mẹ không thể sống thiếu tôi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_bố_mẹ_không_thể_sống_thiếu_tôi_item_2",
+          "label": "[Item 2 of Thứ tư, bố mẹ không thể sống thiếu tôi. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_năm_tôi_không_thể_sống_thiếu_bố_mẹ",
+      "label": "Thứ năm, tôi không thể sống thiếu bố mẹ.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 158",
+      "children": [
+        {
+          "key": "thứ_năm_tôi_không_thể_sống_thiếu_bố_mẹ_item_1",
+          "label": "[Item 1 of Thứ năm, tôi không thể sống thiếu bố mẹ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_năm_tôi_không_thể_sống_thiếu_bố_mẹ_item_2",
+          "label": "[Item 2 of Thứ năm, tôi không thể sống thiếu bố mẹ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_bảy_nếu_tôi_chống_lại_bố_mẹ_tôi_sẽ_mất_họ_mãi_mãi",
+      "label": "Thứ bảy, nếu tôi chống lại bố mẹ, tôi sẽ mất họ mãi mãi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "thứ_mười_cảm_giác_của_bố_mẹ_quan_trọng_hơn_cảm_giác_của_tôi",
+      "label": "Thứ mười, cảm giác của bố mẹ quan trọng hơn cảm giác của tôi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 168",
+      "children": [
+        {
+          "key": "thứ_mười_cảm_giác_của_bố_mẹ_quan_trọng_hơn_cảm_giác_của_tôi_item_1",
+          "label": "[Item 1 of Thứ mười, cảm giác của bố mẹ quan trọng hơn cảm giác của tôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_mười_cảm_giác_của_bố_mẹ_quan_trọng_hơn_cảm_giác_của_tôi_item_2",
+          "label": "[Item 2 of Thứ mười, cảm giác của bố mẹ quan trọng hơn cảm giác của tôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_3_đó_là_không_phòng_thuộc",
+      "label": "Điều thứ 3 đó là không phòng thuộc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "ngoài_ra_áp_dụng_cách_phản_ứng_không_phòng_thủ",
+      "label": "Ngoài ra áp dụng cách phản ứng không phòng thủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "quan_điểm_mấu_chốt_của_bạn_là_gì",
+      "label": "Quan điểm mấu chốt của bạn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "đầu_tiên_bạn_phải_tìm_một_thời_gian_riêng_tư",
+      "label": "Đầu tiên, bạn phải tìm một thời gian riêng tư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 212"
+    },
+    {
+      "key": "cuối_cùng_hãy_đọc_kỹ_nội_dung_này",
+      "label": "Cuối cùng, hãy đọc kỹ nội dung này",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 216",
+      "children": [
+        {
+          "key": "cuối_cùng_hãy_đọc_kỹ_nội_dung_này_item_1",
+          "label": "[Item 1 of Cuối cùng, hãy đọc kỹ nội dung này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_hãy_đọc_kỹ_nội_dung_này_item_2",
+          "label": "[Item 2 of Cuối cùng, hãy đọc kỹ nội dung này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_phải_thay_đổi_quan_niệm_và_khẳng_định_lại",
+      "label": "Thứ ba, phải thay đổi quan niệm và khẳng định lại",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 232",
+      "children": [
+        {
+          "key": "thứ_ba_phải_thay_đổi_quan_niệm_và_khẳng_định_lại_item_1",
+          "label": "[Item 1 of Thứ ba, phải thay đổi quan niệm và khẳng định lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_phải_thay_đổi_quan_niệm_và_khẳng_định_lại_item_2",
+          "label": "[Item 2 of Thứ ba, phải thay đổi quan niệm và khẳng định lại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "rồi_cuối_cùng_cũng_là_một_phần_quan_trọng_không_kém",
+      "label": "Rồi cuối cùng cũng là một phần quan trọng không kém",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 238"
+    }
+  ]
+}

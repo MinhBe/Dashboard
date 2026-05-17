@@ -1,0 +1,121 @@
+{
+  "source_type": "youtube",
+  "word_count": 4400,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tuy_nhiên_không_phải_ai_cũng_hiểu_rõ_về_thiền_tránh_niệm_là",
+      "label": "Tuy nhiên không phải ai cũng hiểu rõ về thiền tránh niệm là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "bạn_có_bao_giờ_thắc_mắc_thiền_rốt_cuộc_là_gì",
+      "label": "Bạn có bao giờ thắc mắc Thiền rốt cuộc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "và_thiền_có_thực_sự_giúp_tôi_vượt_qua_lo_âu_căng_thẳng_được",
+      "label": "Và Thiền có thực sự giúp tôi vượt qua lo âu căng thẳng được hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "còn_tránh_niệm_là_khả_năng_nhận_thức_ý_thức_đầy_đủ",
+      "label": "Còn tránh niệm là khả năng nhận thức, ý thức đầy đủ,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_hãy_để_ánh_sáng_của_tránh_niệm",
+      "label": "vậy hãy để ánh sáng của tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_thì_đối_diện_với_những_suy_nghĩ_kiểu_như_thế_này",
+      "label": "Vậy thì đối diện với những suy nghĩ kiểu như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "lúc_nào_cũng_chỉ_trách_móc",
+      "label": "lúc nào cũng chỉ trách móc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tại_sao_anh_ấy_lại_đối_xử_với_tôi_như_vậy",
+      "label": "tại sao anh ấy lại đối xử với tôi như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "với_ngựa_hoang_dù_có_sức_mạnh_bao_nhiêu",
+      "label": "Với ngựa hoang dù có sức mạnh bao nhiêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "hay_thậm_chí_là_một_tay_huấn_luyện_chuyên_nghiệp",
+      "label": "Hay thậm chí là một tay huấn luyện chuyên nghiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_nên_hãy_sử_dụng_một_sợi_dây_cương_đủ_dài",
+      "label": "Vậy nên hãy sử dụng một sợi dây cương đủ dài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "tại_sao_con_thực_hành_thiền_định_đã_lâu",
+      "label": "Tại sao con thực hành thiền định đã lâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "thì_đó_là_một_hành_trình_vô_vọng",
+      "label": "Thì đó là một hành trình vô vọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_thì_đối_với_buồn_phiền_lo_âu_cũng_như_vậy",
+      "label": "Vậy thì đối với buồn phiền lo âu cũng như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vậy_nên_một_lần_kia_có_nhà_tài_trợ_đến_tặng_cho_chùa_1_xe_ke",
+      "label": "vậy nên một lần kia có nhà tài trợ đến tặng cho chùa 1 xe kem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_nên_hãy_buông_bỏ_mọi_đấu_tranh",
+      "label": "Vậy nên hãy buông bỏ mọi đấu tranh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    }
+  ]
+}

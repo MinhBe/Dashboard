@@ -1,0 +1,194 @@
+{
+  "source_type": "youtube",
+  "word_count": 3882,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "tại_sao_lại_như_vậy_item_1",
+          "label": "[Item 1 of Tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_lại_như_vậy_item_2",
+          "label": "[Item 2 of Tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_nhận_về_là_kết_cục_như_thế_này",
+      "label": "Cuối cùng nhận về là kết cục như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "bước_vào_khu_vực_the_zone_trạng_thái_nhẹ_nhàng",
+      "label": "Bước vào khu vực The Zone, trạng thái nhẹ nhàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "chiến_lược_này_có_tên_vào_khu_vực_của_mình",
+      "label": "Chiến lược này có tên vào khu vực của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "đầu_tiên_đó_là",
+      "label": "Đầu tiên đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "và_chúng_ta_dần_không_quan_tâm_đến_những_nghi_thức_truyền_th",
+      "label": "Và chúng ta dần không quan tâm đến những nghi thức truyền thống nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tiếp_theo_nghỉ_ngơi_ngắn_giữa_các_giai_đoạn_làm_việc",
+      "label": "Tiếp theo nghỉ ngơi ngắn giữa các giai đoạn làm việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "ngoài_ra_giấc_ngủ_cũng_rất_quan_trọng",
+      "label": "Ngoài ra giấc ngủ cũng rất quan trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 66",
+      "children": [
+        {
+          "key": "ngoài_ra_giấc_ngủ_cũng_rất_quan_trọng_item_1",
+          "label": "[Item 1 of Ngoài ra giấc ngủ cũng rất quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_giấc_ngủ_cũng_rất_quan_trọng_item_2",
+          "label": "[Item 2 of Ngoài ra giấc ngủ cũng rất quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_chính_là_một_vòng_xoáy_đi_xuống",
+      "label": "Đây chính là một vòng xoáy đi xuống.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "và_giải_pháp_tốt_nhất_ở_đây_là_gì_đó_chính_là_lòng_biết_ơn",
+      "label": "Và giải pháp tốt nhất ở đây là gì? Đó chính là lòng biết ơn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "đây_là_một_cách_vô_cùng_hữu_hiệu",
+      "label": "Đây là một cách vô cùng hữu hiệu.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "thứ_hai_thả_lỏng_cơ_thể_trong_vòng_2_phút",
+      "label": "Thứ hai, thả lỏng cơ thể trong vòng 2 phút",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "thứ_hai_thả_lỏng_cơ_thể_trong_vòng_2_phút_item_1",
+          "label": "[Item 1 of Thứ hai, thả lỏng cơ thể trong vòng 2 phút — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_thả_lỏng_cơ_thể_trong_vòng_2_phút_item_2",
+          "label": "[Item 2 of Thứ hai, thả lỏng cơ thể trong vòng 2 phút — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_thả_lỏng_tâm_trí",
+      "label": "Thứ ba, thả lỏng tâm trí",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 100",
+      "children": [
+        {
+          "key": "thứ_ba_thả_lỏng_tâm_trí_item_1",
+          "label": "[Item 1 of Thứ ba, thả lỏng tâm trí — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_thả_lỏng_tâm_trí_item_2",
+          "label": "[Item 2 of Thứ ba, thả lỏng tâm trí — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_buông_bỏ_hoàn_hận_trong_2_phút",
+      "label": "Thứ tư, buông bỏ hoàn hận trong 2 phút",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "thứ_tư_buông_bỏ_hoàn_hận_trong_2_phút_item_1",
+          "label": "[Item 1 of Thứ tư, buông bỏ hoàn hận trong 2 phút — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_buông_bỏ_hoàn_hận_trong_2_phút_item_2",
+          "label": "[Item 2 of Thứ tư, buông bỏ hoàn hận trong 2 phút — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_5_cảm_nhận_lòng_biết_ơn_trong_2_phút",
+      "label": "Điều thứ 5, cảm nhận lòng biết ơn trong 2 phút",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    }
+  ]
+}

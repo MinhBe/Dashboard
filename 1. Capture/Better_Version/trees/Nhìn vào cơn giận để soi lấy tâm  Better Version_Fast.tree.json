@@ -1,0 +1,116 @@
+{
+  "source_type": "youtube",
+  "word_count": 4853,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nói_như_là_một_lời_thù_thì_đầy_yêu_thương",
+      "label": "Nói như là một lời thù thì đầy yêu thương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đây_không_phải_là_một_lời_ăn_uổi_đơn_thuần_cho_bản_thân",
+      "label": "Đây không phải là một lời ăn uổi đơn thuần cho bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "ngoài_ra_ông_cũng_là_một_họa_sĩ_tài_hoa",
+      "label": "Ngoài ra, ông cũng là một họa sĩ tài hoa.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "cho_dù_đó_chỉ_là_một_lời_nói_cháy_tai_một_hành_động_vụn_về",
+      "label": "Cho dù đó chỉ là một lời nói cháy tai, một hành động vụn về",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_thì_phải_làm_gì_để_nâng_cao_điểm_sôi",
+      "label": "Vậy thì phải làm gì để nâng cao điểm sôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cuối_cùng_là_những_khác_biệt_trong_thói_quen_và_lối_sống",
+      "label": "Cuối cùng là những khác biệt trong thói quen và lối sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "thứ_nhất_nỗi_ám_ảnh_về_cảm_giác_công_bằng",
+      "label": "Thứ nhất, nỗi ám ảnh về cảm giác công bằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 48",
+      "children": [
+        {
+          "key": "thứ_nhất_nỗi_ám_ảnh_về_cảm_giác_công_bằng_item_1",
+          "label": "[Item 1 of Thứ nhất, nỗi ám ảnh về cảm giác công bằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_nỗi_ám_ảnh_về_cảm_giác_công_bằng_item_2",
+          "label": "[Item 2 of Thứ nhất, nỗi ám ảnh về cảm giác công bằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nó_chỉ_là_một_ảo_tưởng_mà_thôi",
+      "label": "Nó chỉ là một ảo tưởng mà thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "với_tư_cách_là_một_người_trưởng_thành_chúng_ta_cần_hiểu_rằng",
+      "label": "Với tư cách là một người trưởng thành, chúng ta cần hiểu rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_thì_điểm_cân_bằng_đó_đến_từ_đâu",
+      "label": "Vậy thì điểm cân bằng đó đến từ đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_mà_còn_đêm_ra_dạy_người_khác_à",
+      "label": "Vậy mà còn đêm ra dạy người khác à?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "phải_nói_đây_là_một_vấn_đề_rất_khó",
+      "label": "Phải nói đây là một vấn đề rất khó.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "tại_sao_lại_như_thế_không_ai_thích_cảm_giác_bị_phủ_định",
+      "label": "Tại sao lại như thế? Không ai thích cảm giác bị phủ định.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    }
+  ]
+}

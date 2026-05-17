@@ -1,0 +1,121 @@
+{
+  "source_type": "youtube",
+  "word_count": 4493,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_chuyện_ngắn_kinh_điển_được_lưu_truyền_mạnh_mẽ",
+      "label": "Đây là một chuyện ngắn kinh điển được lưu truyền mạnh mẽ,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "nó_không_còn_là_một_điều_viền_vông_nữa",
+      "label": "Nó không còn là một điều viền vông nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đầu_tiên_của_anh_ấy_không_phải_là_hoảng_loạn",
+      "label": "đầu tiên của anh ấy không phải là hoảng loạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tại_sao_anh_ấy_lại_có_suy_nghĩ_như_vậy",
+      "label": "Tại sao anh ấy lại có suy nghĩ như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "trên_chúc_trong_dòng_xe_cổ_để_trở_về_nhà",
+      "label": "Trên chúc trong dòng xe cổ Để trở về nhà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "mỗi_ngày_giống_như_là_một_cỗ_máy_không_linh_hồn",
+      "label": "Mỗi ngày giống như là một cỗ máy không linh hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "cuối_cùng_phải_công_nhận_một_điều_rằng",
+      "label": "Cuối cùng phải công nhận một điều rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vẫn_là_một_câu_nói_mà_mình_đã_từng_chia_sẻ",
+      "label": "Vẫn là một câu nói mà mình đã từng chia sẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "nhân_vật_chính_là_một_nhân_viên_công_sò",
+      "label": "Nhân vật chính là một nhân viên công sò",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "cuối_cùng_chỉ_biết_nói_rằng",
+      "label": "Cuối cùng chỉ biết nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "cuối_cùng_thì_anh_ấy_đã_phải_nói_ra_lời_thú_nhẫn_đau_lòng_rằ",
+      "label": "Cuối cùng thì anh ấy đã phải nói ra lời thú nhẫn đau lòng rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "và_nếu_như_chúng_ta_sống_chỉ_để_làm_hài_lòng_những_kỳ_vọng_ấ",
+      "label": "Và nếu như chúng ta sống chỉ để làm hài lòng những kỳ vọng ấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "tại_sao_lại_để_người_khác_định_nghĩa_giá_trị_của_bạn",
+      "label": "Tại sao lại để người khác định nghĩa giá trị của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "thì_anh_ấy_giống_như_là_một_quả_bom_hẹn_giờ_trong_nhà",
+      "label": "Thì anh ấy giống như là một quả bom hẹn giờ trong nhà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "kèm_theo_đó_là_một_thái_độ_ngày_càng_tệ_đi",
+      "label": "Kèm theo đó là một thái độ ngày càng tệ đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "tại_sao_nỗi_bất_hạnh_lại_xảy_ra_với_một_con_người_tận_tụy_đế",
+      "label": "Tại sao nỗi bất hạnh lại xảy ra với một con người tận tụy đến như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    }
+  ]
+}

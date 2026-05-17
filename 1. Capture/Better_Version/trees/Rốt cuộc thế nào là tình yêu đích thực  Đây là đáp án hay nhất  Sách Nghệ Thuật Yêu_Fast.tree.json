@@ -1,0 +1,156 @@
+{
+  "source_type": "youtube",
+  "word_count": 5219,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_bạn_lại_thất_bại_khi_yêu",
+      "label": "Tại sao bạn lại thất bại khi yêu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "có_nghĩa_là_gì",
+      "label": "Có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tại_sao_thời_đại_bây_giờ_tình_yêu_lại_dễ_dàng_xảy_ra",
+      "label": "tại sao thời đại bây giờ tình yêu lại dễ dàng xảy ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "điều_thứ_2_đó_là",
+      "label": "Điều thứ 2 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "nhưng_đó_là_một_quan_niệm_sai_lầm",
+      "label": "nhưng đó là một quan niệm sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_tại_sao_lại_là_nghệ_thuật",
+      "label": "Vậy tại sao lại là nghệ thuật?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "đây_là_một_sự_thủ_động_điển_hình",
+      "label": "Đây là một sự thủ động điển hình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tình_yêu_thực_sự_là_một_hành_vi_đặc_biệt_tích_cực",
+      "label": "Tình yêu thực sự là một hành vi đặc biệt tích cực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_thế_nào_mới_thực_sự_là_cho_đi",
+      "label": "Vậy thế nào mới thực sự là cho đi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "vậy_thì_xin_hãy_tự_hỏi_bây_giờ_bạn_có_tràn_chế_năng_lượng_số",
+      "label": "Vậy thì xin hãy tự hỏi, bây giờ bạn có tràn chế năng lượng sống không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "tình_yêu_là_một_thứ_phát_triển_bên_trong_tâm_hồn_chúng_ta",
+      "label": "Tình yêu là một thứ phát triển bên trong tâm hồn chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_tiếp_theo_hãy_cùng_xem_như_thế_nào_mới_là_một_tình_yêu_đ",
+      "label": "Vậy tiếp theo, hãy cùng xem như thế nào mới là một tình yêu đích thực?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "mối_quan_hệ_cộng_sinh_là_gì",
+      "label": "Mối quan hệ cộng sinh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "khi_còn_là_một_thai_nhi",
+      "label": "Khi còn là một thai nhi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "nguyên_tắc_yêu_thương_của_cha_là",
+      "label": "Nguyên tắc yêu thương của cha là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "thì_đó_chỉ_là_một_trò_giải_trí_thú_vị",
+      "label": "thì đó chỉ là một trò giải trí thú vị.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "đây_là_vấn_đề_sống_con_của_loài_người",
+      "label": "Đây là vấn đề sống con của loài người.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "trong_cuốn_sách_yến_hội_của_blayton_đã_viết_như_thế_này",
+      "label": "Trong cuốn sách Yến hội của Blayton đã viết như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "tình_yêu_chính_là_câu_trả_lời_hoàn_hảo",
+      "label": "Tình yêu chính là câu trả lời hoàn hảo.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "tự_ái_là_gì",
+      "label": "Tự ái là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "cuối_cùng_để_biết_rằng_tình_yêu_đích_thực_là_cho_đi",
+      "label": "Cuối cùng, để biết rằng tình yêu đích thực là cho đi,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    }
+  ]
+}

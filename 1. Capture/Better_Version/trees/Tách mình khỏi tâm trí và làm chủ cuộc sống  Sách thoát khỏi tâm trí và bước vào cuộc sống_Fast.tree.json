@@ -1,0 +1,167 @@
+{
+  "source_type": "youtube",
+  "word_count": 5574,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_tại_sao_lại_như_thế",
+      "label": "Vậy thì tại sao lại như thế?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_có_tâm_lý_sợ_hãi",
+      "label": "Tại sao chúng ta lại có tâm lý sợ hãi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "tại_sao_đầu_óc_khiến_bạn_ngày_càng",
+      "label": "Tại sao đầu óc khiến bạn ngày càng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "tại_sao_đầu_óc_khiến_bạn_ngày_càng_item_1",
+          "label": "[Item 1 of Tại sao đầu óc khiến bạn ngày càng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_đầu_óc_khiến_bạn_ngày_càng_item_2",
+          "label": "[Item 2 of Tại sao đầu óc khiến bạn ngày càng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_khi_chìm_vào_cặp_bẫy_thư_duy_bạn_sẽ_khó_có_thể_tho",
+      "label": "cuối cùng khi chìm vào cặp bẫy thư duy, bạn sẽ khó có thể thoát ra.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "thứ_nhất_việc_cần_làm_đầu_tiên",
+      "label": "Thứ nhất việc cần làm đầu tiên",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "thứ_nhất_việc_cần_làm_đầu_tiên_item_1",
+          "label": "[Item 1 of Thứ nhất việc cần làm đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_việc_cần_làm_đầu_tiên_item_2",
+          "label": "[Item 2 of Thứ nhất việc cần làm đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "luôn_là_trạng_thái_tốt_nhất_cho_con_người",
+      "label": "Luôn là trạng thái tốt nhất cho con người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "chấp_nhận_và_tích_cực_nghĩa_là_gì",
+      "label": "Chấp nhận và tích cực nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "cảm_xúc_chỉ_là_một_phần_trong_bạn",
+      "label": "Cảm xúc chỉ là một phần trong bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "tiếp_theo_trong_liệu_pháp_chấp_nhận_và_cam_kết",
+      "label": "Tiếp theo trong liệu pháp chấp nhận và cam kết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "hợp_nhất_nhận_thức_là_gì",
+      "label": "Hợp nhất nhận thức là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "tại_sao_suy_nghĩ_lại_khó_thay_đổi_thiền_vậy",
+      "label": "Tại sao suy nghĩ lại khó thay đổi thiền vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "phương_pháp_quan_trọng_đầu_tiên_để_chúng_ta_có_thể_tách_rời",
+      "label": "Phương pháp quan trọng đầu tiên để chúng ta có thể tách rời nhận thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "phương_pháp_camera_trên_tường",
+      "label": "Phương pháp camera trên tường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "giờ_đây_nó_chỉ_là_một_âm_thanh_kỳ_lạ_được_phát_âm_ra",
+      "label": "Giờ đây nó chỉ là một âm thanh kỳ lạ được phát âm ra.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "chẳng_có_gì_to_thất_cả",
+      "label": "Chẳng có gì to thất cả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "nó_có_thể_chỉ_là_một_cục_sắt_đen_đen",
+      "label": "Nó có thể chỉ là một cục sắt đen đen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "và_cuộc_đời_mà_bạn_thực_sự_muốn_sống_là_gì",
+      "label": "và cuộc đời mà bạn thực sự muốn sống là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "cuối_cùng_thì_cảm_ơn_bạn_đã_lắng_nghe",
+      "label": "Cuối cùng thì cảm ơn bạn đã lắng nghe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    }
+  ]
+}

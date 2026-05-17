@@ -1,0 +1,144 @@
+{
+  "source_type": "youtube",
+  "word_count": 4161,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nếu_nó_chỉ_là_một_tin_tức_thì_cũng_không_đáng_để_chúng_ta_bà",
+      "label": "Nếu nó chỉ là một tin tức thì cũng không đáng để chúng ta bàn luận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_nên_hôm_nay_mình_muốn_chia_sẻ_vấn_đề",
+      "label": "Vậy nên hôm nay mình muốn chia sẻ vấn đề",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "blake_là_một_tiến_sĩ_về_khoa_học_máy_tính",
+      "label": "Blake là một tiến sĩ về khoa học máy tính",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "blake_là_một_tiến_sĩ_về_khoa_học_máy_tính_item_1",
+          "label": "[Item 1 of Blake là một tiến sĩ về khoa học máy tính — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "blake_là_một_tiến_sĩ_về_khoa_học_máy_tính_item_2",
+          "label": "[Item 2 of Blake là một tiến sĩ về khoa học máy tính — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_bạn_nghĩ_bản_chất_ý_thức_của_bạn_là_gì",
+      "label": "Vậy thì bạn nghĩ bản chất ý thức của bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "do_mit_phát_minh_ra_vào_năm_1960",
+      "label": "Do MIT phát minh ra vào năm 1960",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "lisa_là_một_hệ_thống_trò_chuyện_mô_phỏng_cuộc_đối_thoại",
+      "label": "Lisa là một hệ thống trò chuyện mô phỏng cuộc đối thoại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "nó_chỉ_là_một_chương_trình_một_mô_hình_đơn_giản",
+      "label": "Nó chỉ là một chương trình, một mô hình đơn giản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_tại_sao_bạn_lại_nghĩ_rằng_mình_khác_với_lisa",
+      "label": "Vậy tại sao bạn lại nghĩ rằng mình khác với Lisa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "thế_là_tiếp_theo_anh_ta_mới_sử_dụng_tư_duy_phương_đông_để_đặ",
+      "label": "Thế là tiếp theo anh ta mới sử dụng tư duy phương Đông để đặt câu hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_thì_gương_vỡ_khó_lành_ở_đây_có_nghĩa_là_gì",
+      "label": "Vậy thì gương vỡ khó lành ở đây có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_bạn_nghĩ_trong_quá_trình_giác_ngộ_cái_gì_trong_con_người",
+      "label": "Vậy bạn nghĩ trong quá trình giác ngộ cái gì trong con người ta bị vỡ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "thực_sự_đây_là_một_điều_khiến_con_người_chúng_ta",
+      "label": "Thực sự đây là một điều khiến con người chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "có_2_lâm_nghĩa_bề_ngoài",
+      "label": "có 2 lâm nghĩa. Bề ngoài,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "cuối_cùng_thì_black_có_kết_luận_rằng",
+      "label": "Cuối cùng thì Black có kết luận rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_phải_ăn_phải_tập",
+      "label": "tại sao chúng ta lại phải ăn, phải tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "vậy_rốt_cuộc_một_ngày_không_xa_trong_tương_lai",
+      "label": "Vậy rốt cuộc, một ngày không xa trong tương lai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "trong_cuốn_sách_lược_xử_loài_người_có_nói_một_câu_rằng",
+      "label": "Trong cuốn sách lược xử loài người có nói một câu rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    }
+  ]
+}

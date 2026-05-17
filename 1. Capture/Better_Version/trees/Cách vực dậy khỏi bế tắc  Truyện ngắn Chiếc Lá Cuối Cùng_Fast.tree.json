@@ -1,0 +1,120 @@
+{
+  "source_type": "youtube",
+  "word_count": 3350,
+  "estimated_leaf_nodes": 12,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 12 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_căn_bệnh_vô_cùng_nguy_hiểm",
+      "label": "đây là một căn bệnh vô cùng nguy hiểm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "đây_là_một_căn_bệnh_vô_cùng_nguy_hiểm_item_1",
+          "label": "[Item 1 of đây là một căn bệnh vô cùng nguy hiểm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_căn_bệnh_vô_cùng_nguy_hiểm_item_2",
+          "label": "[Item 2 of đây là một căn bệnh vô cùng nguy hiểm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_lại_có_thể_dễ_dàng_từ_bỏ",
+      "label": "Tại sao lại có thể dễ dàng từ bỏ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "nhưng_berman_chính_là_một_nghệ_sĩ_chân_chính",
+      "label": "Nhưng Berman chính là một nghệ sĩ chân chính",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "nghe_có_vẻ_như_là_một_huyền_thoại",
+      "label": "Nghe có vẻ như là một huyền thoại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "cuối_cùng_người_đó_sẽ_tin_rằng_mình_đang_bị_ốm",
+      "label": "Cuối cùng người đó sẽ tin rằng mình đang bị ốm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "đây_là_một_ám_thị_đầy_cảm_xúc_tuyệt_vọng",
+      "label": "Đây là một ám thị đầy cảm xúc tuyệt vọng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "thứ_hai_hãy_tin_tưởng_tuyệt_đối_rằng",
+      "label": "Thứ hai, hãy tin tưởng tuyệt đối rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 84",
+      "children": [
+        {
+          "key": "thứ_hai_hãy_tin_tưởng_tuyệt_đối_rằng_item_1",
+          "label": "[Item 1 of Thứ hai, hãy tin tưởng tuyệt đối rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_hãy_tin_tưởng_tuyệt_đối_rằng_item_2",
+          "label": "[Item 2 of Thứ hai, hãy tin tưởng tuyệt đối rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuộc_sống_của_bạn_tràn_ngập_tình_yêu_thương",
+      "label": "cuộc sống của bạn tràn ngập tình yêu thương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "thứ_ba_hãy_quan_sát_nỗi_sợ_cốt_lõi_bên_trong_bạn",
+      "label": "Thứ ba, hãy quan sát nỗi sợ cốt lõi bên trong bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "thứ_ba_hãy_quan_sát_nỗi_sợ_cốt_lõi_bên_trong_bạn_item_1",
+          "label": "[Item 1 of Thứ ba, hãy quan sát nỗi sợ cốt lõi bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_hãy_quan_sát_nỗi_sợ_cốt_lõi_bên_trong_bạn_item_2",
+          "label": "[Item 2 of Thứ ba, hãy quan sát nỗi sợ cốt lõi bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

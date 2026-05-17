@@ -1,0 +1,149 @@
+{
+  "source_type": "youtube",
+  "word_count": 4043,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thế_nhưng_mà_thực_tế_chúng_ta_vẫn_cứ_hết_lần_này_đến_lần_khá",
+      "label": "Thế nhưng mà thực tế, chúng ta vẫn cứ hết lần này đến lần khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "đây_là_một_câu_chuyện_tình_yêu",
+      "label": "Đây là một câu chuyện tình yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "thực_sự_như_là_một_cái_gai_cả_đường_của_ông_ta",
+      "label": "Thực sự như là một cái gai cả đường của ông ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "bởi_vì_đó_là_một_vương_quốc_đầy_khắc_nghiệt_và_keo_kiệt",
+      "label": "Bởi vì đó là một vương quốc đầy khắc nghiệt và keo kiệt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "trong_nhiều_năm_lại_là_một_đòn_trí_mạng",
+      "label": "trong nhiều năm lại là một đòn trí mạng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "tại_sao_lại_bất_công_như_vậy_khi_mình_thực",
+      "label": "Tại sao lại bất công như vậy? Khi mình thực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "tình_yêu_là_một_cuộc_chạy_đua_marathon",
+      "label": "Tình yêu là một cuộc chạy đua marathon",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "nên_là_có_thể_đây_sẽ_là_một_người_đáng_để_giao_phó_cả_đời",
+      "label": "Nên là có thể đây sẽ là một người đáng để giao phó cả đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "nó_giống_như_là_một_cuộc_trao_đổi_vậy",
+      "label": "Nó giống như là một cuộc trao đổi vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "tình_yêu_là_một_trò_chơi",
+      "label": "Tình yêu là một trò chơi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "tình_yêu_là_một_cuộc_chạy_đua_marathon",
+      "label": "Tình yêu là một cuộc chạy đua marathon",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "trong_cuốn_sách_how_to_make_anyone_fall_in_love_with_you",
+      "label": "Trong cuốn sách How To Make Anyone Fall In Love With You",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "vậy_nên_hãy_nhớ_rằng_muốn_cùng_nhau_chạy_về_đích",
+      "label": "Vậy nên hãy nhớ rằng muốn cùng nhau chạy về đích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "cuối_cùng_đã_được_chúng_mình_tín_nhiệm",
+      "label": "Cuối cùng đã được chúng mình tín nhiệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "giống_như_là_một_liều_thuốc_an_thần_vào_lúc_này",
+      "label": "Giống như là một liều thuốc an thần vào lúc này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cuối_cùng_firmina_đã_thoát_khỏi_hình_bóng_của_quả_phụ",
+      "label": "Cuối cùng, Firmina đã thoát khỏi hình bóng của quả phụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "nếu_như_ông_ấy_vẫn_là_một_người_yếu_kém_như_ngày_nào",
+      "label": "Nếu như ông ấy vẫn là một người yếu kém như ngày nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "nó_giống_như_là_một_nỗi_ám_ảnh_mà_ông_ấy_không_thể_nào_buông",
+      "label": "nó giống như là một nỗi ám ảnh mà ông ấy không thể nào buông bỏ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "video_ngày_hôm_nay_là_một_hiểu_biết_và_cảm_nhận",
+      "label": "Video ngày hôm nay là một hiểu biết và cảm nhận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "cân_bằng_mới_là_trạng_thái_tốt_nhất_để_duy_trì_tình_cảm_đến",
+      "label": "Cân bằng mới là trạng thái tốt nhất để duy trì tình cảm đến lâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    }
+  ]
+}

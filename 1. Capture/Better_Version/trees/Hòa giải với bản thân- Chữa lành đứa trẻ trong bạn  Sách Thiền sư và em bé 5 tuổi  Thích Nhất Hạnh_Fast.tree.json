@@ -1,0 +1,253 @@
+{
+  "source_type": "youtube",
+  "word_count": 5408,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_tại_sao_chúng_ta_phải_sống_có_tránh_niệm",
+      "label": "Vậy tại sao chúng ta phải sống có tránh niệm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "và_hối_tiếc_cũng_có_chúng_ta_vẫn",
+      "label": "và hối tiếc cũng có. Chúng ta vẫn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "đây_là_một_thực_tế",
+      "label": "Đây là một thực tế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_tránh_niệm_là_gì",
+      "label": "Vậy tránh niệm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "và_hương_vị_của_thức_ăn_lúc_đó_là_gì",
+      "label": "Và hương vị của thức ăn lúc đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "tại_sao_mình_lại_có_thể_làm_như_thế",
+      "label": "Tại sao mình lại có thể làm như thế?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "ngoài_ra_chúng_ta_còn_có_thể_hiểu_hơn",
+      "label": "Ngoài ra, chúng ta còn có thể hiểu hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "tại_sao_thị_trường_trứng_khoán",
+      "label": "Tại sao thị trường trứng khoán",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "vậy_thì_tu_tập_tránh_niệm",
+      "label": "Vậy thì tu tập tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "trong_cuốn_sách_này",
+      "label": "Trong cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "bước_đi_tránh_niệm",
+      "label": "Bước đi tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "điều_thứ_3_đó_chính_là_buông_bỏ_tránh_niệm",
+      "label": "Điều thứ 3 đó chính là buông bỏ tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "nhưng_mà_doanh_nhân_này_từ_chối",
+      "label": "Nhưng mà doanh nhân này từ chối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "anh_ta_nói_rằng_mình_là_một_doanh_nhân_và_rất_vận_rộn",
+      "label": "Anh ta nói rằng mình là một doanh nhân và rất vận rộn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "tiếp_theo_chủ_đề_chúng_ta_sẽ_thảo_luận_là",
+      "label": "Tiếp theo, chủ đề chúng ta sẽ thảo luận là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "và_nỗi_sợ_điển_hình_là_gì",
+      "label": "Và nỗi sợ điển hình là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_bạn_có_biết_tại_sao_không",
+      "label": "Vậy bạn có biết tại sao không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "hài_lòng_là_nhận_thức_ở_đây",
+      "label": "Hài lòng là nhận thức ở đây",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "vậy_lúc_này_hãy_thực_hiện_tránh_niệm_với_hơi_thở",
+      "label": "Vậy lúc này hãy thực hiện tránh niệm với hơi thở",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "và_bây_giờ_nó_không_hơn_gì",
+      "label": "Và bây giờ nó không hơn gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "chỉ_là_một_hình_ảnh_sự_hồi_tưởng_của_bạn",
+      "label": "Chỉ là một hình ảnh, sự hồi tưởng của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "vậy_thì_nói_về_nỗi_đau_thì_sao",
+      "label": "Vậy thì nói về nỗi đau thì sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "phương_pháp_thứ_2_là_thực_hành_tránh_niệm_một_cách_liên_tục",
+      "label": "Phương pháp thứ 2 là thực hành tránh niệm một cách liên tục.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 144",
+      "children": [
+        {
+          "key": "phương_pháp_thứ_2_là_thực_hành_tránh_niệm_một_cách_liên_tục_item_1",
+          "label": "[Item 1 of Phương pháp thứ 2 là thực hành tránh niệm một cách liên tục. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "phương_pháp_thứ_2_là_thực_hành_tránh_niệm_một_cách_liên_tục_item_2",
+          "label": "[Item 2 of Phương pháp thứ 2 là thực hành tránh niệm một cách liên tục. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_1_hình_dung_đứa_trẻ_bên_trong_bạn",
+      "label": "Bước 1. Hình dung đứa trẻ bên trong bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 158",
+      "children": [
+        {
+          "key": "bước_1_hình_dung_đứa_trẻ_bên_trong_bạn_item_1",
+          "label": "[Item 1 of Bước 1. Hình dung đứa trẻ bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_1_hình_dung_đứa_trẻ_bên_trong_bạn_item_2",
+          "label": "[Item 2 of Bước 1. Hình dung đứa trẻ bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_số_2",
+      "label": "Bước số 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "bước_số_3_nói_chuyện_với_đứa_trẻ_bên_trong_bạn",
+      "label": "Bước số 3. Nói chuyện với đứa trẻ bên trong bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 170",
+      "children": [
+        {
+          "key": "bước_số_3_nói_chuyện_với_đứa_trẻ_bên_trong_bạn_item_1",
+          "label": "[Item 1 of Bước số 3. Nói chuyện với đứa trẻ bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_số_3_nói_chuyện_với_đứa_trẻ_bên_trong_bạn_item_2",
+          "label": "[Item 2 of Bước số 3. Nói chuyện với đứa trẻ bên trong bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "với_tư_cách_là_một_người_lớn_hãy_nói",
+      "label": "với tư cách là một người lớn. Hãy nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "bước_số_5",
+      "label": "Bước số 5",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    }
+  ]
+}

@@ -1,0 +1,268 @@
+{
+  "source_type": "youtube",
+  "word_count": 4959,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_mình_không_thể_giàu_có_hơn",
+      "label": "tại sao mình không thể giàu có hơn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "tại_sao_mình_không_thể_tiết_kiệm_được",
+      "label": "Tại sao mình không thể tiết kiệm được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "ông_là_một_chuyên_gia_tài_chính",
+      "label": "Ông là một chuyên gia tài chính",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_nên_sự_xuất_sắc_không_phải_là_hành_động_mà_là_thói_quen",
+      "label": "vậy nên sự xuất sắc không phải là hành động mà là thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "henry_là_một_phép_tính_cho_châu_ý",
+      "label": "Henry là một phép tính cho châu Ý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_thì_nhân_tố_latte_là_gì",
+      "label": "Vậy thì nhân tố latte là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_tiền_đó_đã_đi_đâu_rồi",
+      "label": "Vậy tiền đó đã đi đâu rồi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "điều_này_có_nghĩa_là_gì",
+      "label": "Điều này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "vậy_thì_tại_sao_ở_đây_lại_đặc_biệt_nhấn_mạnh_vai_trò_của_tiế",
+      "label": "Vậy thì tại sao ở đây lại đặc biệt nhấn mạnh vai trò của tiết kiệm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "vậy_thì_tại_sao_ở_đây_lại_đặc_biệt_nhấn_mạnh_vai_trò_của_tiế_item_1",
+          "label": "[Item 1 of Vậy thì tại sao ở đây lại đặc biệt nhấn mạnh vai trò của tiết kiệm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_tại_sao_ở_đây_lại_đặc_biệt_nhấn_mạnh_vai_trò_của_tiế_item_2",
+          "label": "[Item 2 of Vậy thì tại sao ở đây lại đặc biệt nhấn mạnh vai trò của tiết kiệm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_là_thôi_chấp_nhận_nghèo_mãi",
+      "label": "Vậy là thôi chấp nhận nghèo mãi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "ta_giải_cho_rằng_đây_là_một_quan_niệm_sai_lầm",
+      "label": "Ta giải cho rằng đây là một quan niệm sai lầm,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "vậy_thì_thế_nào_cũng_sẽ_có_ai_đó_lo_cho_mình",
+      "label": "Vậy thì thế nào cũng sẽ có ai đó lo cho mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "jeffrey_là_một_người_đang_khởi_nghiệp",
+      "label": "Jeffrey là một người đang khởi nghiệp.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "thứ_nhất_lãi_suất_10_thì_làm_gì_có_chuyện",
+      "label": "Thứ nhất, lãi suất 10% thì làm gì có chuyện?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "thứ_nhất_lãi_suất_10_thì_làm_gì_có_chuyện_item_1",
+          "label": "[Item 1 of Thứ nhất, lãi suất 10% thì làm gì có chuyện? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_lãi_suất_10_thì_làm_gì_có_chuyện_item_2",
+          "label": "[Item 2 of Thứ nhất, lãi suất 10% thì làm gì có chuyện? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_cậu_không_tình_đến_lãm_phát",
+      "label": "Thứ hai, cậu không tình đến lãm phát",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "thứ_hai_cậu_không_tình_đến_lãm_phát_item_1",
+          "label": "[Item 1 of Thứ hai, cậu không tình đến lãm phát — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_cậu_không_tình_đến_lãm_phát_item_2",
+          "label": "[Item 2 of Thứ hai, cậu không tình đến lãm phát — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_nữ_cười_nhất_là_cậu_lại_đi_nghe_lời",
+      "label": "Thứ ba, nữ cười nhất là cậu lại đi nghe lời",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "thứ_ba_nữ_cười_nhất_là_cậu_lại_đi_nghe_lời_item_1",
+          "label": "[Item 1 of Thứ ba, nữ cười nhất là cậu lại đi nghe lời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_nữ_cười_nhất_là_cậu_lại_đi_nghe_lời_item_2",
+          "label": "[Item 2 of Thứ ba, nữ cười nhất là cậu lại đi nghe lời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_trước_đây_anh_ấy_là_một_người_như_thế",
+      "label": "Và trước đây anh ấy là một người như thế,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "và_trước_đây_anh_ấy_là_một_người_như_thế_item_1",
+          "label": "[Item 1 of Và trước đây anh ấy là một người như thế, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_trước_đây_anh_ấy_là_một_người_như_thế_item_2",
+          "label": "[Item 2 of Và trước đây anh ấy là một người như thế, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_tính_5_thôi",
+      "label": "Vậy thì tính 5% thôi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 116",
+      "children": [
+        {
+          "key": "vậy_thì_tính_5_thôi_item_1",
+          "label": "[Item 1 of Vậy thì tính 5% thôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_tính_5_thôi_item_2",
+          "label": "[Item 2 of Vậy thì tính 5% thôi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_tòa_nhà_starbucks_đang_thuê_cũng_là_của_ông",
+      "label": "và tòa nhà Starbucks đang thuê cũng là của ông.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "thứ_hai_thay_vì_biểu_tình_chống_starbucks_như_mọi_người",
+      "label": "Thứ hai, thay vì biểu tình chống Starbucks như mọi người",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 128",
+      "children": [
+        {
+          "key": "thứ_hai_thay_vì_biểu_tình_chống_starbucks_như_mọi_người_item_1",
+          "label": "[Item 1 of Thứ hai, thay vì biểu tình chống Starbucks như mọi người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_thay_vì_biểu_tình_chống_starbucks_như_mọi_người_item_2",
+          "label": "[Item 2 of Thứ hai, thay vì biểu tình chống Starbucks như mọi người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_joey_đã_chọn_tiếp_tục_làm_công_việc_mà_cô_yêu_thíc",
+      "label": "Cuối cùng, Joey đã chọn tiếp tục làm công việc mà cô yêu thích.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    }
+  ]
+}

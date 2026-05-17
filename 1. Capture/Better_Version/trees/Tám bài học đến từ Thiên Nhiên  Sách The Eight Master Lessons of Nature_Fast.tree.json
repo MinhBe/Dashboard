@@ -1,0 +1,174 @@
+{
+  "source_type": "youtube",
+  "word_count": 7689,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "giúp_bạn_sống_hạnh_phúc_hơn",
+      "label": "giúp bạn sống hạnh phúc hơn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đây_là_một_tác_phẩm_tuyệt_vời_mà_chỉ_có_người_đã_dùng_cả_đời",
+      "label": "Đây là một tác phẩm tuyệt vời mà chỉ có người đã dùng cả đời gắn bó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "tại_sao_tác_giả_lại_nói_điều_này",
+      "label": "Tại sao tác giả lại nói điều này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tuy_nhiên_vấn_đề_của_loài_người_chúng_ta_là_gì",
+      "label": "Tuy nhiên vấn đề của loài người chúng ta là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "đặt_thêm_một_viên_gạch_nữa",
+      "label": "Đặt thêm một viên gạch nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "và_bức_tường_ngăn_cách_chúng_ta_với_thiên_nhiên",
+      "label": "Và bức tường ngăn cách chúng ta với thiên nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "bạn_sẽ_nhận_ra_mũi_thăng_trầm",
+      "label": "Bạn sẽ nhận ra mũi thăng trầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "đều_là_một_phần_không_thể_tách_rời",
+      "label": "đều là một phần không thể tách rời",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "đều_là_một_phần_không_thể_tách_rời_item_1",
+          "label": "[Item 1 of đều là một phần không thể tách rời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đều_là_một_phần_không_thể_tách_rời_item_2",
+          "label": "[Item 2 of đều là một phần không thể tách rời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_kẻ_mạnh_mới_có_thể_sống_sót",
+      "label": "Cuối cùng kẻ mạnh mới có thể sống sót",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "thế_giới_của_chúng_ta_cần_được_phân_chia_đối_lập",
+      "label": "Thế giới của chúng ta cần được phân chia, đối lập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "về_khả_năng_kháng_yếu_là_gì",
+      "label": "Về khả năng kháng yếu là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "văn_phòng_trường_lớp_vv",
+      "label": "Văn phòng, trường lớp, v.v",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "và_ở_đây_chúng_ta_cần_biết_rằng",
+      "label": "Và ở đây chúng ta cần biết rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_nên_nếu_có_thể_từ_bây_giờ_khi_bạn_đi_ra_ngoài_đường",
+      "label": "Vậy nên nếu có thể từ bây giờ khi bạn đi ra ngoài đường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "cuối_cùng_đó_là_nhiệm_điệu",
+      "label": "Cuối cùng đó là nhiệm điệu,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "vậy_thì_con_người_cũng_cần_phải_học_cách",
+      "label": "Vậy thì con người cũng cần phải học cách",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 158",
+      "children": [
+        {
+          "key": "vậy_thì_con_người_cũng_cần_phải_học_cách_item_1",
+          "label": "[Item 1 of Vậy thì con người cũng cần phải học cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_con_người_cũng_cần_phải_học_cách_item_2",
+          "label": "[Item 2 of Vậy thì con người cũng cần phải học cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_là_từ_bỏ_lòng_tham",
+      "label": "Cuối cùng là từ bỏ lòng tham.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "tại_sao_lại_vậy",
+      "label": "Tại sao lại vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "đây_là_một_cuộc_giao_tiếp_thư_thái_và_độc_đáo",
+      "label": "Đây là một cuộc giao tiếp thư thái và độc đáo.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "source_type": "youtube",
+  "word_count": 6718,
+  "estimated_leaf_nodes": 29,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 29 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nhưng_là_một_mùi_thú_vị_như_vậy",
+      "label": "Nhưng là một mùi thú vị như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "nhưng_thực_chất_lại_là_một_hành_động_mang_tính_kỹ_thuật_cao",
+      "label": "Nhưng thực chất lại là một hành động mang tính kỹ thuật cao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "đó_chính_là_lúc_cơ_thất_trong_đang_mách_bảo_bạn",
+      "label": "đó chính là lúc cơ thất trong đang mách bảo bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "và_ghi_nhớ_những_gì_chúng_ta_thích_ăn",
+      "label": "và ghi nhớ những gì chúng ta thích ăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "tiếp_theo",
+      "label": "Tiếp theo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_thì_đội_quân_tiên_phong_phải_có_thể_chất_như_thế_nào_mới",
+      "label": "Vậy thì đội quân tiên phong phải có thể chất như thế nào mới là tốt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_giảm_thiểu_táo_bón",
+      "label": "Vậy làm thế nào để chúng ta có thể giảm thiểu táo bón?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "điều_thứ_3_chúng_ta_có_thể_làm_để_giảm_thiểu_việc_táo_bón",
+      "label": "Điều thứ 3 chúng ta có thể làm để giảm thiểu việc táo bón",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "tiếp_theo_ở_phần_thứ_2_chúng_mình_sẽ_cùng_nhau_nói_về",
+      "label": "Tiếp theo ở phần thứ 2, chúng mình sẽ cùng nhau nói về",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "đây_là_một_vòng_tuần_hoàn_xấu_gây_nên_hậu_quả_nghiêm_trọng",
+      "label": "Đây là một vòng tuần hoàn xấu gây nên hậu quả nghiêm trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "đây_mới_là_trạng_thái_sống_mà_mỗi_chúng_ta_nên_có",
+      "label": "Đây mới là trạng thái sống mà mỗi chúng ta nên có",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_thì_ở_phần_cuối_của_video_ngày_hôm_nay",
+      "label": "Vậy thì ở phần cuối của video ngày hôm nay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "ngoài_ra_chất_béo_còn_nằm_bao_quanh_các_tế_bào_thần_kinh_của",
+      "label": "Ngoài ra, chất béo còn nằm bao quanh các tế bào thần kinh của chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "bên_cạnh_đó_một_chất_béo_gồm_là_nơi_chuyển_hóa_của_hormone_s",
+      "label": "Bên cạnh đó, một chất béo gồm là nơi chuyển hóa của Hormone Steroid",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "bên_cạnh_đó_bạn_cần_phải_biết_rằng",
+      "label": "Bên cạnh đó, bạn cần phải biết rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "trong_cuốn_sách_healing_diet_healing_fast_có_nhấn_mạnh_rằng",
+      "label": "Trong cuốn sách Healing Diet, Healing Fast có nhấn mạnh rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "như_là_rau_củ_trái_cây_để_giảm_bớt_gánh_nặng_chuyển_hóa_năng",
+      "label": "như là rau củ, trái cây để giảm bớt gánh nặng chuyển hóa năng lượng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "bạn_sẽ_thấy_đó_là_một_hành_tinh_sinh_đẹp",
+      "label": "bạn sẽ thấy đó là một hành tinh sinh đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "hơn_nữa_hệ_vi_khuẩn_trên_ruột_non",
+      "label": "Hơn nữa, hệ vi khuẩn trên ruột non",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "tại_sao_chúng_ta_phải_ăn_nhiều_chất_sơ_đến_vậy",
+      "label": "Tại sao chúng ta phải ăn nhiều chất sơ đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "bởi_vì_thứ_nhất_chất_sơ_làm_cho_phân_trở_nên_mềm_mịn",
+      "label": "Bởi vì thứ nhất, chất sơ làm cho phân trở nên mềm mịn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 168",
+      "children": [
+        {
+          "key": "bởi_vì_thứ_nhất_chất_sơ_làm_cho_phân_trở_nên_mềm_mịn_item_1",
+          "label": "[Item 1 of Bởi vì thứ nhất, chất sơ làm cho phân trở nên mềm mịn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bởi_vì_thứ_nhất_chất_sơ_làm_cho_phân_trở_nên_mềm_mịn_item_2",
+          "label": "[Item 2 of Bởi vì thứ nhất, chất sơ làm cho phân trở nên mềm mịn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_chất_sơ_là_thực_phẩm_yêu_thích_nhất_của_vi_khuẩn_đườ",
+      "label": "Thứ hai, chất sơ là thực phẩm yêu thích nhất của vi khuẩn đường ruột.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 170",
+      "children": [
+        {
+          "key": "thứ_hai_chất_sơ_là_thực_phẩm_yêu_thích_nhất_của_vi_khuẩn_đườ_item_1",
+          "label": "[Item 1 of Thứ hai, chất sơ là thực phẩm yêu thích nhất của vi khuẩn đường ruột. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_chất_sơ_là_thực_phẩm_yêu_thích_nhất_của_vi_khuẩn_đườ_item_2",
+          "label": "[Item 2 of Thứ hai, chất sơ là thực phẩm yêu thích nhất của vi khuẩn đường ruột. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_sức_khỏe_của_ruột_non_thì_sẽ_rơi_vào_trạng_thái",
+      "label": "Bên cạnh đó, sức khỏe của ruột non thì sẽ rơi vào trạng thái nguy cấp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "tại_sao_lại_bị_ỡ_hơi",
+      "label": "Tại sao lại bị ỡ hơi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "tại_sao_phải_nuôn_mừa",
+      "label": "Tại sao phải nuôn mừa?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 202"
+    },
+    {
+      "key": "tại_sao_phải_diệt_virus_hb",
+      "label": "Tại sao phải diệt virus HB",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 212"
+    }
+  ]
+}

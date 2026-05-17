@@ -1,0 +1,271 @@
+{
+  "source_type": "youtube",
+  "word_count": 5083,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đã_sẽ_cần_có_sự_chuẩn_bị_gì_cho_chính_mình",
+      "label": "Đã sẽ cần có sự chuẩn bị gì cho chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "đó_cần_là_một_tầm_nhìn_rõ_ràng_về_tương_lai",
+      "label": "Đó cần là một tầm nhìn rõ ràng về tương lai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "đây_là_một_tác_phẩm_xã_hội_học_nổi_tiếng",
+      "label": "Đây là một tác phẩm xã hội học nổi tiếng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "thứ_nhất_là_thách_thức",
+      "label": "Thứ nhất là thách thức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "thứ_nhất_là_thách_thức_item_1",
+          "label": "[Item 1 of Thứ nhất là thách thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_thách_thức_item_2",
+          "label": "[Item 2 of Thứ nhất là thách thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "do_không_thể_bắt_kịp_sự_thay_đổi",
+      "label": "do không thể bắt kịp sự thay đổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_thách_thức_về_sức_sống_và_ý_nghĩa",
+      "label": "Điều thứ 2 đó là thách thức về sức sống và ý nghĩa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_nhìn_vào_viện_cảnh_tương_lai",
+      "label": "Vậy nhìn vào viện cảnh tương lai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đây_cũng_là_một_luận_điểm_trung_tâm_của_đạo_gia",
+      "label": "Đây cũng là một luận điểm trung tâm của đạo gia",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "đây_cũng_là_một_luận_điểm_trung_tâm_của_đạo_gia_item_1",
+          "label": "[Item 1 of Đây cũng là một luận điểm trung tâm của đạo gia — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_cũng_là_một_luận_điểm_trung_tâm_của_đạo_gia_item_2",
+          "label": "[Item 2 of Đây cũng là một luận điểm trung tâm của đạo gia — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_thể_chất_đó_là_khả_năng_tự_chữa_lành",
+      "label": "Bên cạnh thể chất đó là khả năng tự chữa lành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "ngoài_ra_bạn_cần_xây_dựng_mạng_lưới_đa_dạng",
+      "label": "Ngoài ra bạn cần xây dựng mạng lưới đa dạng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "đầu_tiên_nó_là_kịch_bản_cho_35_trường_đời",
+      "label": "Đầu tiên nó là kịch bản cho 3,5 trường đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "mô_hình_này_biến_đời_người_thành",
+      "label": "Mô hình này biến đời người thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "cuối_cùng_đó_là_mô_hình_5_chương",
+      "label": "Cuối cùng đó là mô hình 5 chương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "đây_là_một_giải_pháp_cho_cuộc_đời_đa_chương_dan_sen",
+      "label": "Đây là một giải pháp cho cuộc đời đa chương dan sen.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "tiếp_theo_là_khởi_nghiệp_lại",
+      "label": "Tiếp theo là khởi nghiệp lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "danh_dưới_người_trẻ_và_người_già_sẽ_mờ_đi",
+      "label": "Danh dưới người trẻ và người già sẽ mờ đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "thay_vào_đó_là_một_cộng_đồng_những_cá_nhân",
+      "label": "Thay vào đó là một cộng đồng những cá nhân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "công_việc_không_còn_là_một_nghĩa_vụ_nhằm_chán",
+      "label": "Công việc không còn là một nghĩa vụ nhằm chán",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "mô_hình_này_khả_thi_hơn_linh_hoạt_hơn_gần_ngũi_hơn_với_đại_đ",
+      "label": "Mô hình này khả thi hơn, linh hoạt hơn, gần ngũi hơn với đại đa số",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "trong_quá_trình_lao_động_đó",
+      "label": "Trong quá trình lao động đó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "ngoài_ra_một_nguyên_tắc_bạn_cần_giữ",
+      "label": "Ngoài ra một nguyên tắc bạn cần giữ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "cuối_cùng_bạn_còn_phải_học_cách_phân_bổ_lại_thời_gian",
+      "label": "Cuối cùng bạn còn phải học cách phân bổ lại thời gian",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 148",
+      "children": [
+        {
+          "key": "cuối_cùng_bạn_còn_phải_học_cách_phân_bổ_lại_thời_gian_item_1",
+          "label": "[Item 1 of Cuối cùng bạn còn phải học cách phân bổ lại thời gian — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_bạn_còn_phải_học_cách_phân_bổ_lại_thời_gian_item_2",
+          "label": "[Item 2 of Cuối cùng bạn còn phải học cách phân bổ lại thời gian — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "cuối_cùng_bạn_còn_phải_học_cách_phân_bổ_lại_thời_gian_item_3",
+          "label": "[Item 3 of Cuối cùng bạn còn phải học cách phân bổ lại thời gian — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_thời_gian_tái_tạo_sáng_tạo",
+      "label": "Thứ hai là thời gian tái tạo sáng tạo",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 154",
+      "children": [
+        {
+          "key": "thứ_hai_là_thời_gian_tái_tạo_sáng_tạo_item_1",
+          "label": "[Item 1 of Thứ hai là thời gian tái tạo sáng tạo — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_thời_gian_tái_tạo_sáng_tạo_item_2",
+          "label": "[Item 2 of Thứ hai là thời gian tái tạo sáng tạo — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_là_thời_gian_giải_trí_có_chủ_thích",
+      "label": "Thứ ba là thời gian giải trí có chủ thích",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 158",
+      "children": [
+        {
+          "key": "thứ_ba_là_thời_gian_giải_trí_có_chủ_thích_item_1",
+          "label": "[Item 1 of Thứ ba là thời gian giải trí có chủ thích — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_là_thời_gian_giải_trí_có_chủ_thích_item_2",
+          "label": "[Item 2 of Thứ ba là thời gian giải trí có chủ thích — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_sự_đầu_tư_thông_minh_cho_tương_lai_dài_phía_trước",
+      "label": "Đây là một sự đầu tư thông minh cho tương lai dài phía trước",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    }
+  ]
+}

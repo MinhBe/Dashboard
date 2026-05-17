@@ -1,0 +1,306 @@
+{
+  "source_type": "youtube",
+  "word_count": 6175,
+  "estimated_leaf_nodes": 36,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 36 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đầu_tiên_bạn_sẽ_phải_hết_sức_kinh_ngạc",
+      "label": "Đầu tiên bạn sẽ phải hết sức kinh ngạc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "bởi_vì_ông_là_một_người_do_thái",
+      "label": "Bởi vì ông là một người do thái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "nguyên_tắc_đầu_tiên_tự_do_lựa_chọn_thái_độ_của_bản_thân",
+      "label": "Nguyên tắc đầu tiên, tự do, lựa chọn, thái độ của bản thân.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "nguyên_tắc_đầu_tiên_tự_do_lựa_chọn_thái_độ_của_bản_thân_item_1",
+          "label": "[Item 1 of Nguyên tắc đầu tiên, tự do, lựa chọn, thái độ của bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "nguyên_tắc_đầu_tiên_tự_do_lựa_chọn_thái_độ_của_bản_thân_item_2",
+          "label": "[Item 2 of Nguyên tắc đầu tiên, tự do, lựa chọn, thái độ của bản thân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_chúng_ta_phải_hình_dung_ra_được_mọi_kết_quả_hay_l",
+      "label": "Thứ hai là chúng ta phải hình dung ra được mọi kết quả hay là hậu quả",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "thứ_hai_là_chúng_ta_phải_hình_dung_ra_được_mọi_kết_quả_hay_l_item_1",
+          "label": "[Item 1 of Thứ hai là chúng ta phải hình dung ra được mọi kết quả hay là hậu quả — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_chúng_ta_phải_hình_dung_ra_được_mọi_kết_quả_hay_l_item_2",
+          "label": "[Item 2 of Thứ hai là chúng ta phải hình dung ra được mọi kết quả hay là hậu quả — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nguyên_tắc_thứ_2_hiện_thực_những_mục_tiêu_có_ý_nghĩa",
+      "label": "Nguyên tắc thứ 2, hiện thực những mục tiêu có ý nghĩa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "vậy_liệu_cuộc_sống_của_nó_có_ý_nghĩa_gì_không",
+      "label": "Vậy liệu cuộc sống của nó có ý nghĩa gì không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "nhưng_chúng_ta_không_biết_được_ý_nghĩa_đó_là_gì",
+      "label": "Nhưng chúng ta không biết được ý nghĩa đó là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "nguyên_tắc_thứ_3_khám_phá_ý_nghĩa_của_khoảnh_khắc_cuộc_sống",
+      "label": "Nguyên tắc thứ 3, khám phá ý nghĩa của khoảnh khắc cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_thoát_ra_khỏi_mê_cung_của",
+      "label": "Vậy làm thế nào để chúng ta có thể thoát ra khỏi mê cung của ý nghĩa?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "âm_thanh_của_nó_rơi_xuống_là_gì",
+      "label": "Âm thanh của nó rơi xuống là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "để_tìm_ra_một_ý_nghĩa_trong_từng_khoảnh_khắc_sống",
+      "label": "Để tìm ra một ý nghĩa trong từng khoảnh khắc sống",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "để_tìm_ra_một_ý_nghĩa_trong_từng_khoảnh_khắc_sống_item_1",
+          "label": "[Item 1 of Để tìm ra một ý nghĩa trong từng khoảnh khắc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "để_tìm_ra_một_ý_nghĩa_trong_từng_khoảnh_khắc_sống_item_2",
+          "label": "[Item 2 of Để tìm ra một ý nghĩa trong từng khoảnh khắc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_hai",
+      "label": "Điều thứ hai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "điều_thứ_hai_item_1",
+          "label": "[Item 1 of Điều thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_item_2",
+          "label": "[Item 2 of Điều thứ hai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba",
+      "label": "Thứ ba",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 100",
+      "children": [
+        {
+          "key": "thứ_ba_item_1",
+          "label": "[Item 1 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_item_2",
+          "label": "[Item 2 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nó_giống_như_là_một_quá_trình_để_chúng_ta_tích_lũy",
+      "label": "Nó giống như là một quá trình để chúng ta tích lũy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "tác_giả_có_kể_rằng",
+      "label": "Tác giả có kể rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "ông_ấy_là_một_giáo_sư_trường_đại_học",
+      "label": "Ông ấy là một giáo sư trường đại học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "như_là_một_công_cụ_để_bạn_dành",
+      "label": "như là một công cụ để bạn dành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "của_cuộc_thi_này_đem_lại_cho_mình_là_gì",
+      "label": "của cuộc thi này đem lại cho mình là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "nguyên_tắc_thứ_5",
+      "label": "Nguyên tắc thứ 5",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "đó_chính_là_quan_sát_kỹ_bản_thân_từ_xa",
+      "label": "Đó chính là quan sát kỹ bản thân từ xa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "vậy_để_trả_lời_cho_câu_hỏi",
+      "label": "Vậy, để trả lời cho câu hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "tại_sao_phải_quan_sát_bản_thân",
+      "label": "Tại sao phải quan sát bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "ngoài_ra_còn_có_một_cách_rất_quan_trọng",
+      "label": "Ngoài ra còn có một cách rất quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "trong_cuốn_sách_này_có_một_câu_chuyện",
+      "label": "Trong cuốn sách này có một câu chuyện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "ban_đầu_là_một_người_chơi_gôn",
+      "label": "Ban đầu là một người chơi gôn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "còn_bây_giờ_lại_là_một_người_đi_nhặt_bóng",
+      "label": "Còn bây giờ lại là một người đi nhặt bóng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "đây_cũng_là_một_công_việc_rất_hay",
+      "label": "Đây cũng là một công việc rất hay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "vậy_nên_chỉ_cần_thở_được",
+      "label": "Vậy nên chỉ cần thở được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    },
+    {
+      "key": "đây_là_một_phép_ẩn_dụ",
+      "label": "Đây là một phép ẩn dụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    },
+    {
+      "key": "và_khi_chúng_ta_sống_để_đem_lại_lợi_ích_cho_mọi_người",
+      "label": "và khi chúng ta sống để đem lại lợi ích cho mọi người,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 216"
+    }
+  ]
+}

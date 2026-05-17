@@ -1,0 +1,153 @@
+{
+  "source_type": "youtube",
+  "word_count": 5321,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_khi_nào_nó_mới_chịu_thả_oxy",
+      "label": "Vậy thì khi nào nó mới chịu thả oxy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 30",
+      "children": [
+        {
+          "key": "vậy_thì_khi_nào_nó_mới_chịu_thả_oxy_item_1",
+          "label": "[Item 1 of Vậy thì khi nào nó mới chịu thả oxy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_khi_nào_nó_mới_chịu_thả_oxy_item_2",
+          "label": "[Item 2 of Vậy thì khi nào nó mới chịu thả oxy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_một_kiểu_thở_sai_mà_nhiều_người_cũng_thường_không",
+      "label": "Cuối cùng một kiểu thở sai mà nhiều người cũng thường không chú ý tới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đầu_tiên_bạn_sẽ_dễ_mắc_những_bệnh_chuyển_nhiễm_như_cảm_cúng",
+      "label": "Đầu tiên bạn sẽ dễ mắc những bệnh chuyển nhiễm như cảm cúng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "viêm_da_cơ_địa_hay_hen_xuyễn_trở_nên_nặng_hơn",
+      "label": "Viêm da cơ địa hay hen xuyễn trở nên nặng hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "thứ_hai_người_hít_thở_bằng_miệng_còn_dễ_mắc_bệnh_về_răng_miệ",
+      "label": "Thứ hai người hít thở bằng miệng còn dễ mắc bệnh về răng miệng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "thứ_hai_người_hít_thở_bằng_miệng_còn_dễ_mắc_bệnh_về_răng_miệ_item_1",
+          "label": "[Item 1 of Thứ hai người hít thở bằng miệng còn dễ mắc bệnh về răng miệng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_người_hít_thở_bằng_miệng_còn_dễ_mắc_bệnh_về_răng_miệ_item_2",
+          "label": "[Item 2 of Thứ hai người hít thở bằng miệng còn dễ mắc bệnh về răng miệng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tương_trình_là_một_hơi_thở_nhỏ_bé_và_bình_thường",
+      "label": "Tương trình là một hơi thở nhỏ bé và bình thường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vậy_là_bạn_đang_dùng_cách_thở_bằng_ngực",
+      "label": "Vậy là bạn đang dùng cách thở bằng ngực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "bên_cạnh_đó_một_hơi_thở_đúng",
+      "label": "Bên cạnh đó một hơi thở đúng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "vậy_cụ_thể_chúng_ta_sẽ_nên_luyện_tập_như_thế_nào",
+      "label": "Vậy cụ thể chúng ta sẽ nên luyện tập như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đây_là_phương_pháp_xuất_phát_từ_đạo_da_và_khí_công",
+      "label": "Đây là phương pháp xuất phát từ đạo da và khí công",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "đó_là",
+      "label": "Đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "đầu_tiên_đó_là_huyệt_mệnh_mun_nằm_ở_vùng_thắt_lưng",
+      "label": "Đầu tiên đó là huyệt mệnh mun nằm ở vùng thắt lưng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "nó_sẽ_nằm_dưới_rốn_của_bạn_khoảng_15cm",
+      "label": "Nó sẽ nằm dưới rốn của bạn khoảng 1,5cm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "điều_quan_trọng_là_lưng_thẳng_vai_thả_lòng_hạ_xuống",
+      "label": "Điều quan trọng là lưng thẳng, vai thả lòng, hạ xuống.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "đầu_tiên_chú_ý_thẳng_lưng_lưỡi_đặt_hàm_trên",
+      "label": "Đầu tiên chú ý thẳng lưng, lưỡi đặt hàm trên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "mỗi_nhịp_thờ_là_một_cơ_hội_để",
+      "label": "mỗi nhịp thờ là một cơ hội để",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    }
+  ]
+}

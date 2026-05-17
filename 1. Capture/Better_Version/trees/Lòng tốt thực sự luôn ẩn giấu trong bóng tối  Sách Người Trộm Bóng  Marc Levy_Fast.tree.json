@@ -1,0 +1,79 @@
+{
+  "source_type": "youtube",
+  "word_count": 3396,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "và_đang_đợi_chúng_ta_tự_thức_tỉnh",
+      "label": "Và đang đợi chúng ta tự thức tỉnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "nhưng_cũng_như_là_một_làn_khói_cay",
+      "label": "Nhưng cũng như là một làn khói cay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "của_lòng_tốt_thực_sự_là_gì",
+      "label": "Của lòng tốt thực sự là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "đây_là_một_đứa_trẻ_vô_cùng_thô_lỗ",
+      "label": "Đây là một đứa trẻ vô cùng thô lỗ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "marcus_là_một_đứa_rất_hiền_lành",
+      "label": "Marcus là một đứa rất hiền lành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "có_thể_là_một_tuổi_thơ_đầy_vết_sẹo",
+      "label": "Có thể là một tuổi thơ đầy vết sẹo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "và_trong_thực_tế_thì_chúng_ta_thấy_rằng",
+      "label": "Và trong thực tế thì chúng ta thấy rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "cuối_cùng_hướng_dẫn_cho_eve",
+      "label": "Cuối cùng hướng dẫn cho Eve",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "đó_có_thể_là_một_mối_quan_hệ_tan_vỡ",
+      "label": "Đó có thể là một mối quan hệ tan vỡ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "chúc_bạn_và_tôi_đều_là_một_mặt_trời_tự_toà_nắng",
+      "label": "Chúc bạn và tôi đều là một mặt trời tự toà nắng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    }
+  ]
+}

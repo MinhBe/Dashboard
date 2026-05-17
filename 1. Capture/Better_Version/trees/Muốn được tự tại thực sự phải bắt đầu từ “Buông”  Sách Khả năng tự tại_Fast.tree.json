@@ -1,0 +1,153 @@
+{
+  "source_type": "youtube",
+  "word_count": 4343,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_cô_ấy_lại_phản_ứng_mạnh_như_vậy",
+      "label": "Tại sao cô ấy lại phản ứng mạnh như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "trong_cuốn_sách_dancery_đoạn_xả_ly_mà_mình_đã_từng_giới_thiệ",
+      "label": "Trong cuốn sách Dancery, đoạn xả ly mà mình đã từng giới thiệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "tại_sao_mình_muốn_tiếp_tục_giới_thiệu_cuốn_sách",
+      "label": "Tại sao mình muốn tiếp tục giới thiệu cuốn sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "bước_đi_tự_tại_đầu_tiên_xử_lý_một_quan_hệ_giữa_bản_thân_với",
+      "label": "Bước đi tự tại đầu tiên, xử lý một quan hệ giữa bản thân với vật dụng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_thì_tại_sao_việc_buông_bỏ_vật_dụng_lại_quan_trọng_đến_vậ",
+      "label": "Vậy thì tại sao việc buông bỏ vật dụng lại quan trọng đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_thì_thế_nào_là_sức_đề_kháng_tâm_hồn",
+      "label": "Vậy thì thế nào là sức đề kháng tâm hồn?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "vậy_thì_thế_nào_là_sức_đề_kháng_tâm_hồn_item_1",
+          "label": "[Item 1 of Vậy thì thế nào là sức đề kháng tâm hồn? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_thế_nào_là_sức_đề_kháng_tâm_hồn_item_2",
+          "label": "[Item 2 of Vậy thì thế nào là sức đề kháng tâm hồn? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "lấy_người_khác_làm_trục_trung_tâm",
+      "label": "Lấy người khác làm trục trung tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "lấy_người_khác_làm_trục_trung_tâm_là_gì",
+      "label": "Lấy người khác làm trục trung tâm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vậy_thì_có_cách_nào_để_nâng_cao_sức_đề_kháng_tâm_hồn",
+      "label": "Vậy thì có cách nào để nâng cao sức đề kháng tâm hồn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "trục_bản_thân_là_gì",
+      "label": "Trục bản thân là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "thứ_nhất_về_chi_đó_là_bạn_cần_phải_phá_vỡ_tư_duy_cố_định",
+      "label": "Thứ nhất về chi đó là bạn cần phải phá vỡ tư duy cố định",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "thứ_nhất_về_chi_đó_là_bạn_cần_phải_phá_vỡ_tư_duy_cố_định_item_1",
+          "label": "[Item 1 of Thứ nhất về chi đó là bạn cần phải phá vỡ tư duy cố định — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_về_chi_đó_là_bạn_cần_phải_phá_vỡ_tư_duy_cố_định_item_2",
+          "label": "[Item 2 of Thứ nhất về chi đó là bạn cần phải phá vỡ tư duy cố định — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_mà_ông_không_nói_được_một_câu_cảm_ơn",
+      "label": "vậy mà ông không nói được một câu cảm ơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "vậy_thì_bằng_cách_nào_đây",
+      "label": "Vậy thì bằng cách nào đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "cuối_cùng_về_ý",
+      "label": "Cuối cùng về ý,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "người_khác_làm_trục_để_hành_động_linh_hoạt_và_ứng_biến",
+      "label": "người khác làm trục để hành động linh hoạt và ứng biến.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "cuộc_đời_là_một_hành_trình",
+      "label": "cuộc đời là một hành trình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    }
+  ]
+}

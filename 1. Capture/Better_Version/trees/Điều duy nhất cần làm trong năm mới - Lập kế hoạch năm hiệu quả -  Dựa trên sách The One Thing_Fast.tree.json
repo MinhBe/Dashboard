@@ -1,0 +1,107 @@
+{
+  "source_type": "youtube",
+  "word_count": 2723,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_như_thế_này_phải_không",
+      "label": "Vậy thì như thế này phải không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đây_chỉ_là_một_bảng_các_nhiệm_vụ_sắp_tới_phải_làm_mà_thôi",
+      "label": "Đây chỉ là một bảng các nhiệm vụ sắp tới phải làm mà thôi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "ngoài_ra_carmes_là_công_ty_tư_vấn_nghiên_cứu_thị_trường_nổi",
+      "label": "Ngoài ra, Carmes là công ty tư vấn nghiên cứu thị trường nổi tiếng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_muốn_lập_một_bản_kế_hoạch_5",
+      "label": "Vậy muốn lập một bản kế hoạch 5",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "tại_sao_ở_đây_lại_dịch_end_in_mind",
+      "label": "Tại sao ở đây lại dịch end in mind",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "hay_là_một_ý_tưởng_trong_tương_lai_sao",
+      "label": "Hay là một ý tưởng trong tương lai sao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_cụ_thể_phải_lập_kế_hoạch_năm_như_thế_nào",
+      "label": "Vậy cụ thể phải lập kế hoạch năm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "kế_hoạch_5_nên_là_một_kế_hoạch_trọng_về_chất",
+      "label": "Kế hoạch 5 nên là một kế hoạch trọng về chất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "phương_pháp_này_dựa_trên_cuốn_sách_the_one_thing",
+      "label": "Phương pháp này dựa trên cuốn sách The One Thing",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đều_là_một_lần_tôi_tập_trung_vào_một_việc",
+      "label": "Đều là một lần tôi tập trung vào một việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "tiếp_theo_là_recording",
+      "label": "Tiếp theo là Recording",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_nên_bạn_cần_bị_suy_xét",
+      "label": "Vậy nên bạn cần bị suy xét",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "và_sau_đó_chúng_ta_sẽ_đi_đến_bước_cuối_cùng",
+      "label": "Và sau đó chúng ta sẽ đi đến bước cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    }
+  ]
+}

@@ -1,0 +1,250 @@
+{
+  "source_type": "youtube",
+  "word_count": 4617,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "anh_ấy_là_một_tỷ_phú_nhà_từ_thiện_thiên_tài_nổi_tiếng",
+      "label": "Anh ấy là một tỷ phú, nhà từ thiện, thiên tài nổi tiếng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_thì_sau_khi_mà_đọc_cuốn_sách_trong_video_ngày_hôm_nay",
+      "label": "Vậy thì sau khi mà đọc cuốn sách trong video ngày hôm nay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "đây_quả_thực_là_một_cuộc_sống_vô_cùng_khó_khăn",
+      "label": "Đây quả thực là một cuộc sống vô cùng khó khăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "chấp_nhận_rủi_ro_là_một_phẩm_chất_hiếm_có",
+      "label": "Chấp nhận rủi ro là một phẩm chất hiếm có",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "bố_của_bà_là_một_người_rất_độc_lập",
+      "label": "Bố của bà là một người rất độc lập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "ngoài_ra_họ_còn_bị_đà_điều_rượt_đuổi",
+      "label": "Ngoài ra họ còn bị đà điều rượt đuổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cha_là_một_người_đàn_ông_vĩ_đại",
+      "label": "Cha là một người đàn ông vĩ đại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "thứ_hai_là_hãy_luôn_trao_rồi_lòng_tự_tin_ở_bạn",
+      "label": "Thứ hai là hãy luôn trao rồi lòng tự tin ở bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 72",
+      "children": [
+        {
+          "key": "thứ_hai_là_hãy_luôn_trao_rồi_lòng_tự_tin_ở_bạn_item_1",
+          "label": "[Item 1 of Thứ hai là hãy luôn trao rồi lòng tự tin ở bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_hãy_luôn_trao_rồi_lòng_tự_tin_ở_bạn_item_2",
+          "label": "[Item 2 of Thứ hai là hãy luôn trao rồi lòng tự tin ở bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bí_quyết_của_bà_là_gì",
+      "label": "Bí quyết của bà là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "đầu_tiên_đừng_bao_bọc_con_quá_mức",
+      "label": "Đầu tiên đừng bao bọc con quá mức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "đây_là_một_mẹo_mà_bà_học_từ_chính_cha_mẹ_của_mình",
+      "label": "Đây là một mẹo mà bà học từ chính cha mẹ của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đó_cũng_là_một_cách_để_đưa_tiền_tiêu_phạt_cho_con",
+      "label": "Đó cũng là một cách để đưa tiền tiêu phạt cho con",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "hơn_nữa_khi_giúp_cha_mẹ_làm_việc_nhà",
+      "label": "Hơn nữa, khi giúp cha mẹ làm việc nhà",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "hơn_nữa_khi_giúp_cha_mẹ_làm_việc_nhà_item_1",
+          "label": "[Item 1 of Hơn nữa, khi giúp cha mẹ làm việc nhà — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hơn_nữa_khi_giúp_cha_mẹ_làm_việc_nhà_item_2",
+          "label": "[Item 2 of Hơn nữa, khi giúp cha mẹ làm việc nhà — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_luôn_lạc_quan",
+      "label": "Thứ hai, luôn lạc quan",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "thứ_hai_luôn_lạc_quan_item_1",
+          "label": "[Item 1 of Thứ hai, luôn lạc quan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_luôn_lạc_quan_item_2",
+          "label": "[Item 2 of Thứ hai, luôn lạc quan — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_thoát_khỏi_vùng_thoải_mái_của_bản_thân",
+      "label": "Thứ ba, thoát khỏi vùng thoải mái của bản thân",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "thứ_ba_thoát_khỏi_vùng_thoải_mái_của_bản_thân_item_1",
+          "label": "[Item 1 of Thứ ba, thoát khỏi vùng thoải mái của bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_thoát_khỏi_vùng_thoải_mái_của_bản_thân_item_2",
+          "label": "[Item 2 of Thứ ba, thoát khỏi vùng thoải mái của bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_may_mask",
+      "label": "Đầu tiên, May Mask",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "thứ_hai_không_cần_phải_học_theo_những_công_thức_ăn_uống_khác",
+      "label": "Thứ hai, không cần phải học theo những công thức ăn uống khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 134",
+      "children": [
+        {
+          "key": "thứ_hai_không_cần_phải_học_theo_những_công_thức_ăn_uống_khác_item_1",
+          "label": "[Item 1 of Thứ hai, không cần phải học theo những công thức ăn uống khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_không_cần_phải_học_theo_những_công_thức_ăn_uống_khác_item_2",
+          "label": "[Item 2 of Thứ hai, không cần phải học theo những công thức ăn uống khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_tốt_nhất_là_bạn_nên_chia_nhiều_bữa_ăn_nhỏ_ra_để_ăn",
+      "label": "Ngoài ra, tốt nhất là bạn nên chia nhiều bữa ăn nhỏ ra để ăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "ngoài_ra_hãy_học_cách_thưởng_thức_đồ_ăn",
+      "label": "Ngoài ra, hãy học cách thưởng thức đồ ăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "ăn_uống_nên_là_một_quá_trình_hưởng_thụ",
+      "label": "Ăn uống nên là một quá trình hưởng thụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "có_1720g_protein",
+      "label": "Có 17-20g protein",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "cuối_cùng_ngoài_việc_ăn_uống_lành_mạnh",
+      "label": "Cuối cùng, ngoài việc ăn uống lành mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "cuối_cùng_điều_quan_trọng_nhất_khi_đọc_cuốn_tự_chuyện_này",
+      "label": "Cuối cùng, điều quan trọng nhất khi đọc cuốn tự chuyện này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    }
+  ]
+}

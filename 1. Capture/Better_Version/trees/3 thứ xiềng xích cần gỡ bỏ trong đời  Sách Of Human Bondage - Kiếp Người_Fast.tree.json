@@ -1,0 +1,146 @@
+{
+  "source_type": "youtube",
+  "word_count": 4432,
+  "estimated_leaf_nodes": 17,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 17 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_3_loại_sinh_xích_đó_là_gì",
+      "label": "Vậy 3 loại sinh xích đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đây_chính_là_một_vòng_luận_quẩn",
+      "label": "Đây chính là một vòng luận quẩn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tự_ti_vì_bản_thân_là_một_người_con_trai",
+      "label": "Tự ti vì bản thân là một người con trai",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 30",
+      "children": [
+        {
+          "key": "tự_ti_vì_bản_thân_là_một_người_con_trai_item_1",
+          "label": "[Item 1 of Tự ti vì bản thân là một người con trai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tự_ti_vì_bản_thân_là_một_người_con_trai_item_2",
+          "label": "[Item 2 of Tự ti vì bản thân là một người con trai — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_đó_là_phòng_thủ",
+      "label": "Thứ hai đó là phòng thủ.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_phòng_thủ_item_1",
+          "label": "[Item 1 of Thứ hai đó là phòng thủ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_phòng_thủ_item_2",
+          "label": "[Item 2 of Thứ hai đó là phòng thủ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_hành_vi_tự_cô_lập_bản_thân",
+      "label": "Đây là một hành vi tự cô lập bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "hành_trình_cuộc_đời_là_một_quá_trình_không_ngừng_gỡ_bỏ_xiếng",
+      "label": "Hành trình cuộc đời là một quá trình không ngừng gỡ bỏ xiếng xích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "cuối_cùng_thoát_khỏi_gông_cùm_về_sự_tự_ti_mặc_cảm",
+      "label": "Cuối cùng thoát khỏi gông cùm về sự tự ti, mặc cảm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "vậy_thì_chỉ_khi_bạn_tự_tay",
+      "label": "Vậy thì chỉ khi bạn tự tay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "bước_ra_từ_bóng_tối_và_khám_phá_ra_giá_trị_thực_sự_của_chính",
+      "label": "bước ra từ bóng tối và khám phá ra giá trị thực sự của chính mình,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "price_là_một_cô_gái_rất_chăm_chỉ_cần_củ_luyện_vẽ",
+      "label": "Price là một cô gái rất chăm chỉ, cần củ luyện vẽ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "cuối_cùng_cô_tuyệt_vọng_tự_kết_liễu_trong_căn_phòng_thuê_tồi",
+      "label": "Cuối cùng cô tuyệt vọng tự kết liễu trong căn phòng thuê tồi tàn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "và_trong_cuộc_sống_của_chúng_ta_cũng_như_thế",
+      "label": "Và trong cuộc sống của chúng ta cũng như thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "cuối_cùng_biến_mất_khỏi_cuộc_đời_của_philip",
+      "label": "Cuối cùng biến mất khỏi cuộc đời của Philip",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "tình_yêu_này_thật_sự_là_một_sự_dày_vỏ",
+      "label": "Tình yêu này thật sự là một sự dày vỏ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "bước_ra_khỏi_vòng_tối_của_mặc_cảm_biến_tự_ti_trở_thành_siêu",
+      "label": "bước ra khỏi vòng tối của mặc cảm biến tự ti trở thành siêu việt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    }
+  ]
+}

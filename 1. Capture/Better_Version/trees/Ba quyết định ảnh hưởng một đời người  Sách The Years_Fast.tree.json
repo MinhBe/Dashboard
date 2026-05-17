@@ -1,0 +1,148 @@
+{
+  "source_type": "youtube",
+  "word_count": 4749,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_cuốn_tự_chuyện_vô_cùng_độc_đáo",
+      "label": "Đây là một cuốn tự chuyện vô cùng độc đáo.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "tiếp_theo_đây_cuộc_đời_cô_sẽ_như_thế_nào",
+      "label": "Tiếp theo đây cuộc đời cô sẽ như thế nào?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 24",
+      "children": [
+        {
+          "key": "tiếp_theo_đây_cuộc_đời_cô_sẽ_như_thế_nào_item_1",
+          "label": "[Item 1 of Tiếp theo đây cuộc đời cô sẽ như thế nào? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_đây_cuộc_đời_cô_sẽ_như_thế_nào_item_2",
+          "label": "[Item 2 of Tiếp theo đây cuộc đời cô sẽ như thế nào? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "anh_ta_chỉ_coi_cô_là_một_công_cụ_để_giết_chết_sự_cô_đơn",
+      "label": "Anh ta chỉ coi cô là một công cụ để giết chết sự cô đơn,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "và_có_lẽ_chúng_ta_phải_đi_đến_cuối_đời",
+      "label": "và có lẽ chúng ta phải đi đến cuối đời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_em_nghĩ_sao",
+      "label": "Vậy em nghĩ sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cuối_cùng_mừng_tất_cả_sự_nỗ_lực_có_thể",
+      "label": "Cuối cùng mừng tất cả sự nỗ lực có thể.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "bước_qua_tuổi_20_quyết_định_dừng_lại_đúng_lúc_để_có_thể_đi_x",
+      "label": "Bước qua tuổi 20 quyết định dừng lại đúng lúc để có thể đi xa hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "vậy_nên_ở_tuổi_25_bà_đặc_biệt_thận_trọng_trong_tình_yêu_và_h",
+      "label": "Vậy nên ở tuổi 25, bà đặc biệt thận trọng trong tình yêu và hôn nhân.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 72",
+      "children": [
+        {
+          "key": "vậy_nên_ở_tuổi_25_bà_đặc_biệt_thận_trọng_trong_tình_yêu_và_h_item_1",
+          "label": "[Item 1 of Vậy nên ở tuổi 25, bà đặc biệt thận trọng trong tình yêu và hôn nhân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_ở_tuổi_25_bà_đặc_biệt_thận_trọng_trong_tình_yêu_và_h_item_2",
+          "label": "[Item 2 of Vậy nên ở tuổi 25, bà đặc biệt thận trọng trong tình yêu và hôn nhân. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_mà_giờ_đây_cây_bút_của_bà_bị_phứt_vào_một_góc",
+      "label": "Vậy mà giờ đây cây bút của bà bị phứt vào một góc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "đây_là_một_loại_tiến_bộ",
+      "label": "Đây là một loại tiến bộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "cũng_có_thể_nói_là_một_chiến_thắng_ngoạn_mục",
+      "label": "Cũng có thể nói là một chiến thắng ngoạn mục",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "cũng_có_thể_nói_là_một_chiến_thắng_ngoạn_mục_item_1",
+          "label": "[Item 1 of Cũng có thể nói là một chiến thắng ngoạn mục — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cũng_có_thể_nói_là_một_chiến_thắng_ngoạn_mục_item_2",
+          "label": "[Item 2 of Cũng có thể nói là một chiến thắng ngoạn mục — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_đến_cuối_đời_nhìn_lại_họ_tưởng_chừng_làm_được_rất_nhiều",
+      "label": "Bước đến cuối đời nhìn lại, họ tưởng chừng làm được rất nhiều việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "cuối_cùng_bạn_cũng_sẽ_có_thể_trở_về_trở_về_với_chính_mình",
+      "label": "Cuối cùng bạn cũng sẽ có thể trở về, trở về với chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    }
+  ]
+}

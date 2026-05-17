@@ -1,0 +1,294 @@
+{
+  "title": "伙伴图鉴",
+  "count": 32,
+  "items": [
+    {
+      "section": "小村隐士",
+      "id": 88,
+      "npc_id": "10088",
+      "name": "花四娘",
+      "gender": "女",
+      "faction": "无名小村",
+      "notes": "可结缘"
+    },
+    {
+      "section": "身世坎坷",
+      "id": 98,
+      "npc_id": "10098",
+      "name": "海棠秋",
+      "gender": "女",
+      "faction": "？",
+      "notes": "可结缘"
+    },
+    {
+      "section": "身世坎坷",
+      "id": 46,
+      "npc_id": "10046",
+      "name": "月咏樱羽",
+      "gender": "女",
+      "faction": "蚍蜉城",
+      "notes": "可结缘"
+    },
+    {
+      "section": "身世坎坷",
+      "id": 57,
+      "npc_id": "10057",
+      "name": "廖月龙",
+      "gender": "男",
+      "faction": "柴王阁",
+      "notes": "无"
+    },
+    {
+      "section": "不让须眉",
+      "id": 8,
+      "npc_id": "10008",
+      "name": "叶银瓶",
+      "gender": "女",
+      "faction": "叶家军",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 78,
+      "npc_id": "10078",
+      "name": "洛千雪",
+      "gender": "女",
+      "faction": "神捕门",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 90,
+      "npc_id": "10090",
+      "name": "华青青",
+      "gender": "女",
+      "faction": "燕子窝",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 7,
+      "npc_id": "10007",
+      "name": "凌梦蝶",
+      "gender": "女",
+      "faction": "江湖散人",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 42,
+      "npc_id": "10042",
+      "name": "韩红玉",
+      "gender": "女",
+      "faction": "虎威镖局",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 25,
+      "npc_id": "10025",
+      "name": "完颜昭宁",
+      "gender": "女",
+      "faction": "燕云铁军",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 91,
+      "npc_id": "10091",
+      "name": "一枝花",
+      "gender": "女",
+      "faction": "长乐柜坊、玄衣会",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 81,
+      "npc_id": "10081",
+      "name": "唐婉儿",
+      "gender": "女",
+      "faction": "万兽山庄",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 36,
+      "npc_id": "10036",
+      "name": "定海棠",
+      "gender": "女",
+      "faction": "九江水寨",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 96,
+      "npc_id": "10096",
+      "name": "凤璇玑",
+      "gender": "女",
+      "faction": "圣火宗",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不让须眉",
+      "id": 106,
+      "npc_id": "10106",
+      "name": "纪茯苓",
+      "gender": "女",
+      "faction": "？",
+      "notes": "可结缘、DLC2"
+    },
+    {
+      "section": "琴棋书画",
+      "id": 75,
+      "npc_id": "10075",
+      "name": "哑琴",
+      "gender": "女",
+      "faction": "儒圣馆",
+      "notes": "可结缘"
+    },
+    {
+      "section": "医毒同源",
+      "id": 53,
+      "npc_id": "10053",
+      "name": "绛紫烟",
+      "gender": "女",
+      "faction": "江湖散人",
+      "notes": "可结缘"
+    },
+    {
+      "section": "医毒同源",
+      "id": 60,
+      "npc_id": "10060",
+      "name": "曲忘忧",
+      "gender": "女",
+      "faction": "本草门",
+      "notes": "可结缘"
+    },
+    {
+      "section": "损人不利己",
+      "id": 26,
+      "npc_id": "10026",
+      "name": "恶乞丐",
+      "gender": "男",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "损人不利己",
+      "id": 27,
+      "npc_id": "10027",
+      "name": "毒伢婆",
+      "gender": "女",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "损人不利己",
+      "id": 17,
+      "npc_id": "10017",
+      "name": "损道人",
+      "gender": "男",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "损人不利己",
+      "id": 18,
+      "npc_id": "10018",
+      "name": "疯戏子",
+      "gender": "未知",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "损人不利己",
+      "id": 105,
+      "npc_id": "10105",
+      "name": "邪郎中",
+      "gender": "男",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "一门之主",
+      "id": 69,
+      "npc_id": "10069",
+      "name": "付瑶琴",
+      "gender": "女",
+      "faction": "妙音坊",
+      "notes": "可结缘"
+    },
+    {
+      "section": "一代宗师",
+      "id": 52,
+      "npc_id": "10052",
+      "name": "楚狂生",
+      "gender": "男",
+      "faction": "九流门",
+      "notes": "DLC2"
+    },
+    {
+      "section": "天真无邪",
+      "id": 66,
+      "npc_id": "1006",
+      "name": "福箐郡主",
+      "gender": "女",
+      "faction": "康王府",
+      "notes": "可结缘"
+    },
+    {
+      "section": "天真无邪",
+      "id": 4,
+      "npc_id": "10004",
+      "name": "苗彩蝶",
+      "gender": "女",
+      "faction": "九黎部落",
+      "notes": "可结缘"
+    },
+    {
+      "section": "天真无邪",
+      "id": 92,
+      "npc_id": "10092",
+      "name": "鱼薇儿",
+      "gender": "女",
+      "faction": "妙音坊",
+      "notes": "可结缘"
+    },
+    {
+      "section": "洁身自好",
+      "id": 49,
+      "npc_id": "10049",
+      "name": "顾倾城",
+      "gender": "女",
+      "faction": "妙音坊",
+      "notes": "可结缘"
+    },
+    {
+      "section": "洁身自好",
+      "id": 94,
+      "npc_id": "10094",
+      "name": "严如蕊",
+      "gender": "女",
+      "faction": "霖安城",
+      "notes": "可结缘"
+    },
+    {
+      "section": "洁身自好",
+      "id": 19,
+      "npc_id": "10019",
+      "name": "曼陀罗",
+      "gender": "女",
+      "faction": "江湖散人",
+      "notes": "可结缘"
+    },
+    {
+      "section": "不在图鉴中",
+      "id": 9,
+      "npc_id": "10009",
+      "name": "佟道辅",
+      "gender": "男",
+      "faction": "皇城司",
+      "notes": "可邀请"
+    }
+  ]
+}

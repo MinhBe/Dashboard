@@ -1,0 +1,229 @@
+{
+  "source_type": "youtube",
+  "word_count": 5154,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 25 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_nếu_như_không_có_lưng_thường",
+      "label": "Vậy thì nếu như không có lưng thường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "nhưng_tại_sao_đến_một_thời_điểm_nhất_định_nào_đó",
+      "label": "Nhưng tại sao đến một thời điểm nhất định nào đó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "đây_là_một_số_tiền_không_ít_vào_lúc_bấy_giờ",
+      "label": "Đây là một số tiền không ít vào lúc bấy giờ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "thực_chất_chỉ_là_một_nhiệm_vụ",
+      "label": "thực chất chỉ là một nhiệm vụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_thì_phần_thường_thực_sự_là_gì",
+      "label": "Vậy thì, phần thường thực sự là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_là_cô_bé_đã_trở_nên_hăng_hải_đi_học",
+      "label": "Vậy là cô bé đã trở nên hăng hải đi học.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "nếu_bạn_là_một_phụ_huynh_liệu_bạn_có_nhận_ra_được_điều_này_k",
+      "label": "Nếu bạn là một phụ huynh, liệu bạn có nhận ra được điều này không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "đây_là_một_chiến_lược_tạo_ra_động_lực",
+      "label": "Đây là một chiến lược tạo ra động lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "tuy_nhiên_kết_quả_lại_thường_bị_phản_tác_dụng",
+      "label": "Tuy nhiên, kết quả lại thường bị phản tác dụng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_bản_thân_mình_đang_ngày_càng_mất_dần_đi",
+      "label": "Tại sao bản thân mình đang ngày càng mất dần đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_có_được_động_lực_nội_tại",
+      "label": "Vậy làm thế nào để có được động lực nội tại?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 76",
+      "children": [
+        {
+          "key": "vậy_làm_thế_nào_để_có_được_động_lực_nội_tại_item_1",
+          "label": "[Item 1 of Vậy làm thế nào để có được động lực nội tại? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_có_được_động_lực_nội_tại_item_2",
+          "label": "[Item 2 of Vậy làm thế nào để có được động lực nội tại? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trái_ngược_về_tách_xa_là_trạng_thái_đắm_chìm",
+      "label": "Trái ngược về tách xa là trạng thái đắm chìm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 84",
+      "children": [
+        {
+          "key": "trái_ngược_về_tách_xa_là_trạng_thái_đắm_chìm_item_1",
+          "label": "[Item 1 of Trái ngược về tách xa là trạng thái đắm chìm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "trái_ngược_về_tách_xa_là_trạng_thái_đắm_chìm_item_2",
+          "label": "[Item 2 of Trái ngược về tách xa là trạng thái đắm chìm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nên_hãy_nhớ_rằng_bước_đầu_tiên",
+      "label": "Vậy nên hãy nhớ rằng bước đầu tiên",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "vậy_nên_hãy_nhớ_rằng_bước_đầu_tiên_item_1",
+          "label": "[Item 1 of Vậy nên hãy nhớ rằng bước đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_hãy_nhớ_rằng_bước_đầu_tiên_item_2",
+          "label": "[Item 2 of Vậy nên hãy nhớ rằng bước đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_bạn_không_bị_kiểm_soát_bởi_các_yếu_tố_bên_ngoài",
+      "label": "Thứ hai là bạn không bị kiểm soát bởi các yếu tố bên ngoài.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "thứ_hai_là_bạn_không_bị_kiểm_soát_bởi_các_yếu_tố_bên_ngoài_item_1",
+          "label": "[Item 1 of Thứ hai là bạn không bị kiểm soát bởi các yếu tố bên ngoài. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_bạn_không_bị_kiểm_soát_bởi_các_yếu_tố_bên_ngoài_item_2",
+          "label": "[Item 2 of Thứ hai là bạn không bị kiểm soát bởi các yếu tố bên ngoài. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_trong_2_động_lực_này",
+      "label": "Vậy thì trong 2 động lực này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "điều_thứ_nhất_đó_là_cần_trao_quyền_lựa_chọn",
+      "label": "Điều thứ nhất đó là cần trao quyền lựa chọn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 136",
+      "children": [
+        {
+          "key": "điều_thứ_nhất_đó_là_cần_trao_quyền_lựa_chọn_item_1",
+          "label": "[Item 1 of Điều thứ nhất đó là cần trao quyền lựa chọn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_nhất_đó_là_cần_trao_quyền_lựa_chọn_item_2",
+          "label": "[Item 2 of Điều thứ nhất đó là cần trao quyền lựa chọn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_để_điều_chỉnh",
+      "label": "Vậy để điều chỉnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "vậy_thì_con_hãy_tự_quản_lý_thời_gian_của_mình",
+      "label": "Vậy thì con hãy tự quản lý thời gian của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "phương_pháp_này_có_thể_áp_dụng_cho_bất_kỳ_ai",
+      "label": "Phương pháp này có thể áp dụng cho bất kỳ ai,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "nó_đương_nhiên_là_một_hình_phạt_không_rõ_ràng",
+      "label": "Nó đương nhiên là một hình phạt không rõ ràng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    }
+  ]
+}

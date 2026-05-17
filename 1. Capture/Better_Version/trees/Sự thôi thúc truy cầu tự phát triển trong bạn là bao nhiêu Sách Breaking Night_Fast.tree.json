@@ -1,0 +1,806 @@
+{
+  "source_type": "youtube",
+  "word_count": 3975,
+  "estimated_leaf_nodes": 110,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 110 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thực_ra_là_một_quá_trình",
+      "label": "thực ra là một quá trình",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "thực_ra_là_một_quá_trình_item_1",
+          "label": "[Item 1 of thực ra là một quá trình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thực_ra_là_một_quá_trình_item_2",
+          "label": "[Item 2 of thực ra là một quá trình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_một_trường_học_phi_truyền_thống_đồng_ý_phỏng_vấn_c",
+      "label": "Cuối cùng một trường học phi truyền thống đồng ý phỏng vấn cô.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "và_bây_giờ_đã_đến_lúc_bạn_cần_phải_đối_diện",
+      "label": "Và bây giờ đã đến lúc bạn cần phải đối diện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "và_bây_giờ_đã_đến_lúc_bạn_cần_phải_đối_diện_item_1",
+          "label": "[Item 1 of Và bây giờ đã đến lúc bạn cần phải đối diện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_bây_giờ_đã_đến_lúc_bạn_cần_phải_đối_diện_item_2",
+          "label": "[Item 2 of Và bây giờ đã đến lúc bạn cần phải đối diện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trong_cuốn_sách_elastic_có_nói",
+      "label": "Trong cuốn sách Elastic có nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới",
+      "label": "Sự thay đổi là trạng thái bình thường của thế giới",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_1",
+          "label": "[Item 1 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_2",
+          "label": "[Item 2 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_3",
+          "label": "[Item 3 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_4",
+          "label": "[Item 4 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_5",
+          "label": "[Item 5 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 5"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_6",
+          "label": "[Item 6 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 6"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_7",
+          "label": "[Item 7 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 7"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_8",
+          "label": "[Item 8 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 8"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_9",
+          "label": "[Item 9 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 9"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_10",
+          "label": "[Item 10 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 10"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_11",
+          "label": "[Item 11 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 11"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_12",
+          "label": "[Item 12 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 12"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_13",
+          "label": "[Item 13 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 13"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_14",
+          "label": "[Item 14 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 14"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_15",
+          "label": "[Item 15 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 15"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_16",
+          "label": "[Item 16 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 16"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_17",
+          "label": "[Item 17 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 17"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_18",
+          "label": "[Item 18 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 18"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_19",
+          "label": "[Item 19 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 19"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_20",
+          "label": "[Item 20 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 20"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_21",
+          "label": "[Item 21 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 21"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_22",
+          "label": "[Item 22 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 22"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_23",
+          "label": "[Item 23 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 23"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_24",
+          "label": "[Item 24 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 24"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_25",
+          "label": "[Item 25 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 25"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_26",
+          "label": "[Item 26 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 26"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_27",
+          "label": "[Item 27 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 27"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_28",
+          "label": "[Item 28 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 28"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_29",
+          "label": "[Item 29 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 29"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_30",
+          "label": "[Item 30 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 30"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_31",
+          "label": "[Item 31 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 31"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_32",
+          "label": "[Item 32 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 32"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_33",
+          "label": "[Item 33 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 33"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_34",
+          "label": "[Item 34 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 34"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_35",
+          "label": "[Item 35 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 35"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_36",
+          "label": "[Item 36 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 36"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_37",
+          "label": "[Item 37 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 37"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_38",
+          "label": "[Item 38 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 38"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_39",
+          "label": "[Item 39 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 39"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_40",
+          "label": "[Item 40 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 40"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_41",
+          "label": "[Item 41 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 41"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_42",
+          "label": "[Item 42 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 42"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_43",
+          "label": "[Item 43 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 43"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_44",
+          "label": "[Item 44 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 44"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_45",
+          "label": "[Item 45 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 45"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_46",
+          "label": "[Item 46 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 46"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_47",
+          "label": "[Item 47 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 47"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_48",
+          "label": "[Item 48 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 48"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_49",
+          "label": "[Item 49 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 49"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_50",
+          "label": "[Item 50 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 50"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_51",
+          "label": "[Item 51 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 51"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_52",
+          "label": "[Item 52 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 52"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_53",
+          "label": "[Item 53 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 53"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_54",
+          "label": "[Item 54 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 54"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_55",
+          "label": "[Item 55 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 55"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_56",
+          "label": "[Item 56 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 56"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_57",
+          "label": "[Item 57 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 57"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_58",
+          "label": "[Item 58 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 58"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_59",
+          "label": "[Item 59 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 59"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_60",
+          "label": "[Item 60 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 60"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_61",
+          "label": "[Item 61 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 61"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_62",
+          "label": "[Item 62 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 62"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_63",
+          "label": "[Item 63 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 63"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_64",
+          "label": "[Item 64 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 64"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_65",
+          "label": "[Item 65 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 65"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_66",
+          "label": "[Item 66 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 66"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_67",
+          "label": "[Item 67 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 67"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_68",
+          "label": "[Item 68 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 68"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_69",
+          "label": "[Item 69 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 69"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_70",
+          "label": "[Item 70 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 70"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_71",
+          "label": "[Item 71 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 71"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_72",
+          "label": "[Item 72 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 72"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_73",
+          "label": "[Item 73 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 73"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_74",
+          "label": "[Item 74 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 74"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_75",
+          "label": "[Item 75 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 75"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_76",
+          "label": "[Item 76 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 76"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_77",
+          "label": "[Item 77 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 77"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_78",
+          "label": "[Item 78 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 78"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_79",
+          "label": "[Item 79 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 79"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_80",
+          "label": "[Item 80 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 80"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_81",
+          "label": "[Item 81 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 81"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_82",
+          "label": "[Item 82 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 82"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_83",
+          "label": "[Item 83 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 83"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_84",
+          "label": "[Item 84 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 84"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_85",
+          "label": "[Item 85 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 85"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_86",
+          "label": "[Item 86 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 86"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_87",
+          "label": "[Item 87 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 87"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_88",
+          "label": "[Item 88 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 88"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_89",
+          "label": "[Item 89 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 89"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_90",
+          "label": "[Item 90 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 90"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_91",
+          "label": "[Item 91 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 91"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_92",
+          "label": "[Item 92 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 92"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_93",
+          "label": "[Item 93 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 93"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_94",
+          "label": "[Item 94 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 94"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_95",
+          "label": "[Item 95 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 95"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_96",
+          "label": "[Item 96 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 96"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_97",
+          "label": "[Item 97 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 97"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_98",
+          "label": "[Item 98 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 98"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_99",
+          "label": "[Item 99 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 99"
+        },
+        {
+          "key": "sự_thay_đổi_là_trạng_thái_bình_thường_của_thế_giới_item_100",
+          "label": "[Item 100 of Sự thay đổi là trạng thái bình thường của thế giới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 100"
+        }
+      ]
+    },
+    {
+      "key": "vậy_là_đủ",
+      "label": "Vậy là đủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "bạn_mới_có_thể_gặp_gỡ_phiên_bản_tốt_hơn_của_chính_mình",
+      "label": "Bạn mới có thể gặp gỡ phiên bản tốt hơn của chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "cuối_cùng_mình_muốn_gửi_tặng_bạn_một_câu_nói_của_tác_giả",
+      "label": "Cuối cùng, mình muốn gửi tặng bạn một câu nói của tác giả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vì_cuộc_sống_vốn_là_một_trang_giấy_trắng",
+      "label": "Vì cuộc sống vốn là một trang giấy trắng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    }
+  ]
+}

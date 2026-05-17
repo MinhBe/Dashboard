@@ -1,0 +1,118 @@
+{
+  "source_type": "youtube",
+  "word_count": 4035,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "và_nhắc_nhở_tất_cả_chúng_ta_về_sự_tỉnh_giấc",
+      "label": "và nhắc nhở tất cả chúng ta về sự tỉnh giấc,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "lâm_tưởng_rằng_đây_là_một_cuốn_sách_thuần_túy_mang_màu_sắc_s",
+      "label": "Lâm tưởng rằng đây là một cuốn sách thuần túy, mang màu sắc siêu hình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "mỗi_phòng_học_là_một_bản_sao_của_sự_chuẩn_hóa_vô_hồn",
+      "label": "Mỗi phòng học là một bản sao của sự chuẩn hóa vô hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_thì_chúng_ta_phải_chiến_đấu_và_vượt_qua_hoang_nguyên_bón",
+      "label": "Vậy thì chúng ta phải chiến đấu và vượt qua hoang nguyên bóng tối",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 42",
+      "children": [
+        {
+          "key": "vậy_thì_chúng_ta_phải_chiến_đấu_và_vượt_qua_hoang_nguyên_bón_item_1",
+          "label": "[Item 1 of Vậy thì chúng ta phải chiến đấu và vượt qua hoang nguyên bóng tối — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_chúng_ta_phải_chiến_đấu_và_vượt_qua_hoang_nguyên_bón_item_2",
+          "label": "[Item 2 of Vậy thì chúng ta phải chiến đấu và vượt qua hoang nguyên bóng tối — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_anh_lại_bất_chấp_tình_mạng_vì_tôi",
+      "label": "Tại sao anh lại bất chấp tình mạng vì tôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_nhưng_hành_trình_vượt_qua_hoang_nguyên_cùng_tristan",
+      "label": "Vậy nhưng hành trình vượt qua hoang nguyên cùng Tristan",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "nên_không_còn_gì_phải_so",
+      "label": "Nên không còn gì phải so",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "cuối_cùng_cô_cũng_tìm_thấy_tristan",
+      "label": "Cuối cùng, cô cũng tìm thấy Tristan",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "đằng_sau_đó_là_một_chiến_khí_thứ_ba",
+      "label": "Đằng sau đó là một chiến khí thứ ba,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "đằng_sau_đó_là_một_chiến_khí_thứ_ba_item_1",
+          "label": "[Item 1 of Đằng sau đó là một chiến khí thứ ba, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đằng_sau_đó_là_một_chiến_khí_thứ_ba_item_2",
+          "label": "[Item 2 of Đằng sau đó là một chiến khí thứ ba, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_thì_tình_yêu_với_chính_mình_được_thể_hiện_như_thế_nào_đâ",
+      "label": "Vậy thì tình yêu với chính mình được thể hiện như thế nào đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    }
+  ]
+}

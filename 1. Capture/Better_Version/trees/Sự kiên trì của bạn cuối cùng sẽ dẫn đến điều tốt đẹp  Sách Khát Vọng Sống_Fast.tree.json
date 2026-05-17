@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 5240,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_là_một_công_việc_nữa_lại_kết_thúc",
+      "label": "Vậy là một công việc nữa lại kết thúc.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "vậy_là_một_công_việc_nữa_lại_kết_thúc_item_1",
+          "label": "[Item 1 of Vậy là một công việc nữa lại kết thúc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_là_một_công_việc_nữa_lại_kết_thúc_item_2",
+          "label": "[Item 2 of Vậy là một công việc nữa lại kết thúc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_chân_vào_thế_giới_ảo_dường_như_cho_chúng_ta",
+      "label": "bước chân vào thế giới ảo dường như cho chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "nghiệt_là_một_lần_thoát_ly_ngắn_ngùi",
+      "label": "nghiệt là một lần thoát ly ngắn ngùi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "đọc_sách_là_một_trong_những_cách_tốt_nhất",
+      "label": "Đọc sách là một trong những cách tốt nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "dù_bạn_là_một_chiến_sĩ_cô_đơn",
+      "label": "Dù bạn là một chiến sĩ cô đơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_tạo_ra_một_loại_hình_nghệ_thuật",
+      "label": "Cuối cùng tạo ra một loại hình nghệ thuật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "nếu_thực_sự_là_một_kẻ_điên_thì_làm_sao_có_thể_vẽ_ra_được",
+      "label": "Nếu thực sự là một kẻ điên thì làm sao có thể vẽ ra được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_thì_van_gogh_làm_sao_mà_có_thể_biết_trước_được",
+      "label": "Vậy thì Van Gogh làm sao mà có thể biết trước được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "bước_lên_mặt_trăng_di_cư_lên_sao_hỏa",
+      "label": "Bước lên mặt trăng, di cư lên sao hỏa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    }
+  ]
+}

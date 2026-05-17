@@ -1,0 +1,135 @@
+{
+  "source_type": "youtube",
+  "word_count": 3664,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_mình_lại_nói_về_cuốn_sách_này",
+      "label": "Tại sao mình lại nói về cuốn sách này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "tại_sao_lại_là_bóng_đá",
+      "label": "tại sao lại là bóng đá?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "tại_sao_bóng_đá_lại_có_thể_trở_thành",
+      "label": "Tại sao bóng đá lại có thể trở thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "tại_sao_rất_nhiều_người_không_hề_chơi_bóng_đá",
+      "label": "Tại sao rất nhiều người không hề chơi bóng đá,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_thì_cuốn_sách_the_soccer_tribe",
+      "label": "Vậy thì cuốn sách The Soccer Tribe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "mà_đây_còn_là_một_sự_giải_thích_trung_thực_về_bản_chất_của_l",
+      "label": "Mà đây còn là một sự giải thích trung thực về bản chất của loài người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "desmond_morris_là_một_người_có_danh_tính",
+      "label": "Desmond Morris là một người có danh tính",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "có_lẽ_là_một_cái_tên_mới_dành_cho_loài_người",
+      "label": "có lẽ là một cái tên mới dành cho loài người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "và_đằng_sau_đó_chúng_ta_biết_được_mối_quan_hệ",
+      "label": "Và đằng sau đó chúng ta biết được mối quan hệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "hơn_5000_con_vật_đã_bị_giết",
+      "label": "Hơn 5.000 con vật đã bị giết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_thì_quần_vợt_bóng_bàn_cầu_lông",
+      "label": "Vậy thì quần vợt, bóng bàn, cầu lông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_bóng_rổ_thì_sao",
+      "label": "Vậy bóng rổ thì sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_lại_không_được",
+      "label": "Tại sao lại không được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "tại_sao_trên_thế_giới_có_nhiều_bộ_môn_thể_thao_như_vậy",
+      "label": "Tại sao trên thế giới có nhiều bộ môn thể thao như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "tại_sao_bạn_lại_thích_bóng_đà_đến_như_vậy",
+      "label": "Tại sao bạn lại thích bóng đà đến như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_thích_xem_bóng_đá_đến_vậy",
+      "label": "Tại sao chúng ta lại thích xem bóng đá đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "người_hâm_mộ_như_là_một_tín_đồ_vậy",
+      "label": "Người hâm mộ như là một tín đồ vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "nó_được_đóng_gói_như_là_một_bộ_lạc_có_chung_một_sở_thích",
+      "label": "Nó được đóng gói như là một bộ lạc có chung một sở thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    }
+  ]
+}

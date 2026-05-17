@@ -1,0 +1,181 @@
+Hi thân mến, chào các bạn. Chào mừng các bạn đã đến với BetterVersion, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay tuần này. Mình xin chia sẻ tới các bạn một cuốn sách mang tên A Dog Called Money. Hiện nay, cuốn sách này mình thấy đã có bằng dịch tiếng Việt đó là Chú chó mang tên money tiền không đợi tuổi. Như thường lệ, mình sẽ để phần thông tin chi tiết của cuốn sách này tại phần mô tả video. Khi nói tới chủ đề tiền bạc, chúng ta không thể nào trối bỏ một sự thực đang diễn ra xung quanh chúng ta rằng Còn có người tuy có thu nhập tương đối, không có hỗ trợ từ người thân thì lại sớm đạt được tự do tài chính. Xem ra thì, đối với những người giàu có, việc kiếm tiền thật dễ dàng. Khi có tiền thì họ lại càng có nhiều tiền hơn.
+
+Còn với những người thiếu tiền thì làm gì cũng gặp khó khăn.
+
+Tại sao lại xảy ra điều trái ngược này?
+
+Đó là bởi vì người giàu thì họ biết nắm bắt cơ hội tốt, còn người nghèo thì họ bỏ lỡ cơ hội chăng? Câu trả lời đều không nằm ở đó. Sự khác biệt thực sự giữa người dư già và người thiếu thốn không phải phụ thuộc vào cơ hội kiếm tiền, mà là ở cách suy nghĩ. Ví dụ điển hình bạn sẽ thấy rằng khi có ít tiền thì những người có tư duy giàu có họ vẫn nghĩ đến việc quản lý tài chính như thế nào. Còn đối với người nghèo, họ cảm thấy quản lý tiền bạc là việc xa vời với họ bởi vì họ có nhiều tiền đâu mà phải quản lý. Nhưng ở cuốn sách kinh điển về khai sáng sự giàu có và quản lý tài chính nổi tiếng ngày hôm nay chỉ nghĩ đến việc cắt giảm chi tiêu như thế nào và làm sao để tiết kiệm
+
+khi bản thân tôi vẫn cảm thấy thiếu thốn. Nếu bạn vẫn cho rằng phải đợi đến khi có nhiều tiền thì mới bắt đầu học cách quản lý tài chính thì những suy nghĩ như thế này sẽ khiến bạn ngày càng bất an và thiếu thốn tiền của hơn. Muốn thay đổi tài chính
+
+bạn phải bắt đầu từ việc thay đổi tiêu duy nghĩ về những điều bản thân chưa từng nghĩ tới trước đây bạn mới có thể tạo ra một cuộc sống khác tác giả của cuốn sách này là Paul Schaffer
+
+nhà đầu tư doanh nhân nổi tiếng người Đức được mệnh danh Khi ở tuổi 26, ông đã rơi vào cảnh nợ nâng trống chất. Sau đó, ông quyết định bắt đầu quản lý tài chính phát triển và thực hiện một loạt chiến lược của riêng mình. Trong vòng chưa đầy 4 năm, ông đã thoát khỏi nợ nân thậm chí sống cuộc đời tự do thông qua việc quản lý tài chính. Quan điểm quản lý tài chính trong cuốn sách này đã sửa chữa những hiểu lầm của nhiều người về tiền bạc Và sở dĩ cuốn sách này hấp dẫn là vì nó được viết dưới hình thức một câu chuyện cổ tích sống động về tài chính Mục đích ban đầu của tác giả là hướng dẫn cho trẻ em ngay từ khi còn nhỏ sẽ học cách hiểu và sử dụng đồng tiền một cách chính xác thay vì để đồng tiền chi phối.
+
+Nhưng không ngờ sau khi xuất bản, nó đã nhận được nhiều lời khen và nhanh chóng đứng đầu bằng xếp hạng bán sách ở Đức, sau đó trở thành cuốn sách quản lý tài chính nổi tiếng khắp châu Âu và được dịch ra hơn 30 thứ tiếng trên toàn thế giới. Nhiều độc giả trưởng thành đã viết tâm thư rằng câu chuyện trong sách đã thực sự giúp họ giác ngộ, khiến họ bắt đầu nghiêm túc xem xét việc quản lý tài chính và hiểu được bí quyết để đạt được sự giàu có. Nếu bạn sinh ra trong một gia đình bình thường hay có hoàn cảnh kém may mắn, nếu bạn muốn học cách quản lý tài chính, tăng thêm thu nhập, nếu bạn muốn thoát khỏi những gánh nặng thiêu thốn nợ nần về tiền bạc thì có thể bắt đầu thay đổi thông qua cách quản lý tài chính cơ bản nhưng cực kỳ hữu hiệu
+
+từ cuốn sách cổ tích cho trẻ em về tài chính thú vị này. Rồi, bây giờ mời các bạn cùng lắng nghe nội dung chia sẻ ngày hôm nay. Muốn quản lý được tiền bạc, trên hết phải chỉ hoãn được sự ham muốn. Câu chuyện bắt đầu khi cô bé Kira tội nghiệp, chuyển đến một nơi ở mới. Bố mẹ Kira rơi vào khủng hoảng tài chính do thế chấp và bị ngân hàng kiệt. Cô bé mong muốn có một chú chó làm bạn, nhưng ngày nào cũng nghe thấy những lời than vãn thiếu thốn tiền bạc từ bố mẹ
+
+thế nên chẳng dám ho he về ước muốn này. Nhưng đúng lúc ấy, Kira bắt gặp một chú chó lông trắng bị thương bên đường. Cô bé đã đem nó về chăm sóc và vì không tìm được chủ nên gia đình tiếp tục nuôi. đặt tên cho nó là Tiền tiền. Thậm chí có một lần, Gira đã liều mạng để cứu chú trò khi không may Tiền tiền bị ngã xuống sông. Một năm sau đó, Gira lên 12, gia đình cô bé vẫn không khớm khá hơn cha mẹ phải lai lưng để trả nợ thế chấp. Tiền tiêu vật của Gira nhận được ngày càng ít hỏi hơn
+
+Một hôm nọ, Gira đang xem TV thì thấy ban nhạc yêu thích của mình vừa ra CD mới. Niềm yêu thích dâng trào khiến mọi thứ thực tiễn về tiền bạc lập tức bỏ lại đằng sau. Cô bé nhước điện thoại lên để đặt hàng. Chỉ mong mau mau được nghe bài hát mới của thần tượng. Bỗng nhiên, đúng lúc này có một giọng nói ở đâu đó vang lên. Gira, cậu nên suy nghĩ lại đi Cậu có thực sự đủ khả năng không? Một khi mua đĩa CD này, cậu sẽ không còn
+
+tiền tiêu phạt cho tháng ngày nữa. Gira giật mình vội vàng quay lại nhưng chỉ thấy chú trò tiên tiên ngồi đó nên đã tưởng mình bị ảo giác và tiếp tục gọi điện để mua. Rồi lần này cô ấy lại tiếp tục nghe thấy. Gira, có ai học cách kiềm chế đi nếu không sẽ sớm lần này cô bé sững sờ cả người. Không ngờ giọng nói đó phát ra từ chú chó Tiên Tiền. Kira kinh hãi,
+
+nhưng Tiên Tiền lập tức nói việc cậu phải làm bây giờ không phải là sợ hãi mà là chống lại sự thôi thúc muốn thoả mãn bản thân. Hóa ra Tiên Tiền không phải là một chú chó bình thường. Chú ta không những biết nói mà còn là một chuyên gia quản lý tài chính. Vị chuyên gia đặc biệt này nhắc nhở Kira và chúng ta một điều cực kỳ quan trọng khi muốn trở nên giàu có đó là bạn cần phải ngăn chặn sự cảm rỗ và trì hoãn lòng ham muốn. Thật vậy, đã bao lần chúng ta vì muốn thỏa mãn chính mình mà có hàng ngàn lý do để tạc lưỡi tiêu tiền. Hoặc nhiều khi bạn nghĩ dù một ít tiền cũng chả sao cả
+
+nhưng tất cả những khoản vượt qua dự toán chi tiêu hàng tháng thực ra đều bắt nguồn từ việc tiêu tiền theo kiểu tích tiểu thành đại như vậy muốn thực hiện được quản lý tài chính
+
+Bước đầu tiên chúng ta cần phải học cách trì hoãn lòng ham muốn
+
+Nhà tâm lý học Walter Mitchell đã nói Trì hoãn sự ham muốn là từ bỏ sự thỏa mãn ngay lập tức để đạt được kết quả lâu dài, có giá trị hơn. Nhưng có lẽ nhiều người sẽ hỏi làm thế nào để tôi có thể nhận biết được đâu là thỏa mãn cần phải ngăn chặn cuộc đời còn quan trọng ở Zin Tôn. Nó cũng cần đáp ứng đôi sống tinh thần, có những thứ phải mua để phục vụ cuộc sống. Cũng có những thứ bây giờ không tiêu dùng thì sẽ bỏ lỡ vĩnh viễn, nếu cứ bo bo thì còn gì là sống? Thực chất, trì hoãn lòng ham muốn không phải là đè nén nhu cầu của mình một cách mù quang mà là từ bỏ hợp lý những quyết định ảnh hưởng đến việc hiện thực hóa mục tiêu giải hạn có ý nghĩa hơn của bạn. Trong quá trình tích lưỡi cuộc cài,
+
+những ham muốn vô tận sẽ là chứa ngại cho sự tự do tài chính chỉ bằng cách cải thiện khả năng, chỉ hoãn lòng ham muốn, giảm thiểu mức tiêu dùng phi lý bạn mới có thể không trở thành nô lệ của những ham muốn.
+
+Vậy nên, theo lời của Chú Cháu Tiên Tiên
+
+để có thể chỉ hoãn đúng cách những ham muốn của mình bạn cần phải xác định được mục tiêu giải hạn của bản thân Sờ dĩ mọi người thất bại là vì không có khả năng tập trung một hướng. Trước sự sừng sốt, Kira ngoan ngoãn cúp điện thoại và lắng nghe Tiền Tien trịnh trọng nói kể từ hôm nay chúng ta chỉ nói về một vấn đề làm thế nào để kiếm tiền? Tiền Tien bắt đầu hướng dẫn Kira
+
+Đầu tiên, hãy viết ra danh sách 10 điều mong muốn có được khi bản thân nhiều tiền Nhưng sau khi Kira hoàn thành danh sách Tiền Tien lại lập tức yêu cầu bỏ đi 7 điều và giữ lại 3 điều quan trọng nhất Kira cãi lại Không, không có 1 cái nào có thể bỏ được Thấy vậy, Tiền Tien nghiêm túc nói Chỉ có một mục tiêu rõ ràng nhất mới chính là động lực để cậu tín về phía trước
+
+Học giả William Damon đã thực hiện một cuộc khảo sát xã hội Ông phỏng vấn hàng trăm người vô gia cư và hỏi tại sao họ không làm việc Câu trả lời của mọi người giống nhau một cách đáng ngạc nhiên Đó là họ không có điều ước nào thật sự muốn đạt được William đã nói, sức sống có liên quan mật thiết đến mục tiêu Và chỉ có mục tiêu mới có thể kích thích được sức sống trong công việc Nếu chỉ làm việc cho sếp thì chúng ta sẽ khó tăng thêm thu nhập Nếu khởi nghiệp chỉ vì một ý nghĩ bất chợt, chúng ta sẽ dễ dàng dừng lại rất sớm.
+
+Chỉ khi có những mục tiêu rõ ràng, con người mới có thể vượt qua mọi khó khăn trong xuyên suốt quá trình kiếm tiền. Mọi thứ cần phải xoay quanh mục tiêu thay vì phân tán năng lượng khi đối mặt với những cám rỗ không liên quan gì đến niềm địch. Một người vẽ ra mong muốn của mình càng cụ thể thì con đường bạn đi sẽ càng rõ ràng. Các mục tiêu cụ thể sẽ giúp bạn tập trung vào một điểm trong một thời gian dài. Giống như thầy Sakuru đã từng nói, hầu hết mọi người đều vấp ngã trong cuộc đời, sống một cách mù quáng và không biết nên đi hướng nào. Lý do duy nhất đó là họ luôn thay đổi và thay đổi hướng đi trong cuộc đời mình. Nếu có thể tập trung suy nghĩ, năng lượng, ý thức của mình theo một hướng và duy trì điều này trong một thời gian dài thì khi đó bạn sẽ nhận ra bản chất của cuộc sống. Về danh phần lớn thời gian và sức lực của bản thân cho một việc thì khó có thể mà không đạt được thành công.
+
+Trở lại với câu chuyện của Kira và Tiền Tiên. Sau đấy thì tiền tiền đã tiếp tục hướng dẫn cho ký ra cách hướng tới mục tiêu quan trọng thông qua 3 việc như sau. Việc đầu tiên đó là hãy nhìn vào danh sách ước muốn của bạn mỗi ngày, điều này sẽ là lời nhắc nhở thường xuyên về mục tiêu của bạn. Bạn cũng cần có một cuốn albumer ước, tìm một số hình ảnh liên quan đến mong buồn đỏ rồi rán vào cuốn album. Đây được gọi là hình dung, nhìn chúng thường xuyên sẽ khuyến các bạn tiếp tục tìm cách thực hiện ước mơ của mình. Về thứ 2 đó là sắm một con heo đất và bỏ từng đồng su vào trong đó để chuẩn bị cho việc hiện thực hóa ước mơ. Vì thứ ba đó là ngoài ước mơ, bạn cũng cần có đủ tự tin để tin rằng mình có thể làm được. Vì vậy, bạn cần chuẩn bị một cuốn sổ và ghi lại những việc bạn đã làm thành công mỗi ngày.
+
+Dù cho đấy là việc nhỏ nhặt thì cũng nên ghi lại để được gọi là Nhật Ký Thành Công và nó có thể giúp cho bạn phát triển lòng tự tin một cách đáng kẻ. Bản chất của kiếm tiền là giúp đỡ người khác giải quyết vấn đề. Gira đã nghe theo tiền tiền giảm mục tiêu của mình xuống còn 3. Cô bé bắt đầu nuôi 2 con heo đất và lần lượt dán lên đó ước mơ của mình. Kira cũng lấy một cuốn tập ra, Kira cũng lấy một cuốn tập ra để làm nhật ký thành công. Tất cả đã sẵn sàng, tuy nhiên cơ hội thì vẫn chưa có. Cô bé đã lo lắng rằng mình chỉ là một đứa nhóc 12 tuổi,
+
+thì làm sao có thể kiếm tiền đây? Tiền tiền mới nói, đừng lúc nào cũng nghĩ đến việc bản thân không làm được. Cậu phải tìm kiếm cơ hội từ những gì người khác cần. Chú chó kể với Kira rằng, Có một cậu bé người Mỹ tên là Daria, Năm 8 tuổi, cậu đã bắt đầu kiếm tiền bằng cách đi giao báo và đủ xác cho hàng xóm. Khi lên 9, cậu bắt đầu học viết quảng cáo bằng máy tính của cha mình Chẳng bao lâu sau, cậu đã có một khoản tiết kiệm rất lớn
+
+Sau đó cậu bắt đầu làm phim truyền hình Đến năm 17 tuổi, cậu đã có hàng triệu đô la Nghe xong câu chuyện thành công của cậu bé này Kyra cũng có cảm hứng là hỏi kinh nghiệm thực tế từ anh họ Marcel của mình Tuy anh ấy chỉ hơn Kyra 1 tuổi nhưng đã trở nên giàu có Anh họ đã nói với Kyra rằng muốn kiếm được tiền Ở đâu cũng có cơ hội Nhưng và chính Marcel
+
+Cậu phát hiện ra nhiều gia đình có nhu cầu muốn ăn bánh mì vào chủ nhật Nhưng vì ngày nghỉ, họ lại không muốn ra ngoài Nên cậu ấy đã quyết định đi giao bánh mì tới từng hộ gia đình Vào ngày Chủ nhật hàng tuần Bánh mì vào ngày này sẽ kiếm được cao hơn so với ngày bình thường Và vì thế chỉ có làm vài giờ một ngày Mà cậu ấy đã kiếm được 140 đồng Mark 1 tháng
+
+Ngoài ra, mỗi buổi chiều
+
+Cậu đến viện dưỡng lão giúp cho người già mua đồ Hoặc cùng họ đi dạo Viện dưỡng lão trả cho cậu 10 đồng Mark 1 giờ Nên mỗi tháng cậu có thể kiếm gần 300 đồng Mark Anh họ cũng nhấn mạnh về Kira rằng tìm kiếm cơ hội bằng việc giúp đỡ người khác, nhưng cũng là việc bản thân thích làm và có thể làm. Nếu Kira thích chơi với chó,
+
+tại sao không dắt chó đi dạo giúp cho người khác?
+
+Thật là một ý tưởng tuyệt vời!
+
+Kira quên hầu hết chủ cuốn nhà hàng xóm và cô bé đều thích chúng. Trong đó có một chủ cuốn tên là Napoleon của các vợ chồng già Hennekem. Ông lão vì khó đi lại nên hằng ngày chỉ có bà lão dắt chó đi dạo nhưng bà ấy lại không biết cách dạy và chơi với nó.
+
+Kira đã lấy hết can đảm đến gặp ông hàng xóm và nói với ông ấy rằng cháu muốn kiếm ít tiền để có thể đi học chương trình trao đổi ở Mỹ. Nếu bà Handycam không thích dắt chó đi dạo thì cháu có thể giúp cho ông bà không? Hay mà cô bé nóng mừng, nhưng không ngờ ông lão lại đồng ý ngay sẵn sàng trả cho Kira 2 đồng Mark một ngày Và nếu có thể dạy cho chú chó một số kỹ năng như ngồi, bắt tay v.v thì sẽ trả thêm 20 đồng Mark Kira đã vui mừng khôn siết, cô bé đã chạy về nhà và ung chầm lấy tiền tiền
+
+Chuyện cô nhóc Kira đã kiếm được những đồng tiền đầu tiên Từ sự chỉ dẫn của chú chó am hiểu quản lý tài chính này Nghe ra là câu chuyện cổ tích Nhưng có lẽ khi áp dụng vào thực tế Bạn sẽ không cảm thấy nó hư cầu Bởi nó mách cho chúng ta một sự thật rằng Cơ hội kiểm tiền ẩn giấu trong vấn đề của người khác Mấu chốt nằm ở việc
+
+Bạn có thể tìm ra vấn đề mà người khác đang muốn giải quyết hay không Và quan trọng nhất là việc đó Có phải là việc bạn thích hay không Bởi vì việc bạn thích Nhất định là việc bạn giỏi Và kiểm tiền bằng những việc bạn thích Sẽ khiến bạn có động lực hơn Khi sở thích và công việc được hòa học với nhau, con người ngay lập tức có thể thuận theo tự nhiên, chuyển động không ngừng
+
+Không bao giờ tránh mảng, không dễ dàng bỏ cuộc và có thể kiên trì Bởi vậy, người đời mới nói tình yêu là động lực mạnh mẽ từ trái tim Khi chúng ta làm điều gì đó xuất phát từ sự nhiệt huyết từ con tim Làm điều gì đó mình thực sự thích thì dù gặp khó khăn chờ ngày nào đi chăng nữa Chúng ta vẫn có thể trải nghiệm niềm vui xuyên suốt quá trình kiếm tiền Xây dựng nhận thức tài chính nuôi một con ngỗng để trứng của riêng bạn Cũng vào ngày hôm đó, dì của Gira đến chơi. Bỗng nhiên, dì ấy nhận ra tiền tiền chính là con chó của nhà hàng xóm kế bên nhà cô.
+
+Chủ nhân đích thực của nó là ông Jin. Gira nghe vậy rất buồn khi sắp phải rời xa chủ chó tiền tiền. Ngày hôm sau, bố Gira đã đưa Gira và tiền tiền theo dì đến thăm ông Jin. Ông ấy sống trong một biệt thự sang trọng. Hóa ra cách đây không lâu, khi ông Jin lái xe ngang qua nhà Gira cùng tiền tiền thì không may bị tai nạn. Ông bị thương nặng và hôn mê. Khi tỉnh dậy thì đã nằm trong bệnh viện. Trong thời gian nằm viện, ông liên tục nhờ người đi tìm chú chó của mình nhưng vẫn không có tin thức gì.
+
+Ông rất biết ơn khi tiền tiền được gia đình Kira chăm sóc chu đảo Nhưng vì sẽ phải điều trị một thời gian dài nữa và phải ở phiện xứng lão vài tuần Nên ông Chinh đề nghị sẽ trả công cho Kira có thể tiếp tục chăm sóc tiền tiền Kira đã vui mừng khôn siết khi biết rằng vẫn có thể chung sống với tiền tiền Một thời gian nữa, chú chó tiền tiền đã quay lại và tiếp tục làm người hướng dẫn, quản lý tài chính cho cô bé Lần này chú chó mong muốn sẽ nghĩ cách giúp cho bố mẹ kia ra thoát khỏi nợ nằn. Tiền tiền mới nói, ông Chin có một công ty tư vấn tài chính và ông thường dạy cho mọi người cách quản lý tài sản của mình. Tiền tiền thường nghe thấy ông Chin dạy cách thoát khỏi nợ nằn như sau.
+
+Đầu tiên, ngừng sử dụng thẻ tiến dụng vì so với sử dụng tiền mặt hầu hết mọi người sẽ chi tiêu nhiều hơn khi sử dụng thẻ tiến dụng.
+
+Thứ hai, số tiền trả góp phải càng thấp càng tốt.
+
+Nếu không, sau khi trả nợ hàng tháng sẽ chỉ còn lại rất ít tiền.
+
+Thứ ba, đừng đợi đến khi hết nợ mới bắt đầu tiết kiệm.
+
+Hãy tiết kiệm ngay bây giờ!
+
+Thứ tư, trước khi tiêu tiền hãy tự hỏi rằng liệu thứ này có thực sự cần thiết để mua hay không? Kira đã viết 4 điều này vào sổ, quyết tâm làm theo lời dạy của chú chó và bắt đầu tiết kiệm trước, không bao giờ vay tiền. Cuối tuần, Kira đưa tiền tiền đến Viện Dưỡng Lão thăm ông Jin. Trong khi hai người đang trò chuyện thì nghe thấy Kira có nhắc tới việc Đang viết nhật ký thành công.
+
+Vậy là ông Jin đã kể cho cô bé nghe một câu chuyện về con ngỗng đẻ quả trứng vàng. Có một người nông dân nuôi một con ngỗng, một ngày nọ ông giận mình khi thấy con ngỗng đẻ ra một quả trứng vàng.
+
+Vậy là ông ta mừng rỡ đem quả trứng đó đi bán và thu về được bội tiền.
+
+Ngày ngày ngỗng đẻ cho ông ta một quả trứng vàng, thế nhưng người nông dân tham lam cảm thấy con ngỗng quá lười biếng.
+
+Tại sao nó không đẻ cho ta hai quả trứng vàng một ngày?
+
+Ông ta nổi giận một vụ con ngỗng để xem trong đó suốt cuộc có bao nhiêu quả trứng vàng. Thế là từ đó, người nông dân không bao giờ có quả trứng vàng nào nữa Ông Jean nói với Kira rằng Trong câu chuyện này Con ngỗng tượng trưng cho tiền bạc Nếu tiết kiệm tiền thì sẽ nhận được tiền lãi Còn quả trứng vàng tượng trưng cho tiền lãi Đừng tiêu hết tiền của bạn
+
+Hãy tiết kiệm một số tiền Và để tiền tiếp tục tạo ra lại suất Đừng chạm vào số tiền này Tức là đừng giết con ngỗng của bạn Nếu không, bạn sẽ không nhận được những quả trứng vàng Về nhà, Kira đã đếm thu nhập của mình Gần đây cô bé kiếm được 74 đồng Mark Nghe theo lời dạy của ông Jean, cô bé quyết định biến 50% thu nhập thành con ngộng của riêng mình.
+
+Bỏ 40% thu nhập vào 2 con heo đất để thực hiện mơ ước và dùng 10% còn lại để chi tiêu. Nếu có thể quản lý tài chính theo cách này, bạn có thể đảm bảo để làm việc mình thích. Từ đó lại tiếp tục tạo ra những nguồn thu nhập thu động mới. Nhưng trên thực tế rất nhiều người hiểu sai về việc tiết kiệm tiền. Tiền của tôi tiêu thì chưa đủ, thì tôi lấy đâu ra tiết kiệm? Hay là tôi phải đợi có một khoản tiền lớn thì mới bắt đầu tiết kiệm? Vân vân... Bạn sẽ không bao giờ cảm thấy đủ, bởi vì khi thu nhập tăng lên thì mong muốn và mức tiêu dùng của con người cũng sẽ tăng lên. Nếu bạn không phát triển thói quen buộc mình về quản lý tài chính,
+
+tích lưỡi tiền bạc thì khả năng cao là bạn sẽ không bao giờ trở nên giàu có. Như tác giả cũng viết trong cuốn sách nổi tiếng Con Đường đến Tự Do Tài Chính đó là Không ai có thể trở nên giàu có chỉ bằng cách kiếm tiền. Sự giàu có phụ thuộc vào việc giữ tiền. Vì vậy từ bây giờ bạn hãy lên kế hoạch để quản lý số tiền mà mình kiếm được. Những ước mơ được đề cập ở đây chung có thể là lớn và cũng có thể là nhỏ,
+
+có thể là một chuyến đi đến nơi bạn yêu thích,
+
+cũng có thể là một chiếc máy chụp hình phục vụ cho sở thích của bạn.
+
+Chúng ta biết rằng niềm vui khi hiện thực hóa được sẽ lần lượt kích thích động lực và lại tiếp tục thu hút nhiều cơ hội kiếm tiền hơn cho bạn. Dòng năng lượng vũ trụ luôn là cân bằng, có đi vào và có đi ra. Và dòng tiền cũng vậy, bạn cần phải biết cách tiêu thì mới biết cách kiếm. Đồng thời chúng ta cũng cần phải dần hình thành, nhận thức về tài chính trong cuộc sống.
+
+Điều quan trọng nhất là phải làm rõ đâu là cần thiết và đâu là không cần thiết, sau đó cố gắng giảm tân suất mua sắm những thứ không cần thiết và đưa số tiền đó vào khoản tiết kiệm hay tái đầu tư khác. Học cách quản lý tiền bạc sẽ giúp cho bản thân xây dựng được cảm giác rồi giàu, đầy đủ cuộc sống của bạn sẽ dễ dàng đối mặt với những bấp bênh và được bảo vệ qua những khoản tiết kiệm hiệu hình. Phân bổ tiền hợp lý tiến một bước đầu tư. Ông hàng xóm Hennykem lại giới thiệu cho Kira một khách hàng mới
+
+Bà Tao Mu, hàng xóm kế bên, sống độc thân một mình. Bà Tao Mu sẽ đi xa trong 2 tuần và cần có người chăm sóc cho mấy chú chó của bà. Vì một mình không thể chăm ba chú chó nên Kira đã nhờ anh họ cùng một người bạn đến giúp. Nhưng đúng hôm đó, 3 đứa nhóc đã phát hiện cửa phòng bà Tao Mu bị cậy nên lập tức báo cảnh sát. Rất may là tiền bạc và tài sản quý giá để ở trong một chiếc hộp đã không bị tiên trộm để ý tới và đánh cắp để cảm ơn 10 đứa nhóc đã kịp thời bảo vệ tài sản của bà. Là một người am hiểu đầu tư, bà ấy đã đề nghị dẫn dắt 3 đứa nhóc thành là một câu lạc bộ đầu tư để cùng nhau kiếm tiền. Ngày tình lập câu lạc bộ, bà Tamu đã tặng cho câu lạc bộ 5.000 đồng Mark cho mỗi đứa trẻ và tự đóng vào đó 5.000.
+
+Vậy là toàn bộ tài khoản của câu lạc bộ đã có 20.000 đồng Mark để mọi người có thể bắt đầu đầu tư. Bà ấy nói với mọi người rằng đầu tư dễ dàng hơn hầu hết mọi người nghĩ bạn chỉ cần chú ý đến 3 điểm.
+
+Đầu tiên, đầu tư phải đơn giản, rõ ràng và dễ vận hành.
+
+Thứ 2, tiền nên được đầu tư vào nơi an toàn Thứ 3, tiền có thể để nhiều trứng vàng hay không Phụ thuộc vào việc xác định loại đầu tư có lãi suất cao nhất Và lợi nhuận cao nhất đến từ cổ phiếu
+
+Vậy cổ phiếu là gì?
+
+Bọn trẻ đã hỏi như vậy Bà Tao Mu nói Các cháu không cần phải mở công ty riêng Chỉ cần đầu tư vào công ty khác Là có thể mua cổ phiếu của công ty đó Bất cứ khi nào công ty có lãi Thì lợi nhuận sẽ được chia cho tất cả những người nằm giữ cổ phiếu Cái này được gọi là cổ thức
+
+Nếu giá trị của công ty tăng lên Cổ phiếu của mọi người sẽ có giá trị hơn Nếu một số người cho rằng công ty sẽ tiếp tục Tăng giá trị, họ có thể trả giá cao hơn Để mua cổ phiếu của cháu Nếu không ai mua cổ phiếu của cháu Cháu sẽ phải hạ giá Đồng nghĩa với việc cháu cũng có thể gặp rủi ro bị lỗ
+
+Khi ra ngay cổ phiếu có thể kiếm tiền Nhưng không an toàn Bên biểu lộ việc đầu tư có vẻ không phù hợp với bản thân Bà Tao mu đồng tình và nói Nếu tự mình mua cổ phiếu thì đúng là như vậy Nhưng cũng có thể để những người chuyên nghiệp hơn giúp cháu chọn cổ phiếu. Đây là một cách đầu tư an toàn, được gọi là quỹ đầu tư. Với cách này sẽ cho phép các cháu có cơ hội trở thành cổ đông của các công ty mà cháu yêu thích
+
+như Coca-Cola, McDonald's, v.v. Quỹ đầu tư giống như một cái nồi lớn, nhiều nhà đầu tư đều đặt tiền vào đó vì những người đầu tư không có thời gian kiến thức chuyên sâu hoặc không có hứng thú tự mình mua nên họ gửi tiền vào trong cái nồi lớn này cho những chuyên gia tài chính quản lý. Những người quản lý đầu tư sẽ dùng số tiền, quỹ đầu tư và cổ phiếu Quỹ đầu tư được giám sát với nhà nước rất an toàn. Người quản lý, quỹ đầu tư phải tuân thủ quy định của quốc gia
+
+ít nhất là phải mua 20 loại cổ phiếu khác nhau để phân tán rùi ro từ sự biến động của cổ phiếu bởi vì tình hình của mỗi công ty đều có thể trở nên tồi tệ Ví dụ, giả sử một số cổ phiếu giảm nhưng vẫn có một số cổ phiếu tăng giá Nhìn chung sẽ không gặp rùi ro lộ quá nặng Thậm chí nếu hầu hết cổ phiếu giảm giá chỉ cần kiên nhẫn đợi một khoảng thời gian
+
+thì thị trường sẽ lại tăng lên Ngay đến đây, các bạn nhỏ đã hiểu và muốn sử dụng ngay số tiền vào quỹ đầu tư. Bà Tao mua cười rạng rỡ khi thấy mấy đứa nhóc đã từng tỏ và tiếp tục căn giặt nếu quyết định mua quỹ đầu tư, cần phải chuẩn bị tâm lý để đặt tiền vào đó ít nhất là 5-10 năm. Nếu có thể đợi lâu hơn, quỹ đầu tư gần như là một hình thức không rủi ro bởi vì sau thời gian dài như thế, hầu hết các cổ phiếu đều có lại khá tốt nhiều quỹ thành công đã duy trì lợi nhuận ổn định ở mức 12% suốt thời gian dài. Ví dụ, nếu chúng ta dùng số tiền vốn đầu tiên của câu lạp bộ 20.000 đồng Mark để mua quỹ đầu tư
+
+Thì sau 20 năm, thu nhập của chúng ta có thể tăng lên 10 lần so với khi bắt đầu Nếu mỗi người mỗi tháng gửi 250 đồng Mark vào tài khoản ban đầu của chúng ta Và theo tỷ lệ lợi nhuận 12% Sau 20 năm, tổng số tiền trong tài khoản của chúng ta sẽ vượt quá 1 triệu Mark Các bạn nhỏ đã hô hoán lên Số tiền này lớn đến mức vượt xa sự tưởng tượng của mọi người Nhưng làm thế nào thì chúng cháu có thể biết Nên chọn quỹ nào?
+
+Có rất nhiều loại quỹ phải không? Mấy đứa nhóc đã hỏi tiếp, bà Tao Mu tiếp tục chỉ cho mọi người cách để chọn quỹ tốt nhất.
+
+Đầu tiên, quỹ nên có lịch sử trên 10 năm.
+
+Nếu nó liên tục có lợi nhuận trong khoảng thời gian dài, có khả năng nó sẽ hoạt động tốt trong tương lai.
+
+Thứ hai, chúng ta nên chọn Quỹ Cổ phiếu Đa Quốc gia lớn.
+
+Lại quỹ này mua cổ phiếu trên khắp thế giới để phân tán rủi ro nên rất an toàn.
+
+Cuối cùng, chúng ta nên so sánh biểu đồ hiệu suất của quỹ.
+
+Xem xét rằng quỹ nào có lợi nhuận hàng năm tốt trong vòng 10 năm qua? Dưới sự hướng dẫn của bà Tao Mu, ba đứa trẻ đã chọn được một quỹ tốt nhất. Những ngày tháng kế tiếp, cô lập bộ thường xuyên họp và học hỏi kiến thức đầu tư mới. Các bạn nhỏ luôn không thể kiềm chế được sự tò mò, liên tục theo dõi tình hình hiện tại của quỹ. Phát hiện rằng nó đã giảm suất đột ngột, lỗ 25%.
+
+Vậy là tất cả đều cảm thấy thất vọng.
+
+Bà Tao Mu khi đó đã ăn ủn, chỉ khi bán ra chúng ta mới có thể chịu lỗ. Không bán thì không có lỗ. Bài ấy đã trải qua vài lần khủng hoảng kinh tế và nhận thức được rằng việc thị trường không ổn là điều bình thường Và sau 1 hoặc 2 năm, mọi thứ sẽ phục hồi Bấy còn nói, bây giờ là mùa đông của sản giao dịch Là thời điểm tốt để mua vào khi giá thấp Tuy nhiên, ngay khi mọi người chuẩn bị đổi thêm vốn vào quỹ
+
+Ông Jin đã lập tức đưa ra một lời khuyên cho Kira Đừng sử dụng thêm tiền để mua vào quỹ Vì thị trường có thể tiếp tục giảm Phải luôn giữ một số tiền mặt Không đầu tư toàn bộ số tiền vào cổ phiếu hoặc quỹ Vài tháng sau đó, cuộc sống của Kira đã thay đổi hoàn toàn kiếm được nhiều tiền hơn và có thể hiện từ khóa danh sách ước mơ của mình. Mặt khác, cô bé bắt đầu tìm kiếm cách mới để tăng thu nhập.
+
+Hợp tác với ông Jin, mở một công ty giúp cho trẻ em học về tài chính và đầu tư. Dưới sự tư vấn của ông Jin, bố của Kira đã thuê người giúp đỡ cho công việc kinh doanh của mình. Bây giờ, ông ấy có thời gian thoải mái hơn, có thể tập trung vào những việc ông ấy thích và giỏi, đồng thời giao công việc mà ông ấy không thích, không giỏi cho người khác. Cũng từ đó thu nhập hầm khá hơn
+
+và bố mẹ Kira không còn lo lắng về vấn đề tiền bạc nữa. Kira cảm thấy vô cùng may mắn và hạnh phúc vì nhận được sự trí dậy từ chú chó Tiên Tiên cũng nhờ có Tiên Tiên mà bản thân đã dũng cảm, đặt chân vào con đường đầu tư tài chính từ đó mang lại những thay đổi lớn lao cho cuộc sống Cô bé tin rằng cương lai sẽ ngày càng tốt đẹp hơn nên giữ thái độ như thế nào với việc quản lý tiền bạc Ở phần kết của video mình sẽ cùng bàn với các bạn một điều cuối cùng là chúng ta nên giữ thái độ như thế nào để bắt đầu quản lý tài chính
+
+Kira cuối cùng đã thành công giúp đỡ gia đình vượt qua khó khăn và có một bước thay đổi cực kỳ lớn trong đời. Thế nhưng nhìn lại những ngày đầu, trước khi nghe theo lời dạy của Tiền Tiên để bắt đầu quản lý tài chính, cô bé thực sự đã do dựng, cô không hiểu lắm về cách thức này nên chỉ muốn trải nghiệm thôi. Nhưng Tiền Tiên đã rất khoát nói, đôi khi chúng ta không cần phải hiểu đầy đủ lý do tại sao phương pháp này hoạt động.
+
+Điều quan trọng là nó hoạt động, nghi ngờ là một điều tốt nhưng không được phép để nghi ngờ ngăn cản sự tiến bộ. Dù kiếm tiền hay làm việc, chúng ta không cần tồn quá nhiều thời gian để tìm hiểu
+
+Tại sao kinh nghiệp người đi trước đúc kết lại hiệu quả
+
+Miễn là chúng ta biết rằng nó có ích cho bản thân Trong cuộc sống có rất nhiều người như vậy Họ ngần ngại hành động vì chưa tìm hiểu kỹ từng chi tiết Điều họ không nhận ra là không bao giờ có thứ gì đó hoàn toàn sẵn sàng Nếu bạn chỉ hoãn vị ám ảnh bởi các chi tiết Nghi ngờ về tương lai Bạn sẽ chỉ bỏ lỡ thời điểm tốt nhất để hoàn thành công việc Giống như định luật Basher đã nói
+
+Một quyết định dù tốt đến đâu cũng không thể chịu đựng được sự chậm trễ. Chỉ khi bắt đầu hành động, bạn mới có thể nhận được những phản hồi chân thực và hiệu quả nhất Đồng thời tôi y hòa kế hoạch hành động dựa trên những phản hồi đó Gary Baker đã từng nói Sự giàu có thúc đẩy mọi người đầu tư thời gian Và trở nên kiên nhẫn hơn Một khi chúng ta bắt đầu xây dựng nhận thức về tài chính một cách có chủ đích Hãy kiên nhẫn làm mọi thứ nhỏ nhạt và suy chỉ nó
+
+Bạn sẽ dần dần bước vào chu kỳ tích cực Đầu tư, kiên nhẫn, kiếm tiền Lại đầu tư, kiên nhẫn hơn Kiếm nhiều tiền hơn
+
+Cuộc sống giống như là một chiếc thuyền
+
+Đi trên bển lớn Ước mơ thực sự là ngọn hải đăng Chỉ đường cho chính bạn Liệu bạn có thể Một lòng, một hướng Tin về ngọn hải đăng trong bạn không? Lúc này một nhận thức đúng đắn Sẽ là nhiên liệu
+
+Khiến chiếc thuyền của bạn Hoạt động mạnh mẽ Phân phối hợp lý số tiền kiếm được Chính là giữ cho bánh lái ổn định Để chiếc thuyền không bị lật úp Học cách đầu tư thì giống như tìm kiếm cơ hội tăng tốc Giúp bạn có thể đến đích ước mơ sớm hơn Hy vọng tất cả chúng ta có thể cải thiện mong muốn
+
+Và nhận thức về tiền bạc, sống định vượng Thoát khỏi mọi nỗi lo âu ám ảnh của đồng tiền Để mà có thể đạt được sự tự do và hạnh phúc hơn Cảm ơn bạn đã lắng nghe Nếu bạn cảm thấy video này có ích Hãy chia sẻ tới những người cần nó Tặng mình một nút like Đừng quên để lại cảm nhận của bạn
+
+Ở phần bình luận bên dưới Nhấn nút đăng ký và mở nút chuông thông báo để đón xem những video mới nhất hàng tuần của mình. Một lần nữa, cảm ơn các bạn và hẹn gặp lại các bạn ở những video tiếp theo.

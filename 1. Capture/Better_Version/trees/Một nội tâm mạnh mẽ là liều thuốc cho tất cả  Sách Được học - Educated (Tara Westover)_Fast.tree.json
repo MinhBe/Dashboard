@@ -1,0 +1,121 @@
+{
+  "source_type": "youtube",
+  "word_count": 3388,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_chia_sẻ_mang_tên",
+      "label": "Đây là một chia sẻ mang tên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "được_học_cũng_là_một_cuốn_sách_đứng_đầu_trong",
+      "label": "Được học cũng là một cuốn sách đứng đầu trong",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "đã_nói_rằng_đây_là_một_câu_chuyện_tuyệt_vời",
+      "label": "đã nói rằng đây là một câu chuyện tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "đầu_tiên",
+      "label": "Đầu tiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "mẹ_của_cô_thì_vốn_là_một_người_có_suy_nghĩ_độc_lập",
+      "label": "Mẹ của cô thì vốn là một người có suy nghĩ độc lập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng_thì_cô_ấy_đã_nhận_được_thông_báo_từ_đại_học_brian",
+      "label": "Cuối cùng thì cô ấy đã nhận được thông báo từ Đại học Brian Young",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "hình_như_vợ_đại_học_là_một_sai_lầm",
+      "label": "Hình như vợ đại học là một sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "cuộc_sống_là_một_quá_trình_tích_lũy",
+      "label": "Cuộc sống là một quá trình tích lũy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "coi_cô_như_là_một_kẻ_lập_dị",
+      "label": "Coi cô như là một kẻ lập dị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "ở_một_mình_là_một_món_quà_từ_tượng_đế",
+      "label": "Ở một mình là một món quà từ tượng đế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "đầu_tiên_đến_từ_ngôi_trường_mình_theo_học",
+      "label": "Đầu tiên đến từ ngôi trường mình theo học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "cuối_cùng_cô_cũng_hoàn_thành_bản_thảo_đầu_tiên_của_luận_án",
+      "label": "Cuối cùng cô cũng hoàn thành bản thảo đầu tiên của luận án",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "mà_nó_là_một_loại_rác_ngộ_trệt_đẻ",
+      "label": "Mà nó là một loại rác ngộ trệt đẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "một_cái_sức_mạnh_phi_thường_đến_từ_sự_lặng_lẽ",
+      "label": "Một cái sức mạnh phi thường đến từ sự lặng lẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "và_giúp_cho_chúng_ta_giống_như_là_một_con_chim",
+      "label": "Và giúp cho chúng ta giống như là một con chim",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "xin_là_một_người_đàn_ông_bạo_lực",
+      "label": "Xin là một người đàn ông bạo lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    }
+  ]
+}

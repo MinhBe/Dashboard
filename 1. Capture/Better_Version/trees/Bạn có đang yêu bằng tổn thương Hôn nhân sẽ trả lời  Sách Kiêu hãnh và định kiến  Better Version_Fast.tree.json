@@ -1,0 +1,67 @@
+{
+  "source_type": "youtube",
+  "word_count": 3854,
+  "estimated_leaf_nodes": 7,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 7 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "và_đâu_mới_là_một_cuộc_hôn_nhân_hạnh_phúc",
+      "label": "Và đâu mới là một cuộc hôn nhân hạnh phúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 6",
+      "children": [
+        {
+          "key": "và_đâu_mới_là_một_cuộc_hôn_nhân_hạnh_phúc_item_1",
+          "label": "[Item 1 of Và đâu mới là một cuộc hôn nhân hạnh phúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_đâu_mới_là_một_cuộc_hôn_nhân_hạnh_phúc_item_2",
+          "label": "[Item 2 of Và đâu mới là một cuộc hôn nhân hạnh phúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "như_là_một_chiến_lược_sống",
+      "label": "Như là một chiến lược sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_các_cô_gái_nhà_bennett_đã_chính_thức_tham_dự_buổi",
+      "label": "Cuối cùng các cô gái nhà Bennett đã chính thức tham dự buổi vụ hội.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "anh_ta_nợ_nần_cờ_bạc_và_giải_ngũ",
+      "label": "Anh ta nợ nần cờ bạc và giải ngũ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_nhưng_lydian_vẫn_kiên_quyết_vì_tình_yêu_tôi_có_thể_từ_bỏ",
+      "label": "Vậy nhưng Lydian vẫn kiên quyết vì tình yêu tôi có thể từ bỏ tất cả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "xuất_thân_là_một_nhà_quý_tộc_sâu_có_với_địa_vị_cao_vời",
+      "label": "Xuất thân là một nhà quý tộc sâu có với địa vị cao vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    }
+  ]
+}

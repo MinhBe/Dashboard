@@ -1,0 +1,211 @@
+{
+  "source_type": "youtube",
+  "word_count": 4773,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 25 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "tại_sao_chúng_ta_lại_hay_quên_như_vậy",
+      "label": "Tại sao chúng ta lại hay quên như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_làm_cách_nào_để_có_thể_gian_luyện_não_bộ_nghe_lời_của_mì",
+      "label": "Vậy làm cách nào để có thể gian luyện não bộ nghe lời của mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "chắc_chắn_bạn_sẽ_thắc_mắc_hồi_hải_mã_là_gì",
+      "label": "Chắc chắn bạn sẽ thắc mắc Hồi Hải Mã là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "cuối_cùng_mới_được_lưu_trữ_vào_khu_chỉ_nhớ_dài_hạn",
+      "label": "Cuối cùng mới được lưu trữ vào khu chỉ nhớ dài hạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_hồi_hải_mã_dựa_vào_đâu",
+      "label": "Vậy Hồi Hải Mã dựa vào đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_bây_giờ_những_thứ_tôi_muốn_học",
+      "label": "Vậy bây giờ những thứ tôi muốn học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "vậy_phải_làm_sao_để_hồi_hải_mã_mở_cổng_cho_những_điều_này",
+      "label": "Vậy phải làm sao để hồi hải mã mở cổng cho những điều này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_đánh_lừa_hồi_hải_mã_bằng_cách_nào_đây",
+      "label": "Vậy đánh lừa hồi hải mã bằng cách nào đây?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 48",
+      "children": [
+        {
+          "key": "vậy_đánh_lừa_hồi_hải_mã_bằng_cách_nào_đây_item_1",
+          "label": "[Item 1 of Vậy đánh lừa hồi hải mã bằng cách nào đây? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_đánh_lừa_hồi_hải_mã_bằng_cách_nào_đây_item_2",
+          "label": "[Item 2 of Vậy đánh lừa hồi hải mã bằng cách nào đây? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "mình_đã_thử_nghiệm_và_thấy_vô_cùng_hiệu_quả",
+      "label": "mình đã thử nghiệm và thấy vô cùng hiệu quả.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 60",
+      "children": [
+        {
+          "key": "mình_đã_thử_nghiệm_và_thấy_vô_cùng_hiệu_quả_item_1",
+          "label": "[Item 1 of mình đã thử nghiệm và thấy vô cùng hiệu quả. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "mình_đã_thử_nghiệm_và_thấy_vô_cùng_hiệu_quả_item_2",
+          "label": "[Item 2 of mình đã thử nghiệm và thấy vô cùng hiệu quả. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_rốt_cuộc_kiến_thức_còn_động_lại_thực_sự_là_gì",
+      "label": "Vậy rốt cuộc, kiến thức còn động lại thực sự là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "ngoài_ra_tác_giả_còn_khuyên_chúng_ta",
+      "label": "Ngoài ra tác giả còn khuyên chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "ltp_là_gì",
+      "label": "LTP là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "tại_sao_lại_vậy",
+      "label": "Tại sao lại vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "lý_do_là_gì_là_vì_ông_ấy_không_ngựa_ép_không_đau_khổ",
+      "label": "Lý do là gì? Là vì ông ấy không ngựa ép, không đau khổ,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_khi_nào_thì_chơi",
+      "label": "Vậy khi nào thì chơi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "đó_có_thể_là_một_tưởng_tượng_vào_những_gì_bạn_đang_cố_nhớ",
+      "label": "đó có thể là một tưởng tượng vào những gì bạn đang cố nhớ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "thì_quả_thật_là_một_con_số_mờ_nhạt",
+      "label": "Thì quả thật là một con số mờ nhạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "đây_chính_là_một_thủ_thuật_nhớ_lâu_vô_cùng_hiệu_ích",
+      "label": "Đây chính là một thủ thuật nhớ lâu vô cùng hiệu ích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "cuối_cùng_mình_muốn_bổ_sung_thêm_một_điều_vô_cùng_quan_trọng",
+      "label": "Cuối cùng mình muốn bổ sung thêm một điều vô cùng quan trọng khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 144",
+      "children": [
+        {
+          "key": "cuối_cùng_mình_muốn_bổ_sung_thêm_một_điều_vô_cùng_quan_trọng_item_1",
+          "label": "[Item 1 of Cuối cùng mình muốn bổ sung thêm một điều vô cùng quan trọng khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_mình_muốn_bổ_sung_thêm_một_điều_vô_cùng_quan_trọng_item_2",
+          "label": "[Item 2 of Cuối cùng mình muốn bổ sung thêm một điều vô cùng quan trọng khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "cuối_cùng_mình_muốn_bổ_sung_thêm_một_điều_vô_cùng_quan_trọng_item_3",
+          "label": "[Item 3 of Cuối cùng mình muốn bổ sung thêm một điều vô cùng quan trọng khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_nhiều_người_cũng_sai_lầm",
+      "label": "Ngoài ra nhiều người cũng sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "dưới_đây_là_một_thời_gian_biểu_mà_tác_giả_lập_ra_cho_các_bạn",
+      "label": "Dưới đây là một thời gian biểu mà tác giả lập ra cho các bạn học sinh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    }
+  ]
+}

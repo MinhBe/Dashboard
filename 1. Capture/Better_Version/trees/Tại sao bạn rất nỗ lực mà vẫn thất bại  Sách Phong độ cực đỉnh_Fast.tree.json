@@ -1,0 +1,178 @@
+{
+  "source_type": "youtube",
+  "word_count": 2831,
+  "estimated_leaf_nodes": 19,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 19 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "brett_là_một_chuyên_gia_về_khoa_học_thể_chất",
+      "label": "Brett là một chuyên gia về khoa học thể chất.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "ronaldo_được_coi_là_một_trong_những_cầu_thủ_vĩ_đại_nhất_mọi",
+      "label": "Ronaldo được coi là một trong những cầu thủ vĩ đại nhất mọi thời đạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "tại_sao_có_nhiều_người_thành_công",
+      "label": "tại sao có nhiều người thành công",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "mình_sẽ_nói_như_sau",
+      "label": "Mình sẽ nói như sau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cuộc_sống_giống_như_là_một_cuộc_chạy_marathon",
+      "label": "Cuộc sống giống như là một cuộc chạy marathon",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_tiếp_theo_mình_sẽ_chia_sẻ_cho_bạn_2_điều",
+      "label": "Vậy tiếp theo, mình sẽ chia sẻ cho bạn 2 điều",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "vậy_tiếp_theo_mình_sẽ_chia_sẻ_cho_bạn_2_điều_item_1",
+          "label": "[Item 1 of Vậy tiếp theo, mình sẽ chia sẻ cho bạn 2 điều — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_tiếp_theo_mình_sẽ_chia_sẻ_cho_bạn_2_điều_item_2",
+          "label": "[Item 2 of Vậy tiếp theo, mình sẽ chia sẻ cho bạn 2 điều — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_nói_đến_áp_lực",
+      "label": "Thứ nhất, nói đến áp lực",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 42",
+      "children": [
+        {
+          "key": "thứ_nhất_nói_đến_áp_lực_item_1",
+          "label": "[Item 1 of Thứ nhất, nói đến áp lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_nói_đến_áp_lực_item_2",
+          "label": "[Item 2 of Thứ nhất, nói đến áp lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "một_áp_lực_nhất_thòi_sẽ_không_là_gì",
+      "label": "Một áp lực nhất thòi sẽ không là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "tại_sao_gọi_nó_là_ảo",
+      "label": "Tại sao gọi nó là ảo?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "bí_quyết_thành_công_là_gì",
+      "label": "Bí quyết thành công là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "1_giải_lao_sen_kẽ",
+      "label": "1. Giải lao sen kẽ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 76",
+      "children": [
+        {
+          "key": "1_giải_lao_sen_kẽ_item_1",
+          "label": "[Item 1 of 1. Giải lao sen kẽ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "1_giải_lao_sen_kẽ_item_2",
+          "label": "[Item 2 of 1. Giải lao sen kẽ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "2_nghỉ_ngơi_dài_sau_thời_gian_áp_lực_cao",
+      "label": "2. Nghỉ ngơi dài sau thời gian áp lực cao",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "2_nghỉ_ngơi_dài_sau_thời_gian_áp_lực_cao_item_1",
+          "label": "[Item 1 of 2. Nghỉ ngơi dài sau thời gian áp lực cao — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "2_nghỉ_ngơi_dài_sau_thời_gian_áp_lực_cao_item_2",
+          "label": "[Item 2 of 2. Nghỉ ngơi dài sau thời gian áp lực cao — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "rồi_công_việc_phải_kéo_dài_đến_đêm_đêm_khuya_ngủ_muộn_lại_th",
+      "label": "rồi công việc phải kéo dài đến đêm, đêm khuya ngủ muộn lại thiếu ngủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "vậy_ngủ_thế_nào_cho_đúng_ngủ_thế_nào_cho_đạt_chức_lượng",
+      "label": "Vậy ngủ thế nào cho đúng? Ngủ thế nào cho đạt chức lượng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    }
+  ]
+}

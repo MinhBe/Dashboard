@@ -1,0 +1,51 @@
+{
+  "source_type": "youtube",
+  "word_count": 3628,
+  "estimated_leaf_nodes": 6,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 6 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_điều_này_lại_xảy_ra_với_tôi",
+      "label": "Tại sao điều này lại xảy ra với tôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "bên_cạnh_đó_những_cảm_xúc_tiêu_cực_mà_nó_mang_lại",
+      "label": "Bên cạnh đó những cảm xúc tiêu cực mà nó mang lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_thoát_khỏi_gánh_nặng_này",
+      "label": "Vậy làm thế nào để thoát khỏi gánh nặng này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "thực_chất_đây_là_một_vòng_đuẩn_quần_đáng_sợ_trong_mê_cung",
+      "label": "Thực chất đây là một vòng đuẩn quần đáng sợ trong mê cung.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "cuối_cùng_nếu_mất_đi_bạn_lại_rơi_vào_cảm_giác_hoảng_sợ",
+      "label": "Cuối cùng, nếu mất đi, bạn lại rơi vào cảm giác hoảng sợ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "cuối_cùng_thì_mình_muốn_gửi_tặng_bạn_một_vài_lời_thơ",
+      "label": "Cuối cùng thì mình muốn gửi tặng bạn một vài lời thơ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    }
+  ]
+}

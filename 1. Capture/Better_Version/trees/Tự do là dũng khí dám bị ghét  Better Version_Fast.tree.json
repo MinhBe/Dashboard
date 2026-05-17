@@ -1,0 +1,106 @@
+{
+  "source_type": "youtube",
+  "word_count": 247,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 10 leaves >= 3 minimum (youtube/short)",
+  "tree": [
+    {
+      "key": "tự_do_là_dũng_khí_dám_bị_ghét",
+      "label": "Tự do là dũng khí dám bị ghét.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 0"
+    },
+    {
+      "key": "trong_cuốn_sách_dám_bị_ghét_đã_nói_về_chúng_ta_rằng",
+      "label": "Trong cuốn sách Dám Bị Ghét đã nói về chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "bị_người_khác_ghét_là_một_số_mệnh_không_thể_nào_tránh_khỏi",
+      "label": "bị người khác ghét là một số mệnh không thể nào tránh khỏi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "cuốn_sách_này_là_một_trong_những_cuốn_sách_vô_cùng_hữu_ích",
+      "label": "Cuốn sách này là một trong những cuốn sách vô cùng hữu ích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "thứ_nhất_tất_cả_mọi_khổ_đau_đều_bắt_nguồn_từ_việc",
+      "label": "Thứ nhất, tất cả mọi khổ đau đều bắt nguồn từ việc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 12",
+      "children": [
+        {
+          "key": "thứ_nhất_tất_cả_mọi_khổ_đau_đều_bắt_nguồn_từ_việc_item_1",
+          "label": "[Item 1 of Thứ nhất, tất cả mọi khổ đau đều bắt nguồn từ việc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tất_cả_mọi_khổ_đau_đều_bắt_nguồn_từ_việc_item_2",
+          "label": "[Item 2 of Thứ nhất, tất cả mọi khổ đau đều bắt nguồn từ việc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_với_tất_cả_mọi_việc",
+      "label": "Thứ hai, với tất cả mọi việc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "thứ_hai_với_tất_cả_mọi_việc_item_1",
+          "label": "[Item 1 of Thứ hai, với tất cả mọi việc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_với_tất_cả_mọi_việc_item_2",
+          "label": "[Item 2 of Thứ hai, với tất cả mọi việc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_hầu_hết_những_muộn_phiền_của_con_người",
+      "label": "Thứ ba, hầu hết những muộn phiền của con người",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "thứ_ba_hầu_hết_những_muộn_phiền_của_con_người_item_1",
+          "label": "[Item 1 of Thứ ba, hầu hết những muộn phiền của con người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_hầu_hết_những_muộn_phiền_của_con_người_item_2",
+          "label": "[Item 2 of Thứ ba, hầu hết những muộn phiền của con người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

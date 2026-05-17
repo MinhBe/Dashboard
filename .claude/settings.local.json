@@ -9,7 +9,23 @@
       "PowerShell(Get-ChildItem -Path \"C:\\\\Projects\\\\Dashboard\\\\5. Exhibit\" -Force | Select-Object Name, @{Name=\"Type\"; Expression={if \\($_.PSIsContainer\\) {\"Directory\"} else {\"File\"}}} | Format-Table -AutoSize)",
       "PowerShell(Get-Item *)",
       "PowerShell(ls *)",
-      "Bash(Get-ChildItem *)"
+      "Bash(Get-ChildItem *)",
+      "Bash(Select-Object FullName, Length)",
+      "Bash(Format-Table -AutoSize)",
+      "Bash(python scripts/content_mapper.py)",
+      "Bash(python scripts/validate_node.py --demo)",
+      "Bash(python scripts/check_setup.py --quiet)",
+      "Bash(python scripts/write_node.py --list --domain ai-concept)",
+      "Bash(python scripts/preprocess_transcript.py --demo)",
+      "Bash(python scripts/preprocess_transcript.py --demo --output temp_clean.txt)",
+      "Bash(python scripts/content_mapper.py --input temp_clean.txt --source-type youtube)",
+      "Bash(del temp_clean.txt)",
+      "Bash(python -c \"import os; os.remove\\('temp_clean.txt'\\)\")",
+      "Bash(python scripts/preprocess_transcript.py --input \"C:/Projects/Dashboard/1. Capture/Better_Version/[Tóm tắt sách Deep Work] Tập trung cao độ - Năng lực cốt lõi để thành công trong cuộc sống_Fast.md\" --output temp_dw.txt)",
+      "Bash(python scripts/content_mapper.py --input temp_dw.txt --source-type youtube --video-title \"[Tóm tắt sách Deep Work] Tập trung cao độ\")",
+      "Bash(python -c \"import os; os.remove\\('temp_dw.txt'\\)\")",
+      "Bash(Select-Object FullName, PSIsContainer)",
+      "Bash(Sort-Object FullName)"
     ]
   }
 }

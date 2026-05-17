@@ -1,0 +1,167 @@
+{
+  "source_type": "youtube",
+  "word_count": 3224,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "yêu_vốn_dĩ_là_một_động_từ_là_một_hành_động_mang_tính_chủ_độn",
+      "label": "Yêu vốn dĩ là một động từ, là một hành động mang tính chủ động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_cách_để_yêu_một_người_thực_sự_là_như_thế_nào",
+      "label": "Vậy, cách để yêu một người thực sự là như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "cuối_cùng_thì_dẫn_đến_đổ_vỡ",
+      "label": "Cuối cùng thì dẫn đến đổ vỡ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "vậy_suốt_cuộc_chúng_ta_phải_nghe_theo_quan_điểm_nào",
+      "label": "Vậy suốt cuộc chúng ta phải nghe theo quan điểm nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tại_sao_phải_tìm_hiểu_về_quan_niệm_hôn_nhân_của_đối_phương",
+      "label": "Tại sao phải tìm hiểu về quan niệm hôn nhân của đối phương?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "mong_muốn_được_tiến_bộ_cải_thiện_ở_bản_thân_họ_là_gì",
+      "label": "mong muốn được tiến bộ, cải thiện ở bản thân họ là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "đó_là_câu_hỏi_tình_yêu_là_gì",
+      "label": "đó là câu hỏi tình yêu là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "tình_yêu_là_một_điều_thuần_khiết",
+      "label": "Tình yêu là một điều thuần khiết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "nguyên_tắc_ngang_giá_về_cơ_bản_là_tồn_tại",
+      "label": "Nguyên tắc ngang giá về cơ bản là tồn tại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vì_vậy_không_muốn_bản_thân_bị_nói_là",
+      "label": "Vì vậy, không muốn bản thân bị nói là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "không_xứng_là_một_hiện_tượng_rất_phổ_biến",
+      "label": "Không xứng là một hiện tượng rất phổ biến",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "không_xứng_là_một_hiện_tượng_rất_phổ_biến_item_1",
+          "label": "[Item 1 of Không xứng là một hiện tượng rất phổ biến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "không_xứng_là_một_hiện_tượng_rất_phổ_biến_item_2",
+          "label": "[Item 2 of Không xứng là một hiện tượng rất phổ biến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_đối_với_những_bạn_vừa_mới_tìm_thấy_một_nửa_của_mình",
+      "label": "Vậy, đối với những bạn vừa mới tìm thấy một nửa của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "trong_cuốn_sách_này_có_chỉ_cho_chúng_ta_cách",
+      "label": "Trong cuốn sách này có chỉ cho chúng ta cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_tiếp_theo_với_những_bạn_còn_đang_độc_thân",
+      "label": "Vậy tiếp theo, với những bạn còn đang độc thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "thứ_nhất_hãy_nhớ_rằng_ấn_tượng_đầu_tiên_là_vô_cùng_quan_trọn",
+      "label": "Thứ nhất, hãy nhớ rằng ấn tượng đầu tiên là vô cùng quan trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "thứ_nhất_hãy_nhớ_rằng_ấn_tượng_đầu_tiên_là_vô_cùng_quan_trọn_item_1",
+          "label": "[Item 1 of Thứ nhất, hãy nhớ rằng ấn tượng đầu tiên là vô cùng quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_hãy_nhớ_rằng_ấn_tượng_đầu_tiên_là_vô_cùng_quan_trọn_item_2",
+          "label": "[Item 2 of Thứ nhất, hãy nhớ rằng ấn tượng đầu tiên là vô cùng quan trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_còn_lần_đầu_tiên_tiếp_xúc",
+      "label": "Vậy còn lần đầu tiên tiếp xúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "bạn_có_cho_rằng_đó_là_một_đôi_chân_dài",
+      "label": "Bạn có cho rằng đó là một đôi chân dài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "ngoài_ra_chúng_ta_có_thể_bổ_sung_thêm_một_chiêu_khác_nữa",
+      "label": "Ngoài ra, chúng ta có thể bổ sung thêm một chiêu khác nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    }
+  ]
+}

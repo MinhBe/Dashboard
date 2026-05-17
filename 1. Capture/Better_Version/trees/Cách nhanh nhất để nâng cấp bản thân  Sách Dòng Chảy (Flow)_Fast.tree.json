@@ -1,0 +1,192 @@
+{
+  "source_type": "youtube",
+  "word_count": 5040,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thứ_nhất_đó_là_rất_nhiều_bạn_đã_gửi_thư_đề_nghị_better_reaso",
+      "label": "Thứ nhất đó là rất nhiều bạn đã gửi thư đề nghị Better Reason,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_rất_nhiều_bạn_đã_gửi_thư_đề_nghị_better_reaso_item_1",
+          "label": "[Item 1 of Thứ nhất đó là rất nhiều bạn đã gửi thư đề nghị Better Reason, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_rất_nhiều_bạn_đã_gửi_thư_đề_nghị_better_reaso_item_2",
+          "label": "[Item 2 of Thứ nhất đó là rất nhiều bạn đã gửi thư đề nghị Better Reason, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_vào_cánh_cửa_tập_trung_trở_về_với_chính_mình",
+      "label": "Bước vào cánh cửa tập trung trở về với chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "trong_cuốn_sách_thì_tác_giả_có_nhắc_tới_một_trường_hợp_như_s",
+      "label": "Trong cuốn sách thì tác giả có nhắc tới một trường hợp như sau.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "cuối_cùng_trong_trạng_thái_không_chút_phân_tâm",
+      "label": "Cuối cùng, trong trạng thái không chút phân tâm,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đây_không_phải_là_một_lời_nói_quá",
+      "label": "Đây không phải là một lời nói quá,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "đây_không_phải_là_một_lời_nói_quá_item_1",
+          "label": "[Item 1 of Đây không phải là một lời nói quá, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_không_phải_là_một_lời_nói_quá_item_2",
+          "label": "[Item 2 of Đây không phải là một lời nói quá, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "đây_không_phải_là_một_lời_nói_quá_item_3",
+          "label": "[Item 3 of Đây không phải là một lời nói quá, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "đây_không_phải_là_một_lời_nói_quá_item_4",
+          "label": "[Item 4 of Đây không phải là một lời nói quá, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        }
+      ]
+    },
+    {
+      "key": "chiến_lược_đầu_tiên_chiến_lược_nhịp_điệu",
+      "label": "Chiến lược đầu tiên, chiến lược nhịp điệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "chiến_lược_thứ_3_chiến_lược_tu_sĩ",
+      "label": "Chiến lược thứ 3, chiến lược tu sĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "chiến_lược_khó_nhất_nhưng_cũng_mang_lại_hiệu_quả_nhất",
+      "label": "Chiến lược khó nhất nhưng cũng mang lại hiệu quả nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "chiến_lược_khó_nhất_nhưng_cũng_mang_lại_hiệu_quả_nhất_item_1",
+          "label": "[Item 1 of Chiến lược khó nhất nhưng cũng mang lại hiệu quả nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "chiến_lược_khó_nhất_nhưng_cũng_mang_lại_hiệu_quả_nhất_item_2",
+          "label": "[Item 2 of Chiến lược khó nhất nhưng cũng mang lại hiệu quả nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thì_đó_là_một_điều_vô_cùng_may_mắn_tuyệt_vời",
+      "label": "thì đó là một điều vô cùng may mắn tuyệt vời.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 82",
+      "children": [
+        {
+          "key": "thì_đó_là_một_điều_vô_cùng_may_mắn_tuyệt_vời_item_1",
+          "label": "[Item 1 of thì đó là một điều vô cùng may mắn tuyệt vời. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thì_đó_là_một_điều_vô_cùng_may_mắn_tuyệt_vời_item_2",
+          "label": "[Item 2 of thì đó là một điều vô cùng may mắn tuyệt vời. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "sự_cô_đơn_này_chính_là_một_loại_cô_đơn_chất_lượng_cao",
+      "label": "Sự cô đơn này chính là một loại cô đơn chất lượng cao.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "bên_cạnh_đó_để_tránh_cho_hỗn_độn_tâm_trí",
+      "label": "Bên cạnh đó, để tránh cho hỗn độn tâm trí,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "ngoài_ra_tác_giả_còn_chỉ_ra_một_cách_nữa",
+      "label": "Ngoài ra tác giả còn chỉ ra một cách nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "bên_cạnh_đó_vận_động_luôn_là_một_cách_giảm_căng_thẳng_tuyệt",
+      "label": "Bên cạnh đó, vận động luôn là một cách giảm căng thẳng tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "trong_cuốn_sách_flow_có_một_câu_nói_mình_rất_thích_như_thế_n",
+      "label": "Trong cuốn sách Flow có một câu nói mình rất thích như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vậy_nên_hãy_đặt_ra_mục_tiêu_cụ_thể_rõ_ràng_tập_trung_cao_độ",
+      "label": "Vậy nên hãy đặt ra mục tiêu cụ thể rõ ràng, tập trung cao độ,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    }
+  ]
+}

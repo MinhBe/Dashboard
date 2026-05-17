@@ -1,0 +1,213 @@
+Hi thưa mình, chào các bạn. Chào mừng các bạn đã quay trở lại với Better Version, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay. Hôm nay, chủ đề mà mình muốn chia sẻ tới các bạn đó là về học cách học. Có lẽ nhiều người trong chúng ta đều đã gặp phải tình huống như thế này. Thời còn đi học, chúng ta thường thấy có những bạn nắm bắt kiến thức rất tốt, tham gia vào thi cử thì rất dễ dàng, trong khi bản thân mình thì lại phải chật vật mới có thể hiểu hết được kiến thức rồi bước vào môi trường làm việc. Chúng ta cũng phát hiện thấy có người không những hoàn thành tốt công việc, họ còn có thể gia tăng nguồn thu nhập thụ động bằng nghề tay trái. Trong khi bản thân ngày nào cũng vất vả, bận rộn nhưng kết quả vẫn không được như ý. Có thể chúng ta sẽ nghĩ rằng đấy là do họ học giỏi, có năng lực bẩm sinh nên nhanh chóng đạt được nhiều mục tiêu cùng một lúc trong cuộc sống.
+
+Và đôi lúc bạn cũng đâm ra ghen tị với những người tài giỏi đó hoặc là tự an ủi bản thân vì họ có khả năng thiên bẩm. Còn mình thì là người bình thường nên không có việc gì phải so sánh cả. cơ hội phát triển cho chính mình. Thực chất, con người hiện đại đã quá quen với việc ngắn mắt bản thân. Bạn sẽ thường nghe thấy Con gái thì không phù hợp học khối A Con trai thì ai lại học khối C Hoặc là tôi không phù hợp để học vật lý
+
+Tôi sợ các con số Tôi rốt tin học lắm Vân vân Khi bạn nói ra những câu như thế này Đó là lúc bạn đã tự lừa dối chính mình Nhà vật lý Richard Feynman từng nói
+
+Nguyên tắc đầu tiên
+
+Là bạn không được tự lừa dối mình Vì bạn là người dễ bị lừa nhất trên đời Tác giả của cuốn sách ngày hôm nay mà mình muốn chia sẻ Tiến sĩ Barbara Oakley là một người từ nhỏ ghét thậm tệ môn toán và khoa học Nhưng sau này lại trở thành tiến sĩ, giáo sư kỹ thuật tại Trường Đại học Auckland Rochester Michigan Bạn đã dùng chính kinh nghiệm của mình và dựa trên những nghiên cứu mới nhất về khoa học não bộ Thâm lý học toàn diện cũng như những mô hình tư duy để cho chúng ta biết rằng Bạn không thể học tốt và không thể kiên trì
+
+Đó không phải do bạn không đủ chăm chỉ Mà là vì chúng ta chưa có phương pháp học tập khoa học Cuốn sách ngày hôm nay sẽ giúp cho bạn có thể thay đổi từ không học được, thành học tốt, thậm chí có thể đạt được một trạng thái toàn năng hơn trong nhiều lĩnh vực. Bất kể bạn muốn học gì, bất kể bạn đang là học sinh, sinh viên hay chuẩn bị tham gia vào kỳ thi nào đó, học lên thạc sĩ, tiến sĩ hoặc bạn muốn tự học một kỹ năng mới để thay đổi nghề nghiệp hay đơn giản là muốn cải thiện bản thân theo sở trường của mình thì đều có thể nhận được những hướng dẫn hữu ích từ đây. Rồi, bây giờ mời các bạn cùng lắng nghe một chia sẻ mang tên
+
+Học, cách học tạo năng lực cốt lõi Qua cuốn sách A Mind for Numbers How to Excel at Math and Science Của tiến sĩ Barbara Oakley Và cuốn sách này đã có bản dịch tiếng Việt Mang tên Cách Chinh Phục Toán và Khoa học Mình sẽ để thông tin chi tiết của cuốn sách này Ở phần mô tả của video
+
+Trước hết chúng ta cần phải hiểu rõ
+
+Năng lực học tập là gì
+
+Năng lực học tập không phải là có thể nhớ thuộc lòng Và nói ngay ra lập tức Một điểm kiến thức Một bài thơ Một sự kiện nào đó Vân vân Mà là những đặc điểm tâm lý của một cá nhân cần có để tham gia vào hoạt động học tập,
+
+đồng thời là sự kết hợp của nhiều khả năng khác nhau để hoàn thành hoạt động học tập một cách thành công. Bao gồm khả năng nhận thức, quan sát, khả năng đọc hiểu, khả năng ghi nhớ, khả năng giải quyết vấn đề, v.v. Nói cách khác, khả năng học tập thực chất là một năng lực toàn diện giúp bạn nắm vững một số cơ sở,
+
+khái niệm, kỹ năng nhất định và có thể áp dụng vào thực tế.
+
+Vậy làm thế nào để chúng ta có thể
+
+cải thiện khả năng học tập của mình? Thực chất, bản chất cốt lõi của cuốn sách này sẽ nằm ở 3 cục từ khóa như sau
+
+Thứ nhất, chuyển đổi tư duy
+
+Thứ hai, xây dựng khối kiến thức
+
+Thứ ba, loại bỏ rào cản học tập
+
+Rồi đầu tiên chúng ta cùng cần phải biết cách chuyển đổi mô hình tư duy
+
+Vậy chuyển đổi mô hình tư duy là gì?
+
+Trước khi hiểu rõ khái niệm này, chúng mình sẽ cùng xem một thí nghiệm như sau Có một nhà khoa học đã đặt một vài con ong vào trong một chiếc bình thủy tinh có miệng mở rộng và đặt nó nằm ngang, phần đáy sẽ hướng về cửa sổ, nơi có ánh sáng. Kết quả là những con ong này đã liên tục bay về phía đáy bình cố gắng tìm đường ra ngoài cho đến khi chúng chết. Trong khi đó, các nhà khoa học đã cho vẻ con ruồi vào trong bình ở cùng điều kiện tương tự, chúng chỉ cần mất vài phút là có thể tìm thấy đường ra. Nguyên do nằm ở chỗ là con ruồi không cố gắng hướng tới nơi có ánh sáng tới cùng
+
+mà chúng bay lung tung trong bình, thử nghiệm nhiều cách khác nhau và cuối cùng tìm thấy lùi thoát. Thực chất, trong quá trình học, chúng ta cũng không khác những con ong bị nhốt trong bình lắm ấy. Khi tập trung vào suy nghĩ, não bộ sẽ như một chiếc đèn pin hướng chúng ta đi tìm ánh sáng để tìm cách giải quyết. Tuy nhiên, việc quá mong muốn tìm ra ánh sáng sẽ khiến bạn đi vào ngõ cụt và dễ dàng rơi vào hiệu ứng khuôn mẫu trong tư duy. Tức là khi quá tập trung suy nghĩ, bạn sẽ dễ đi vào lối tư duy cố định và bị chính những ý tưởng có sẵn trong đầu ngăn cản bạn không thể tạo ra được giải pháp tốt hơn. Vì thế, chúng ta từng gặp phải một nỗi khó khăn lớn nhất trong học tập đó là
+
+không thể duy trì đầu óc minh mẫn trong một thời gian dài. Bạn không thể ngồi học lâu khi hứng thú mở một cuốn sách ra nhưng được một lúc là thấy nản và dễ bị phân tâm Gặp phải một vấn đề khó và bị mắc kẹt ở đó Cố gắng tập trung giải quyết nhưng cuối cùng phải từ bỏ Và dẫn đến căng thẳng, tự trách mình là yếu kém v.v Thực chất lúc này cách cực kỳ đơn giản đó là Ngừng tập trung và chuyển chế độ tư duy sang một chế độ khác
+
+Các nhà khoa học thần kinh nghiên cứu ra rằng, não bộ của chúng ta có 2 chế độ tư duy Đó là chế độ tập trung và chế độ phân tán ở trạng thái thư giãn Trong cuộc sống hàng ngày, não bộ thường xuyên chuyển đổi liên tục giữa 2 chế độ này Và chúng đều rất quan trọng trong quá trình học Có nghĩa là bạn phải học cách chủ động chuyển đổi giữa 2 chế độ tư duy một cách thích hợp Ví dụ, đối với một số khái niệm hay vấn đề mới mà chưa từng tiếp xúc Nếu ngay từ đầu sử dụng chế độ tập trung để giải quyết Bạn sẽ dễ bị mắc kẹt và không có phương hướng
+
+Lúc này chúng ta nên chuyển sang chế độ phân tán, kịp thời thoát khỏi bí toác và giải phóng bản thân khỏi những căng thẳng. Khi chúng ta ở chế độ tư duy phân tán, trạng thái thư giãn sẽ tạo cơ hội cho các vùng não khác kết nối với nhau, mang lại cho bạn những khoảnh khắc suy nghĩ sáng trói và quý giá. Nó sẽ không cho phép bạn tập trung vào giải quyết một vấn đề cụ thể, nhưng nó có thể mang lại tầm nhìn toàn diện hơn, góc nhìn vĩ mô hơn và có thể truyền cảm ứng cho bạn. Nhà phát minh vĩ đại Thomas Edison là một ví dụ điển hình cho chúng ta học tập. ngày để giải quyết đến cùng. Mà thay vào đó, ông ấy sẽ đi ngủ trưa. Ông ngồi trên một chiếc ghế tựa với một quả bóng
+
+trên tay. Trong lúc nửa tỉnh nửa mơ, não bộ sẽ dần dần thư giãn và chuyển sang chế độ suy nghĩ phân tán. Khi quả bóng trong tay bỗng chốc rơi xuống và tạo ra một âm thanh. Và âm thanh nó chạm vào đĩa đã đánh thức ông. Lúc này Edison đã nắm bắt những mảnh vỡ còn lại của khoảnh khắc suy nghĩ phân tán và giải quyết vấn đề một cách sáng tạo. Đây cũng chính là kỹ thuật sử dụng để truyền hóa tư duy.
+
+Theo chuyên gia nghiên cứu sáng tạo Howard Grapper đã đề xuất cho chúng ta phương pháp 3B đó là ngủ, tắm và đi xe buýt. Khi gặp vấn đề tạm thời không thể giải quyết bạn có thể chọn một trong ba cách trên chỉ cần bận tạm gác lại công việc và làm điều gì đó khác biệt dù là đi ngủ, đi tắm, lên xe buýt
+
+nghe nhạc hay đi dặn một mình họ ít nhất là bạn hãy cho mình một khoảng thời gian để có thể suy nghĩ một cách vô thức bạn sẽ tự nhiên chuyển đổi từ chế độ tập trung sang chế độ phân tán. Sau khi thư giãn xong, thì bạn có thể quay lại về công việc trước đó
+
+và lúc này bạn sẽ dễ dàng trật nảy ra một cảm hứng một giải pháp mới sẽ hiện lên trong đầu.
+
+Ngoài ra,
+
+bạn cũng có thể tập thể dục, nhảnh múa, xem một bộ phim, đọc một cuốn tiểu thiết yêu thích, v.v. Họ cách cuối cùng đó là đi ngủ Chờ mắt một lúc
+
+cũng là một giải pháp rất tốt
+
+Nhưng ở đây có một điều quan trọng bạn cần ghi nhớ rằng đó là bạn cần phải có ý thức tự chủ để quay trở lại, chứ đừng thư giãn để rồi hết cả một ngày
+
+Để giữ được một nhịp điệu bền lâu và tăng hiệu suất khi học Cho não của bạn có thêm dưỡng chất thì phương pháp tập trung Pomodoro là một lựa chọn thích hợp Hoặc phải vắt óc suy nghĩ rất nhiều Bạn có thể chuyển sang chế độ phân tán với thời lượng lâu hơn
+
+Rồi trên đây là phương pháp
+
+chuyển đổi tư duy mà tác giả đặc biệt nhấn mạnh trong quá trình chúng ta học
+
+Tiếp theo
+
+Khi chúng ta nói đến khả năng học Thì khả năng ghi nhớ Khả năng hiểu và khả năng ứng dụng vào thực tế được coi là quan trọng nhất. Trong sách có một ví dụ, vào cuối thập kỷ thứ 20, ở Liên Xô có một phóng viên tên Solomon. Người này có khả năng ghi nhớ vượt trội
+
+chỉ cần nhìn hoặc nghe một lần là ông ấy có thể thuộc lòng không sai một từ. Tuy nhiên, khả năng ghi nhớ hoàn hảo như vậy lại gây khó khăn cho chính Solomon khiến ông không thể hiểu bản chất của mọi thứ. Từ vấn đề này, tác giả cho rằng
+
+khả năng ghi nhớ không quan trọng ở việc nhìn ngay một lần vài lần là nhớ mà quan trọng ở việc chúng ta hiểu được bản chất của vấn đề. Qua đó, bạn đã đề xuất ra một khái niệm mang tên Khối Kiến Thức để giải quyết được vấn đề này.
+
+Vậy thì Khối Kiến Thức là gì?
+
+Trước tiên, chúng ta cần phải tìm hiểu quá trình con người ghi nhớ một thứ gì đó. Ví dụ như khi tập nói, đứa trẻ sẽ bắt đầu học những tiếng đầu tiên. Ví dụ như từ mẹ. Trong quá trình này, thực chất não bộ của chúng ta sẽ trải qua 2 giai đoạn. Đó là giai đoạn tập trung và nói lặp lại từ này. Khi ta tập trung vào một thứ gì đó, các tế bào thần kinh trong não sẽ bắt đầu hoạt động Kết nối một số phần liên quan cụ thể đến những gì chúng ta tập trung Nên lúc tập trung để có thể ghi nhớ được từ mẹ
+
+Các tế bào thần kinh sẽ liên kết với những suy nghĩ về nụ cười, về sự vỗ về, sự bao bọc của mẹ Sau đó khi thực hành tập nói, chúng ta sẽ lặp đi lặp lại từ mẹ Tạo thành một vòng tuần hoàn thần kinh trong não bộ Khi vòng tuần hoàn này được kích hoạt, nó sẽ tạo ra một vết dấu chỉ nhứa Và nó sẽ kết hợp với nhiều dấu vết chỉ nhứa liên quan khác khiến bạn tự khác nhớ lâu từ này.
+
+Vậy thì việc tập trung và lặp lại chính là một quá trình tạo ra dấu vết trí nhớ. Trong quá trình này, não bộ của chúng ta còn có một khả năng tiềm ẩn đó là tiến hành lựa chọn, tìm ra những điểm chính và liên quan đến nhau tập hợp chúng thành một tổng thể. Tổng thể này cũng chính được gọi là Hồi Kiến Thức Nhìn lại trường hợp của Solomon ông ấy có rất nhiều dấu vết trí nhớ
+
+chứa đựng đa dạng các sắc màu và cảm xúc phong phú nhưng chính điều này đã gây trở ngại cho ông khi cố gắng tạo ra các khối kiến thức có tính chất một cách khái quát. Chúng ta có thể hiểu như thế này, nếu có 1 rừng cây, mỗi cái cây đối với Solomon đều quá sinh động đến nỗi mà ông ấy chỉ nhìn thấy từng cái cây mà không nhận ra cả 1 khu rừng
+
+Mà trong khi đó, nhiệm vụ khi ghi nhớ đó là cần chúng ta phải nhìn thấy cả rừng cây Chính vì thế nên lúc ban đầu chúng ta không nên quá tập trung vào 1 cái cây nào cả và phải đi xây dựng các khối kiến thức sau đó mới tập trung và lặp đi lặp lại
+
+Vậy thì ở đây chúng ta sẽ cụ thể
+
+bước quan trọng trong việc xây dựng khối kiến thức như sau.
+
+Bước đầu tiên đó là tập trung vào thông tin bạn cần xây,
+
+nghĩa là đòi hỏi bạn phải tập trung tuyệt đối và thông tin có ý nghĩa và liên quan đến nhau. Nếu bị phân tâm như chốc chốc lại kiểm tra Facebook thì bạn rất khó có thể xây dựng được khối kiến thức. Khởi đầu việc học một điều mới là không những cần tạo ra mô hình vòng toàn hẳn thần kinh mới mà còn kết nối mô hình mới với mô hình hiện có trong não bộ của chúng ta.
+
+Nếu bị phân tâm ở bước này rất khó có thể thực hiện.
+
+Bước số 2 đó là tạm thời yêu cầu bản thân hiểu những kiến thức cơ bản và có thể tổng hợp để lấy được ý chính.
+
+Vậy là đủ, chúng ta cũng không cần phải đi tìm hiểu quá sâu.
+
+Rồi, bước số 3 chúng ta sẽ cần thu thập thông tin nền tảng. Thông tin nền tảng có nghĩa là thoát ra khỏi vấn đề ban đầu và nhìn vào một góc độ rộng lớn hơn để xem xét vấn đề. Ở bước này bạn cần phải học cùng lúc theo hai hướng. Trước tiên là bạn cần phải học từ dưới lên trên, tức là xây dựng khối kiến thức, liên tục ôn lại, lặp lại để thiết lập và củng cố các khối kiến thức. Đồng thời bạn sẽ cần phải học từ trên xuống dưới tức là đọc để mở rộng nền tảng kiến thức của mình ra sát và luyện tập tìm hiểu tất cả các vấn đề có liên quan và không liên quan từ khối kiến thức
+
+đặt khối kiến thức vào bức tranh lớn là thông tin nền tảng để biết khi nào và ở đâu sử dụng chúng giống như là việc chúng ta đọc sách Trước tiên để có thể hình dung tổng quát chúng ta nên đọc lướt từng chương 5 ý chính từng phần Mục đích là để xem toàn bộ cuốn sách này đang nói về điều gì khái quát Sau đó, đặt khối kiến thức vào một nền tảng tổng quát Để biết được khi nào sử dụng và áp dụng vào thực tế
+
+Ba bước trên rất hữu dụng với mình Khi học và đọc về một lĩnh vực mới Nó giúp cho mình có một bức tranh tổng quát rộng lớn Và trong bức tranh đấy Mình có thể hiểu rõ từng mắt xích thông tin Đem đến những mắt xích liên quan Kết nối với nhau thành một chuỗi mắt xích Và tiếp tục lại kết hợp
+
+Với những khối kiến thức khác Có sẵn trong đầu Từ đó khiến cho bức tranh tổng thể của mình lại ngày càng rộng lớn hơn. Với cách này thì bạn sẽ nắm vững kiến thức, khả năng và hiệu suất học tập cũng sẽ ngày càng nâng cao. Rồi một phần vô cùng quan trọng tiếp theo chúng ta cần tìm hiểu Đó là các phương pháp giúp cho bạn củng cố hội kiến thức đã xây
+
+Đầu tiên thì chúng ta sẽ có phương pháp hồi tưởng
+
+Trong quá trình học tập không biết là bạn có thường xuyên thực hiện một phương pháp này không? Đó là đọc và tóm tắt điểm chính Nếu như có thì hãy cẩn thận
+
+Đây có thể là một cách học không hiệu quả
+
+Bởi vì các nhà tâm lý học cho rằng, sau khi đọc nhiều lần, chúng ta sẽ phát sinh ảo tường và cảm giác sai lầm là mình đã hoàn toàn hiểu kiến thức này. Nhưng trên thực tế, chúng ta chỉ hiểu được bề mặt và chưa thể thấu hiểu thực sự. Một thời gian sau, khi bạn cần áp dụng kiến thức liên quan, hồi ước của chúng ta đã trở nên mờ mịt. Vì vậy, tiến sĩ Barbara cho rằng trong quá trình học, chúng ta phải thường xuyên hồi tưởng mỗi ngày để có thể củng cố khối kiến thức. Cách để chúng ta hồi tưởng đúng như sau Sau khi đọc xong một trang sách hay học một kiến thức mới chẳng hạn, bạn có thể nhìn ra chỗ khác và hồi tưởng lại kiến thức đó. Hay là vào một thời điểm lý tưởng khác, đó là vào mỗi buổi tối. Sau khi học xong, bạn có thể nhắm mắt lại, nhớ về những nội dung đã học.
+
+Điều này sẽ khiến cho não bộ của bạn tự động trích xuất các khái niệm quan trọng, xây dựng khối kiến thức và giúp nằm vững kiến thức hơn. Tuy nhiên theo mình, bạn nên cố gắng để hành động này sớm hơn trước khi ngày kết thúc. Không nên làm vào lúc chuẩn bị đi ngủ, sẽ làm cho đầu óc của bạn cảm thấy căng thẳng, khó ngủ ngon giấc. Thêm vào nữa, ở đây có một điều mà tác giả nhắc nhở chúng ta phải hết sức chú ý đó là Nên thực hiện một cách thận trọng việc đánh dấu và gạch chân khi đọc không nên quá lạm dụng các ghi chép này bởi vì nó không những gây ra hiệu quả kém mà còn có thể khiến bạn bị lạc hướng về gạch chân làm cho chúng ta tự đánh lừa bản thân
+
+rằng não bộ của mình đang hoạt động trong khi thực tế chúng ta chỉ đang làm việc với cái tay mà thôi Thông thường chỉ cần gành một câu chính hoặc tối đa một đoạn văn là đủ.
+
+Ngoài ra, bạn nên ghi trên chỗ trống trong sách với các khái niệm quan điểm then chốt mà tự bạn đã rút ra để có thể xem lại bất cứ lúc nào. Rồi, một phương pháp khác để củng cố khối kiến thức đó là tự mình kiểm chứng. Bất kỳ nội dung nào chúng ta học, chúng ta tiếp nhận, chúng ta cũng phải tự mình tiến hành kiểm tra, tự đặt câu hỏi dựa trên những kiến thức có sẵn.
+
+Cuối cùng, phần mối chút nữa để giúp bạn tăng cường khả năng học tập đó chính là biết cách loại bỏ sao cản học tập. Sau càng học tập lớn nhất đối với người hiện đại bây giờ, đó chính là trì hoãn và không thể tập trung tuyệt đối. Nói tới trì hoãn, ở một video Better Version đã làm trước đó về chủ đề này cũng có cùng quan điểm với cuốn sách rằng chúng ta không nên cố gắng hết sức sử dụng mọi ý chí tự chủ mạnh mẽ để đối phó với sự trì hoãn. Đó sẽ chỉ là điều vô ích, bởi vì não bộ của chúng ta rất giống với điện thoại di động, năng lượng tâm lý giống như lợm pin. Nếu dùng hết vào ban ngày và không xạc lại vào buổi tối thì hôm sau bạn sẽ không thể khởi động được. Ví dụ, khi bạn đang giảm cân, bạn có thể kiểm soát được cơm thèm ăn vào ban ngày Tân thủ chế độ ăn lành mạnh
+
+Nhưng sau một ngày dài, bạn lại không thể kiềm chế được Và ăn một bữa lớn no căng hơn nữa Chính vì vậy, tác giả mới nhấn mạnh Muốn đối phó với trì hoãn Không thể dựa vào ý chí Mà quan trọng trước tiên là bạn cần phải hiểu rõ Về bản chất nguyên nhân gây ra trì hoãn cho bản thân Cuốn sách này có một điểm phát hiện mới
+
+So với các cuốn sách khác ở chỗ Nó chỉ ra cho chúng ta
+
+Tại sao não bộ lại trì hoãn
+
+Thứ nhất, có rất nhiều nguyên nhân dẫn đến trí hoãn nhưng nguyên nhân sâu xa thực chất lại do bạn đang sợ hãi. Nghiên cứu y học cho thấy một trong những lý do khiến người ta không muốn học toán là vì chỉ cần nghĩ đến toán, trung tâm cảm giác đau đớn trong não sẽ được kích hoạt, khiến họ tự nhiên bị rụt lại. Sau đó họ sẽ có xu hướng tránh né lập tức muốn tìm thứ gì đó, thúc đẩy bản thân hưởng đến sự thoả mãn ngay lập tức. Vì vậy, họ tìm kiếm niềm vui thức thì. Con người thì có bản năng tránh né sự đau khổ. Nhưng việc tránh né thường xuyên có thể dẫn đến những tác động tiêu cực trong giải hạn. Chuyên gia nghiên cứu về trí hoãn Rita Emmett đã từng nói rằng
+
+sự sợ hãi trước một nhiệm vụ sẽ tiêu tốn nhiều thời gian và năng lượng hơn cả việc thực hiện nhiệm vụ đó.
+
+Bên cạnh đó, theo một nghiên cứu thấy rằng khi người sợ toán thật sự bắt đầu học toán, sự sợ hãi sẽ biến mất.
+
+Điều này có nghĩa là gì?
+
+Nghĩa là thực chất sự sợ hãi chỉ là một cảm giác dự đoán ban đầu của bạn. Thực sự bạn không sợ nó đâu. Chỉ cần vượt qua được cảm giác này, bạn sẽ có thể chiến thắng con quỳ nhỏ bên trong mình. Rồi tiếp theo lý do số 2 Tại một số trường hợp cụ thể, nguyên nhân chỉ hoãn là vì trong bạn đang ẩn chứa tâm lý thích đánh bạc Ví dụ không biết bạn có từng có trải nghiệm như thế này không? Nhiều lần bạn hoàn thành công việc nào đó và hạn chót Thậm chí là thức đêm
+
+Tuy rất mệt nhưng cũng có được một kết quả không tội Thế nên điều này đã khiến cho bạn cảm thấy khá ứng thú Tuy nhiên nó không khác gì việc chúng ta đánh bạc Khi đạt được một thành công nhỏ trong một thời gian ngắn bạn sẽ có tinh thần lạc quan và sẵn sàng lặp lại lần nữa. Thậm chí, có người tin rằng hạn trót là yếu tố giúp tăng trưởng năng suất một cách mạnh nhất nên vì vậy, bạn luôn lấy đó làm cái cớ để chỉ hoãn nước đền chân ta mới nhảy. Có thể trong một thời gian ngắn, việc hoàn thành công việc đúng thời hạn
+
+sẽ giúp bạn tăng cường hiệu xuất nhưng theo thời gian bạn không thể luôn luôn may mắn và xuân xẻ như vậy được.
+
+Hơn nữa, điều này chỉ thích hợp cho những công việc
+
+không đòi hỏi tính toan diện và hệ thống. Nếu đối mặt với một nhiệm vụ lớn hơn bạn sẽ rất khó để đảm bảo chất lượng công việc, cũng như phát triển năng lực thực sự của chính mình. Và nguyên nhân thứ 3 khiến chúng ta trì hoãn đó là do phải làm những việc mà bản thân không giỏi hoặc bạn quá cầu toàn. Khi gặp phải một công việc khó khăn hơn năng lực của bản thân rất nhiều,
+
+bạn không biết phải bắt đầu từ đâu thì thường rất dễ dẫn đến tình trạng trì hoãn và tâm lý muốn phải có sự hoàn thiện, chuẩn bị đầy đủ luôn khiến bạn chần trừ. Tuy nhiên, bạn cần phải hiểu rằng hãy cứ bắt tay vào thực hiện Hoàn thành còn hơn hoàn mỹ
+
+Vậy tác giả đã đưa ra cho chúng ta cách gì để giúp bản thân vượt qua trì hoãn và tập trung tuyệt đối? Thực sự, trì hoãn rất dễ bị nghiện. Và khi nghiện cũng có nghĩa là nó đã trở thành thói quen của bạn.
+
+Vậy nên, tác giả đã đề xuất cho chúng ta có thể đánh bại trì hoãn
+
+bằng cách quan trọng nhất đó là thay đổi phòng tuần hoàn thói quen.
+
+Phòng tuần hoàn thói quen là gì?
+
+Đó là quy trình hình thành, hoạt động và duy trì thói quen của một người. Bạn có thể tìm hiểu kỹ hơn về cách hình thành thói quen Lại bỏ thói quen xấu qua video số 67 Vận may của bạn ẩn trứa trong thói quen Qua cuốn sách Thói quen tí hon Mà Better Reason đã từng nói rất kỹ trước đó Ở đây, tiến sĩ Barbara Chi phòng tuần hoàn thói quen gồm 4 bước
+
+Tín hiệu, quy trình phản ứng, cơ chế thưởng Và niềm tin Bằng cách nỗ lực thay đổi các bước này Chúng ta có thể lại bỏ thói quen chỉ hoãn Và tập trung tuyệt đối
+
+Vậy ở bước đầu tiên
+
+Chúng ta cần tránh được sự cản trở của tín hiệu Ví dụ trong danh sách công việc cuối tuần của bạn Vì đầu tiên bạn chọn có thể là dọn dẹp nhà cửa, đây là một điểm kích hoạt. Tuy nhiên, điểm kích hoạt này dễ dàng bị ảnh hưởng bởi các điểm kích hoạt khác. Ví dụ khi bạn đứng dậy và chuẩn bị dọn dẹp nhà cửa thì đột nhiên bạn nhận được một tin nhắn từ người bạn nào đó thế là bạn đã phải tạm dừng công việc để trò chuyện với họ. Tin nhắn từ người bạn chính là một điểm kích hoạt mới. Vì vậy, bạn cần phải tạo ra môi trường không có điểm kích hoạt để có thể tránh bị ảnh hưởng
+
+Ví dụ như là tắt điện thoại, tắt mạng Tắt các thông báo trong một thời gian cụ thể
+
+Bước tiếp theo đó là điều chỉnh quy trình phản ứng
+
+Quy trình phản ứng bao gồm những phản ứng thông thường Và tự động của não bộ khi nhận được tín hiệu Thường thì mỗi khi có tín hiệu áp lực Hoặc kích thích của con quỳ nhỏ Yêu thích niềm vui tức thì Trong bạn xuất hiện Chúng ta sẽ rời sự tập trung từ công việc khó Sang một công việc dễ dàng và vui vẻ hơn
+
+Thế nên quan trọng là bạn phải thay đổi cách phản ứng với tín hiệu này Ví dụ, trong quá trình làm việc có thể bạn sẽ nảy sinh nhiều ý nghĩ khi bạn dễ dàng bị sao lãng. Lúc này bạn có thể tạm viết ra giấy những ý nghĩ, những nguyên do khiến cho bản thân không tập trung và xử lý chúng sau khi hoàn thành công việc.
+
+Ngoài ra, bạn có thể sử dụng phương pháp Pomodoro thiết lầm một khoảng thời gian tập trung. Trong khoảng thời gian này, dù có bị làm phiền như thế nào thì cũng cố gắng không ngừng công việc trước mắt. Rồi bước số 3 đó là Tự Thường Chẳng hạn như sau một thời gian tập trung, Bạn có thể ra ngoài một chút để thư giãn khi hoàn thành công việc hàng ngày đúng thời hạn. Bạn có thể tự cho mình thư giãn xem một bộ phim, hoặc có thể tự thỏa thuận với bản thân rằng nếu có tiến triển lớn trong một công việc nào đó, sẽ tự thưởng cho mình một món quà mà bạn thân yêu thích, v.v.
+
+Thực chất sức mạnh của thói quen nằm ở khả năng tạo ra mong muốn của cảm xúc. Để vượt qua mong muốn trước đó, chúng ta cần một phần thường mới và tạo nên cảm xúc tự hào, thoả mãn, có thành tiệu. Chỉ khi bộ não của bạn bắt đầu kỳ vọng vào phần thường mới này, Sự chuyển đổi quan trọng sẽ xảy ra Và bạn mới có thể hình thành một thói quen mới Rồi, ở bước cuối cùng Chúng ta sẽ cần phải xây dựng niềm tin mạnh mẽ
+
+Để thay đổi thói quen chỉ hoãn
+
+Điều quan trọng nhất là phải tin rằng
+
+Mình chắc chắn làm được Muốn phát triển niềm tin này Bạn cần phải tuyên bố về chính bản thân mình Và liên tục khẳng định Bằng cách viết nhật ký hành động
+
+Phương pháp này rất đơn giản
+
+Mỗi tuần viết 1 lần vào đầu tuần Bạn nên viết ra danh sách Các nhiệm vụ quan trọng cần làm Sau đó Mỗi ngày liệt kê một danh sách công việc hợp lý có thể thực hiện được Việc viết kế hoạch ngay nên thực hiện vào buổi tối, ngày hôm sau Vì nó có thể giúp chúng ta có giải pháp khi gặp vấn đề
+
+Hơn nữa theo kinh nghiệm cá nhân của mình
+
+Việc phải lựa chọn làm việc gì vào sáng sớm Sẽ tiêu hao một phần năng lượng của não Và sẽ khiến bạn kém thập trung hơn trong cả buổi
+
+Điều tiếp theo chúng ta cần chú ý
+
+Đó là số lượng công việc không nên quá nhiều Trong sách đã đưa ra lời khuyên Chỉ nên thực hiện 5-10 mục tiêu 1 ngày Nhưng đối với mình Thường sẽ chỉ đạt mục tiêu thực hiện từ 3 đến 5 công việc mà thôi Lý do cũng được mình giải thích rất rõ trong video cuốn sách The One Thing Ở đây mình sẽ không nói sâu hơn Nhưng đại khái rằng bạn luôn cần phải xác định cho mình một việc làm quan trọng nhất
+
+Trong cả 1 ngày, trong khoảng thời gian từ 3 tháng đến 6 tháng Trong nửa năm hay là trong 1 năm, 5 năm Thậm chí là 10 năm và cả cuộc đời bạn luôn Và hãy giúp hết toàn tâm toàn lực thực hiện công việc quan trọng đó Một việc quan trọng giống như là một đòn bẩy Khiến bạn tạo nên lực đầy cho toàn bộ cuộc sống của mình
+
+Vậy nên ở đây mình sẽ luôn xác định một việc quan trọng nhất trong ngày, sau đó thêm 2 hoặc 3 việc khác. Đây cũng là điều cần chú ý về thứ tự ưu tiên công việc thực hiện. Trong sách đã khuyên rằng bạn hãy đặt công việc quan trọng hoặc khó chịu nhất ở vị trí đầu tiên. Hoàn thành công việc quan trọng này sẽ mang lại cảm giác thành tiệu lớn và giảm khả năng chỉ hoãn của bạn. Rồi trên đây là 3 phương pháp then chốt từ cuốn sách này để bạn có thể nâng cao chất lượng và khả năng học tập.
+
+Ngoài ra trong sách còn nhiều phương pháp hiệu ích để tăng cường khả năng ghi nhớ Như là dùng hình ảnh thị giác sẽ nhớ để thay thế thông tin quan trọng mà chúng ta muốn ghi nhớ Sử dụng so sánh giống động, sử dụng lặp lại có khoảng cách để củng cố kiến thức v.v Vì giới hạn của việc làm video mình sẽ không nói chi tiết cụ thể ở đây Bạn có thể tìm đọc thêm những kỹ thuật hiệu ích và hiệu quả khác từ cuốn sách này
+
+Sau cùng đó là một vài lời nhắn nhủ tới mọi người
+
+Trên mỗi chặng đường đời của chúng ta có vô vàn thứ sẽ thay đổi Nhưng duy có một thứ không nên thay đổi Đó chính là tinh thần không ngừng học hỏi chú ý suốt đời. Trong quá trình không ngừng gian luyện này, bạn có thể sẽ dần dần xây dựng nên một năng lực cốt lõi mà nó có thể thay đổi toàn bộ cuộc đời bạn. Có lẽ sau khi rời khỏi ghế nhà trường, động lực học tập ở nhiều người chúng ta đã giảm đi. Việc thiết lập mục tiêu, tìm phương pháp học cũng trở nên khó khăn. Cuốn sách này sẽ giúp bạn biết được bạn không thực sự sợ hãi, không kém cỏi trước những thứ không thuộc sở trường hoặc chưa từng làm. Bạn có thể học thành công
+
+bất cứ thứ gì bạn muốn. Bạn có thể nắm bắt kiến thức mới, hiểu bản chất, ghi nhớ và ứng bằng cách xây dựng các khối kiến thức cho mình, tạo nên một bức tranh khổng lồ trong não bộ của bạn. Nhưng bên cạnh đó vẫn có thể nắm vững bản chất và ứng dụng vào thực tế. Bạn luôn có thể duy trì trạng thái cao bằng cách chuyển đổi chế độ tư duy. Và ngoài ra, bạn cần phải ghi nhớ rằng tập trung tuyệt đối để loại bỏ trí hoãn, ôn liện lặp lại thường xuyên, tự kiểm tra đặt câu hỏi, có mục tiêu rõ ràng và luyện tập có chú ý khi lên kế hoạch mỗi ngày cho bản thân. bạn sẽ nhận ra một điều rằng, chưa bao giờ học tập lại trở thành một công việc ưu ám
+
+mà thay vào đó nó sẽ trở thành một cuộc phiêu lưu kỳ diệu. Việc không ngừng tiến bộ, khám phá các lĩnh vực mới sẽ khiến cho cuộc đời của bạn thú vị hơn rất rất nhiều. Cảm ơn bạn đã lắng nghe. Nếu bạn cảm thấy video này có ích, hãy chia sẻ tới những người cần nó tặng mình một nút like, nhấn nút đăng ký, mở nút chuông thông báo để đón xem những video mới nhất hàng tuần của mình. Một lần nữa, cảm ơn các bạn và hẹn gặp lại các bạn ở những video tiếp theo.

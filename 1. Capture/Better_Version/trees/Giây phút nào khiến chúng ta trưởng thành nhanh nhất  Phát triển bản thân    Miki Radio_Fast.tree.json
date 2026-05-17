@@ -1,0 +1,67 @@
+{
+  "source_type": "youtube",
+  "word_count": 2002,
+  "estimated_leaf_nodes": 7,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 7 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_mà_như_một_gáo_nước_lạnh_rội_xuống_đầu",
+      "label": "Vậy mà như một gáo nước lạnh rội xuống đầu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "kể_từ_đó_tính_cách_của_nó_thay_đổi_hẳn",
+      "label": "Kể từ đó, tính cách của nó thay đổi hẳn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "nó_không_còn_là_một_đứa_nhút_nhát_như_ngày_nào_nữa",
+      "label": "Nó không còn là một đứa nhút nhát như ngày nào nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "dường_như_là_một_món_đồ_xa_xỉ",
+      "label": "Dường như là một món đồ xa xỉ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "dường_như_là_một_món_đồ_xa_xỉ_item_1",
+          "label": "[Item 1 of Dường như là một món đồ xa xỉ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "dường_như_là_một_món_đồ_xa_xỉ_item_2",
+          "label": "[Item 2 of Dường như là một món đồ xa xỉ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chúng_ta_có_lẽ_sẽ_không_bao_giờ_biết_được_cảm_giác_phiền_muộ",
+      "label": "Chúng ta có lẽ sẽ không bao giờ biết được cảm giác phiền muộn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    }
+  ]
+}

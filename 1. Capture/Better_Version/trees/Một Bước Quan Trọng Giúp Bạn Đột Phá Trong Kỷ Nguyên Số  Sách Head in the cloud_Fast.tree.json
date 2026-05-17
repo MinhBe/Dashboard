@@ -1,0 +1,177 @@
+{
+  "source_type": "youtube",
+  "word_count": 5109,
+  "estimated_leaf_nodes": 24,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 24 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_thời_đại_buông_nổ_chi_thức",
+      "label": "Đây là một thời đại buông nổ chi thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "dù_đó_là_một_lĩnh_vực_hẹp",
+      "label": "Dù đó là một lĩnh vực hẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "hơn_nữa_tính_xác_định_của_chi_thức_đang_dần_mất_đi",
+      "label": "Hơn nữa, tính xác định của chi thức đang dần mất đi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "vậy_thì_hệ_quả_là_gì",
+      "label": "Vậy thì hệ quả là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "tim_tại_sao_là_một_cơ_quan_đặc_biệt",
+      "label": "Tim tại sao là một cơ quan đặc biệt?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "ý_nghĩa_của_ngày_4_tháng_7_là_gì",
+      "label": "Ý nghĩa của ngày 4 tháng 7 là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_nhưng_đây_là_một_lựa_chọn_sai_lầm_do_thiếu_đi_sự_hiểu_bi",
+      "label": "Vậy nhưng đây là một lựa chọn sai lầm do thiếu đi sự hiểu biết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đây_là_một_nghịch_lý_hành_vi",
+      "label": "Đây là một nghịch lý hành vi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "tại_sao_lại_có_sự_trênh_lệch_lớn_như_thế_này",
+      "label": "Tại sao lại có sự trênh lệch lớn như thế này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "đây_là_một_phòng_tròn_tích_cực_của_sự_ham_học_hỏi",
+      "label": "Đây là một phòng tròn tích cực của sự ham học hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_khi_một_người_không_có_đủ_chi_thức_bên_tron",
+      "label": "Điều thứ 2 đó là khi một người không có đủ chi thức bên trong",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "điều_thứ_3_đó_là",
+      "label": "Điều thứ 3 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "carbon_hydrate_là_gì",
+      "label": "Carbon hydrate là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "bởi_vì_nhiều_người_không_hiểu_từ_triceratops_nghĩa_là_gì",
+      "label": "Bởi vì nhiều người không hiểu từ Triceratops nghĩa là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "đây_chỉ_là_một_ví_dụ_trong_vô_số_những_điều",
+      "label": "Đây chỉ là một ví dụ trong vô số những điều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "vậy_cách_cuốn_lõi_để_phá_vỡ",
+      "label": "Vậy cách cuốn lõi để phá vỡ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_thì_khi_là_một_thám_tử_bạn_sẽ_không_bao_giờ_bỏ_qua_những",
+      "label": "Vậy thì khi là một thám tử bạn sẽ không bao giờ bỏ qua những đầu mối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "cân_bằng_âm_dương_là_gì",
+      "label": "Cân bằng âm dương là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "thường_dễ_bị_hiểu_sai_về_mối_cảnh",
+      "label": "thường dễ bị hiểu sai về mối cảnh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "ngoài_ra_bạn_cũng_có_thể_tích_lũy_thêm_đầu_mối_kiến_thức",
+      "label": "Ngoài ra, bạn cũng có thể tích lũy thêm đầu mối kiến thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "phương_pháp_nâng_cao_năng_lực_ngôn_ngữ_một_cách_trực_tiếp_nh",
+      "label": "Phương pháp nâng cao năng lực ngôn ngữ một cách trực tiếp nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "cuối_cùng_sau_tất_cả_nội_dung_cuốn_sách_này_khuyên_nhu",
+      "label": "Cuối cùng, sau tất cả nội dung cuốn sách này khuyên nhu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "vậy_nhưng_tất_cả_đều_chung_một_nguyên_tác",
+      "label": "Vậy nhưng tất cả đều chung một nguyên tác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "phương_pháp_ở_đây_phù_hợp_với_tất_cả_mọi_người",
+      "label": "Phương pháp ở đây phù hợp với tất cả mọi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    }
+  ]
+}

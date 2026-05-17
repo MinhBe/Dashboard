@@ -1,0 +1,51 @@
+{
+  "domain": "book",
+  "bloom_target": "understand",
+  "depth_level": 1,
+  "parent_concept": null,
+  "contradictions": [],
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Better Version",
+    "source_section": "phút 15-25",
+    "trust_level": "EXTRACTED",
+    "flags": [],
+    "argument_flow": "biological systems → two states (Red/Green) → examples → physiological benefits",
+    "core_question": "Sự khác biệt giữa trạng thái Xanh (thích nghi) và trạng thái Đỏ (phản ứng) của não bộ là gì?",
+    "extracted": "Trạng thái xanh tương ứng với chế độ thích nghi. Khi não ở trạng thái này, 3 hệ điều hành của não sẽ hoạt động hài hòa với nhau. Dù cho gặp bất cứ vấn đề gì, bạn vẫn có thể dễ dàng cảm thấy an toàn, hài lòng và gắn kết. Trạng thái đỏ tương ứng với chế độ phản ứng khi đối mặt với điều bất như ý. Ở trạng thái đỏ, não phản ứng thái quá trước các tác nhân tiêu cực làm gia tăng căng thẳng.",
+    "anchor_story": "Sáng đi làm bị xe khác cắt ngang đầu: người ở trạng thái xanh chỉ mỉm cười cho qua, người ở trạng thái đỏ sẽ tức giận rượt theo quát tháo và mang bực dọc đó cả ngày.",
+    "falsifiability": "Nếu các chỉ số sinh hóa (như cortisol so với endorphin) không thay đổi giữa hai cách phản ứng này, thì sự phân chia hai trạng thái sẽ chỉ mang tính lý thuyết suông.",
+    "tiers": {
+      "child": "Hãy tưởng tượng não con có hai cột đèn giao thông. Khi đèn Xanh sáng, con cảm thấy bình an, vui vẻ và muốn kết bạn với mọi người. Khi đèn Đỏ sáng, con thấy lo lắng, tức giận và muốn cãi nhau hoặc bỏ chạy. Chúng ta muốn giữ cho đèn Xanh sáng nhiều hơn.",
+      "student": "Trạng thái Xanh (responsive mode) là khi hệ thống thần kinh phó giao cảm chiếm ưu thế, giúp cơ thể phục hồi và cảm thấy an toàn. Trạng thái Đỏ (reactive mode) kích hoạt hệ thống thần kinh giao cảm và trục HPA, giải phóng cortisol, đưa cơ thể vào chế độ chiến-hay-chạy (fight-or-flight).",
+      "expert": "Trạng thái Xanh tương ứng với 'Responsive Lab' nơi các nhu cầu về an toàn, hài lòng và kết nối được đáp ứng, thúc đẩy sự dẻo dai thần kinh. Trạng thái Đỏ là 'Reactive Mode' do sự kích hoạt quá mức của amygdala, gây ra sự đóng băng các chức năng điều hành của vỏ não tiền trán (prefrontal cortex), làm suy yếu khả năng tư duy logic và thấu cảm."
+    },
+    "misconception_seeds": [
+      "Trạng thái Đỏ là do tính cách nóng nảy — sai vì đây là một chế độ vận hành sinh học của não để đối phó với mối đe dọa.",
+      "Chỉ cần kiềm chế cơn giận là sẽ ở trạng thái Xanh — sai vì trạng thái Xanh là sự bình yên nội tại thực sự, không phải là sự kìm nén cảm xúc tiêu cực."
+    ],
+    "transfer_question": "Nếu một đồng nghiệp vô tình làm đổ cà phê lên tài liệu quan trọng của bạn, phản ứng như thế nào sẽ cho thấy bạn đang ở trạng thái Xanh?",
+    "dig_deeper_questions": {
+      "apply": "Quan sát cơ thể bạn (nhịp tim, hơi thở) khi bạn chuyển từ trạng thái Xanh sang Đỏ.",
+      "analyze": "Phân tích tác động của trạng thái Đỏ kéo dài đối với sức khỏe thể chất (như hệ miễn dịch).",
+      "evaluate": "Đánh giá hiệu quả của việc giải quyết mâu thuẫn khi cả hai bên đều đang ở trạng thái Đỏ.",
+      "create": "Thiết kế một 'bộ sơ cứu tâm lý' để nhanh chóng chuyển từ trạng thái Đỏ về Xanh."
+    },
+    "next_actions": [
+      "Thực hiện bài tập thở sâu khi nhận thấy dấu hiệu của trạng thái Đỏ.",
+      "Ghi chép lại những tác nhân thường xuyên khiến bạn bật 'đèn đỏ'."
+    ],
+    "open_questions": [],
+    "last_reextracted": "2026-05-15"
+  },
+  "learner_state": {
+    "belief_prior": null,
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "consecutive_correct": 0,
+    "hint_fails_total": 0,
+    "needs_restructure": false,
+    "next_review": null,
+    "personal_misconceptions": {}
+  }
+}

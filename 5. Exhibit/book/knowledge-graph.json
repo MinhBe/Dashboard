@@ -1,0 +1,1638 @@
+{
+  "nodes": {
+    "heal_method": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "children": [
+        "have_positive_experience",
+        "enrich_experience",
+        "absorb_experience",
+        "link_to_heal"
+      ],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version",
+        "source_section": "",
+        "trust_level": "INFERRED",
+        "flags": [],
+        "argument_flow": "branch container",
+        "core_question": "Container node",
+        "extracted": "Container node",
+        "anchor_story": "",
+        "falsifiability": "",
+        "tiers": {
+          "child": "",
+          "student": "",
+          "expert": ""
+        },
+        "misconception_seeds": [],
+        "transfer_question": "",
+        "dig_deeper_questions": {
+          "apply": "",
+          "analyze": "",
+          "evaluate": "",
+          "create": ""
+        },
+        "next_actions": [],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": [],
+      "depth_level": 1,
+      "parent_concept": null
+    },
+    "four_deep_work_models": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "children": [
+        "monastic_model",
+        "bimodal_model",
+        "rhythmic_model",
+        "journalist_model"
+      ],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version",
+        "source_section": "",
+        "trust_level": "INFERRED",
+        "flags": [],
+        "argument_flow": "branch container",
+        "core_question": "Container node",
+        "extracted": "Container node",
+        "anchor_story": "",
+        "falsifiability": "",
+        "tiers": {
+          "child": "",
+          "student": "",
+          "expert": ""
+        },
+        "misconception_seeds": [],
+        "transfer_question": "",
+        "dig_deeper_questions": {
+          "apply": "",
+          "analyze": "",
+          "evaluate": "",
+          "create": ""
+        },
+        "next_actions": [],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": [],
+      "depth_level": 1,
+      "parent_concept": null
+    },
+    "negative_bias": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phút 0:00–5:30",
+        "trust_level": "INFERRED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "hook -> problem -> mechanism -> evidence -> implication",
+        "core_question": "Tai sao nao bo uu tien ghi nho dieu tieu cuc hon tich cuc?",
+        "extracted": "Na o bo co thien kien tieu cuc (negativity bias) - tien hoa de uu tien phat hien nguy hiem. Trong 20 su kien mot ngay, 19 dieu tot de bi lang quen, 1 dieu xau duoc ghi nho sau. Co che 'cai xau manh hon cai tot' tung giup to tien song sot nhung ngay nay gay lo au keo dai.",
+        "inferred": "Thien kien nay tung la co che sinh ton nhung trong thoi dai hien nay, no bi kich hoat qua muc boi tin tuc, mang xa hoi va ap luc cong viec, dan den stress man tinh.",
+        "anchor_story": "Vi du: Trong mot ngay co 20 viec, 19 viec troi qua tot dep, chi 1 viec khong hai long - nhung den toi dieu ban nho nhat la viec khong nhu y do.",
+        "falsifiability": "Neu claim 'cai xau luon manh hon cai tot' sai, ta se thay con nguoi ghi nho tich cuc va tieu cuc ngang nhau. Khong tim thay evidence nguoc chieu - day la co che than kinh duoc nghien cuu rong rai.",
+        "tiers": {
+          "child": "Giong nhu ban co mot cai ro, he co dieu xau la ro hung ngay, con dieu tot thi ro bi thuung lo - roi mat.",
+          "student": "Na bo co vung hanh hanh nhan (amygdala) hoat dong nhu he thong bao dong, uu tien xu ly thong tin de doa. Co che nay tung giup to tranh thu du nhung nay khien ta de bi cuon vao tin xau, drama, va chi trich.",
+          "expert": "Negativity bias la evolutionary adaptation nhung trong modern environment voi information overload, no tao chronic HPA axis activation dan den cortisol elevation, impaired immune function. Intervention: deliberate attention training de can bang limbic system response."
+        },
+        "misconception_seeds": [
+          "Thien kien tieu cuc la do ban than yeu duoi - sai, do la co che tien hoa cua moi nguoi",
+          "Cang co gang suy nghi tich cuc thi se het tieu cuc - khong, can tai cau truc mach than kinh chu khong phai phu nhan cam xuc"
+        ],
+        "transfer_question": "Ban la quan ly doi nhom, mot thanh vien mac loi nho. Lam the nao de ap dung hieu biet ve negativity bias de phan hoi ma khong kich hoat phan ung phong thu?",
+        "dig_deeper_questions": {
+          "apply": "Trong tuan nay, hay ghi lai 3 dieu tieu cuc va 3 dieu tich cuc moi ngay - so sanh do chi tiet ban nho ve moi loai.",
+          "analyze": "Phan tich cach negativity bias bieu hien khac nhau trong moi truong lam viec remote vs van phong.",
+          "evaluate": "Danh gia cac chien luoc 'positive thinking' thong thuong - lieu chung co thuc su giai quyet duoc goc re than kinh cua negativity bias khong?",
+          "create": "Thiet ke mot 'training module' 7 ngay giup mot nhom nhan vien nhan dien va can bang negativity bias cua ho."
+        },
+        "next_actions": [
+          "Thu mot ngay 'negativity audit': moi khi co suy nghi tieu cuc, ghi lai va hoi 'no co thuc su de doa minh khong?'",
+          "Tap gratitude journal moi toi - ghi 3 dieu tot da xay ra trong ngay"
+        ],
+        "open_questions": [
+          "Lam the nao de phan biet negativity bias lanh manh (canh giac thuc su) vs benh ly (lo au man tinh)?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "neuroplasticity": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 5:30-7:00",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> mechanism -> example -> implication",
+        "core_question": "Tinh deo than kinh la gi va no hoat dong nhu the nao?",
+        "extracted": "Tinh deo than kinh (neuroplasticity) la kha nang thich ung cua he than kinh. Na bo co vo so neuron ket noi tao thanh mang luoi mach than kinh. Nhung mach duoc su dung thuong xuyen cang manh - neurons that fire together, wire together.",
+        "inferred": "Hebbian learning: Cells that fire together, wire together - day la co che cot loi. Viec luyen tap co chu dich co the thay doi cau truc vat ly cua nao.",
+        "anchor_story": "Vi du: Mot hoc sinh khi nghe 'kiem tra' la thay cang thang - vi mach than kinh da co san duong day dan den lo lang.",
+        "falsifiability": "Neu neuroplasticity sai, viec luyen tap co chu dich se khong tao ra thay do do luong duoc trong cau truc nao. fMRI studies confirm structural changes sau 8 tuan mindfulness practice.",
+        "tiers": {
+          "child": "Nao nhu mot khu vuon - cang di tren loi mon nao, loi do cang ro. Ban co the tao loi mon moi bang cach di nhieu lan.",
+          "student": "Moi khi ban tap trung vao mot suy nghi hoac hanh dong, cac synapse than kinh tuong ung duoc kich hoat va cung co. Day la cach ky nang duoc hinh thanh va thoi quen duoc xay dung.",
+          "expert": "Experience-dependent neuroplasticity hoat dong qua long-term potentiation (LTP). Key critical period ket thuc nhung adult neurogenesis van dien ra o hippocampus. Clinical implication: CBT co the tai cau truc mach than kinh lien quan den depression."
+        },
+        "misconception_seeds": [
+          "Neuroplasticity chi co o tre em - sai, nao nguoi lon van thay doi duoc",
+          "Chi can doc sach la du de thay doi nao bo - khong, can thuc hanh co chu dich va lap lai"
+        ],
+        "transfer_question": "Neu ban muon xay dung thoi quen moi (vd: tap the duc sang), hay giai thich co che than kinh dung sau viec tai sao lap lai co the giup hinh thanh thoi quen do.",
+        "dig_deeper_questions": {
+          "apply": "Chon mot thoi quen muon xay dung - mo ta cach ban se ap dung Hebbian learning de cung co no.",
+          "analyze": "So sanh neuroplasticity o tre em vs nguoi lon - diem khac biet nao co y nghia nhat trong thiet ke chuong trinh hoc?",
+          "evaluate": "Danh gia hieu qua cua cac 'brain training' apps - lieu chung co thuc su tan dung duoc neuroplasticity khong?",
+          "create": "Thiet ke mot lo trinh 30 ngay su dung neuroplasticity de thay doi mot pattern suy nghi tieu cuc cu the."
+        },
+        "next_actions": [
+          "Moi ngay danh 10 phut hoc mot ky nang moi hoan toan - nhu viet tay bang tay khong thuan",
+          "Thu 'attention audit': ghi lai ban danh su chu y vao dau trong 1 ngay"
+        ],
+        "open_questions": [
+          "Nguong 'du lap lai' de tao mach than kinh moi la bao nhieu lan? Co khac nhau giua cac loai ky nang?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "green_red_state": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 7:00-10:10",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "framework -> two states -> example -> health implication",
+        "core_question": "The nao la trang thai xanh (green) va trang thai do (red) cua nao bo?",
+        "extracted": "Na bo co hai trang thai: (1) Xanh - che do thich nghi, 3 he dieu hanh (bo sat, dong vat co vu, linh truong) hoat dong hai hoa, giai phong endorphin va nitric oxide. (2) Do - che do phan ung, nao phan ung thai qua voi tac nhan tieu cuc, gia tang cang thang. 3 nhu cau cot loi: an toan, hai long, ket noi.",
+        "inferred": "Trang thai xanh khong chi la cam giac de chiu - no co tac dong sinh ly: giai phong endorphin va nitric oxide giup tang cuong suc khoe the chat.",
+        "anchor_story": "Vi du: Buoi sang bi xe cat ngang - neu o trang thai xanh ban mim cuong nghi 'chac ho dang voi'; neu o trang thai do ban ruot theo quat thang va mang cam xuc tieu cuc ve nha.",
+        "falsifiability": "Neu claim 'trang thai xanh giup giam nguy co benh tat' sai, cac nghien cuu se khong tim thay moi tuong quan giua stress man tinh va benh tim mach, mien dich. Nhieu nghien cuu y hoc confirm nguoc lai.",
+        "tiers": {
+          "child": "Nao nhu den giao thong. Den xanh: moi thu chay em. Den do: coi inh oi, moi thu tac nghen.",
+          "student": "Ba he dieu hanh nao (bo sat - an toan, dong vat co vu - hai long, linh truong - ket noi) o trang thai xanh hoat dong hai hoa. Ban van gap van de nhung khong bi cuon vao phan ung qua muc.",
+          "expert": "Green state corresponds to parasympathetic dominance (vagal tone), red state to sympathetic activation. Chronic red state -> allostatic load -> impaired immune function. Nitric oxide tu green state co cardioprotective effects."
+        },
+        "misconception_seeds": [
+          "Trang thai xanh la luc nao cung vui ve - sai, van co the gap van de nhung phan ung can bang",
+          "Chi can thien la dat duoc trang thai xanh mai mai - khong, can luyen tap hang ngay"
+        ],
+        "transfer_question": "Ban sap co mot cuoc hop cang thang voi doi tac. Thiet ke mot 'ritual' 5 phut truoc cuoc hop de chuyen nao tu trang thai do sang trang thai xanh.",
+        "dig_deeper_questions": {
+          "apply": "Trong 3 ngay, moi khi nhan ra minh o trang thai do, hay dung lai 30 giay va hit tho sau - ghi lai ket qua.",
+          "analyze": "Phan tich moi quan he giua trang thai do keo dai va cac benh tam the (psychosomatic illness).",
+          "evaluate": "Danh gia cac phuong phap chuyen doi trang thai (thien, exercise, music) - cach nao hieu qua nhat trong moi truong cong so?",
+          "create": "Thiet ke mot 'mood dashboard' cho ban than - 5 tin hieu som nhan biet ban dang roi vao trang thai do va 3 chien luoc can thiep."
+        },
+        "next_actions": [
+          "Moi sang thuc day, danh 2 phut set intention: 'hom nay minh muon o trang thai nao?'",
+          "Khi thay minh o trang thai do, dung lai uong mot ngung nuoc va hit tho 3 lan"
+        ],
+        "open_questions": [
+          "Lam the nao de duy tri trang thai xanh khi dang o trong moi truong doc hai?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "have_positive_experience": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "heal_method",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 10:15-14:38",
+        "trust_level": "INFERRED",
+        "flags": [
+          "PERSONAL EXPERIENCE"
+        ],
+        "argument_flow": "concept -> method -> examples -> caution",
+        "core_question": "Lam the nao de tao ra trai nghiem tich cuc (buoc Have trong HEAL)?",
+        "extracted": "Buoc Have - co duoc trai nghiem tich cuc: chu dong de tam den dieu tich cuc xung quanh. Gom: (1) Chu y den ve dep hang ngay, (2) Thuc hanh long biet on tu dieu nho, (3) Hanh dong tu te moi ngay, (4) Coi cuoc song nhu co hoi. Quan trong: khong co nam giu hay ep buoc - hanh phuc den tu cam giac thich thu.",
+        "inferred": "Phan biet 'thich' (enjoyment) vs 'muon' (craving) - khi ban bien dieu thich thanh dieu muon, ap luc xuat hien va hanh phuc bien mat.",
+        "anchor_story": "Vi du chiec tui: Ban thay tui dep - cam giac thich thuan tuy. Nhung neu dat nang 'phai so huu bang moi gia', niem vui bien mat. Cau chuyen: Long biet on voi chiec laptop.",
+        "falsifiability": "Neu 'chu y den dieu tich cuc' la du, vay thi ai cung co the hanh phuc chi bang cach nhin. Evidence chi ra can ket hop chu y + keo dai + cam nhan sau.",
+        "tiers": {
+          "child": "Giong nhu ban dang choi tro tim kho bau - cang chu y, cang thay nhieu dieu dep de an giau quanh minh.",
+          "student": "Tao trai nghiem tich cuc doi hoi su chu dong: thay vi de nao tu dong focus vao tieu cuc, ban intentionally chuyen huong attention den dieu tot.",
+          "expert": "This leverages attention-mediated neuroplasticity. Key nuance: distinction between 'liking' (opioid-driven) vs 'wanting' (dopamine-driven). Have step targets the liking system to build contentment."
+        },
+        "misconception_seeds": [
+          "Can phai co nhieu tien moi co trai nghiem tich cuc - sai, nhung dieu nho nhot hang ngay cung du",
+          "Phai luon tich cuc, khong duoc co cam xuc tieu cuc - sai, muc tieu la can bang chu khong phai phu nhan"
+        ],
+        "transfer_question": "Ban dang trong mot ngay toi te. Ap dung buoc Have, ban se lam gi trong 5 phut toi de tao ra mot trai nghiem tich cuc nho?",
+        "dig_deeper_questions": {
+          "apply": "Moi ngay danh 2 phut buoi sang ghi 1 dieu nho ban biet on - lam trong 7 ngay lien tuc.",
+          "analyze": "So sanh 'have' step voi mindfulness practice - diem nao chong lan, diem nao khac biet?",
+          "evaluate": "Danh gia: lieu 'biet on do vat' (nhu laptop) co thuc su hieu qua hay chi la tu ky am thi?",
+          "create": "Thiet ke mot 'daily joy menu' - 10 trai nghiem tich cuc nho (moi trai nghiem duoi 2 phut)."
+        },
+        "next_actions": [
+          "Hom nay lam 1 hanh dong tu te ngau nhien va cam nhan cam xuc",
+          "Thu 'STOP' technique: dung lai, hit tho, quan sat, tiep tuc voi su de tam hon"
+        ],
+        "open_questions": [
+          "Lam the nao de duy tri thuc hanh nay khi dang o trong giai doan khung hoang?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "enrich_experience": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "heal_method",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 14:38-17:37",
+        "trust_level": "INFERRED",
+        "flags": [
+          "PERSONAL EXPERIENCE"
+        ],
+        "argument_flow": "concept -> sub-steps (prolong/intensify/multi-sensory/novelty)",
+        "core_question": "Lam the nao de lam phong phu mot trai nghiem tich cuc (buoc Enrich trong HEAL)?",
+        "extracted": "Buoc Enrich: (1) Keo dai trai nghiem - moi lan 10-30 giay, lap lai 5-10 lan. (2) Tang cuong do cam nhan - nhin sau (vd: uong nuoc chanh va thay ca hanh trinh tu vuon den ly). (3) Danh thuc da giac quan. (4) Duy tri tinh hieu ky, kham pha su moi la.",
+        "inferred": "Ky thuat 'nhin sau' (nhin mot coc nuoc chanh va thay nang, dat, mua, nguoi nong dan) la mot phuong phap manh de chuyen trai nghiem tu be mat thanh sau sac.",
+        "anchor_story": "Tac gia chia se kinh nghiem: moi tuan danh 3 buoi di bo trong thien nhien, cham vao vo cay, coi giay de chan tran cam nhan dat.",
+        "falsifiability": "Neu 'keo dai trai nghiem 10-30 giay' khong can thiet, thi viec luot qua nhanh cung du de tao an tuong lau dai. Evidence tu memory consolidation research cho thay duration of attention anh huong truc tiep den neural encoding strength.",
+        "tiers": {
+          "child": "Giong nhu an mot vien keo - neu nhai nuot voi, ban chang nho vi. Nhung neu ngam tu tu, cam nhan tung lop vi - ban se nho mai.",
+          "student": "Enrich step la qua trinh chuyen working memory thanh long-term memory bang cach keo dai attention, tang sensory richness, va ket noi voi positive affect.",
+          "expert": "Duration of attentional focus correlates with LTP magnitude. Multi-sensory engagement recruits more neural real estate -> stronger encoding. Novelty detection -> hippocampal neurogenesis via BDNF."
+        },
+        "misconception_seeds": [
+          "Chi can nghi den dieu tot la du - khong, can keo dai va lam phong phu bang nhieu giac quan",
+          "Phai thien moi lam duoc dieu nay - khong, co the lam ngay khi uong ca phe, di bo"
+        ],
+        "transfer_question": "Ban dang uong tach tra sang. Ap dung buoc Enrich, mo ta chi tiet cach ban se trai nghiem tach tra nay trong 2 phut.",
+        "dig_deeper_questions": {
+          "apply": "Hom nay khi an, hay an cham lai - dung 5 giac quan de cam nhan mon an trong it nhat 2 phut.",
+          "analyze": "Phan tich vai tro cua multi-sensory engagement trong memory formation - tai sao enrich step lai quan trong?",
+          "evaluate": "So sanh 'enrich' voi 'mindful eating' - phuong phap nao hieu qua hon?",
+          "create": "Thiet ke mot 'sensory walk' 15 phut - 5 tram, moi tram kich hoat mot giac quan khac nhau."
+        },
+        "next_actions": [
+          "Moi ngay chon mot hoat dong thuong nhat (uong nuoc, rua mat, di bo) va thuc hanh nhin sau",
+          "Thu '5 senses check-in' - dung lai, cam nhan 1 dieu ban thay, nghe, ngui, cham, nem"
+        ],
+        "open_questions": [
+          "Lam the nao de enrich experience khi dang voi hoac da nhiem?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "absorb_experience": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "heal_method",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 17:37-19:45",
+        "trust_level": "INFERRED",
+        "flags": [
+          "ANECDOTAL"
+        ],
+        "argument_flow": "concept -> metaphor -> story -> self-check",
+        "core_question": "Lam the nao de hap thu trai nghiem tich cuc vao con nguoi minh (buoc Absorb trong HEAL)?",
+        "extracted": "Buoc Absorb: De cam giac tich cuc tham vao nguoi nhu anh nang tham vao da. Hap thu su binh yen, man nguyen va tinh yeu tu trai nghiem. Dau hieu da hap thu thanh cong: ban thuc su tro nen biet on hon, manh me hon.",
+        "inferred": "Hap thu khong phai la nghi ve dieu tot - ma la de no tham thau, tro thanh mot phan cua ban.",
+        "anchor_story": "Chuyen co gai va chu meo bi benh nang: thay vi gao khoc, co om meo vao long, nho lai tung khoanh khac tuoi dep - tinh yeu thuong giup co noi loi tam biet trong binh yen.",
+        "falsifiability": "Neu absorb khong tao ra thay doi, nguoi thuc hanh HEAL se khong co su khac biet trong phan ung cam xuc sau nhieu lan thuc hanh.",
+        "tiers": {
+          "child": "Giong nhu khi troi lanh, ban om coc tra nong - khong chi cam, ma de hoi am tham vao tay, vao nguoi.",
+          "student": "Absorb la qua trinh chuyen positive experience tu episodic buffer thanh semantic memory - khong chi 'biet' ma 'tro thanh'. Lien quan den self-schema modification.",
+          "expert": "This is self-directed neuroplasticity targeting default mode network. Absorb facilitates consolidation of positive self-representations. Clinical application: PTSD treatment via rescripting."
+        },
+        "misconception_seeds": [
+          "Hap thu = suy nghi tich cuc - sai, suy nghi chi la buoc dau, hap thu la de cam xuc tham vao co the",
+          "Hap thu mot lan la du - khong, can lap lai de tao mach than kinh moi"
+        ],
+        "transfer_question": "Ban vua nhan duoc mot loi khen chan thanh. Thay vi lo di, hay mo ta cac buoc ban se lam de hap thu trai nghiem tich cuc nay.",
+        "dig_deeper_questions": {
+          "apply": "Sau moi trai nghiem tich cuc hom nay, dung lai 20 giay - nham mat, de cam giac tham vao co the.",
+          "analyze": "Phan tich su khac biet giua 'experiencing pleasure' va 'absorbing nourishment' - tai sao cai sau moi tao thay doi lau dai?",
+          "evaluate": "Danh gia absorb step so voi cac phuong phap chua lanh khac (journaling, therapy, meditation).",
+          "create": "Thiet ke mot 'absorption ritual' 3 phut cuoi moi ngay - hap thu nhung dieu tot dep nhat trong ngay."
+        },
+        "next_actions": [
+          "Cuoi moi ngay, danh 3 phut: nham mat, on lai 1 khoanh khac dep va de cam giac tham vao nguoi",
+          "Khi ai do khen ban, thay vi noi 'khong co gi', hay dung lai, cam on va cam nhan"
+        ],
+        "open_questions": [
+          "Lam the nao de hap thu khi dang trong giai doan dau buon - co nen ep minh hap thu tich cuc khong?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "link_to_heal": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "heal_method",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version — Hardwiring Happiness",
+        "source_section": "phut 19:45-22:00",
+        "trust_level": "INFERRED",
+        "flags": [
+          "ANECDOTAL"
+        ],
+        "argument_flow": "metaphor -> mechanism -> example -> caution",
+        "core_question": "Lam the nao de dung trai nghiem tich cuc chua lanh ky uc tieu cuc (buoc Link trong HEAL)?",
+        "extracted": "Buoc Link: Dung trai nghiem tich cuc de thay the va tai cau truc vung ky uc tieu cuc. Khong nho bo co dai - ma trong hoa moi ben canh. Canh bao: chi lam buoc nay khi noi tam da du vung vang.",
+        "inferred": "Thay vi 'chien dau hay bo chay' voi ky uc dau buon, hoc cach mang anh sang moi vao - nhung can su vung vang.",
+        "anchor_story": "Nguoi dan ong bi me bo roi: thay vi mai giam minh trong ky uc dau, anh ket noi noi dau voi hinh anh mat ho tinh lang. Moi lan ky uc cu hien len, no mang theo cam giac nhe nhang.",
+        "falsifiability": "Neu 'link' khong hieu qua, nguoi thuc hanh se khong thay giam cuong do cam xuc tieu cuc khi nho lai ky uc. Memory reconsolidation research cho thay ky uc co the duoc cap nhat khi truy xuat voi positive valence.",
+        "tiers": {
+          "child": "Giong nhu mot vet xuoc tren ban - thay vi co tay, ban ve mot bong hoa len do. Vet xuoc van con nhung gio no la mot phan cua buc tranh dep.",
+          "student": "Link su dung memory reconsolidation: khi ky uc duoc truy xuat (reactivated), no o trang thai labile va co the duoc cap nhat voi thong tin moi.",
+          "expert": "This is memory reconsolidation intervention. Requires: (1) activation of old memory, (2) simultaneous activation of new positive experience, (3) sufficient positive valence to compete. Clinical caution: insufficient positive resource -> re-traumatization."
+        },
+        "misconception_seeds": [
+          "Link = quen di qua khu - sai, la tai cau truc chu khong phai xoa bo",
+          "Ai cung co the tu lam buoc nay - khong, can noi luc du manh hoac co therapist dong hanh"
+        ],
+        "transfer_question": "Ban co mot ky uc khong vui ve mot lan that bai trong cong viec. Thiet ke mot 'link practice' - chon mot hinh anh/cam giac tich cuc va mo ta cach ban ket noi no voi ky uc do.",
+        "dig_deeper_questions": {
+          "apply": "Chon mot ky uc nhe (khong qua dau) - moi khi no xuat hien, ket noi voi mot cam giac binh yen ban da hap thu truoc do.",
+          "analyze": "Phan tich vai tro cua timing trong memory reconsolidation - tai sao Link can positive resource du manh?",
+          "evaluate": "So sanh Link step voi EMDR therapy - diem tuong dong va khac biet.",
+          "create": "Thiet ke mot 'resource-building protocol' 2 tuan de chuan bi noi luc truoc khi bat dau Link step."
+        },
+        "next_actions": [
+          "Xac dinh 1 ky uc nhe co the lam Link - chuan bi 1 positive image/resource manh",
+          "Neu cam thay qua suc, dung lai va tim therapist"
+        ],
+        "open_questions": [
+          "Lam the nao de biet khi nao noi luc da du manh de bat dau Link step?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "deep_work_definition": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 1:31-1:47",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> contrast -> implication",
+        "core_question": "Deep Work la gi?",
+        "extracted": "Deep Work la tap trung hoan toan vao cong viec trong trang thai khong bi can thiep, de kha nang dat gia tri cao nhat. Phuong phap nay giup tao ra gia tri moi, cai thien ky nang va co nang luc kho bi sao chep.",
+        "inferred": "Day la nang luc cot loi trong nen kinh te tri thuc - nhung nguoi lam chu duoc Deep Work se thuoc nhom thanh cong nhat.",
+        "anchor_story": "Tac gia Cal Newport: tot nghiep MIT, pho giao su Georgetown o tuoi 35, chi 39 tuoi da dat nhieu thanh tuu nho deep work.",
+        "falsifiability": "Neu deep work khong hieu qua, nhung nguoi thuc hanh no se khong dat nang suat cao hon nguoi lam viec binh thuong. Newport va nhieu knowledge worker thanh cong attest nguoc lai.",
+        "tiers": {
+          "child": "Giong nhu ban deo tai nghe chong on va chi tap trung ve mot buc tranh - khong ai, khong gi lam phien duoc ban.",
+          "student": "Deep Work la trang thai tap trung cao do khong gian doan. Trai nguoc voi da nhiem, deep work doi hoi su chu y don kenh, lien tuc trong thoi gian dai.",
+          "expert": "Deep work leverages attentional residue theory: each task switch leaves residual attention, reducing cognitive capacity. Deep work minimizes switch cost by protecting attention block."
+        },
+        "misconception_seeds": [
+          "Deep Work = lam viec cham chi - sai, deep work la lam viec tap trung co chu dich",
+          "Lam viec trong van phong mo la deep work - sai, can loai bo hoan toan interruption"
+        ],
+        "transfer_question": "Ban co 3 gio de hoan thanh mot bao cao phan tich phuc tap. Mo ta moi truong va quy trinh ban se tao ra de dat deep work.",
+        "dig_deeper_questions": {
+          "apply": "Ngay mai, chon 1 task quan trong nhat - danh 90 phut dau tien chi lam task do, tat moi notification.",
+          "analyze": "Phan biet deep work voi flow -> diem nao khac, diem nao chong lan?",
+          "evaluate": "Danh gia cac moi truong lam viec pho bien (open office, WFH, coworking) - moi truong nao support deep work nhat?",
+          "create": "Thiet ke mot 'deep work protocol' gom environmental setup, time block structure, va recovery routine."
+        },
+        "next_actions": [
+          "Ngay mai chon 90 phut deep work dau tien trong ngay",
+          "Identify top 3 distraction sources va tim cach loai bo"
+        ],
+        "open_questions": [
+          "Lam the nao de deep work trong cong viec doi hoi phan hoi nhanh?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "shallow_work_contrast": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 1:47-2:00",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> contrast -> consequence",
+        "core_question": "Shallow Work la gi va tai sao no nguy hiem?",
+        "extracted": "Shallow Work la nhung cong viec khong yeu cau cao ve tri oc, lap di lap lai, thuong duoc trien khai trong moi truong bi lam phien, khong tao duoc gia tri moi cho the gioi.",
+        "inferred": "Shallow work tao ao giai ve nang suat - ban cam thay ban ron nhung khong thuc su tao ra gia tri.",
+        "anchor_story": "Mo ta dien hinh: mot ngay lam viec voi cac cuoc goi lien tuc, dong nghiep den hoi chuyen, hop hanh - cuoi ngay ban nhan ra minh chua lam duoc gi.",
+        "falsifiability": "Neu shallow work cung tao ra gia tri tuong duong, cac cong ty se khong can tuyen chuyen gia. Thuc te nhung nguoi lam chu deep work co income premium dang ke.",
+        "tiers": {
+          "child": "Giong nhu don dep ban lam viec ca ngay - trong co ve ban nhung khong ve duoc buc tranh nao.",
+          "student": "Shallow work tao cam giac productivity nhung thuc chat la busywork. Khong yeu cau cognitive effort cao, khong xay dung ky nang moi.",
+          "expert": "Shallow work correlates with low leverage activities. Trong knowledge economy, marginal value of shallow work approaches zero due to automation and commoditization."
+        },
+        "misconception_seeds": [
+          "Shallow work cung co gia tri nhu deep work - sai, shallow work khong tao gia tri moi",
+          "Lam viec nhieu gio bu lai shallow work - khong, nao co gioi han nang luong"
+        ],
+        "transfer_question": "Phan tich cong viec hien tai cua ban: xep hang cac task tu deep nhat den shallow nhat. Chon 1 shallow task de loai bo hoac giam thieu.",
+        "dig_deeper_questions": {
+          "apply": "Tuan nay, track tung gio - phan loai deep vs shallow. Muc tieu: deep >= 50%.",
+          "analyze": "Tai sao organizations co xu huong tao ra nhieu shallow work hon muc can thiet?",
+          "evaluate": "Danh gia: lieu mot ngay lam viec voi 100% deep work co kha thi khong? Trade-offs la gi?",
+          "create": "Thiet ke 'shallow work budget' - 1 ngay chi cho phep toi da 2 gio shallow work."
+        },
+        "next_actions": [
+          "Track 1 ngay - ghi lai moi task la deep or shallow",
+          "Reduce 1 meeting/tuan de co them deep work time"
+        ],
+        "open_questions": [
+          "Shallow work co bao gio necessary khong? Lam sao phan biet necessary admin vs pure busywork?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "myelin_hypothesis": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 2:00-2:30",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "study reference -> mechanism -> implication",
+        "core_question": "Co che myelin ho tro deep work nhu the nao?",
+        "extracted": "Khi luyen tap lap di lap lai co chu dich, nao tiet ra nhieu myelin hon - giup ket noi than kinh manh hon. Neu thuong xuyen lam shallow work, luong myelin giam va kha nang ket noi nao bo cung giam.",
+        "inferred": "Myelin la chat cach dien bao boc soi truc than kinh - cang day, tin hieu than kinh truyen cang nhanh va chinh xac.",
+        "anchor_story": "Nghien cuu tu cuon 'Peak: Secrets from the New Science of Expertise' ve deliberate practice.",
+        "falsifiability": "Neu myelin hypothesis sai, deliberate practice se khong tao ra khac biet trong toc do va do chinh xac cua ky nang. Hang loat studies on expert performance confirm moi quan he nay.",
+        "tiers": {
+          "child": "Giong nhu day dien - myelin la lop vo boc. Cang day, dong dien chay cang nhanh, cang it ro ri.",
+          "student": "Myelin la chat cach dien myelin hoa soi truc neuron. Khi ban lap lai mot ky nang, myelin sheath day len, tang toc do truyen tin hieu than kinh len den 100 lan.",
+          "expert": "Myelination is experience-dependent glial process. Oligodendrocytes wrap axons in response to neural activity. Key for skill acquisition: myelin increases signal fidelity and reduces latency."
+        },
+        "misconception_seeds": [
+          "Tai nang la bam sinh, khong the thay doi - myelin hypothesis cho thay deliberate practice co the thay doi cau truc nao",
+          "Chi can lap lai la du - can deliberate practice co chu dich, khong chi repetition"
+        ],
+        "transfer_question": "Ban muon gioi mot ky nang moi (choi dan, code, noi truoc dam dong). Ap dung myelin hypothesis, thiet ke mot practice routine 30 phut/ngay.",
+        "dig_deeper_questions": {
+          "apply": "Chon 1 ky nang va deliberate practice 25 phut moi ngay trong 30 ngay - ghi lai su tien bo.",
+          "analyze": "Phan tich moi quan he giua myelin va skill acquisition - tai sao quality of practice quan trong hon quantity?",
+          "evaluate": "So sanh '10,000-hour rule' voi myelin hypothesis - co nhat thiet 10,000 gio khong?",
+          "create": "Thiet ke mot 'deliberate practice template' cho bat ky ky nang nao."
+        },
+        "next_actions": [
+          "Xac dinh 1 sub-skill de deliberate practice trong tuan nay",
+          "Ghi lai 'that bai' trong practice - do la dau hieu myelin dang duoc xay dung"
+        ],
+        "open_questions": [
+          "Lam the nao de biet khi nao da dat du myelin cho mot ky nang?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "why_deep_work_matters": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 2:33-3:35",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "economic context -> 3 groups -> 2 core abilities",
+        "core_question": "Tai sao Deep Work quan trong trong nen kinh te hien dai?",
+        "extracted": "3 kieu nguoi thanh cong: (1) Ky thuat cao cap - lam viec voi may moc thong minh, (2) Superstar - nang luc vuot troi trong nganh, (3) Nha tu ban - co tien dau tu. Deep Work mang lai 2 nang luc cot loi: (a) lam chu cong cu phuc tap, (b) nang cao chat luong cong viec.",
+        "inferred": "Thi truong lao dong dang phan cuc - nguoi co deep work skills ngay cang gia tri, nguoi chi lam shallow work bi thay the boi automation.",
+        "anchor_story": "Dan chung tu tac gia: 3 nhom nguoi se thinh vuong nhat trong nen kinh te moi.",
+        "falsifiability": "Neu deep work khong lien quan den thanh cong, thi nhung nguoi khong bao gio thuc hanh deep work van co the dat dinh cao su nghiep. Khao sat ve high performers cho thay deep work la common denominator.",
+        "tiers": {
+          "child": "Giong nhu trong tro choi dien tu - co nhung ky nang dac biet giup ban duoc nhieu diem hon. Deep Work la ky nang do trong cong viec.",
+          "student": "Nen kinh te tri thuc dang phan hoa: nguoi co kha nang xu ly thong tin phuc tap ngay cang duoc tra cao, nguoi chi lam task don gian bi automation thay the.",
+          "expert": "Winner-take-most dynamics in knowledge economy: deep work creates leverage. Superstar effect: small differences in ability -> large differences in reward when work is scalable."
+        },
+        "misconception_seeds": [
+          "Deep work chi danh cho dan cong nghe - khong, bat ky nganh nao cung can deep work",
+          "Chi can thong minh la du, khong can deep work - thong minh khong thay the duoc kha nang tap trung"
+        ],
+        "transfer_question": "Ban dang o nganh nghe nao do. Phan tich: 5 nam toi, ky nang deep work trong nganh ban se quyet dinh thanh cong nhu the nao?",
+        "dig_deeper_questions": {
+          "apply": "Viet ra 3 cach deep work co the giup ban advancement trong career hien tai.",
+          "analyze": "Phan tich tai sao automation khong the thay the deep work?",
+          "evaluate": "Danh gia cac emerging careers - nganh nao deep work se la competitive advantage lon nhat?",
+          "create": "Thiet ke 'Deep Work Career Plan' - roadmap 1 nam de xay dung deep work nhu competitive advantage."
+        },
+        "next_actions": [
+          "Xac dinh 1 skill deep trong nganh cua ban de phat trien trong 3 thang toi",
+          "Giam 50% thoi gian social media de tap trung vao deep work"
+        ],
+        "open_questions": [
+          "Deep work co con quan trong trong ky nguyen AI khong, khi AI co the xu ly cognitive tasks?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "flow_and_happiness": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 3:42-5:10",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "claim -> evidence (Csikszentmihalyi) -> example -> insight",
+        "core_question": "Deep Work lien quan den hanh phuc nhu the nao?",
+        "extracted": "Deep Work giup nang cao muc do hai long voi cuoc song. Flow (dong chay) - trang thai tam tri hoan toan tap trung va dam chim - la yeu to thuc su tao hanh phuc, khong phai tien bac.",
+        "inferred": "Tien bac giup giam dau kho khi thieu thon, nhung khi da co du, tien khong con tuong quan voi hanh phuc. Flow moi la yeu to quyet dinh.",
+        "anchor_story": "Vi du tuong phan: Buoi chieu tan lam - hom lam viec vat van: ve nha trong rong. Hom lam viec thu thach va tap trung: ve nha vui ve, man nguyen.",
+        "falsifiability": "Neu flow khong lien quan den hanh phuc, nguoi thuong xuyen vao flow se khong bao cao muc well-being cao hon. Experience Sampling Method studies cua Csikszentmihalyi confirm moi tuong quan manh.",
+        "tiers": {
+          "child": "Giong nhu choi mot game vua thu thach vua thu vi - ban quen mat thoi gian, quen met moi, chi tap trung choi.",
+          "student": "Flow xuat hien khi ky nang cua ban vua du de dap ung thu thach. Qua de -> chan. Qua kho -> lo au. Deep work tao dieu kien cho flow.",
+          "expert": "Flow state involves transient hypofrontality - prefrontal cortex temporarily reduces activity, quieting self-critical inner voice. This produces both enjoyment and peak performance."
+        },
+        "misconception_seeds": [
+          "Hanh phuc = co nhieu tien - nghien cuu cho thay flow quan trong hon tien bac",
+          "Flow chi den tu giai tri - khong, flow den tu thu thach y nghia"
+        ],
+        "transfer_question": "Thiet ke lai mot task thuong ngay cua ban (co the nham chan) de no co the tao ra flow.",
+        "dig_deeper_questions": {
+          "apply": "Ngay mai, track muc do flow moi gio - nhan dien dieu kien nao giup ban vao flow.",
+          "analyze": "Phan tich moi quan he giua deep work va flow - diem nao deep work la dieu kien cho flow?",
+          "evaluate": "Danh gia: lieu co the hanh phuc ma khong can flow?",
+          "create": "Thiet ke mot 'flow recipe' - 5 yeu to can co de vao flow trong cong viec cua ban."
+        },
+        "next_actions": [
+          "Xac dinh 1 hoat dong thuong xuyen cho ban flow va tang tan suat cua no",
+          "Giam passive consumption (social media, Netflix) - tang active creation"
+        ],
+        "open_questions": [
+          "Co su khac biet nao giua flow trong deep work va flow trong giai tri (game) khong?"
+        ],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "monastic_model": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "four_deep_work_models",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 5:17-5:42",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> who it suits -> example",
+        "core_question": "Monastic Model la gi va phu hop voi ai?",
+        "extracted": "Monastic Model: ru bo moi cam do, giong nhu nha thien su - hoan toan khong su dung dien thoai, song don gian. Phu hop voi nha van, nha toan hoc, nguoi can sang tao va suy nghi sau.",
+        "inferred": "Mo hinh triet de nhat - loai bo hoan toan moi shallow obligation.",
+        "anchor_story": "Cal Newport lay vi du tu Donald Knuth - nha toan hoc khong dung email tu 1990.",
+        "falsifiability": "Neu monastic model khong can thiet, cac practitioner thanh cong van co the dat peak productivity voi distractions.",
+        "tiers": {
+          "child": "Giong nhu vao phong rieng, khoa cua, chi lam mot viec duy nhat. Khong ai duoc go cua.",
+          "student": "Monastic model yeu cau thiet ke cuoc song quanh deep work: loai bo meetings, emails, social commitments.",
+          "expert": "Optimal for high-leverage independent work (writing, math, coding). Trade-off: loss of social capital and career mobility."
+        },
+        "misconception_seeds": [
+          "Monastic = khong giao tiep voi ai - chi la khong giao tiep trong work sessions",
+          "Ap dung duoc cho moi nguoi - chi phu hop neu cong viec co high independence"
+        ],
+        "transfer_question": "Ban la freelance writer voi 3 du an sach dang chay. Thiet ke schedule 1 tuan theo monastic model.",
+        "dig_deeper_questions": {
+          "apply": "Thu 1 buoi sang monastic: tat phone, dong email, chi lam 1 task quan trong.",
+          "analyze": "So sanh monastic vs rhythmic model - trade-offs moi model.",
+          "evaluate": "Monastic model co trade-off gi voi career growth trong moi truong can networking?",
+          "create": "Thiet ke 'monastic retreat' 1 ngay moi tuan."
+        },
+        "next_actions": [
+          "Thu 1 buoi monastic trong tuan nay",
+          "List 3 shallow commitments co the loai bo"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "bimodal_model": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "four_deep_work_models",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 5:45-5:51",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> structure",
+        "core_question": "Bimodal Model hoat dong nhu the nao?",
+        "extracted": "Bimodal Model: chia thoi gian thanh hai phan ro rang - mot nua danh cho deep work, mot nua cho cac cong viec khac.",
+        "inferred": "Mo hinh nay linh hoat hon monastic - khong can loai bo hoan toan shallow work, chi can tach biet thoi gian.",
+        "anchor_story": "Vi du: 2 tuan deep work, 2 tuan normal work. Hoac nua ngay deep, nua ngay shallow.",
+        "falsifiability": "Neu bimodal khong hieu qua, nguoi dung se khong dat duoc depth o phase deep work vi biet sap co phase khac.",
+        "tiers": {
+          "child": "Giong nhu di hoc - gio hoc thi hoc, gio choi thi choi. Ro rang, khong lan.",
+          "student": "Bimodal model tao clear boundary giua deep va shallow. Trong deep phase, rules cua monastic model duoc ap dung.",
+          "expert": "Best for roles requiring both deep and collaborative work. Key success factor: clear phase boundaries. Risk: shallow phase contamination."
+        },
+        "misconception_seeds": [
+          "Bimodal = lam viec binh thuong nhung co scheduling - khong, can boundary ro rang",
+          "Bimodal de hon monastic - dung, nhung risk shallow contamination"
+        ],
+        "transfer_question": "Ban lam project manager nhung can code prototype. Thiet ke bimodal schedule.",
+        "dig_deeper_questions": {
+          "apply": "Thu 1 ngay: sang deep work, chieu meetings va shallow tasks.",
+          "analyze": "Khi nao nen chon bimodal vs monastic?",
+          "evaluate": "Bimodal model co phu hop voi startup environment khong?",
+          "create": "Thiet ke monthly bimodal plan - deep weeks vs collaboration weeks."
+        },
+        "next_actions": [
+          "Xac dinh clear start/end time cho deep phase ngay mai",
+          "Tao 'transition ritual' giua deep va shallow phase"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "rhythmic_model": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "four_deep_work_models",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 5:54-6:06",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> example",
+        "core_question": "Rhythmic Model la gi va ap dung nhu the nao?",
+        "extracted": "Rhythmic Model: ren luyen deep work thanh thoi quen hang ngay. Vi du: sang 6-7h doc sach, toi 2 tieng hoc quan ly tai chinh. Bien deep work thanh nhap dieu deu dan.",
+        "inferred": "Phu hop voi nguoi can consistency hon intensity - nhung ngay ban khong cam thay hung thu, thoi quen van giu ban di dung huong.",
+        "anchor_story": "Vi du: moi sang 6-7h la deep work - sau 30 ngay thanh thoi quen tu dong.",
+        "falsifiability": "Neu rhythmic model khong hieu qua, habit formation research se khong show advantage of consistent timing.",
+        "tiers": {
+          "child": "Giong nhu danh rang - khong can suy nghi, cu den gio la lam.",
+          "student": "Rhythmic model leverage habit formation: cues + routine + reward. Bang cach schedule cung mot thoi gian moi ngay, ban giam willpower depletion.",
+          "expert": "Best for long-term skill building. Advantage: low cognitive overhead. Disadvantage: limited intensity. Works well with chain method."
+        },
+        "misconception_seeds": [
+          "Rhythmic = lam viec nhieu gio - khong, la consistency, khong phai duration",
+          "Chi can co thoi quen la du - can deliberate practice, khong chi repetition"
+        ],
+        "transfer_question": "Ban muon hoc mot ngon ngu moi. Thiet ke 90-day rhythmic schedule.",
+        "dig_deeper_questions": {
+          "apply": "Chon 1 time slot co dinh moi ngay cho deep work - bat dau ngay mai.",
+          "analyze": "Phan tich science of habit formation - tai sao rhythmic model hieu qua?",
+          "evaluate": "So sanh rhythmic chain method vs calendar blocking.",
+          "create": "Thiet ke 30-day deep work habit builder."
+        },
+        "next_actions": [
+          "Dat 1 time slot co dinh cho deep work - khong doi bat ke chuyen gi",
+          "Dung chain method de track consistency"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "journalist_model": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 2,
+      "parent_concept": "four_deep_work_models",
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 6:07-6:23",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "definition -> who it suits",
+        "core_question": "Journalist Model phu hop voi ai?",
+        "extracted": "Journalist Model: bat cu thoi gian nao, o bat cu dau, ban deu co the lap tuc tap trung - nhu phong vien viet bai tren tau xe giua moi truong hon loan.",
+        "inferred": "Day la model kho nhat - yeu cau kha nang chuyen doi sang deep work gan nhu tuc thoi.",
+        "anchor_story": "Phu hop voi nguoi co lich khong predictable: journalist, consultant, entrepreneur.",
+        "falsifiability": "Neu model nay khong feasible, nguoi co lich bien dong se khong the thuc hanh deep work.",
+        "tiers": {
+          "child": "Giong nhu ban co the ngu bat cu dau - tren xe, ghe da, san nha. Can luyen tap.",
+          "student": "Journalist model yeu cau attentional agility - kha nang nhanh chong dat cognitive depth du moi truong khong ly tuong.",
+          "expert": "Highest cognitive demand model. Requires strong attentional control. Risk: shallow depth if practiced without sufficient skill."
+        },
+        "misconception_seeds": [
+          "Ai cung co the dung journalist model ngay - khong, can luyen tap",
+          "Journalist = khong can moi truong tot - dung, nhung chat luong deep work se thap hon"
+        ],
+        "transfer_question": "Ban co lich hop day dac khong the doan truoc. Thiet ke 'emergency deep work protocol' 15 phut.",
+        "dig_deeper_questions": {
+          "apply": "Tap 'instant focus' - dung moi viec, dat timer 5 phut, tap trung toi da.",
+          "analyze": "So sanh journalist model voi cac model khac.",
+          "evaluate": "Danh gia: journalist model co thuc su dat depth nhu monastic khong?",
+          "create": "Thiet ke 4-week training program cho journalist model skills."
+        },
+        "next_actions": [
+          "Practice 'instant deep work': trong 2 phut chuyen tu browsing sang focused mode",
+          "Test deep work o 3 environment khac nhau"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "time_blocking": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 6:33-7:05",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "concept -> source -> application",
+        "core_question": "Time Blocking la gi va tai sao hieu qua?",
+        "extracted": "Time Block: khoang thoi gian ban khong bi lam phien, cach ly hoan toan voi the gioi ben ngoai. Den tu cuon The One Thing. Vi du: day som, ngoi xuong, 2 tieng tap trung khong ai lam phien.",
+        "inferred": "Khong chi block thoi gian - ma bao ve no nhu mot cuoc hen voi CEO quan trong nhat: chinh ban.",
+        "anchor_story": "Vi du: Day som 2 tieng truoc khi nguoi khac thuc day, lam task quan trong nhat.",
+        "falsifiability": "Neu time blocking khong hieu qua, nguoi dung se khong hoan thanh duoc nhieu viec hon du da block lich.",
+        "tiers": {
+          "child": "Giong nhu dat cho truoc o nha hang - ban khong the den la co cho ngay. Dat truoc va giu cho cho deep work.",
+          "student": "Time blocking ap dung Parkinson's Law nguoc: 'cong viec co gian theo thoi gian cho phep'. Bang cach an dinh thoi gian, ban tao artificial deadline.",
+          "expert": "Time blocking is commitment device. Prevents attention residue. Best practice: 90-minute blocks align with ultradian rhythm."
+        },
+        "misconception_seeds": [
+          "Time blocking = len lich ca ngay chi tiet - khong, chi block cho important tasks",
+          "Khong can time blocking neu co discipline - discipline se thua environmental triggers"
+        ],
+        "transfer_question": "Tuan toi, ban co du an quan trong. Thiet ke time blocks cho 5 ngay.",
+        "dig_deeper_questions": {
+          "apply": "Ngay mai, block 2 gio cho task quan trong nhat.",
+          "analyze": "Tai sao time blocking hieu qua hon to-do list?",
+          "evaluate": "Danh gia time blocking vs 'as soon as possible' approach.",
+          "create": "Thiet ke 'weekly time block template'."
+        },
+        "next_actions": [
+          "Block 1 deep work session cho ngay mai, treat it as non-negotiable",
+          "Tao 'block protection script'"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "chain_method": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 7:25-8:09",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "concept -> example -> mechanism",
+        "core_question": "Chain Method (day xich) giup xay dung thoi quen nhu the nao?",
+        "extracted": "Chain Method: lay bang bieu thoi gian (1 thang/100 ngay), de noi de thay. Moi ngay hoan thanh deep work, danh dau gach cheo. Muc tieu: khong lam gay chuoi.",
+        "inferred": "Khong chi cho deep work - co the cho bat ky habit nao: tap the duc, hoc tieng Anh, thien.",
+        "anchor_story": "Bat nguon tu comedian Jerry Seinfeld: ong dat muc tieu viet joke moi ngay, khong bao gio pha chuoi.",
+        "falsifiability": "Neu chain method khong hieu qua, cac habit tracking apps se khong co evidence cho effectiveness.",
+        "tiers": {
+          "child": "Giong nhu xep domino - ban da xep duoc 10 cai, se khong muon lam do. Moi ngay la them 1 cai.",
+          "student": "Chain method leverage loss aversion: viec pha chuoi dau hon viec bat dau moi. Visual cue serves as constant reminder.",
+          "expert": "Visual progress tracking leverages dopamine reward prediction error. Works best for binary habits."
+        },
+        "misconception_seeds": [
+          "Chain method can app phuc tap - chi can giay va but",
+          "Can 21 ngay de tao chain - khong, mot ngay chain da hon zero"
+        ],
+        "transfer_question": "Ban muon xay dung thoi quen hoc 30 phut moi toi. Thiet ke chain method tracking board.",
+        "dig_deeper_questions": {
+          "apply": "Tao 1 chain tracker cho habit ban muon xay.",
+          "analyze": "Tai sao chain method hieu qua hon simple reminder?",
+          "evaluate": "Chain method co nhuoc diem gi?",
+          "create": "Thiet ke 'chain method 2.0' - khong chi track binary ma con quality score."
+        },
+        "next_actions": [
+          "Tao physical chain tracker (giay, bang) - khong dung app",
+          "Commit 'never two days missed' rule"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "rest_strategy": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 8:29-9:40",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "stat -> problem -> solution -> advice",
+        "core_question": "Tai sao rest la yeu to khong the thieu cua deep work?",
+        "extracted": "Mot nguoi binh thuong chi tap trung cao do 4 gio moi lan. Can sap xep thoi gian cho nao hoan toan nghi ngoi. Khong duoc lay dien thoai trong luc rest - nao van tiep tuc xu ly thong tin.",
+        "inferred": "Trong the gioi hien dai, nhieu nguoi khong chiu noi mot phut yen tinh - khi cho ca phe cung lay phone ra.",
+        "anchor_story": "Vi du: Ra ngoai noi co cay xanh hoac ngoi thien sau gio deep work.",
+        "falsifiability": "Neu rest khong quan trong, nguoi lam viec 12h/ngay khong rest se co output tot hon nguoi rest day du.",
+        "tiers": {
+          "child": "Giong nhu dien thoai het pin - can sac. Rest la sac nao. Neu vua sac vua dung, pin khong day.",
+          "student": "Trong rest, nao chuyen sang default mode network - noi dien ra consolidation, creativity, emotional regulation.",
+          "expert": "Ultradian rhythm suggests 90-min focus cycles followed by 20-min rest. True rest requires attention restoration."
+        },
+        "misconception_seeds": [
+          "Rest = lam viec nhe nhang khac - khong, rest phai la khong nhan thong tin moi",
+          "Nam khong nghi gi la lang phi thoi gian - khong, do la luc nao xu ly va phuc hoi"
+        ],
+        "transfer_question": "Ban vua hoan thanh 4 gio deep work. Thiet ke 'true rest' 1 gio - khong phone, khong screen.",
+        "dig_deeper_questions": {
+          "apply": "Sau deep work session, thu ra ngoai di bo 20 phut - khong phone.",
+          "analyze": "Tai sao rest cung quan trong nhu deep work?",
+          "evaluate": "So sanh cac hinh thuc rest: thien, di bo, ngu trua, nghe nhac.",
+          "create": "Thiet ke 'rest menu' - 5 options cho true rest."
+        },
+        "next_actions": [
+          "Sau deep work session, 20 phut rest khong phone",
+          "Schedule rest nhu schedule deep work"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "shutdown_ritual": {
+      "domain": "book",
+      "bloom_target": "apply",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- Deep Work by Cal Newport",
+        "source_section": "phut 9:57-10:10",
+        "trust_level": "EXTRACTED",
+        "flags": [
+          "CITED SOURCE"
+        ],
+        "argument_flow": "problem -> solution -> benefit",
+        "core_question": "Shutdown Ritual giup nao nghi ngoi thuc su nhu the nao?",
+        "extracted": "Truoc khi tan lam: viet ra nhung cong viec chua hoan thanh va len ke hoach ngay mai. Nao se ngung 'xu ly nen' va nghi ngoi thuc su.",
+        "inferred": "Cung co the them thien dinh vao cuoi ngay de tang hieu qua.",
+        "anchor_story": "Vi du: 10 phut cuoi ngay - viet ra 3 dieu chua xong + plan cho ngay mai.",
+        "falsifiability": "Neu shutdown ritual khong hieu qua, Zeigarnik effect se khong xuat hien - nao se khong tiep tuc xu ly task chua hoan thanh trong background.",
+        "tiers": {
+          "child": "Giong nhu don ban hoc truoc khi di ngu - sang mai den ban sach se, khong lo nghi.",
+          "student": "Shutdown ritual giai quyet Zeigarnik effect: nao co xu huong tiep tuc xu ly tasks chua hoan thanh. Bang cach viet ke hoach, ban cho nao permission to stop.",
+          "expert": "Shutdown ritual la external memory system - offload pending tasks. Ideal: ket hop voi physical separation (di ra khoi ban lam viec)."
+        },
+        "misconception_seeds": [
+          "Shutdown ritual = viec lam them - khong, no giup you actually disengage va rest better",
+          "Chi can ghi nho la du - working memory khong du reliable"
+        ],
+        "transfer_question": "Ban la nguoi hay mang cong viec ve nha trong dau. Thiet ke 10-minute shutdown ritual ca nhan.",
+        "dig_deeper_questions": {
+          "apply": "Moi toi, danh 5-10 phut: viet review hom nay + plan ngay mai.",
+          "analyze": "Zeigarnik effect anh huong den sleep quality nhu the nao?",
+          "evaluate": "Shutdown ritual vs mindfulness meditation.",
+          "create": "Thiet ke 'shutdown ritual 2.0' - tich hop gratitude practice + tomorrow's plan + physical transition."
+        },
+        "next_actions": [
+          "Toi nay: viet ra 3 task chua xong + 1 uu tien cho ngay mai",
+          "Tao tin hieu the chat ket thuc ngay - tat may, don ban, thay do"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "phoebus_false_love": {
+      "domain": "book",
+      "bloom_target": "analyze",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 2:37-5:03",
+        "trust_level": "INFERRED",
+        "flags": [
+          "ANECDOTAL"
+        ],
+        "argument_flow": "character introduction -> relationship story -> truth revealed -> lesson",
+        "core_question": "Su that thu nhat ve tinh yeu: Dang sau tinh yeu cuong nhiet la gi?",
+        "extracted": "Phoebus la chang dai upy dep trai - Esmeralda yeu say dam, san sang dap ung moi yeu cau. Nhung Phoebus chi ham me ve dep, khong tran trong co. Khi Esmeralda bi ket an oan, Phoebus phot lo va di nghi duong voi nguoi khac.",
+        "inferred": "Phoebus la hien than cua 'tinh yeu ao tuong' - yeu mot hinh bong, yeu ve ben ngoai, khong phai con nguoi that.",
+        "anchor_story": "Esmeralda gap Phoebus trong tinh huong 'anh hung cuu my nhan' - co tuong tuong anh la hoang tu bach ma, nhung thuc chat la ke bac tinh, ich ky.",
+        "falsifiability": "Neu claim 'Phoebus chi ham me sac dep' sai, anh ta se hanh dong khac di - co the cuu Esmeralda hoac it nhat to ra quan tam.",
+        "tiers": {
+          "child": "Giong nhu ban thich mot mon do choi rat dep nhung khi mo hop ra, ben trong chi la do re tien. Vo ngoai danh lua ban.",
+          "student": "Phoebus dai dien cho tinh yeu dua tren projection - Esmeralda yeu hinh anh co tuong tuong ve anh ta, khong phai con nguoi that. Day la 'love at first sight' toxicity.",
+          "expert": "Phoebus exemplifies narcissistic relationship pattern: idealization -> devaluation -> discard. Literary device: Victor Hugo uses Phoebus to critique romantic idealization."
+        },
+        "misconception_seeds": [
+          "Nguoi dep trai, giau co chac chan se yeu chan thanh - ngoai hinh khong tuong quan voi long chung thuy",
+          "Yeu het minh thi nguoi ta se dap lai - tinh cam khong phai giao dich"
+        ],
+        "transfer_question": "Ban thay ban than dang yeu mot nguoi co ve ngoai hoan hao nhung co nhieu red flags. Lam the nao de chia se ma khong lam mat long?",
+        "dig_deeper_questions": {
+          "apply": "Phan tich 1 moi quan he ban biet - co dau hieu cua 'Phoebus pattern' khong?",
+          "analyze": "Tai sao nguoi tot thuong bi thu hut boi nguoi toxic?",
+          "evaluate": "Loi khuyen 'cu yeu het minh' co thuc su tot?",
+          "create": "Viet 1 short story ve nhan vat Phoebus hien dai."
+        },
+        "next_actions": [
+          "Xem xet cac moi quan he hien tai - co ai dang yeu ao tuong khong?",
+          "Thuc hanh phan biet 'yeu nguoi that' vs 'yeu hinh bong'"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "claude_possessive_love": {
+      "domain": "book",
+      "bloom_target": "analyze",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 5:05-8:54",
+        "trust_level": "INFERRED",
+        "flags": [
+          "ANECDOTAL"
+        ],
+        "argument_flow": "character background -> duality -> obsession -> tragedy -> lesson",
+        "core_question": "Su that thu hai ve tinh yeu: Dang sau tinh yeu cuong nhiet la su ich ky tot do?",
+        "extracted": "Claude Frollo - linh muc dang kinh, khu hanh, giup do nguoi ngheo - nhung khi gap Esmeralda, tinh yeu bien thanh am anh. 'Khong an duoc thi dap do, khong dat duoc thi huy diet' - tu linh muc thanh ac quy.",
+        "inferred": "Su doi lap giua 'con nguoi xa hoi' va 'con nguoi ban nang' - Claude song kim nen qua lau nen khi tinh yeu den, no bung no huy diet.",
+        "anchor_story": "Claude nhat Quasimodo bi bo roi, nuoi duong va day do - nhung chinh nguoi tu te ay lai tro thanh ke giet nguoi vi tinh.",
+        "falsifiability": "Neu 'Claude yeu thuc su' dung, anh ta se muon Esmeralda hanh phuc du khong co minh. Hanh dong chung minh day la possessiveness.",
+        "tiers": {
+          "child": "Giong nhu ban co mot mon do choi, neu khong cho ban choi, ban dap vo no - do khong phai yeu do choi, ma la ich ky.",
+          "student": "Claude dai dien cho possessive love - tinh yeu dua tren su so huu, khong phai tran trong.",
+          "expert": "Classic narcissistic injury pattern: khi narcissist khong duoc dap ung, ho chuyen tu idealization sang devaluation -> rage -> destruction."
+        },
+        "misconception_seeds": [
+          "Nguoi tot thi khong the lam dieu xau - ai cung co mat toi",
+          "Ghen tuong = yeu that - ghen tuong la so huu, khong phai yeu"
+        ],
+        "transfer_question": "Ban co mot nguoi ban dang the hien 'Claude pattern'. Lam the nao de giup ho?",
+        "dig_deeper_questions": {
+          "apply": "Nhan dien: trong cac moi quan he, co khi nao ban hanh xu nhu Claude khong?",
+          "analyze": "Phan tich hanh trinh tu 'linh muc dang kinh' den 'ke sat nhan'.",
+          "evaluate": "Tinh yeu co the bien nguoi tot thanh ke xau?",
+          "create": "Viet mot doan ket khac cho Claude."
+        },
+        "next_actions": [
+          "Xem xet moi quan he: co dau hieu so huu, kiem soat khong?",
+          "Tap 'yeu khong dieu kien' - thuc hanh muon nguoi kia hanh phuc du khong co minh"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "quasimodo_true_love": {
+      "domain": "book",
+      "bloom_target": "analyze",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 9:19-12:33",
+        "trust_level": "INFERRED",
+        "flags": [
+          "ANECDOTAL"
+        ],
+        "argument_flow": "character introduction -> transformation -> sacrifice -> truth",
+        "core_question": "Su that thu ba ve tinh yeu: Ve dep thuc su cua tinh yeu nam o dau?",
+        "extracted": "Quasimodo xau xi, bi xa hoi khinh thuong - nhung co trai tim trong sang va thuy chung. Anh bao ve Esmeralda den chet. Du Esmeralda so hai ve ngoai cua anh, anh van yeu co vo dieu kien.",
+        "inferred": "Quasimodo la hien than cua 'true love' - yeu khong dieu kien, khong doi hoi dap tra, san sang hy sinh.",
+        "anchor_story": "Khi Esmeralda cho Quasimodo uong nuoc giua quang truong - giot nuoc mat dau tien trong doi anh. Tu do anh tro thanh nguoi bao ve trung thanh cho co.",
+        "falsifiability": "Neu 'ngoai hinh quyet dinh tinh yeu' dung, thi nguoi co trai tim dep nhat (Quasimodo) se khong the yeu thuc su.",
+        "tiers": {
+          "child": "Giong nhu mot mon qua trong chiec hop cu ky, xau xi - nhung ben trong la vien ngoc quy gia nhat.",
+          "student": "Quasimodo dai dien cho tinh yeu vo dieu kien - khong mong dap tra, khong so huu, san sang hy sinh.",
+          "expert": "Quasimodo transcends the 'beast' archetype. Hugo's message: true love exists in spiritual realm, not physical."
+        },
+        "misconception_seeds": [
+          "Yeu nguoi xau la do thuong hai - tinh yeu dich thuc vuot qua ngoai hinh",
+          "Tinh yeu khong can dap tra la yeu duoi - do la lua chon"
+        ],
+        "transfer_question": "Ban co nguoi ban co ngoai hinh khong ua nhin nhung co tam hon dep. Lam the nao de giup xa hoi nhin ra gia tri thuc su?",
+        "dig_deeper_questions": {
+          "apply": "Trong tuan nay, y thuc ve viec danh gia nguoi khac qua ngoai hinh.",
+          "analyze": "Phan biet 'true love' vs 'possessive love' vs 'illusion love'.",
+          "evaluate": "Xa hoi hien dai co dang danh gia con nguoi qua ngoai hinh nhieu hon?",
+          "create": "Viet mot cau chuyen ngan ve 'Quasimodo thoi hien dai'."
+        },
+        "next_actions": [
+          "Moi ngay, tim 1 dieu dep o mot nguoi ban thuong khong de y",
+          "Thuc hanh 'look beyond appearance'"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "two_realms_analysis": {
+      "domain": "book",
+      "bloom_target": "evaluate",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 13:00-15:30",
+        "trust_level": "INFERRED",
+        "flags": [],
+        "argument_flow": "framework -> two realms -> character mapping -> implication",
+        "core_question": "The gioi trong Nha tho Duc Ba Paris duoc chia lam hai canh gioi nao?",
+        "extracted": "Canh gioi 1 - coi tran tuc: the gioi thuc, xa hoi thong tri boi quyen luc, trat tu va thanh kien. Claude va Phoebus thuoc coi nay. Canh gioi 2 - coi tinh yeu: Quasimodo va Esmeralda thuoc ve coi nay.",
+        "inferred": "Canh gioi thu nhat la the gioi cua mat thay tai nghe. Canh gioi thu hai la the gioi cua ban chat that.",
+        "anchor_story": "Khi hai bo xuong cua Quasimodo va Esmeralda duoc tach ra, chung bien thanh cat bui - ho hop nhat trong coi tam linh.",
+        "falsifiability": "Neu 'coi tran tuc' quyet dinh tat ca, thi Phoebus va Claude le ra phai hanh phuc vi ho co dia vi.",
+        "tiers": {
+          "child": "Giong nhu tro choi - co the gioi 'that' trong man hinh TV, va the gioi 'y nghia' trong cau chuyen.",
+          "student": "Hugo dung hai canh gioi de phe phan xa hoi: the gioi pham tuc ton tho dia vi, ngoai hinh, quyen luc.",
+          "expert": "Hugo's two realms reflect Platonic dualism: material world (shadows) vs ideal world (forms). Literary technique: architectural symbolism of the cathedral as bridge giua hai realms."
+        },
+        "misconception_seeds": [
+          "Nguoi giau, dep, co dia vi chac chan hanh phuc - ho co the dang song trong ao tuong",
+          "Song don gian, chan thanh la yeu duoi - do la suc manh cua coi tinh than"
+        ],
+        "transfer_question": "Ban dang o mot bua tiec noi moi nguoi khoe thanh tich, dia vi. Lam the nao de nhan ra ai dang song o coi nao?",
+        "dig_deeper_questions": {
+          "apply": "Phan tich ban than: phan nao ban thuoc coi tran tuc, phan nao thuoc coi tinh than?",
+          "analyze": "So sanh hai canh gioi voi Plato's Allegory of the Cave.",
+          "evaluate": "Xa hoi hien dai - mang xa hoi, influencer culture - dang khuyen khich con nguoi song o coi nao?",
+          "create": "Thiet ke 'daily life audit' - 5 cau hoi giup ban biet minh dang song o canh gioi nao."
+        },
+        "next_actions": [
+          "Moi toi, tu hoi: hom nay minh song o coi nao nhieu hon?",
+          "Doc lai doan 'hai bo xuong' va suy ngam"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "three_stages_life_love": {
+      "domain": "book",
+      "bloom_target": "evaluate",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 16:16-17:45",
+        "trust_level": "INFERRED",
+        "flags": [],
+        "argument_flow": "zen saying -> three stages -> application to love -> insight",
+        "core_question": "Ba chang duong cua mot doi nguoi lien quan den tinh yeu the nao?",
+        "extracted": "Ba chang: (1) Nhin nui la nui, nuoc la nuoc. (2) Nhin nui khong phai nui, nuoc khong phai nuoc. (3) Nhin nui van la nui, nuoc van la nuoc. Doc Nha tho Duc Ba Paris, ban thay ca ba chang deu hien dien.",
+        "inferred": "Chang 2 la luc nguy hiem nhat - khi ban thay ai cung co the la Claude, Phoebus. Chang 3 la khi ban tro ve voi su trong sang ban dau.",
+        "anchor_story": "Thien su Thanh Nguyen Hanh Tu noi ve ba chang duong. Ap dung vao tinh yeu: chang 1 - yeu trong sang, chang 2 - yeu voi nghi ngo, chang 3 - yeu voi tri tue.",
+        "falsifiability": "Neu 'ba chang duong' khong ap dung duoc cho tinh yeu, se khong co su phat trien trong cach yeu theo thoi gian.",
+        "tiers": {
+          "child": "Giong nhu hoc xe dap: luc dau thay xe la xe, luc tap thay xe la noi so, sau cung xe lai la xe.",
+          "student": "Tu Zen Buddhism, ba stages of enlightenment ap dung vao love: initial innocence -> disillusionment -> wisdom.",
+          "expert": "Hugo's novel maps to Hegelian dialectic: thesis (innocent love) -> antithesis (betrayal, possession) -> synthesis (transcendent love)."
+        },
+        "misconception_seeds": [
+          "Yeu nhieu thi se hieu ve tinh yeu - khong, trai nghiem ma khong reflection se khong dan den stage 3",
+          "Yeu lan dau la yeu that nhat - co the chi la stage 1"
+        ],
+        "transfer_question": "Ban dang o chang nao trong 3 chang? Lam the nao de biet minh da san sang buoc sang chang tiep theo?",
+        "dig_deeper_questions": {
+          "apply": "Xac dinh chang hien tai cua ban trong tinh yeu - va 1 hanh dong cu the de tien len.",
+          "analyze": "Phan tich moi nhan vat o chang nao.",
+          "evaluate": "Stage 2 co can thiet khong? Co the bo qua?",
+          "create": "Viet 'love journey' ca nhan - 3 chang ban da/nen trai qua."
+        },
+        "next_actions": [
+          "Suy ngam: o chang nao trong cac moi quan he cua minh?",
+          "Doc 'ba chang duong' va ap dung vao 1 experience cu the"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "love_as_return_to_self": {
+      "domain": "book",
+      "bloom_target": "evaluate",
+      "depth_level": 1,
+      "parent_concept": null,
+      "children": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version -- The Hunchback of Notre Dame",
+        "source_section": "phut 17:45-18:47",
+        "trust_level": "INFERRED",
+        "flags": [],
+        "argument_flow": "insight -> quote -> call to action",
+        "core_question": "Tinh yeu thuc su la gi theo Nha tho Duc Ba Paris?",
+        "extracted": "Yeu la tro ve voi chinh minh, ngay tu diem xuat phat - vi von di tu dau, ban da la thien than co the sung hoi tinh yeu thieng lieng nhat. Cau noi cua Victor Hugo: 'Trong tat ca tao vat cua Chua, trai tim con nguoi la thu phat ra anh sang lon nhat - nhung tiec thay no cung la thu tao ra bong toi sau tham nhat'.",
+        "inferred": "Tinh yeu dich thuc khong phai tim kiem ben ngoai - ma la quay ve ben trong, ket noi voi ban chat thuan khiet von co.",
+        "anchor_story": "Cau chuyen ket thuc: hai bo xuong hoa lam cat bui - bieu tuong cho su hop nhat trong tinh yeu dich thuc.",
+        "falsifiability": "Neu 'tinh yeu la tro ve voi chinh minh' sai, thi viec 'tim kiem tri ky' ben ngoai se mang lai hanh phuc.",
+        "tiers": {
+          "child": "Giong nhu oc sen - tuong nha minh o dau do xa, nhung that ra nha la mang tren lung, luon o trong minh.",
+          "student": "Thong diep cua Hugo: tinh yeu khong phai tim kiem ai do hoan hao - ma la tro ve voi ban chat thuan khiet cua chinh minh.",
+          "expert": "Hugo's conclusion resonates with both Platonic anamnesis and Buddhist concept of true nature. Literary implication: the novel is a spiritual guide, not just a love story."
+        },
+        "misconception_seeds": [
+          "Tinh yeu la tim duoc nua kia - thuc ra la tim lai chinh minh",
+          "Sau ton thuong, khong the yeu lai duoc - van co the, neu tro ve voi ban chat thuan khiet ban dau"
+        ],
+        "transfer_question": "Ban vua trai qua mot cuoc chia tay dau kho. Lam the nao de 'tro ve voi chinh minh'?",
+        "dig_deeper_questions": {
+          "apply": "Danh 10 phut toi nay: viet ra 'ban chat thuan khiet' cua ban la gi truoc khi xa hoi dinh hinh.",
+          "analyze": "Phan tich moi quan he giua 'return to self' va cac triet ly khac.",
+          "evaluate": "Lieu thong diep cua Hugo co qua ly tuong?",
+          "create": "Viet 'manifesto tinh yeu' cua rieng ban - 5 nguyen tac tu Nha tho Duc Ba Paris."
+        },
+        "next_actions": [
+          "Suy ngam ve cau noi cua Hugo ve trai tim con nguoi",
+          "Thuc hanh 'return to self' - 5 phut thien ket noi voi ban chat thuan khiet"
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-14"
+      },
+      "relations": {},
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      },
+      "contradictions": []
+    },
+    "negativity_bias": {
+      "domain": "book",
+      "bloom_target": "understand",
+      "depth_level": 1,
+      "parent_concept": null,
+      "contradictions": [],
+      "source_content": {
+        "source_type": "youtube",
+        "source_name": "Better Version",
+        "source_section": "phút 0-5",
+        "trust_level": "EXTRACTED",
+        "flags": [],
+        "argument_flow": "hook → problem → evolutionary mechanism → modern consequence",
+        "core_question": "Tại sao não bộ con người lại có xu hướng ưu tiên ghi nhớ những điều tiêu cực hơn là tích cực?",
+        "extracted": "Từ hàng trăm triệu năm, não bộ của chúng ta tiến hóa để ưu tiên ghi nhận nguy hiểm. Thiên kiến tiêu cực khiến cho mọi ký ức đau buồn, thất bại hoặc mất mát cứ thể dính chặt vào neuron thần kinh rồi dễ dàng khơi lên những lo âu và giận dữ. Thứ chế này từng cứu tổ tiên ta khỏi thù giữ Nhưng ngày nay nó lại khiến bạn mắc kẹt trong vòng luẩn quần của căng thẳng và phiền muộn.",
+        "anchor_story": "Trong một ngày có 20 việc xảy ra, 19 điều suôn sẻ nhưng chỉ 1 việc không như ý, đến tối điều bạn nhớ nhất và trăn trở nhất chính là sự việc không như ý đó.",
+        "falsifiability": "Nếu con người có thể dễ dàng quên đi nguy hiểm và chỉ nhớ niềm vui, tỷ lệ sống sót trong tự nhiên sẽ giảm xuống do không học được từ các mối đe dọa.",
+        "tiers": {
+          "child": "Não bộ giống như một người bảo vệ cực kỳ cẩn thận. Ông ấy luôn nhìn chăm chú vào những con quái vật đáng sợ để bảo vệ con, nhưng lại quên mất việc nhìn vào những bông hoa đẹp xung quanh. Đó là lý do con hay buồn vì một câu chê hơn là vui vì mười câu khen.",
+          "student": "Thiên kiến tiêu cực (negativity bias) là một cơ chế tiến hóa. Não bộ ưu tiên các kích thích tiêu cực vì chúng đại diện cho mối đe dọa sinh tồn. Vùng hạnh nhân (amygdala) phản ứng nhanh với nguy hiểm, biến các trải nghiệm xấu thành ký ức dài hạn nhanh hơn các trải nghiệm tốt.",
+          "expert": "Negativity bias vận hành dựa trên sự ưu tiên xử lý của hệ thống limbic. Các trải nghiệm tiêu cực được mã hóa vào trí nhớ tiềm ẩn (implicit memory) một cách bền vững hơn do nhu cầu tránh né hiểm họa. Điều này tạo ra sự mất cân bằng trong việc hình thành cấu trúc thần kinh, đòi hỏi sự can thiệp có chủ đích để tái lập trình."
+        },
+        "misconception_seeds": [
+          "Tôi là người bi quan bẩm sinh — sai vì đây là cơ chế sinh tồn chung của loài người, không phải lỗi cá nhân.",
+          "Cần phải loại bỏ hoàn toàn suy nghĩ tiêu cực — sai vì cơ chế này vẫn cần thiết để cảnh báo nguy hiểm, mục tiêu là cân bằng lại chứ không phải tiêu diệt."
+        ],
+        "transfer_question": "Nếu bạn nhận được 10 phản hồi tốt về dự án và 1 phản hồi chỉ trích nặng nề, bạn sẽ làm gì để không bị 'velcro' (dính chặt) vào phản hồi tiêu cực đó?",
+        "dig_deeper_questions": {
+          "apply": "Liệt kê 3 sự kiện tiêu cực nhỏ trong ngày và quan sát cách tâm trí bạn 'nhai đi nhai lại' chúng.",
+          "analyze": "So sánh tốc độ ghi nhớ một nỗi sợ so với một niềm vui bất chợt.",
+          "evaluate": "Đánh giá lợi ích và tác hại của negativity bias trong môi trường làm việc hiện đại (nơi không còn thú dữ nhưng nhiều áp lực xã hội).",
+          "create": "Thiết kế một thử nghiệm nhỏ để kiểm chứng xem việc chú ý vào 5 điều tích cực có làm giảm tác động của 1 điều tiêu cực hay không."
+        },
+        "next_actions": [
+          "Ghi chép lại các khoảnh khắc 'bị dính' vào điều tiêu cực trong ngày.",
+          "Thực hiện bài tập dừng lại 10 giây khi nhận được một lời khen."
+        ],
+        "open_questions": [],
+        "last_reextracted": "2026-05-15"
+      },
+      "learner_state": {
+        "belief_prior": null,
+        "bloom_level": "remember",
+        "mastery_probability": 0.0,
+        "consecutive_correct": 0,
+        "hint_fails_total": 0,
+        "needs_restructure": false,
+        "next_review": null,
+        "personal_misconceptions": {}
+      }
+    }
+  },
+  "metadata": {
+    "domain": "book",
+    "created": "2026-05-14",
+    "description": "Book knowledge graph"
+  }
+}

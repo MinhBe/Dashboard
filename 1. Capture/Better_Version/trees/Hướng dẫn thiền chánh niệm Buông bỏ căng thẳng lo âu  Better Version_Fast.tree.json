@@ -1,0 +1,65 @@
+{
+  "source_type": "youtube",
+  "word_count": 1402,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 8 leaves >= 8 minimum (youtube/medium)",
+  "tree": [
+    {
+      "key": "và_bây_giờ_hãy_từ_từ_nhắm_mắt_lại",
+      "label": "Và bây giờ hãy từ từ nhắm mắt lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "hít_vào_thật_sâu_giữ_lại_rồi_thở_ra",
+      "label": "Hít vào thật sâu Giữ lại Rồi thở ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "bước_đi_chậm_dãi_từng_bước_một",
+      "label": "bước đi chậm dãi từng bước một.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "và_rồi_bây_giờ_mình_muốn_bạn_kết_nối_sâu_hơn_với_cơ_thể",
+      "label": "Và rồi bây giờ mình muốn bạn kết nối sâu hơn với cơ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "biểu_cảm_lúc_này_trên_mặt_bạn_là_gì",
+      "label": "Biểu cảm lúc này trên mặt bạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_thôi_là_đủ",
+      "label": "Vậy thôi là đủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "và_bây_giờ_hãy_chậm_dãi_đếm_từng_nhịp_thở_của_riêng_bạn",
+      "label": "Và bây giờ, hãy chậm dãi đếm từng nhịp thở của riêng bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đó_đã_là_một_phiên_thiền_tuyệt_vời",
+      "label": "đó đã là một phiên thiền tuyệt vời.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "source_type": "youtube",
+  "word_count": 3723,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cuối_cùng_ông_ấy_đành_phải_thỏa_hiệp",
+      "label": "Cuối cùng, ông ấy đành phải thỏa hiệp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "trong_cuốn_sách_này",
+      "label": "Trong cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_là_cậu_gặp_được_một_ông_lão",
+      "label": "Vậy là cậu gặp được một ông lão",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "thứ_nhất_là_cậu_ấy_gặp_phải_rào_cản_với_ngôn_ngữ",
+      "label": "Thứ nhất là cậu ấy gặp phải rào cản với ngôn ngữ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "thứ_nhất_là_cậu_ấy_gặp_phải_rào_cản_với_ngôn_ngữ_item_1",
+          "label": "[Item 1 of Thứ nhất là cậu ấy gặp phải rào cản với ngôn ngữ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_cậu_ấy_gặp_phải_rào_cản_với_ngôn_ngữ_item_2",
+          "label": "[Item 2 of Thứ nhất là cậu ấy gặp phải rào cản với ngôn ngữ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cứ_ngỡ_đây_là_một_người_bạn_chân_chính",
+      "label": "Cứ ngỡ đây là một người bạn chân chính",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "hơn_nữa_cậu_không_chỉ_học_được_việc_kinh_doanh",
+      "label": "Hơn nữa, cậu không chỉ học được việc kinh doanh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "như_là_một_thử_thách_để_tôi_luyện",
+      "label": "như là một thử thách để tôi luyện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "và_tiếp_theo_nhân_vật_santiago_đã_gặp_vô_số_những_thách_thức",
+      "label": "Và tiếp theo, nhân vật Santiago đã gặp vô số những thách thức lớn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    }
+  ]
+}

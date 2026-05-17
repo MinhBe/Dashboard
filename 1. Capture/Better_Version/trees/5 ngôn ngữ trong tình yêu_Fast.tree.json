@@ -1,0 +1,181 @@
+{
+  "source_type": "youtube",
+  "word_count": 3872,
+  "estimated_leaf_nodes": 22,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 22 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tình_yêu_là_một_phần_tạo_nên_linh_hồn",
+      "label": "Tình yêu là một phần tạo nên linh hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "ông_ấy_là_một_chuyên_gia_hàng_đầu_về_hôn_nhân_và_tình_yêu",
+      "label": "Ông ấy là một chuyên gia hàng đầu về hôn nhân và tình yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "vậy_nên_rồi_cuối_cùng_cho_dù_như_thế_nào",
+      "label": "Vậy nên rồi cuối cùng cho dù như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_câu_hỏi_đặt_ra_là",
+      "label": "Vậy câu hỏi đặt ra là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "lời_tha_thứ_lời_nói_nhẹ_nhàng",
+      "label": "Lời tha thứ, lời nói nhẹ nhàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đầu_tiên_để_có_thể_biểu_đạt_nhiều_hơn_những_lời_khen_ngợi",
+      "label": "Đầu tiên để có thể biểu đạt nhiều hơn những lời khen ngợi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "điều_thứ_hai_để_có_thể_khích_lệ_đúng_cách",
+      "label": "Điều thứ hai, để có thể khích lệ đúng cách",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "điều_thứ_hai_để_có_thể_khích_lệ_đúng_cách_item_1",
+          "label": "[Item 1 of Điều thứ hai, để có thể khích lệ đúng cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_để_có_thể_khích_lệ_đúng_cách_item_2",
+          "label": "[Item 2 of Điều thứ hai, để có thể khích lệ đúng cách — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_ba_để_tha_thứ_cho_nhau",
+      "label": "Điều thứ ba, để tha thứ cho nhau",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "điều_thứ_ba_để_tha_thứ_cho_nhau_item_1",
+          "label": "[Item 1 of Điều thứ ba, để tha thứ cho nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_ba_để_tha_thứ_cho_nhau_item_2",
+          "label": "[Item 2 of Điều thứ ba, để tha thứ cho nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bởi_lẽ_hạnh_phúc_là_một_lựa_chọn_và_ai_cũng_có_quyền_lựa_chọ",
+      "label": "bởi lẽ hạnh phúc là một lựa chọn và ai cũng có quyền lựa chọn riêng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tiếp_theo_là_một_ngôn_ngữ_yêu_thương",
+      "label": "Tiếp theo là một ngôn ngữ yêu thương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_thì_khi_nào_chúng_ta_cần_tạo_ra_khoảnh_khắc_thời_gian_ch",
+      "label": "Vậy thì khi nào chúng ta cần tạo ra khoảnh khắc thời gian chất lượng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "trong_quá_trình_yêu_và_xây_dựng_hôn_nhân",
+      "label": "trong quá trình yêu và xây dựng hôn nhân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "tại_sao_nhiều_người_bước_vào_cuộc_sống_hôn_nhân",
+      "label": "Tại sao nhiều người bước vào cuộc sống hôn nhân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "bàn_chất_cuối_cùng_của_việc_tặng_quà_là_gì",
+      "label": "Bàn chất cuối cùng của việc tặng quà là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "đó_chính_là_một_cách_bày_tỏ_tình_cảm",
+      "label": "Đó chính là một cách bày tỏ tình cảm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "tiếp_theo_ngôn_ngữ_yêu_thương_thứ_4",
+      "label": "Tiếp theo, ngôn ngữ yêu thương thứ 4",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vậy_thì_hãy_chủ_động_để_cho_đi_bằng_những_hành_động",
+      "label": "Vậy thì hãy chủ động để cho đi bằng những hành động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "đó_là_tiếp_xúc_cơ_thể",
+      "label": "Đó là tiếp xúc cơ thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "tiếp_xúc_cơ_thể_là_một_biểu_hiện_tinh_tế_của_tình_yêu",
+      "label": "Tiếp xúc cơ thể là một biểu hiện tinh tế của tình yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "đây_cũng_chính_là_một_trong_những_con_đường",
+      "label": "Đây cũng chính là một trong những con đường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    }
+  ]
+}

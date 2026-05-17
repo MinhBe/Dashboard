@@ -1,0 +1,142 @@
+{
+  "source_type": "youtube",
+  "word_count": 3428,
+  "estimated_leaf_nodes": 19,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 19 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "antifragile_là_gì",
+      "label": "Anti-Fragile là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "mang_tên_là_khả_năng_cải_thiện_nghịch_cảnh",
+      "label": "Mang tên là Khả năng cải thiện nghịch cảnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "đầu_tiên_là_kháng_yếu_là_gì",
+      "label": "Đầu tiên là kháng yếu là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "ví_dụ_như_là_một_ngọn_nến_đang_cháy_lửa",
+      "label": "Ví dụ như là một ngọn nến đang cháy lửa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "hay_là_một_chiếc_cốc_thủy_tinh",
+      "label": "Hay là một chiếc cốc thủy tinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_đối_ngược_với_yếu_là_gì",
+      "label": "Vậy, đối ngược với yếu là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_tại_sao_chúng_ta_phải_kháng_yếu",
+      "label": "Vậy tại sao chúng ta phải kháng yếu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "thiên_nga_đen_cũng_là_một_cuốn_sách_có_giá_trị_đồ_sộ",
+      "label": "Thiên Nga Đen cũng là một cuốn sách có giá trị đồ sộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "thiên_nga_đen_là_một_thuật_ngữ_để_ngâm_chỉ_những_hiện_tượng",
+      "label": "Thiên Nga Đen là một thuật ngữ để ngâm chỉ những hiện tượng sự việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_kháng_yếu_như_thế_nào",
+      "label": "Vậy chúng ta phải kháng yếu như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cuối_cùng_khi_mà_xảy_ra_việc_gì_đó_thay_đổi_đột_ngột",
+      "label": "Cuối cùng khi mà xảy ra việc gì đó thay đổi đột ngột",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "cuối_cùng_nó_chết_vì_đói_và_khát",
+      "label": "Cuối cùng nó chết vì đói và khát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "cần_chú_ý_rằng_đây_là_một_thử_nghiệm_về_tư_duy",
+      "label": "Cần chú ý rằng đây là một thử nghiệm về tư duy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_nên_tác_giả_mới_khuyên_chúng_ta_rằng",
+      "label": "Vậy nên, tác giả mới khuyên chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "giống_như_là_một_bộ_máy",
+      "label": "giống như là một bộ máy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "tác_giả_đã_ví_như_là_một_chiếc_máy_giặt",
+      "label": "Tác giả đã ví như là một chiếc máy giặt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "điều_họ_mong_muốn_ở_con_họ_là_gì",
+      "label": "Điều họ mong muốn ở con họ là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "cuối_cùng_sau_khi_mà_tốt_nghiệp_mới_phát_hiện_ra_rằng",
+      "label": "Cuối cùng sau khi mà tốt nghiệp mới phát hiện ra rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "cuối_cùng_bạn_sẽ_ngẫm_thêm_ra_một_điều_nữa",
+      "label": "Cuối cùng, bạn sẽ ngẫm thêm ra một điều nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    }
+  ]
+}

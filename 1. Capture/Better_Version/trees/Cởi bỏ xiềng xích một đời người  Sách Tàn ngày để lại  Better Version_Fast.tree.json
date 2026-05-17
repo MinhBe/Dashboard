@@ -1,0 +1,144 @@
+{
+  "source_type": "youtube",
+  "word_count": 4322,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "chăn_trọc_mới_đồng_ý_thật_là_lạ",
+      "label": "chăn trọc mới đồng ý. Thật là lạ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "tại_sao_lại_phải_do_dự_đến_vậy_đó_là",
+      "label": "tại sao lại phải do dự đến vậy? Đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tôi_là_một_quản_gia_vĩ_đại_vô_cùng_kiên_cố",
+      "label": "Tôi là một quản gia vĩ đại, vô cùng kiên cố",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "nhưng_để_lại_đó_ta_còn_là_gì",
+      "label": "Nhưng để lại đó ta còn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "bạn_còn_là_một_người_con_một_người_cha",
+      "label": "Bạn còn là một người con, một người cha",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "cuối_cùng_vẫn_sẽ_là_một_bi_kịch",
+      "label": "Cuối cùng vẫn sẽ là một bi kịch",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "tại_sao_chúng_ta_luôn_khao_khát",
+      "label": "Tại sao chúng ta luôn khao khát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "thực_sự_là_một_trạng_thái_tinh_thần",
+      "label": "thực sự là một trạng thái tinh thần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_thoát_khỏi_siêng_xích",
+      "label": "Vậy làm thế nào để thoát khỏi siêng xích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "bước_ra_gặp_cỡ_và_tiếp_xúc",
+      "label": "Bước ra, gặp cỡ và tiếp xúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "còn_là_gì",
+      "label": "Còn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "cuối_cùng_nhận_ra_chẳng_có_ý_nghĩa_gì",
+      "label": "Cuối cùng nhận ra chẳng có ý nghĩa gì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "cuối_cùng_nhận_ra_chẳng_có_ý_nghĩa_gì_item_1",
+          "label": "[Item 1 of Cuối cùng nhận ra chẳng có ý nghĩa gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_nhận_ra_chẳng_có_ý_nghĩa_gì_item_2",
+          "label": "[Item 2 of Cuối cùng nhận ra chẳng có ý nghĩa gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_chẳng_qua_là_một_trò_đùa",
+      "label": "Cuối cùng chẳng qua là một trò đùa.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "cuối_cùng_trở_lại_với_câu_hỏi_ở_đầu_bài",
+      "label": "Cuối cùng trở lại với câu hỏi ở đầu bài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "vậy_thì_thay_vì_chỉ_dối_hạn_bản_thân",
+      "label": "Vậy thì thay vì chỉ dối hạn bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "đó_có_thể_là_một_người_hướng_dẫn",
+      "label": "Đó có thể là một người hướng dẫn,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "bạn_vốn_là_một_vầng_quang_đến_đây_và_tỏa_sáng_cho_thế_giới_n",
+      "label": "Bạn vốn là một vầng quang đến đây và tỏa sáng cho thế giới này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    }
+  ]
+}

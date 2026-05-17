@@ -1,0 +1,79 @@
+{
+  "source_type": "youtube",
+  "word_count": 4484,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "thực_ra_là_một_nỗi_oan_uổng_và_chỉ_là_cài_cớ",
+      "label": "Thực ra là một nỗi oan uổng và chỉ là cài cớ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "vậy_thì_tại_sao_bạn_lại_vui_đến_vậy",
+      "label": "Vậy thì tại sao bạn lại vui đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "doberman_là_một_phần_của_chư_trình_phần_thường",
+      "label": "Doberman là một phần của chư trình phần thường.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "nguyên_tắc_không_chắc_chắn",
+      "label": "Nguyên tắc không chắc chắn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "vậy_câu_hỏi_ở_đây_đặt_ra_là",
+      "label": "Vậy câu hỏi ở đây đặt ra là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "bên_cạnh_đó_trong_não_còn_có_một_đường_dẫn_dopamine_khác",
+      "label": "Bên cạnh đó, trong não còn có một đường dẫn dopamine khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "dopamine_đặc_điểm_của_họ_là_gì",
+      "label": "dopamine. Đặc điểm của họ là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "phương_pháp_tiếp_theo_đó_là_tiếp_xúc_với_thiên_nhiên_nghỉ_ng",
+      "label": "Phương pháp tiếp theo đó là tiếp xúc với thiên nhiên, nghỉ ngơi hợp lý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "cuối_cùng_mất_10_phút_do_sự_can_thiệp_của_môi_trường_bên_ngo",
+      "label": "cuối cùng mất 10 phút do sự can thiệp của môi trường bên ngoài.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "nguyên_tắc_là_hoạt_động_sáng_tạo",
+      "label": "Nguyên tắc là hoạt động sáng tạo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    }
+  ]
+}

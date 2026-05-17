@@ -1,0 +1,302 @@
+{
+  "source_type": "youtube",
+  "word_count": 6762,
+  "estimated_leaf_nodes": 38,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 38 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "trong_cuốn_sách_này",
+      "label": "Trong cuốn sách này,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "vậy_nếu_theo_câu_trả_lời_bên_trên",
+      "label": "Vậy, nếu theo câu trả lời bên trên,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_đầu_tiên_từ_góc_nhìn_khoa_học",
+      "label": "Vậy đầu tiên, từ góc nhìn khoa học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "và_cơ_thể_của_chúng_ta_cũng_như_vậy",
+      "label": "Và cơ thể của chúng ta cũng như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "nhưng_mà_vấn_đề_ở_đây_là_gì",
+      "label": "Nhưng mà vấn đề ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "cơ_thể_của_bạn_sẽ_như_là_một_động_cơ_nguội",
+      "label": "Cơ thể của bạn sẽ như là một động cơ nguội",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "cơ_thể_của_bạn_sẽ_như_là_một_động_cơ_nguội_item_1",
+          "label": "[Item 1 of Cơ thể của bạn sẽ như là một động cơ nguội — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cơ_thể_của_bạn_sẽ_như_là_một_động_cơ_nguội_item_2",
+          "label": "[Item 2 of Cơ thể của bạn sẽ như là một động cơ nguội — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hoặc_là_những_người_có_thể_tự_do_điều_chỉnh",
+      "label": "Hoặc là những người có thể tự do điều chỉnh.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "điều_thứ_hai_đó_là_vì_theo_nghiên_cứu_chỉ_ra_rằng",
+      "label": "Điều thứ hai đó là vì theo nghiên cứu chỉ ra rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 72",
+      "children": [
+        {
+          "key": "điều_thứ_hai_đó_là_vì_theo_nghiên_cứu_chỉ_ra_rằng_item_1",
+          "label": "[Item 1 of Điều thứ hai đó là vì theo nghiên cứu chỉ ra rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_đó_là_vì_theo_nghiên_cứu_chỉ_ra_rằng_item_2",
+          "label": "[Item 2 of Điều thứ hai đó là vì theo nghiên cứu chỉ ra rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_thiết_nghiệm_kết_thúc",
+      "label": "Cuối cùng, thiết nghiệm kết thúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "ông_ấy_đã_rút_ra_3_kết_luận_quan_trọng_như_sau",
+      "label": "Ông ấy đã rút ra 3 kết luận quan trọng như sau",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 92",
+      "children": [
+        {
+          "key": "ông_ấy_đã_rút_ra_3_kết_luận_quan_trọng_như_sau_item_1",
+          "label": "[Item 1 of Ông ấy đã rút ra 3 kết luận quan trọng như sau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ông_ấy_đã_rút_ra_3_kết_luận_quan_trọng_như_sau_item_2",
+          "label": "[Item 2 of Ông ấy đã rút ra 3 kết luận quan trọng như sau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_việc_làm_rất_sai_lầm",
+      "label": "Đây là một việc làm rất sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "tức_là_trạng_thái_cơ_thể_đáp_ứng_giấc_ngủ_8_tiếng_mỗi_ngày",
+      "label": "Tức là trạng thái cơ thể đáp ứng giấc ngủ 8 tiếng mỗi ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "vậy_nên_nếu_giấc_ngủ_của_bạn_ở_thời_điểm_này_đang_ở_mức_ít_h",
+      "label": "Vậy nên nếu giấc ngủ của bạn ở thời điểm này đang ở mức ít hơn 6 tiếng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "đầu_tiên_phải_kể_đến",
+      "label": "Đầu tiên phải kể đến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "tức_là_khả_năng_điều_tiết_cảm_xúc_trong_não_của_bạn",
+      "label": "Tức là khả năng điều tiết cảm xúc trong não của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "ngoài_ra_thiếu_ngủ_còn_dẫn_đến_bệnh_alzheimer",
+      "label": "Ngoài ra, thiếu ngủ còn dẫn đến bệnh Alzheimer",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "điều_cuối_cùng_bạn_cần_phải_chú_ý_đó_là",
+      "label": "Điều cuối cùng bạn cần phải chú ý đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "vậy_lợi_ích_của_giấc_ngủ_mang_lại_là_gì",
+      "label": "Vậy lợi ích của giấc ngủ mang lại là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "sức_mạnh_này_là_một_thứ_mà_chỉ_có_mình_bạn_mới_có_thể_làm_đư",
+      "label": "Sức mạnh này là một thứ mà chỉ có mình bạn mới có thể làm được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "tại_sao_giấc_mơ_trong_khi_ngủ_lại_cực_kỳ_quan_trọng",
+      "label": "Tại sao giấc mơ trong khi ngủ lại cực kỳ quan trọng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "cuối_cùng_là_giấc_sâu",
+      "label": "Cuối cùng là giấc sâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "có_nghĩa_là_gì",
+      "label": "có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "hơn_nữa_trong_quá_trình_chuyển_động_nhanh_của_mắt",
+      "label": "Hơn nữa, trong quá trình chuyển động nhanh của mắt,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "nó_như_là_một_nhà_tâm_lý_trị_liệu_của_riêng_bạn",
+      "label": "Nó như là một nhà tâm lý trị liệu của riêng bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "đầu_tiên_đó_là_đèn_chiếu_và_đèn_led_liên_tục_sáng",
+      "label": "Đầu tiên đó là đèn chiếu và đèn led liên tục sáng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "vậy_nên_tác_giả_đã_khuyên_chúng_ta_rằng",
+      "label": "Vậy nên tác giả đã khuyên chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "đầu_tiên_rượu_làm_gián_đoạn_giấc_ngủ_của_chúng_ta",
+      "label": "Đầu tiên, rượu làm gián đoạn giấc ngủ của chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_làm_cách_nào_để_cải_thiện_sức_ngủ_của_mình",
+      "label": "Vậy, chúng ta phải làm cách nào để cải thiện sức ngủ của mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "cũng_là_một_chất_kích_thích",
+      "label": "Cũng là một chất kích thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 214"
+    },
+    {
+      "key": "điều_thứ_3_là_hãy_cố_gắng_tắm_nắng_30_phút_mỗi_ngày",
+      "label": "Điều thứ 3 là hãy cố gắng tắm nắng 30 phút mỗi ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    },
+    {
+      "key": "điều_thứ_4_đó_là",
+      "label": "Điều thứ 4 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 222"
+    },
+    {
+      "key": "điều_thứ_6_đó_là_tránh_đồ_uống_có_cồn_trước_khi_đi_ngủ",
+      "label": "Điều thứ 6 đó là tránh đồ uống có cồn trước khi đi ngủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 228"
+    },
+    {
+      "key": "tiếp_theo_là_sau_3_giờ_chiều",
+      "label": "Tiếp theo là sau 3 giờ chiều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 232"
+    },
+    {
+      "key": "điều_thứ_10_đó_là",
+      "label": "Điều thứ 10 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 236"
+    }
+  ]
+}

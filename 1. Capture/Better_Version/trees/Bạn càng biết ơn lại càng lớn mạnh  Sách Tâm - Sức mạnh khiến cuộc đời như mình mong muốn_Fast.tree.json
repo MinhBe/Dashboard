@@ -1,0 +1,72 @@
+{
+  "source_type": "youtube",
+  "word_count": 4488,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "còn_là_một_nguồn_năng_lượng_nụi_tai_mạnh_mẽ",
+      "label": "còn là một nguồn năng lượng, nụi tai mạnh mẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "trong_cuốn_sách_tâm_sức_mạnh_khiến_cuộc_đời_như_mình_mong_mu",
+      "label": "Trong cuốn sách Tâm Sức Mạnh khiến Cuộc Đời như mình mong muốn của ông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "điều_quan_trọng_là_có_thể_hòa_giải_về_trái_tim_mình",
+      "label": "điều quan trọng là có thể hòa giải về trái tim mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "inamori_kazuo_là_một_minh_chứng_sống_động",
+      "label": "Inamori Kazuo là một minh chứng sống động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_thì_giờ_đây_khi_đối_mặt_với_điều_tồi_tệ",
+      "label": "Vậy thì giờ đây khi đối mặt với điều tồi tệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "thành_là_một_nhóm_thực_hành_lòng_biết_ơn",
+      "label": "thành là một nhóm thực hành lòng biết ơn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "và_ở_những_ngày_tiếp_theo_nhóm_vẫn_sẽ_hoạt_động",
+      "label": "Và ở những ngày tiếp theo, nhóm vẫn sẽ hoạt động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "cuối_cùng_thì_cảm_ơn_bạn_đã_lắng_nghe",
+      "label": "Cuối cùng thì cảm ơn bạn đã lắng nghe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    }
+  ]
+}

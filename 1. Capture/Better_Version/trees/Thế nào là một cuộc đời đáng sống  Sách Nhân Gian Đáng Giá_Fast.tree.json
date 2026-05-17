@@ -1,0 +1,116 @@
+{
+  "source_type": "youtube",
+  "word_count": 5742,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nhưng_ngay_sau_đó_vẫn_là_một_biển_mơ_hồ",
+      "label": "Nhưng ngay sau đó vẫn là một biển mơ hồ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_nên_đối_mặt_với_công_việc_mà_bản_thân_không_thích",
+      "label": "Vậy nên đối mặt với công việc mà bản thân không thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "vậy_thì_phải_làm_gì_đây_cho_đợi_hết_chán",
+      "label": "Vậy thì phải làm gì đây cho đợi hết chán",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "hãy_cho_đó_là_một_cơ_hội_để_bạn_rèn_giữa_bản_thân",
+      "label": "Hãy cho đó là một cơ hội để bạn rèn giữa bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "cũng_là_một_trong_những_động_lực_để_thay_đổi_cuộc_đời",
+      "label": "cũng là một trong những động lực để thay đổi cuộc đời.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "tác_giả_là_một_người_sống_có_độ_thả_lòng_tuyệt_vời",
+      "label": "Tác giả là một người sống có độ thả lòng tuyệt vời",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 84",
+      "children": [
+        {
+          "key": "tác_giả_là_một_người_sống_có_độ_thả_lòng_tuyệt_vời_item_1",
+          "label": "[Item 1 of Tác giả là một người sống có độ thả lòng tuyệt vời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tác_giả_là_một_người_sống_có_độ_thả_lòng_tuyệt_vời_item_2",
+          "label": "[Item 2 of Tác giả là một người sống có độ thả lòng tuyệt vời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "sẽ_luôn_là_một_mờ_hỗn_độc",
+      "label": "Sẽ luôn là một mờ hỗn độc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "cuối_cùng_khoảng_thời_gian_khó_khăn_này_cũng_đã_qua",
+      "label": "Cuối cùng khoảng thời gian khó khăn này cũng đã qua.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "cũng_có_thể_rời_xa_bạn",
+      "label": "cũng có thể rời xa bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "vậy_thì_đối_với_tất_cả_những_người_bạn_gặp_gỡ_ở_trần_gian_nà",
+      "label": "Vậy thì đối với tất cả những người bạn gặp gỡ ở trần gian này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "cô_đơn_là_một_khởi_đầu_của_cuộc_sống_trọn_vẹn",
+      "label": "Cô đơn là một khởi đầu của cuộc sống trọn vẹn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "cuộc_đời_là_một_hành_trình_chỉ_đi_đến_mà_không_bao_giờ_quay",
+      "label": "Cuộc đời là một hành trình chỉ đi đến mà không bao giờ quay lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "và_chúng_ta_đang_có_một_cuộc_đời_đáng_sống",
+      "label": "và chúng ta đang có một cuộc đời đáng sống.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_type": "youtube",
+  "word_count": 1980,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 9 leaves >= 8 minimum (youtube/medium)",
+  "tree": [
+    {
+      "key": "chấp_niệm_quá_sâu_thì_là_một_cảm_giác_như_thế_nào",
+      "label": "Chấp niệm quá sâu thì là một cảm giác như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "cuối_cùng_rơi_vào_tình_trạng_đau_đớn_và_tự_trách_bản_thân",
+      "label": "cuối cùng rơi vào tình trạng đau đớn và tự trách bản thân.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "thực_ra_cũng_chỉ_là_một_trải_nghiệm_trong_cuộc_sống",
+      "label": "Thực ra cũng chỉ là một trải nghiệm trong cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "và_cũng_có_thể_là_một_hoàn_cảnh_khác",
+      "label": "Và cũng có thể là một hoàn cảnh khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "tại_sao_bố_lại_nói_điều_này",
+      "label": "Tại sao bố lại nói điều này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cuối_cùng_người_con_trai_dọn_đến_3_lần",
+      "label": "Cuối cùng người con trai dọn đến 3 lần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "và_nói_con_à_con_phải_nhớ",
+      "label": "Và nói Con à Con phải nhớ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "dọn_sân_không_chỉ_là_một_mực_muốn_làm_sạch",
+      "label": "Dọn sân không chỉ là một mực muốn làm sạch",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "và_chúng_ta_không_cần_phải_rằng_buộc_mình_với_nó_nữa",
+      "label": "Và chúng ta không cần phải rằng buộc mình với nó nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    }
+  ]
+}

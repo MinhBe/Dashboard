@@ -1,0 +1,86 @@
+{
+  "source_type": "youtube",
+  "word_count": 3587,
+  "estimated_leaf_nodes": 11,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 11 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "video_hôm_nay_là_một_nội_dung_chia_sẻ_mang_tên",
+      "label": "Video hôm nay là một nội dung chia sẻ mang tên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "đây_là_một_tác_phẩm_kinh_điển",
+      "label": "Đây là một tác phẩm kinh điển",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "hay_là_một_chiếc_giày_có_thể_phứt_bỏ",
+      "label": "Hay là một chiếc giày có thể phứt bỏ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_mà_người_chồng_tưởng_chừng_là_người_thân_thuộc_nhất",
+      "label": "Vậy mà người chồng tưởng chừng là người thân thuộc nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "và_con_cái_cũng_đã_thành_tài",
+      "label": "Và con cái cũng đã thành tài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cuối_cùng_cô_ấy_có_thể_chuyển_tới_một_nơi_ở_mới",
+      "label": "Cuối cùng cô ấy có thể chuyển tới một nơi ở mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "strickland_thực_sự_là_một_gã_tồi_trong_tình_yêu",
+      "label": "Strickland thực sự là một gã tồi trong tình yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "strove_dường_như_là_một_thẻ_thống_nhất",
+      "label": "Strove dường như là một thẻ thống nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "nhưng_thực_ra_anh_ấy_là_một_họa_sĩ",
+      "label": "Nhưng thực ra anh ấy là một họa sĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "nhưng_anh_ta_lại_là_một_người_trung_thực",
+      "label": "Nhưng anh ta lại là một người trung thực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "strove_là_một_người_cao_thượng_và_vị_tha",
+      "label": "Strove là một người cao thượng và vị tha",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    }
+  ]
+}

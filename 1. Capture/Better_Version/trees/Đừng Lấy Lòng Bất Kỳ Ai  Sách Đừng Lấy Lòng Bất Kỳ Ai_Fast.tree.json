@@ -1,0 +1,486 @@
+{
+  "source_type": "youtube",
+  "word_count": 6916,
+  "estimated_leaf_nodes": 54,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 54 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_26_hành_vi_đó_như_thế_nào",
+      "label": "Vậy thì 26 hành vi đó như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "thứ_hai_đó_là_sợ_người_khác_không_vui",
+      "label": "Thứ hai đó là sợ người khác không vui",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_sợ_người_khác_không_vui_item_1",
+          "label": "[Item 1 of Thứ hai đó là sợ người khác không vui — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_sợ_người_khác_không_vui_item_2",
+          "label": "[Item 2 of Thứ hai đó là sợ người khác không vui — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nếu_không_đồng_thuận_theo_đối_phương",
+      "label": "nếu không đồng thuận theo đối phương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "thứ_tư_mỗi_ngày_đều_cố_gắng_đáp_ứng_nhu_cầu_của_nhiều_người",
+      "label": "Thứ tư, mỗi ngày đều cố gắng đáp ứng nhu cầu của nhiều người",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 24",
+      "children": [
+        {
+          "key": "thứ_tư_mỗi_ngày_đều_cố_gắng_đáp_ứng_nhu_cầu_của_nhiều_người_item_1",
+          "label": "[Item 1 of Thứ tư, mỗi ngày đều cố gắng đáp ứng nhu cầu của nhiều người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_mỗi_ngày_đều_cố_gắng_đáp_ứng_nhu_cầu_của_nhiều_người_item_2",
+          "label": "[Item 2 of Thứ tư, mỗi ngày đều cố gắng đáp ứng nhu cầu của nhiều người — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "13_sợ_bị_cô_lập",
+      "label": "13. Sợ bị cô lập",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "13_sợ_bị_cô_lập_item_1",
+          "label": "[Item 1 of 13. Sợ bị cô lập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "13_sợ_bị_cô_lập_item_2",
+          "label": "[Item 2 of 13. Sợ bị cô lập — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "14_không_có_danh_dời_rõ_ràng",
+      "label": "14. Không có danh dời rõ ràng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "14_không_có_danh_dời_rõ_ràng_item_1",
+          "label": "[Item 1 of 14. Không có danh dời rõ ràng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "14_không_có_danh_dời_rõ_ràng_item_2",
+          "label": "[Item 2 of 14. Không có danh dời rõ ràng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "15_dù_làm_gì_cũng_mong",
+      "label": "15. Dù làm gì cũng mong",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 42",
+      "children": [
+        {
+          "key": "15_dù_làm_gì_cũng_mong_item_1",
+          "label": "[Item 1 of 15. Dù làm gì cũng mong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "15_dù_làm_gì_cũng_mong_item_2",
+          "label": "[Item 2 of 15. Dù làm gì cũng mong — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "có_người_đồng_ý_mới_yên_tâm",
+      "label": "Có người đồng ý mới yên tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "17_sợ_cạnh_tranh",
+      "label": "17. Sợ cạnh tranh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "không_muốn_đưa_ra_quyết_định",
+      "label": "Không muốn đưa ra quyết định",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "trước_mặt_người_khác",
+      "label": "Trước mặt người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "21_thường_xuyên_cảm_thấy_bất_an",
+      "label": "21. Thường xuyên cảm thấy bất an",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "21_thường_xuyên_cảm_thấy_bất_an_item_1",
+          "label": "[Item 1 of 21. Thường xuyên cảm thấy bất an — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "21_thường_xuyên_cảm_thấy_bất_an_item_2",
+          "label": "[Item 2 of 21. Thường xuyên cảm thấy bất an — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "22_kìm_nén_cảm_xúc_trong_lòng_không_dám_bày_tỏ",
+      "label": "22. Kìm nén cảm xúc trong lòng, không dám bày tỏ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "22_kìm_nén_cảm_xúc_trong_lòng_không_dám_bày_tỏ_item_1",
+          "label": "[Item 1 of 22. Kìm nén cảm xúc trong lòng, không dám bày tỏ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "22_kìm_nén_cảm_xúc_trong_lòng_không_dám_bày_tỏ_item_2",
+          "label": "[Item 2 of 22. Kìm nén cảm xúc trong lòng, không dám bày tỏ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đó_là_đức_hạnh_mang_tên_cống_hiến",
+      "label": "Đó là đức hạnh mang tên cống hiến",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "đó_là_đức_hạnh_mang_tên_cống_hiến_item_1",
+          "label": "[Item 1 of Đó là đức hạnh mang tên cống hiến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đó_là_đức_hạnh_mang_tên_cống_hiến_item_2",
+          "label": "[Item 2 of Đó là đức hạnh mang tên cống hiến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "26_nội_tâm_nhiều_mâu_thuẫn",
+      "label": "26. Nội tâm nhiều mâu thuẫn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "và_tiếp_theo_đây_mình_sẽ_chia_sẻ_8_kiểu_hành_vi_điển_hình_nh",
+      "label": "Và tiếp theo đây mình sẽ chia sẻ 8 kiểu hành vi điển hình nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "và_tiếp_theo_đây_mình_sẽ_chia_sẻ_8_kiểu_hành_vi_điển_hình_nh_item_1",
+          "label": "[Item 1 of Và tiếp theo đây mình sẽ chia sẻ 8 kiểu hành vi điển hình nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_tiếp_theo_đây_mình_sẽ_chia_sẻ_8_kiểu_hành_vi_điển_hình_nh_item_2",
+          "label": "[Item 2 of Và tiếp theo đây mình sẽ chia sẻ 8 kiểu hành vi điển hình nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_tâm_lý_nào_đang_sau_ảnh_vi_này_đây",
+      "label": "Vậy thì tâm lý nào đang sau ảnh vi này đây?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "khi_còn_là_một_đứa_bé_chúng_ta_phải_phụ_thuộc_hoàn_toàn_vào",
+      "label": "Khi còn là một đứa bé, chúng ta phải phụ thuộc hoàn toàn vào cha mẹ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "bản_thân_mình_lại_càng_thêm_chán_nàn",
+      "label": "Bản thân mình lại càng thêm chán nàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_thì_cách_để_thay_đổi_kiểu_hành_vi_này_là_gì",
+      "label": "Vậy thì cách để thay đổi kiểu hành vi này là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "vậy_thì_cách_để_thay_đổi_kiểu_hành_vi_này_là_gì_item_1",
+          "label": "[Item 1 of Vậy thì cách để thay đổi kiểu hành vi này là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_cách_để_thay_đổi_kiểu_hành_vi_này_là_gì_item_2",
+          "label": "[Item 2 of Vậy thì cách để thay đổi kiểu hành vi này là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_quan_trọng_không_phải_là_trốn_tránh_mâu_thuẫn",
+      "label": "Điều quan trọng không phải là trốn tránh mâu thuẫn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "vậy_thì_hậu_quả_của_hành_vi_này_đó_là_gì",
+      "label": "Vậy thì hậu quả của hành vi này đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vậy_thì_cách_để_giải_phóng_khỏi_tình_trạng_này_như_thế_nào",
+      "label": "Vậy thì cách để giải phóng khỏi tình trạng này như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "ví_dụ_như_là_một_đứa_trẻ_thi_được_9_điểm",
+      "label": "Ví dụ như là một đứa trẻ thi được 9 điểm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "và_kỹ_thuật_giúp_chúng_ta_có_thể_dễ_dàng_áp_dụng_nhất",
+      "label": "Và kỹ thuật giúp chúng ta có thể dễ dàng áp dụng nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "hơi_thở_như_là_một_mọt_neo",
+      "label": "Hơi thở như là một mọt neo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "vậy_nên_làm_như_thế_nào",
+      "label": "Vậy nên làm như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "cuối_cùng_một_cách_đơn_giản",
+      "label": "Cuối cùng một cách đơn giản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 180"
+    },
+    {
+      "key": "chỉ_để_lấy_lại_sự_công_nhận",
+      "label": "Chỉ để lấy lại sự công nhận",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "ngoài_ra_bạn_cũng_có_thể_luyện_thói_quen",
+      "label": "Ngoài ra bạn cũng có thể luyện thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "tiếp_đến_đó_là_một_hành_vi_điển_hình_khác",
+      "label": "Tiếp đến đó là một hành vi điển hình khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "phản_ảnh_sự_thiếu_trưởng_thành_trong_nhân_cách",
+      "label": "Phản ảnh sự thiếu trưởng thành trong nhân cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "hơn_nữa_là_do_chấp_niệm_về_sự_được_công_nhận_quá_lớn",
+      "label": "Hơn nữa là do chấp niệm về sự được công nhận quá lớn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 200"
+    },
+    {
+      "key": "rồi_vậy_thì_hậu_quả_ở_đây_là_gì",
+      "label": "Rồi, vậy thì hậu quả ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 204"
+    },
+    {
+      "key": "nên_là_một_vòng_xoáy_vô_cùng_lẫn_quần",
+      "label": "nên là một vòng xoáy vô cùng lẫn quần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 208"
+    },
+    {
+      "key": "vậy_cách_để_giải_phóng",
+      "label": "Vậy cách để giải phóng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 212"
+    },
+    {
+      "key": "khỏi_xiếng_xích_tâm_lý_của_bản_thân_này_là_gì",
+      "label": "khỏi xiếng xích tâm lý của bản thân này là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 214"
+    },
+    {
+      "key": "chứ_không_còn_là_một_mục_tiêu_để_bạn_phải_chạy_theo_nữa",
+      "label": "Chứ không còn là một mục tiêu để bạn phải chạy theo nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 220"
+    },
+    {
+      "key": "đây_là_một_chuyện_bình_thường",
+      "label": "Đây là một chuyện bình thường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 224"
+    },
+    {
+      "key": "rồi_tiếp_tới_đó_là_một_hành_vi_khác_không_bao_giờ_nổi_dẫn",
+      "label": "Rồi tiếp tới đó là một hành vi khác không bao giờ nổi dẫn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 238"
+    },
+    {
+      "key": "đó_mới_là_một_con_người_toàn_ven",
+      "label": "Đó mới là một con người toàn ven",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 246"
+    },
+    {
+      "key": "bước_số_1_tự_quan_sát_chính_mình",
+      "label": "Bước số 1 Tự quan sát chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 260"
+    },
+    {
+      "key": "bước_số_2_đó_là_chấp_nhận_cảm_xúc",
+      "label": "Bước số 2 đó là chấp nhận cảm xúc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 264",
+      "children": [
+        {
+          "key": "bước_số_2_đó_là_chấp_nhận_cảm_xúc_item_1",
+          "label": "[Item 1 of Bước số 2 đó là chấp nhận cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_số_2_đó_là_chấp_nhận_cảm_xúc_item_2",
+          "label": "[Item 2 of Bước số 2 đó là chấp nhận cảm xúc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

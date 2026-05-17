@@ -1,0 +1,185 @@
+{
+  "source_type": "youtube",
+  "word_count": 4762,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": 4,
+  "minimum_yield_check": "PASS: 20 leaves >= 4 (from title)",
+  "tree": [
+    {
+      "key": "sức_khỏe_là_một_hệ_thống_tổng_thể",
+      "label": "Sức khỏe là một hệ thống tổng thể",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "điều_quan_trọng_đó_là_tận_dụng_mọi_cơ_hội",
+      "label": "Điều quan trọng đó là tận dụng mọi cơ hội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "ví_dụ_có_thể_xuống_trước_1_trạm_rồi_đi_bộ_đến_công_ty_hoặc_v",
+      "label": "Ví dụ có thể xuống trước 1 trạm rồi đi bộ đến công ty hoặc về nhà.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "bên_cạnh_đó_khi_bạn_có_nhiều_cơ_bắp_hơn",
+      "label": "Bên cạnh đó khi bạn có nhiều cơ bắp hơn,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 40",
+      "children": [
+        {
+          "key": "bên_cạnh_đó_khi_bạn_có_nhiều_cơ_bắp_hơn_item_1",
+          "label": "[Item 1 of Bên cạnh đó khi bạn có nhiều cơ bắp hơn, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bên_cạnh_đó_khi_bạn_có_nhiều_cơ_bắp_hơn_item_2",
+          "label": "[Item 2 of Bên cạnh đó khi bạn có nhiều cơ bắp hơn, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_là_510_lần_hít_đất",
+      "label": "Tiếp theo là 5-10 lần hít đất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "cuối_cùng_là_thực_hiện_mỗi_bên_510_lần",
+      "label": "Cuối cùng là thực hiện mỗi bên 5-10 lần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "đưa_một_chân_lên_phía_trước_gập_hối_thay_vì_ngồi_sồm_như_là",
+      "label": "đưa một chân lên phía trước, gập hối thay vì ngồi sồm như là squat.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "nguyên_tắc_cốt_lõi_của_bài_tập_cường_độ_cao_ngắt_quãng",
+      "label": "Nguyên tắc cốt lõi của bài tập Cường độ cao ngắt quãng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "3_đến_4_lần_mỗi_tuần",
+      "label": "3. Đến 4 lần mỗi tuần",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "3_đến_4_lần_mỗi_tuần_item_1",
+          "label": "[Item 1 of 3. Đến 4 lần mỗi tuần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "3_đến_4_lần_mỗi_tuần_item_2",
+          "label": "[Item 2 of 3. Đến 4 lần mỗi tuần — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thực_hiện_3_lần_chống_đẩy_bằng_tay",
+      "label": "Thực hiện 3 lần chống đẩy bằng tay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "tiếp_theo_thực_hiện_5_lần_nhảy_tại_chỗ",
+      "label": "Tiếp theo, thực hiện 5 lần nhảy tại chỗ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "cuối_cùng_là_lặp_lại_5_lần_chống_đẩy",
+      "label": "Cuối cùng là lặp lại 5 lần chống đẩy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "cuối_cùng_là_một_bài_tập_vô_cùng_quan_trọng_mà_chúng_ta_thườ",
+      "label": "Cuối cùng là một bài tập vô cùng quan trọng mà chúng ta thường bỏ qua",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "đầu_tiên_tìm_một_bậc_thang",
+      "label": "Đầu tiên tìm một bậc thang",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "đầu_tiên_tìm_một_bậc_thang_item_1",
+          "label": "[Item 1 of Đầu tiên tìm một bậc thang — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_tìm_một_bậc_thang_item_2",
+          "label": "[Item 2 of Đầu tiên tìm một bậc thang — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_thì_chúng_ta_hãy_bắt_đầu_từ_môi_trường_ngủ",
+      "label": "Đầu tiên thì chúng ta hãy bắt đầu từ môi trường ngủ.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 110",
+      "children": [
+        {
+          "key": "đầu_tiên_thì_chúng_ta_hãy_bắt_đầu_từ_môi_trường_ngủ_item_1",
+          "label": "[Item 1 of Đầu tiên thì chúng ta hãy bắt đầu từ môi trường ngủ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_thì_chúng_ta_hãy_bắt_đầu_từ_môi_trường_ngủ_item_2",
+          "label": "[Item 2 of Đầu tiên thì chúng ta hãy bắt đầu từ môi trường ngủ. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_nên_hãy_cải_thiện_dần_dần",
+      "label": "Vậy nên, hãy cải thiện dần dần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    }
+  ]
+}

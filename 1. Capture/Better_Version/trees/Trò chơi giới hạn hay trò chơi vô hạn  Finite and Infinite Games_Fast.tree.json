@@ -1,0 +1,107 @@
+{
+  "source_type": "youtube",
+  "word_count": 6124,
+  "estimated_leaf_nodes": 14,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 14 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_nào_là_trò_chơi_dưới_hạn_và_thế_nào_là_trò_chơi_vô_h",
+      "label": "Vậy thì nào là trò chơi dưới hạn? Và thế nào là trò chơi vô hạn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "cuối_cùng_tự_bạn_sẽ_đi_tìm_câu_trả_lời",
+      "label": "Cuối cùng, tự bạn sẽ đi tìm câu trả lời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "thì_chắc_chắn_đó_là_một_cuốn_sách_đáng_đọc",
+      "label": "thì chắc chắn đó là một cuốn sách đáng đọc.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "trò_chơi_giới_hạn_là_gì",
+      "label": "Trò chơi giới hạn là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "nhưng_tại_sao_con_người_vẫn_cảm_thấy_đau_khổ",
+      "label": "Nhưng tại sao con người vẫn cảm thấy đau khổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "đây_là_một_mâu_thuẫn_cao_nhất_của_trò_chơi_dưới_hạn",
+      "label": "Đây là một mâu thuẫn cao nhất của trò chơi dưới hạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "trong_cuốn_sách_tác_giải_nhấn_mạnh_rằng",
+      "label": "Trong cuốn sách, tác giải nhấn mạnh rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "nhưng_tại_sao_kẻ_chiến_thắng_lại_cần_quy_tắc_và_khán_giả",
+      "label": "Nhưng tại sao kẻ chiến thắng lại cần quy tắc và khán giả?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "những_hành_động_dập_khuôn_những_gì_đã_qua_cũng_là_tuân_theo",
+      "label": "Những hành động dập khuôn những gì đã qua cũng là tuân theo kịch bản.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "vậy_điều_gì_tạo_ra_sự_phá_cách_và_tính_huyền_thoại",
+      "label": "Vậy điều gì tạo ra sự phá cách và tính huyền thoại?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "và_mỗi_ngày_chúng_ta_sống_trong_một_khả_năng_mới",
+      "label": "Và mỗi ngày chúng ta sống trong một khả năng mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "tại_sao_chúng_ta_rất_khó_tập_trung_và_chạm_đến_như_vậy",
+      "label": "Tại sao chúng ta rất khó tập trung và chạm đến như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "tự_do_là_một_biến_số_của_thời_gian",
+      "label": "tự do là một biến số của thời gian.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "trò_chơi_vô_hạn_thực_sự_là_gì",
+      "label": "Trò chơi vô hạn thực sự là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    }
+  ]
+}

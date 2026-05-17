@@ -1,0 +1,100 @@
+{
+  "source_type": "youtube",
+  "word_count": 4276,
+  "estimated_leaf_nodes": 13,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 13 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "và_ngay_cả_bản_thân_chúng_ta_cũng_như_thế",
+      "label": "Và ngay cả bản thân chúng ta cũng như thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "thật_ra_cuộc_sống_là_một_tấm_gương_phản_chiếu_diện_mạo_của_c",
+      "label": "Thật ra cuộc sống là một tấm gương phản chiếu diện mạo của chính bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "một_tâm_hồn_thú_vị_là_một_tâm_hồn",
+      "label": "Một tâm hồn thú vị là một tâm hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_vẫn_bị_gửi_đi_cô_nhi_viện",
+      "label": "Cuối cùng vẫn bị gửi đi cô nhi viện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "chỉ_vì_là_một_cô_bé_tóc_đỏ",
+      "label": "Chỉ vì là một cô bé tóc đỏ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "thế_nhưng_mà_bây_giờ_mỗi_lần_mình_nói_chuyện_với_bạn",
+      "label": "Thế nhưng mà bây giờ mỗi lần mình nói chuyện với bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "sinh_mệnh_chỉ_có_thể_là_một_mảnh_đất_khô_cằn",
+      "label": "Sinh mệnh chỉ có thể là một mảnh đất khô cằn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "hay_là_một_con_chăn_đang_nuốt_chửng_một_con_voi_khổng_lồ",
+      "label": "Hay là một con chăn đang nuốt chửng một con voi khổng lồ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "tại_sao_người_lớn_sống_thật_đẻ_nhạt",
+      "label": "Tại sao người lớn sống thật đẻ nhạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "vậy_để_có_cuộc_sống_thú_vị_hơn_một_chút_thì_phải_làm_sao",
+      "label": "Vậy để có cuộc sống thú vị hơn một chút thì phải làm sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "sự_lương_thiện_là_một_ngôn_ngữ_phổ_biến_trên_thế_giới",
+      "label": "Sự lương thiện là một ngôn ngữ phổ biến trên thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "những_bài_học_tuyệt_vời",
+      "label": "Những bài học tuyệt vời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "anne_chính_là_một_tâm_hồn_thú_vị",
+      "label": "Anne chính là một tâm hồn thú vị",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    }
+  ]
+}

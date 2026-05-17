@@ -1,0 +1,174 @@
+{
+  "source_type": "youtube",
+  "word_count": 5980,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "ông_không_chỉ_là_một_bậc_thầy_trong_giới_đầu_tư",
+      "label": "Ông không chỉ là một bậc thầy trong giới đầu tư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đầu_tiên_đó_là_vứt_bỏ_đi_tâm_đối_kỵ",
+      "label": "Đầu tiên đó là vứt bỏ đi tâm đối kỵ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_thì_cuối_cùng_nhất_định_sẽ_có_người_ra_về_thế_không",
+      "label": "Vậy thì cuối cùng nhất định sẽ có người ra về thế không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_nó_chỉ_khiến_ta_mất_tập_trung_và_phân_tán_sức_mạnh",
+      "label": "Vậy nó chỉ khiến ta mất tập trung và phân tán sức mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "bước_chân_ta_đi_mới_vững_vàng",
+      "label": "Bước chân ta đi mới vững vàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "vậy_nên_không_bao_giờ_ngừng_học_hỏi",
+      "label": "Vậy nên không bao giờ ngừng học hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "trí_tuệ_phổ_thế_là_gì",
+      "label": "Trí tuệ phổ thế là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "điều_này_không_phải_là_một_sai_lầm",
+      "label": "Điều này không phải là một sai lầm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "điều_này_không_phải_là_một_sai_lầm_item_1",
+          "label": "[Item 1 of Điều này không phải là một sai lầm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_này_không_phải_là_một_sai_lầm_item_2",
+          "label": "[Item 2 of Điều này không phải là một sai lầm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_đối_với_một_người_muốn_trở_thành_nhà_đầu_tư_hiệu_qu",
+      "label": "Ngoài ra đối với một người muốn trở thành nhà đầu tư hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "ngoài_ra_khi_munger_học_luật_ở_harvard",
+      "label": "Ngoài ra khi Munger học luật ở Harvard",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "bằng_cấp_chỉ_là_một_phần_chứng_minh_cho_khả_năng_học_tập",
+      "label": "Bằng cấp chỉ là một phần chứng minh cho khả năng học tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "ngoài_ra_hàng_năm_ông_ấy_còn_tự_đánh_giá_lại_mô_hình_tư_duy",
+      "label": "Ngoài ra hàng năm, ông ấy còn tự đánh giá lại mô hình tư duy của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "và_đây_là_một_chiếc_lý_sống",
+      "label": "Và đây là một chiếc lý sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "trong_cuốn_sách_này_có_nói_khi_bắt_đầu_đầu_tư",
+      "label": "Trong cuốn sách này có nói khi bắt đầu đầu tư,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "hơn_nữa_trong_20_lần_đó_bạn_phải_đủ_kiên_nhẫn",
+      "label": "Hơn nữa, trong 20 lần đó bạn phải đủ kiên nhẫn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "thứ_nhất_đó_là_khuyên_hướng_tâm_lý_tự_bóp_méo_vô_cùng_tai_hạ",
+      "label": "Thứ nhất, đó là khuyên hướng tâm lý tự bóp méo vô cùng tai hại.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 148",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_khuyên_hướng_tâm_lý_tự_bóp_méo_vô_cùng_tai_hạ_item_1",
+          "label": "[Item 1 of Thứ nhất, đó là khuyên hướng tâm lý tự bóp méo vô cùng tai hại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_khuyên_hướng_tâm_lý_tự_bóp_méo_vô_cùng_tai_hạ_item_2",
+          "label": "[Item 2 of Thứ nhất, đó là khuyên hướng tâm lý tự bóp méo vô cùng tai hại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_còn_có_sự_biến_dạng_của_lòng_tự_trọng",
+      "label": "Ngoài ra còn có sự biến dạng của lòng tự trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "và_chọn_cuộc_sống_tương_đối_ít_người_biết_đến",
+      "label": "Và chọn cuộc sống tương đối ít người biết đến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "ông_là_một_người_điềm_đạc_thích_yên_tĩnh_và_đầy_trí_tuệ",
+      "label": "Ông là một người điềm đạc, thích yên tĩnh và đầy trí tuệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    }
+  ]
+}

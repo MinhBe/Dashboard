@@ -1,0 +1,166 @@
+{
+  "source_type": "youtube",
+  "word_count": 2935,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "bên_cạnh_đó_anh_ấy_cũng_là_một_ceo_của_công_ty_xuất_bản_sách",
+      "label": "Bên cạnh đó anh ấy cũng là một CEO của công ty xuất bản sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "thứ_nhất_là_chúng_ta_chỉ_cần_không_tạo_cho_đối_phương_áp_lực",
+      "label": "Thứ nhất là chúng ta chỉ cần không tạo cho đối phương áp lực",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "thứ_nhất_là_chúng_ta_chỉ_cần_không_tạo_cho_đối_phương_áp_lực_item_1",
+          "label": "[Item 1 of Thứ nhất là chúng ta chỉ cần không tạo cho đối phương áp lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_là_chúng_ta_chỉ_cần_không_tạo_cho_đối_phương_áp_lực_item_2",
+          "label": "[Item 2 of Thứ nhất là chúng ta chỉ cần không tạo cho đối phương áp lực — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bạn_có_thể_nhìn_vào_mắt_đối_phương_khi_mà_đang_nói_chuyện_vớ",
+      "label": "Bạn có thể nhìn vào mắt đối phương khi mà đang nói chuyện với họ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "điều_thứ_2_là_bạn_có_thể_phản_hồi",
+      "label": "Điều thứ 2 là bạn có thể phản hồi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "điều_thứ_2_là_bạn_có_thể_phản_hồi_item_1",
+          "label": "[Item 1 of Điều thứ 2 là bạn có thể phản hồi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_2_là_bạn_có_thể_phản_hồi_item_2",
+          "label": "[Item 2 of Điều thứ 2 là bạn có thể phản hồi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_thứ_hai_thứ_ba",
+      "label": "Thứ nhất, thứ hai, thứ ba",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_item_1",
+          "label": "[Item 1 of Thứ nhất, thứ hai, thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_item_2",
+          "label": "[Item 2 of Thứ nhất, thứ hai, thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_item_3",
+          "label": "[Item 3 of Thứ nhất, thứ hai, thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_thứ_hai_thứ_ba_vv",
+      "label": "Thứ nhất, thứ hai, thứ ba, v.v",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_vv_item_1",
+          "label": "[Item 1 of Thứ nhất, thứ hai, thứ ba, v.v — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_vv_item_2",
+          "label": "[Item 2 of Thứ nhất, thứ hai, thứ ba, v.v — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_thứ_hai_thứ_ba",
+      "label": "Thứ nhất, thứ hai, thứ ba",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_item_1",
+          "label": "[Item 1 of Thứ nhất, thứ hai, thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_thứ_hai_thứ_ba_item_2",
+          "label": "[Item 2 of Thứ nhất, thứ hai, thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_còn_một_công_thức_vạn_năng_mà_bạn_có_thể_áp_dụng",
+      "label": "Ngoài ra còn một công thức vạn năng mà bạn có thể áp dụng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_là_cả_đám_người_kia",
+      "label": "Vậy là cả đám người kia",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "và_những_lời_nói_của_chúng_ta_nói_ra_cũng_cần_phải_có_phẩm_c",
+      "label": "Và những lời nói của chúng ta nói ra cũng cần phải có phẩm cách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    }
+  ]
+}

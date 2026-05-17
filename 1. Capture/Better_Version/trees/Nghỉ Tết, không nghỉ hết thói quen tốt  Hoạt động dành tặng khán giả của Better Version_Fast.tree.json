@@ -1,0 +1,32 @@
+{
+  "source_type": "youtube",
+  "word_count": 666,
+  "estimated_leaf_nodes": 2,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 2 leaves < 8 minimum (youtube/medium) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "và_cũng_là_để_chúng_ta_có_cơ_hội_kết_nối_sâu_hơn",
+      "label": "và cũng là để chúng ta có cơ hội kết nối sâu hơn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 6",
+      "children": [
+        {
+          "key": "và_cũng_là_để_chúng_ta_có_cơ_hội_kết_nối_sâu_hơn_item_1",
+          "label": "[Item 1 of và cũng là để chúng ta có cơ hội kết nối sâu hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_cũng_là_để_chúng_ta_có_cơ_hội_kết_nối_sâu_hơn_item_2",
+          "label": "[Item 2 of và cũng là để chúng ta có cơ hội kết nối sâu hơn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+==================================================
+CRAWL COMPLETE
+==================================================
+Weapons:       192
+Equipment:     148
+Martial Arts:  330
+Achievements:  172
+Items (cons):  345
+Items (mat):   195
+Items (other): 319
+Companions:    32
+Traits:        140
+Guides:        57
+---
+TOTAL:         1930 entries
+
+JSON files saved:
+  codex.json: 733 KB
+  traits.json: 30 KB
+  companions.json: 6 KB
+  guides.json: 523 KB
+  all_data.json: 1327 KB

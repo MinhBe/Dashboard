@@ -1,0 +1,85 @@
+{
+  "source_type": "youtube",
+  "word_count": 284,
+  "estimated_leaf_nodes": 7,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 7 leaves >= 3 minimum (youtube/short)",
+  "tree": [
+    {
+      "key": "thứ_nhất",
+      "label": "Thứ nhất,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "thứ_nhất_item_1",
+          "label": "[Item 1 of Thứ nhất, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_item_2",
+          "label": "[Item 2 of Thứ nhất, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_vận_động_quyết_định_chất_lượng_cuộc_sống",
+      "label": "Thứ hai, vận động quyết định chất lượng cuộc sống",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 6",
+      "children": [
+        {
+          "key": "thứ_hai_vận_động_quyết_định_chất_lượng_cuộc_sống_item_1",
+          "label": "[Item 1 of Thứ hai, vận động quyết định chất lượng cuộc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_vận_động_quyết_định_chất_lượng_cuộc_sống_item_2",
+          "label": "[Item 2 of Thứ hai, vận động quyết định chất lượng cuộc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "sớm_muộn_gì_cũng_sẽ_bị_tù_đọc",
+      "label": "Sớm muộn gì cũng sẽ bị tù đọc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "thứ_ba_rước_ngủ_quyết_định_trạng_thái_cuộc_sống",
+      "label": "Thứ ba, rước ngủ quyết định trạng thái cuộc sống",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "thứ_ba_rước_ngủ_quyết_định_trạng_thái_cuộc_sống_item_1",
+          "label": "[Item 1 of Thứ ba, rước ngủ quyết định trạng thái cuộc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_rước_ngủ_quyết_định_trạng_thái_cuộc_sống_item_2",
+          "label": "[Item 2 of Thứ ba, rước ngủ quyết định trạng thái cuộc sống — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

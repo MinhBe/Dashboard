@@ -1,0 +1,53 @@
+{
+  "source_type": "youtube",
+  "word_count": 4111,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_tôi_lại_cảm_thấy_như_vậy",
+      "label": "tại sao tôi lại cảm thấy như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 36",
+      "children": [
+        {
+          "key": "tại_sao_tôi_lại_cảm_thấy_như_vậy_item_1",
+          "label": "[Item 1 of tại sao tôi lại cảm thấy như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_tôi_lại_cảm_thấy_như_vậy_item_2",
+          "label": "[Item 2 of tại sao tôi lại cảm thấy như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_weather_đã_chọn_cách_chấm_dứt_toàn_bộ_phận_mệnh",
+      "label": "Tại sao Weather đã chọn cách chấm dứt toàn bộ phận mệnh?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "weather_luôn_coi_mình_là_một_họa_sĩ",
+      "label": "Weather luôn coi mình là một họa sĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "tại_sao_weather_không_nhất_cọ_lên_vẽ",
+      "label": "Tại sao Weather không nhất cọ lên vẽ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    }
+  ]
+}

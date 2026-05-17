@@ -1,0 +1,202 @@
+{
+  "source_type": "youtube",
+  "word_count": 4385,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 25 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "từ_đó_tiết_lộ_bản_chất_của_việc_học_là_gì",
+      "label": "Từ đó tiết lộ bản chất của việc học là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "đó_là",
+      "label": "đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "mục_đích_cuối_cùng_của_việc_học_là_gì",
+      "label": "Mục đích cuối cùng của việc học là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "có_một_trường_hợp_đưa_ra_trong_sách_như_thế_này",
+      "label": "Có một trường hợp đưa ra trong sách như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "phi_công_matt_brown_là_một_người_mới_bước_vào_nghề",
+      "label": "Phi công Matt Brown là một người mới bước vào nghề",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_thì_hãy_nhìn_vào_những_thời_điểm_then_chút",
+      "label": "Vậy thì hãy nhìn vào những thời điểm then chút.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_thì_sai_lầm_thứ_nhất_của_chúng_ta_đó_là",
+      "label": "Vậy thì sai lầm thứ nhất của chúng ta đó là",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 42",
+      "children": [
+        {
+          "key": "vậy_thì_sai_lầm_thứ_nhất_của_chúng_ta_đó_là_item_1",
+          "label": "[Item 1 of Vậy thì sai lầm thứ nhất của chúng ta đó là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_sai_lầm_thứ_nhất_của_chúng_ta_đó_là_item_2",
+          "label": "[Item 2 of Vậy thì sai lầm thứ nhất của chúng ta đó là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "phương_pháp_học_hiệu_quả_nhất",
+      "label": "Phương pháp học hiệu quả nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "có_11_nhà_tâm_lý_học_nhận_thức_đã_dành_ra_10_năm",
+      "label": "Có 11 nhà tâm lý học nhận thức đã dành ra 10 năm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "đây_là_một_phương_pháp_học_thực_sự_hiệu_quả",
+      "label": "Đây là một phương pháp học thực sự hiệu quả.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "phương_pháp_thêm_chốt_ở_đây_đó_là_làm_bài_kiểm_tra",
+      "label": "Phương pháp thêm chốt ở đây đó là làm bài kiểm tra.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "vậy_thì_tại_sao_nhiều_người_lại_ghét_làm_bài_kiểm_tra_đến_vậ",
+      "label": "Vậy thì tại sao nhiều người lại ghét làm bài kiểm tra đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "học_tập_là_một_quá_trình_thách_thức_bản_thân",
+      "label": "Học tập là một quá trình thách thức bản thân.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_truy_xuất_càng_nhiều_càng_tốt",
+      "label": "Vậy truy xuất càng nhiều càng tốt",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 92",
+      "children": [
+        {
+          "key": "vậy_truy_xuất_càng_nhiều_càng_tốt_item_1",
+          "label": "[Item 1 of Vậy truy xuất càng nhiều càng tốt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_truy_xuất_càng_nhiều_càng_tốt_item_2",
+          "label": "[Item 2 of Vậy truy xuất càng nhiều càng tốt — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_chính_là_phương_pháp_học_phê_mình",
+      "label": "Đây chính là phương pháp học phê mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "cũng_là_một_dạng_luyện_tập_truy_xuất",
+      "label": "Cũng là một dạng luyện tập truy xuất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "ngoài_ra_cuốn_sách_nhấn_mạnh_rằng",
+      "label": "ngoài ra cuốn sách nhấn mạnh rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_thì_làm_thế_nào_để_nâng_cao_hiệu_quả",
+      "label": "Vậy thì làm thế nào để nâng cao hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "đầu_tiên_đó_là_truy_xuất_ngắt_quãng",
+      "label": "Đầu tiên đó là truy xuất ngắt quãng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "phương_pháp_thứ_3",
+      "label": "Phương pháp thứ 3",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "đây_là_một_chủ_đề_khác_bao_gồm_tư_duy_phân_loại_tư_duy_hệ_th",
+      "label": "Đây là một chủ đề khác bao gồm tư duy phân loại, tư duy hệ thống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    }
+  ]
+}

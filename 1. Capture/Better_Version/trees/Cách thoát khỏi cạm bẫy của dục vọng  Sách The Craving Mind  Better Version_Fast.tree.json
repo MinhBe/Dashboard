@@ -1,0 +1,184 @@
+{
+  "source_type": "youtube",
+  "word_count": 6367,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 25 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "6_kiểu_nghiện_mà_chúng_ta_thường_mắc_phải_là_gì",
+      "label": "6 kiểu nghiện mà chúng ta thường mắc phải là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_thiên_vị_chủ_quan_là_gì",
+      "label": "Vậy, thiên vị chủ quan là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "đây_là_một_đánh_giá_sai_mang_tính_chủ_quan_về_bản_thân",
+      "label": "Đây là một đánh giá sai, mang tính chủ quan về bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_làm_cách_nào_để_vượt_qua_được_cân_nghiệp_này",
+      "label": "Vậy làm cách nào để vượt qua được cân nghiệp này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "đó_là_phương_pháp_ring_trong_tránh_niệm",
+      "label": "Đó là phương pháp ring Trong tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "phương_pháp_này_sẽ_giúp_cho_chúng_ta_nhìn_rõ_cân_nghiện",
+      "label": "Phương pháp này sẽ giúp cho chúng ta nhìn rõ cân nghiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tại_sao_chúng_ta_không_trú_tâm",
+      "label": "Tại sao chúng ta không trú tâm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_chúng_ta_có_thể_học_cách_vứt_điện_thoại_ipad_sang_một_bê",
+      "label": "Vậy chúng ta có thể học cách vứt điện thoại iPad sang một bên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "vậy_một_người",
+      "label": "Vậy một người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "rối_loạn_nhân_cách_ái_kỷ",
+      "label": "rối loạn nhân cách ái kỷ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "trong_cuốn_sách_tạm_dịch_là",
+      "label": "trong cuốn sách Tạm Dịch Là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_cách_tốt_nhất_để_thoát_ra_khỏi_đó_là_gì",
+      "label": "Vậy cách tốt nhất để thoát ra khỏi đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "nghiện_phân_tâm_là_gì",
+      "label": "Nghiện phân tâm là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "tiếp_theo_đó_là_nghiện_suy_ngẫm",
+      "label": "Tiếp theo đó là nghiện suy ngẫm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "vậy_thì_việc_đầu_tiên_tác_giả_đã_khuyên_rằng",
+      "label": "Vậy thì việc đầu tiên tác giả đã khuyên rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    },
+    {
+      "key": "vậy_thì_mình_sẽ_cố_gắng_hơn_để_lần_sau_có_thể_được_67_triệu",
+      "label": "Vậy thì mình sẽ cố gắng hơn để lần sau có thể được 6-7 triệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "vậy_là_mình_thật_tài_giỏi",
+      "label": "Vậy là mình thật tài giỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "tại_sao_người_ta_lại_thường_tiền_cho_bạn",
+      "label": "Tại sao người ta lại thường tiền cho bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "phương_pháp_thứ_2_có_đề_cập_đến_là",
+      "label": "Phương pháp thứ 2 có đề cập đến là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "ngoài_ra_quan_trọng_không_kém",
+      "label": "Ngoài ra, quan trọng không kém",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "ngoài_ra_tác_giả_còn_đưa_ra_2_phương_pháp_nữa",
+      "label": "Ngoài ra tác giả còn đưa ra 2 phương pháp nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "trong_cuốn_sách_flow_đã_trình_bày_rất_rõ_và_chi_tiết_về_vấn",
+      "label": "Trong cuốn sách Flow đã trình bày rất rõ và chi tiết về vấn đề này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "cuối_cùng_tác_giả_đã_chỉ_ra",
+      "label": "Cuối cùng tác giả đã chỉ ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 196"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_loại_bỏ_khả_năng_này",
+      "label": "Vậy chúng ta phải loại bỏ khả năng này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 202"
+    },
+    {
+      "key": "bằng_sự_kiên_cường_là_gì",
+      "label": "Bằng sự kiên cường là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "source_type": "youtube",
+  "word_count": 2351,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 8 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "và_ông_bị_coi_là_một_ông_lão_đen_đuối_nhất_cái_làng_trại",
+      "label": "Và ông bị coi là một ông lão đen đuối nhất cái làng trại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "cũng_giống_như_là_một_bước_chân_rung",
+      "label": "Cũng giống như là một bước chân rung",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "chính_là_một_sự_chờ_đợi",
+      "label": "chính là một sự chờ đợi,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "hay_là_một_thành_công",
+      "label": "hay là một thành công",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "hay_là_một_thành_công",
+      "label": "hay là một thành công",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "cái_mà_ông_mang_về_được",
+      "label": "Cái mà ông mang về được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "chỉ_là_một_bộ_xương_bị_dề_sạch_thịt",
+      "label": "Chỉ là một bộ xương bị dề sạch thịt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "đọc_nó_giống_như_là_một_ngọn_hải_đăng_luôn_soi_đường_cho_chí",
+      "label": "Đọc nó giống như là một ngọn hải đăng, luôn soi đường cho chính bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    }
+  ]
+}

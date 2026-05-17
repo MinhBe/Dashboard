@@ -1,0 +1,236 @@
+{
+  "source_type": "youtube",
+  "word_count": 6644,
+  "estimated_leaf_nodes": 26,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 26 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_khái_niệm_đại_diện_cho_một_lối_sống_mới",
+      "label": "Đây là một khái niệm đại diện cho một lối sống mới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "cuối_cùng_buộc_phải_dọn_về_sống_chung_nhà_với_mẹ_chồng",
+      "label": "Cuối cùng buộc phải dọn về, sống chung nhà với mẹ chồng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "với_những_điều_mà_mình_đang_sở_hữu",
+      "label": "với những điều mà mình đang sở hữu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_tác_giả_đã_làm_gì_giữa_những_bề_tắc_này",
+      "label": "Vậy tác giả đã làm gì giữa những bề tắc này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "cô_nói_đây_là_một_sự_tỉnh_thức_quý_giá",
+      "label": "Cô nói đây là một sự tỉnh thức quý giá,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "nơi_rác_thải_nhựa_chúng_ta_thải_ra",
+      "label": "nơi rác thải nhựa chúng ta thải ra.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "cho_những_điều_mà_bạn_yêu_thích",
+      "label": "cho những điều mà bạn yêu thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_sẽ_đi_vào_15_ngày_đầu",
+      "label": "Đầu tiên chúng ta sẽ đi vào 15 ngày đầu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "lý_do_bạn_thực_hiện_lối_sống_không_lãng_phí_là_gì",
+      "label": "lý do bạn thực hiện lối sống không lãng phí là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "tiếp_theo_đó_là_reduce_giảm_thiểu_hạn_chế_tối_đa_nhu_cầu_mua",
+      "label": "Tiếp theo đó là Reduce, giảm thiểu, hạn chế tối đa nhu cầu mua sắm.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 72",
+      "children": [
+        {
+          "key": "tiếp_theo_đó_là_reduce_giảm_thiểu_hạn_chế_tối_đa_nhu_cầu_mua_item_1",
+          "label": "[Item 1 of Tiếp theo đó là Reduce, giảm thiểu, hạn chế tối đa nhu cầu mua sắm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_đó_là_reduce_giảm_thiểu_hạn_chế_tối_đa_nhu_cầu_mua_item_2",
+          "label": "[Item 2 of Tiếp theo đó là Reduce, giảm thiểu, hạn chế tối đa nhu cầu mua sắm. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_đó_là_túi_có_thể_tái_sử_dụng_lại_có_thể_gấp_gọn",
+      "label": "Đầu tiên đó là túi có thể tái sử dụng, lại có thể gấp gọn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "thứ_tư_đó_là_chuẩn_bị_một_ống_hút_bằng_thép_không_gì",
+      "label": "Thứ tư đó là chuẩn bị một ống hút bằng thép không gì",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 92",
+      "children": [
+        {
+          "key": "thứ_tư_đó_là_chuẩn_bị_một_ống_hút_bằng_thép_không_gì_item_1",
+          "label": "[Item 1 of Thứ tư đó là chuẩn bị một ống hút bằng thép không gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_đó_là_chuẩn_bị_một_ống_hút_bằng_thép_không_gì_item_2",
+          "label": "[Item 2 of Thứ tư đó là chuẩn bị một ống hút bằng thép không gì — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_đó_là_bạn_có_thể_chi_tiền_để_trải_nghiệm_điều_mới",
+      "label": "Thứ ba, đó là bạn có thể chi tiền để trải nghiệm điều mới",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 100",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_bạn_có_thể_chi_tiền_để_trải_nghiệm_điều_mới_item_1",
+          "label": "[Item 1 of Thứ ba, đó là bạn có thể chi tiền để trải nghiệm điều mới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_bạn_có_thể_chi_tiền_để_trải_nghiệm_điều_mới_item_2",
+          "label": "[Item 2 of Thứ ba, đó là bạn có thể chi tiền để trải nghiệm điều mới — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_đó_là",
+      "label": "Thứ tư đó là",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 104",
+      "children": [
+        {
+          "key": "thứ_tư_đó_là_item_1",
+          "label": "[Item 1 of Thứ tư đó là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_đó_là_item_2",
+          "label": "[Item 2 of Thứ tư đó là — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_cách_rất_thông_minh",
+      "label": "Đây là một cách rất thông minh",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "đây_là_một_cách_rất_thông_minh_item_1",
+          "label": "[Item 1 of Đây là một cách rất thông minh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_cách_rất_thông_minh_item_2",
+          "label": "[Item 2 of Đây là một cách rất thông minh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hơn_nữa_ngành_công_nghiệp_luôn_tập_trung_vào_2_điểm_bán_hàng",
+      "label": "Hơn nữa ngành công nghiệp luôn tập trung vào 2 điểm bán hàng cốt lõi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "bên_cạnh_đó_nhiều_người_trẻ_được_tiêm_vào_đầu_một_ý_niệm_rằn",
+      "label": "Bên cạnh đó nhiều người trẻ được tiêm vào đầu một ý niệm rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "tại_sao_không_thử_cùng_nhau_nấu_một_vài_món_ngon_ở_nhà",
+      "label": "Tại sao không thử cùng nhau nấu một vài món ngon ở nhà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    },
+    {
+      "key": "còn_bạn_danh_sách_các_nghi_lễ_chăm_sóc_bản_thân_là_gì",
+      "label": "Còn bạn, danh sách các nghi lễ chăm sóc bản thân là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 166"
+    },
+    {
+      "key": "tiếp_theo_buông_bỏ_tất_cả_những_thứ_không_thực_sự_cần_thiết",
+      "label": "Tiếp theo buông bỏ tất cả những thứ không thực sự cần thiết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "mà_còn_là_một_quả_lặng_lẽ",
+      "label": "Mà còn là một quả lặng lẽ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    }
+  ]
+}

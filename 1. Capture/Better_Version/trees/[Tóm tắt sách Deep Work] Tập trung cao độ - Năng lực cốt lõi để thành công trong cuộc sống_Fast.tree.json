@@ -1,0 +1,192 @@
+{
+  "source_type": "youtube",
+  "word_count": 2614,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_vậy",
+      "label": "Tại sao vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_khắc_phục_được_điều_này",
+      "label": "Vậy, làm thế nào để chúng ta khắc phục được điều này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "deep_work_là_gì",
+      "label": "Deep Work là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_deep_work_mang_lại_ý_nghĩa_gì_cho_chúng_ta",
+      "label": "Vậy, Deep Work mang lại ý nghĩa gì cho chúng ta?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_trở_thành_một_trong_những_người",
+      "label": "Vậy làm thế nào để chúng ta trở thành một trong những người như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 30",
+      "children": [
+        {
+          "key": "vậy_làm_thế_nào_để_chúng_ta_trở_thành_một_trong_những_người_item_1",
+          "label": "[Item 1 of Vậy làm thế nào để chúng ta trở thành một trong những người như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_chúng_ta_trở_thành_một_trong_những_người_item_2",
+          "label": "[Item 2 of Vậy làm thế nào để chúng ta trở thành một trong những người như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "trong_cuốn_sách_này_có_nhắc_tới_một_từ_đó_là_flow",
+      "label": "Trong cuốn sách này có nhắc tới một từ đó là Flow.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "flow_là_một_khái_niệm_do_nhà_tâm_lý_học_mike_hurley_đưa_ra",
+      "label": "Flow là một khái niệm do nhà tâm lý học Mike Hurley đưa ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_được_năng_lượng_tiếp_quốc",
+      "label": "Vậy, làm thế nào để chúng ta có được năng lượng tiếp quốc?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "có_4_loại_mô_hình_được_xây_dựng_dựa_trên_4_chiếc_lý_khác_nha",
+      "label": "Có 4 loại mô hình được xây dựng dựa trên 4 chiếc lý khác nhau",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "có_4_loại_mô_hình_được_xây_dựng_dựa_trên_4_chiếc_lý_khác_nha_item_1",
+          "label": "[Item 1 of Có 4 loại mô hình được xây dựng dựa trên 4 chiếc lý khác nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_4_loại_mô_hình_được_xây_dựng_dựa_trên_4_chiếc_lý_khác_nha_item_2",
+          "label": "[Item 2 of Có 4 loại mô hình được xây dựng dựa trên 4 chiếc lý khác nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "có_4_loại_mô_hình_được_xây_dựng_dựa_trên_4_chiếc_lý_khác_nha_item_3",
+          "label": "[Item 3 of Có 4 loại mô hình được xây dựng dựa trên 4 chiếc lý khác nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "có_4_loại_mô_hình_được_xây_dựng_dựa_trên_4_chiếc_lý_khác_nha_item_4",
+          "label": "[Item 4 of Có 4 loại mô hình được xây dựng dựa trên 4 chiếc lý khác nhau — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        }
+      ]
+    },
+    {
+      "key": "họ_vẫn_có_thể_tập_trung_vào_công_việc_của_họ",
+      "label": "Họ vẫn có thể tập trung vào công việc của họ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "nhưng_mô_hình_nào_cũng_có_tính_tương_đối",
+      "label": "Nhưng mô hình nào cũng có tính tương đối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "khái_niệm_này_đến_từ_một_cuốn_sách_khác_mang_tên_là_the_one",
+      "label": "Khái niệm này đến từ một cuốn sách khác mang tên là The One Thing",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "khái_niệm_này_đến_từ_một_cuốn_sách_khác_mang_tên_là_the_one_item_1",
+          "label": "[Item 1 of Khái niệm này đến từ một cuốn sách khác mang tên là The One Thing — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "khái_niệm_này_đến_từ_một_cuốn_sách_khác_mang_tên_là_the_one_item_2",
+          "label": "[Item 2 of Khái niệm này đến từ một cuốn sách khác mang tên là The One Thing — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "phương_pháp_này_chúng_mình_tạm_dịch_là_phương_pháp_dây_xích",
+      "label": "Phương pháp này chúng mình tạm dịch là phương pháp dây xích",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 76",
+      "children": [
+        {
+          "key": "phương_pháp_này_chúng_mình_tạm_dịch_là_phương_pháp_dây_xích_item_1",
+          "label": "[Item 1 of Phương pháp này chúng mình tạm dịch là phương pháp dây xích — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "phương_pháp_này_chúng_mình_tạm_dịch_là_phương_pháp_dây_xích_item_2",
+          "label": "[Item 2 of Phương pháp này chúng mình tạm dịch là phương pháp dây xích — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nếu_như_bạn_là_một_người_cuồng_công_việc",
+      "label": "Nếu như bạn là một người cuồng công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "thiền_định_cũng_là_một_phương_pháp_hữu_ích",
+      "label": "Thiền định cũng là một phương pháp hữu ích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    }
+  ]
+}

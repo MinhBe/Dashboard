@@ -1,0 +1,93 @@
+{
+  "source_type": "youtube",
+  "word_count": 2941,
+  "estimated_leaf_nodes": 12,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 12 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "mà_còn_là_một_câu_chuyện_ngụ_nguồn_sâu_sắc",
+      "label": "mà còn là một câu chuyện ngụ nguồn sâu sắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "họ_chỉ_thấy_đó_là_một_chiếc_mũ",
+      "label": "Họ chỉ thấy đó là một chiếc mũ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "bước_vào_thế_giới_người_lớn",
+      "label": "Bước vào thế giới người lớn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "giữ_một_thế_giới_đầy_phức_tạp",
+      "label": "giữ một thế giới đầy phức tạp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "trong_cuốn_sách_tạm_dịch_là_phá_vỡ_các_mô_hình_suy_nghĩ_tiêu",
+      "label": "Trong cuốn sách, tạm dịch là phá vỡ các mô hình suy nghĩ tiêu cực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "tại_sao_có_những_người_có_thể_cô_đơn_đến_như_ấy",
+      "label": "Tại sao có những người có thể cô đơn đến như ấy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tìm_kiếm_sự_gần_gũi_và_tránh_né_cô_đơn",
+      "label": "Tìm kiếm sự gần gũi Và tránh né cô đơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "cảm_giác_cô_đơn_là_một_phần_không_thể_tránh_khỏi",
+      "label": "Cảm giác cô đơn là một phần không thể tránh khỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "vậy_tại_sao_lại_phải_thắp_đèn",
+      "label": "Vậy tại sao lại phải thắp đèn?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "đây_chính_là_một_cách_giải_thích_tuyệt_vời_về_cô_đơn",
+      "label": "Đây chính là một cách giải thích tuyệt vời về cô đơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "cuối_cùng_cũng_chỉ_là_mây_khói_thoáng_qua",
+      "label": "Cuối cùng cũng chỉ là mây khói thoáng qua",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "cô_đơn_là_một_phần_của_sự_trưởng_thành",
+      "label": "Cô đơn là một phần của sự trưởng thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    }
+  ]
+}

@@ -1,0 +1,156 @@
+{
+  "source_type": "youtube",
+  "word_count": 4132,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_nên_kết_quả_là",
+      "label": "Vậy nên kết quả là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "ông_ấy_là_một_trong_số_ít_những_nhà_văn_người_mỹ",
+      "label": "Ông ấy là một trong số ít những nhà văn người Mỹ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_là_vào_năm_28_tuổi",
+      "label": "Vậy là vào năm 28 tuổi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "cuối_cùng_chúng_được_cô_động_lại",
+      "label": "Cuối cùng chúng được cô động lại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "trong_đường_đời_như_là_một_cuộc_chạy_đua_marathon_này",
+      "label": "Trong đường đời như là một cuộc chạy đua marathon này,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "bước_đúng_nhịp_điệu_chính_mình",
+      "label": "Bước đúng nhịp điệu chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "tại_sao_tôi_lại_phải_làm_những_việc_mình_không_thích",
+      "label": "Tại sao tôi lại phải làm những việc mình không thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "cho_dù_lựa_chọn_của_bạn_là_gì",
+      "label": "Cho dù lựa chọn của bạn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "bước_chân_đúng_nhịp",
+      "label": "Bước chân đúng nhịp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "dẫn_lối_ta_vào_hạnh_phúc",
+      "label": "Dẫn lối ta vào hạnh phúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "đôi_khi_là_một_chú_chim_sạy_nhút_nhát",
+      "label": "Đôi khi là một chú chim sạy nhút nhát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "và_đôi_khi_là_một_chú_thỏ_ngốc_nghếch_đi_lạc",
+      "label": "Và đôi khi là một chú thỏ ngốc nghếch đi lạc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "đầu_tiên_từ_phía_xa_chân_trời",
+      "label": "Đầu tiên, từ phía xa chân trời",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "trong_cuốn_sách_thoreau_đã_không_kìm_được_xúc_động_và_bày_tỏ",
+      "label": "Trong cuốn sách, Thoreau đã không kìm được xúc động và bày tỏ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "như_là_một_cái_cây",
+      "label": "Như là một cái cây",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "vậy_nên_chỉ_bằng_cách_làm_những_gì_bạn_thích",
+      "label": "Vậy nên chỉ bằng cách làm những gì bạn thích",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "vậy_nên_bạn_cần_hiểu_rõ_chính_mình",
+      "label": "Vậy nên bạn cần hiểu rõ chính mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "giống_như_là_một_nhà_bác_học_đã_từng_nói",
+      "label": "Giống như là một nhà bác học đã từng nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "tại_sao_chúng_ta_lại_hạ_tiêu_chuẩn_tâm_hồn_xuống",
+      "label": "Tại sao chúng ta lại hạ tiêu chuẩn tâm hồn xuống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "tại_sao_chúng_ta_phải_bất_chấp_tất_cả_tham_gia_vào_một_công",
+      "label": "Tại sao chúng ta phải bất chấp tất cả tham gia vào một công việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "cuối_cùng_thì_cảm_ơn_các_bạn_đã_lắng_nghe",
+      "label": "Cuối cùng thì cảm ơn các bạn đã lắng nghe",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    }
+  ]
+}

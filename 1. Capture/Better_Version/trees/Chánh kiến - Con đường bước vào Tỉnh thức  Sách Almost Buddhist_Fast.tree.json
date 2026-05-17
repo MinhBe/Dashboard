@@ -1,0 +1,346 @@
+{
+  "source_type": "youtube",
+  "word_count": 7243,
+  "estimated_leaf_nodes": 43,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 43 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "liệu_có_phải_là_một_phật_tử_hay_không",
+      "label": "Liệu có phải là một Phật tử hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "vậy_những_người_như_thế_có_phải_là_phật_tử_không",
+      "label": "Vậy những người như thế có phải là Phật tử không?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 12",
+      "children": [
+        {
+          "key": "vậy_những_người_như_thế_có_phải_là_phật_tử_không_item_1",
+          "label": "[Item 1 of Vậy những người như thế có phải là Phật tử không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_những_người_như_thế_có_phải_là_phật_tử_không_item_2",
+          "label": "[Item 2 of Vậy những người như thế có phải là Phật tử không? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_tác_phẩm_có_ảnh_hưởng_sâu_sắc",
+      "label": "Đây là một tác phẩm có ảnh hưởng sâu sắc",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "đây_là_một_tác_phẩm_có_ảnh_hưởng_sâu_sắc_item_1",
+          "label": "[Item 1 of Đây là một tác phẩm có ảnh hưởng sâu sắc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đây_là_một_tác_phẩm_có_ảnh_hưởng_sâu_sắc_item_2",
+          "label": "[Item 2 of Đây là một tác phẩm có ảnh hưởng sâu sắc — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thì_mãi_mãi_không_thể_là_một_phật_tử",
+      "label": "Thì mãi mãi không thể là một Phật Tử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "đầu_tiên_hãy_bắt_đầu_từ_chân_lý_thứ_nhất_của_tứ_pháp_ấn",
+      "label": "Đầu tiên, hãy bắt đầu từ chân lý thứ nhất của tứ pháp ấn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "đầu_tiên_hãy_bắt_đầu_từ_chân_lý_thứ_nhất_của_tứ_pháp_ấn_item_1",
+          "label": "[Item 1 of Đầu tiên, hãy bắt đầu từ chân lý thứ nhất của tứ pháp ấn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_hãy_bắt_đầu_từ_chân_lý_thứ_nhất_của_tứ_pháp_ấn_item_2",
+          "label": "[Item 2 of Đầu tiên, hãy bắt đầu từ chân lý thứ nhất của tứ pháp ấn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngài_là_một_người_vàng",
+      "label": "Ngài là một người vàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "đây_là_một_ông_lão",
+      "label": "Đây là một ông lão",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "bệnh_nhân_là_gì",
+      "label": "Bệnh nhân là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "vậy_ta_có_bị_bệnh_không",
+      "label": "Vậy ta có bị bệnh không",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "những_câu_hỏi_của_chúng_ta_hàng_ngày_thường_là_gì",
+      "label": "Những câu hỏi của chúng ta hàng ngày thường là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "vậy_rốt_cuộc_đức_phật_đã_phát_hiện_ra_điều_gì",
+      "label": "Vậy rốt cuộc, Đức Phật đã phát hiện ra điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_thứ_gì_còn_lại_ở_trong_cái_hộp",
+      "label": "Vậy thứ gì còn lại ở trong cái hộp?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vậy_thứ_cuối_cùng_có_thể_ở_lại_chiếc_hộp_này_mới_chính_là_th",
+      "label": "vậy thứ cuối cùng có thể ở lại chiếc hộp này mới chính là thứ lớn nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "tại_sao_đức_phật_lại_nói_cảm_xúc_là_đau_khổ",
+      "label": "Tại sao Đức Phật lại nói cảm xúc là đau khổ?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "tự_ngã_là_gì",
+      "label": "Tự ngã là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "tự_ngã_là_một_từ_hán_việt",
+      "label": "Tự ngã là một từ Hán Việt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "thì_đó_là_một_nỗi_đau_mà_bạn_cảm_thấy",
+      "label": "Thì đó là một nỗi đau mà bạn cảm thấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "tại_sao_người_đó_lại_lừa_dối_tôi",
+      "label": "Tại sao người đó lại lừa dối tôi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "tại_sao_tôi_yêu_người_đó_như_thế_mà_người_đó_lại_rời_bỏ_tôi",
+      "label": "Tại sao tôi yêu người đó như thế mà người đó lại rời bỏ tôi?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    },
+    {
+      "key": "thứ_hai_vì_để_bảo_vệ_và_ái_luyến_cái_tôi_tự_ngã",
+      "label": "Thứ hai, vì để bảo vệ và ái luyến cái tôi tự ngã",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 174",
+      "children": [
+        {
+          "key": "thứ_hai_vì_để_bảo_vệ_và_ái_luyến_cái_tôi_tự_ngã_item_1",
+          "label": "[Item 1 of Thứ hai, vì để bảo vệ và ái luyến cái tôi tự ngã — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_vì_để_bảo_vệ_và_ái_luyến_cái_tôi_tự_ngã_item_2",
+          "label": "[Item 2 of Thứ hai, vì để bảo vệ và ái luyến cái tôi tự ngã — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nhưng_niềm_vui_là_một_khái_niệm_tương_đối",
+      "label": "Nhưng niềm vui là một khái niệm tương đối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_làm_như_thế_nào",
+      "label": "Vậy chúng ta phải làm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "niềm_vui_của_vô_minh_là_gì",
+      "label": "Niềm vui của vô minh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "mà_đó_là_một_loại_hạnh_phúc_lớn_lao",
+      "label": "mà đó là một loại hạnh phúc lớn lao",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 202"
+    },
+    {
+      "key": "niềm_vui_của_tỉnh_giác_nhận_thức_là_gì",
+      "label": "Niềm vui của tỉnh giác nhận thức là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    },
+    {
+      "key": "tại_sao_những_người_đạt_được_giác_ngộ",
+      "label": "Tại sao những người đạt được giác ngộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 210"
+    },
+    {
+      "key": "tiếp_theo_chân_lý_thứ_3_trong_từ_pháp_ấn",
+      "label": "Tiếp theo, chân lý thứ 3 trong từ Pháp Ấn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 214"
+    },
+    {
+      "key": "mang_tánh_không_vậy_tánh_không_là_gì",
+      "label": "mang tánh không. Vậy tánh không là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    },
+    {
+      "key": "nhưng_tại_sao_con_người_chúng_ta_lại_cho_rằng",
+      "label": "Nhưng tại sao con người chúng ta lại cho rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 226"
+    },
+    {
+      "key": "thì_cuộc_đời_là_gì",
+      "label": "thì cuộc đời là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 234"
+    },
+    {
+      "key": "nó_giống_như_là_một_cái_kén_không_thể_nào_thoát_ra",
+      "label": "Nó giống như là một cái kén không thể nào thoát ra",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 238"
+    },
+    {
+      "key": "vậy_làm_sao_để_tự_giải_thoát_khỏi_ảo_tường",
+      "label": "Vậy làm sao để tự giải thoát khỏi ảo tường?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 242"
+    },
+    {
+      "key": "thì_cũng_không_phải_là_một_nơi_trốn",
+      "label": "Thì cũng không phải là một nơi trốn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 270"
+    },
+    {
+      "key": "nó_cũng_là_một_biện_pháp_tự_xét_thẩm_lại_mình",
+      "label": "Nó cũng là một biện pháp tự xét thẩm lại mình,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 280"
+    },
+    {
+      "key": "cuối_cùng_mình_muốn_nói_một_điều_này_nữa_với_bạn",
+      "label": "Cuối cùng, mình muốn nói một điều này nữa với bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 284"
+    },
+    {
+      "key": "sau_tất_cả_là_một_câu_trong_sách_như_thế_này",
+      "label": "Sau tất cả là một câu trong sách như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 290"
+    },
+    {
+      "key": "nếu_bạn_vẫn_vạch_định_rằng",
+      "label": "Nếu bạn vẫn vạch định rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 294"
+    },
+    {
+      "key": "bản_thân_mình_là_một_phật_tử",
+      "label": "Bản thân mình là một Phật tử",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 296"
+    }
+  ]
+}

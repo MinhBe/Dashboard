@@ -1,0 +1,299 @@
+{
+  "source_type": "youtube",
+  "word_count": 6140,
+  "estimated_leaf_nodes": 35,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 35 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thì_điều_đầu_tiên_bạn_nghĩ_tới_là_gì",
+      "label": "Thì điều đầu tiên bạn nghĩ tới là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "đây_là_một_quan_niệm_sai_lầm_bởi_vì_bất_kể_có_mây_mù_che_phủ",
+      "label": "Đây là một quan niệm sai lầm bởi vì bất kể có mây mù che phủ hay không",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "vậy_thì_hôm_nay_trong_video_này",
+      "label": "Vậy thì hôm nay trong video này",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "vậy_thì_hôm_nay_trong_video_này_item_1",
+          "label": "[Item 1 of Vậy thì hôm nay trong video này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_hôm_nay_trong_video_này_item_2",
+          "label": "[Item 2 of Vậy thì hôm nay trong video này — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_cuốn_sách_có_sự_lận_giải_thông_tuệ",
+      "label": "Đây là một cuốn sách có sự lận giải thông tuệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "thường_kiến_có_nghĩa_là_gì",
+      "label": "Thường Kiến có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "đoạn_kiến_có_nghĩa_là_gì",
+      "label": "Đoạn kiến có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "và_bản_chất_của_chúng_ta_không_phải_là_vô_minh",
+      "label": "và bản chất của chúng ta không phải là vô minh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "vô_minh_là_gì",
+      "label": "Vô minh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "đầu_tiên_đó_là_sắc_uẩn",
+      "label": "Đầu tiên đó là sắc uẩn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tiếp_theo_là_hành_ẩn",
+      "label": "Tiếp theo là hành ẩn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "cuối_cùng_là_thức_ẩn",
+      "label": "Cuối cùng là thức ẩn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "từ_bỏ_tự_ngã",
+      "label": "Từ bỏ, tự ngã",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "bước_vào_một_trạng_thái",
+      "label": "Bước vào một trạng thái",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_từ_bỏ_cái_tôi",
+      "label": "Vậy làm thế nào để từ bỏ cái tôi?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "vậy_làm_thế_nào_để_từ_bỏ_cái_tôi_item_1",
+          "label": "[Item 1 of Vậy làm thế nào để từ bỏ cái tôi? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_từ_bỏ_cái_tôi_item_2",
+          "label": "[Item 2 of Vậy làm thế nào để từ bỏ cái tôi? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_từ_bỏ_cái_tôi_item_3",
+          "label": "[Item 3 of Vậy làm thế nào để từ bỏ cái tôi? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_đó_là_hành_khổ",
+      "label": "thứ nhất đó là hành khổ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 114",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_hành_khổ_item_1",
+          "label": "[Item 1 of thứ nhất đó là hành khổ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_hành_khổ_item_2",
+          "label": "[Item 2 of thứ nhất đó là hành khổ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_đó_là_khổ_khổ",
+      "label": "thứ hai đó là khổ khổ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 124",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_khổ_khổ_item_1",
+          "label": "[Item 1 of thứ hai đó là khổ khổ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_khổ_khổ_item_2",
+          "label": "[Item 2 of thứ hai đó là khổ khổ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đến_bất_tấn_vậy_lùi_thoát_là_gì_cách_tốt_nhất",
+      "label": "đến bất tấn. Vậy lùi thoát là gì? Cách tốt nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "bởi_vì_nó_là_một_phần_vốn_có_của_bạn",
+      "label": "Bởi vì nó là một phần vốn có của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "khổ_đau_không_phải_là_một_phần",
+      "label": "Khổ đau không phải là một phần",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    },
+    {
+      "key": "cuối_cùng_chân_lý_thứ_tư",
+      "label": "Cuối cùng chân lý thứ tư",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 148",
+      "children": [
+        {
+          "key": "cuối_cùng_chân_lý_thứ_tư_item_1",
+          "label": "[Item 1 of Cuối cùng chân lý thứ tư — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_chân_lý_thứ_tư_item_2",
+          "label": "[Item 2 of Cuối cùng chân lý thứ tư — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_là_thực_trứng_trạng_thái_giải_thoát",
+      "label": "Cuối cùng là thực trứng trạng thái giải thoát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "hơn_nữa_nó_luôn_cố_gắng_để_hòa_hợp_với_người_khác",
+      "label": "Hơn nữa, nó luôn cố gắng để hòa hợp với người khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "vậy_nên_khi_đối_mặt",
+      "label": "Vậy nên khi đối mặt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "nói_như_là_một_đứa_trẻ_la_hét",
+      "label": "Nói như là một đứa trẻ la hét",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "vậy_thì_bạn_hãy_nhớ_rằng",
+      "label": "Vậy thì bạn hãy nhớ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "vậy_thì_thời_gian_cho_bạn_còn_bao_nhiêu",
+      "label": "Vậy thì thời gian cho bạn còn bao nhiêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "và_chúng_ta_đã_sống_bao_nhiêu_kiếp_như_vậy_mà_không_hề_hay_b",
+      "label": "Và chúng ta đã sống bao nhiêu kiếp như vậy mà không hề hay biết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    },
+    {
+      "key": "không_phải_là_một_trạng_thái_thần_bí_mà_là_sự_chấm_dứt_của_ả",
+      "label": "Không phải là một trạng thái thần bí mà là sự chấm dứt của ảo tưởng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 210"
+    },
+    {
+      "key": "vậy_thì_ngay_bây_giờ_đây_bạn_đã_sẵn_sàng_xuất_ly_chưa",
+      "label": "Vậy thì ngay bây giờ đây bạn đã sẵn sàng xuất ly chưa?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 214"
+    }
+  ]
+}

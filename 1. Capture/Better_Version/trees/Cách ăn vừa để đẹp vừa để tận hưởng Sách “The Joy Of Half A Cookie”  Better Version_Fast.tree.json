@@ -1,0 +1,252 @@
+{
+  "source_type": "youtube",
+  "word_count": 4498,
+  "estimated_leaf_nodes": 27,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 27 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_mình_lại_nói_như_vậy",
+      "label": "Tại sao mình lại nói như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 4",
+      "children": [
+        {
+          "key": "tại_sao_mình_lại_nói_như_vậy_item_1",
+          "label": "[Item 1 of Tại sao mình lại nói như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_mình_lại_nói_như_vậy_item_2",
+          "label": "[Item 2 of Tại sao mình lại nói như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "dường_như_ăn_uống_chỉ_là_một_cái_nghi_thức_cho_nó_no_cái_bụn",
+      "label": "Dường như ăn uống chỉ là một cái nghi thức cho nó no cái bụng thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "thứ_hai_là_dạ_dày_rất_hay_phản_ứng_trễ",
+      "label": "Thứ hai là dạ dày rất hay phản ứng trễ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "thứ_hai_là_dạ_dày_rất_hay_phản_ứng_trễ_item_1",
+          "label": "[Item 1 of Thứ hai là dạ dày rất hay phản ứng trễ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_dạ_dày_rất_hay_phản_ứng_trễ_item_2",
+          "label": "[Item 2 of Thứ hai là dạ dày rất hay phản ứng trễ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chính_bởi_lẽ_đó_bạn_mới_nọ_căng_như_vậy",
+      "label": "Chính bởi lẽ đó bạn mới nọ căng như vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "cuối_cùng_thì_bạn_đã_lãng_phí_không_ít_thức_ăn",
+      "label": "Cuối cùng thì bạn đã lãng phí không ít thức ăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "thứ_ba",
+      "label": "Thứ ba",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 24",
+      "children": [
+        {
+          "key": "thứ_ba_item_1",
+          "label": "[Item 1 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_item_2",
+          "label": "[Item 2 of Thứ ba — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_vì_sao",
+      "label": "Vậy vì sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_là_lại_gọi_ship_vài_món_vặt_về_nhà",
+      "label": "Vậy là lại gọi ship vài món vặt về nhà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "hơn_nữa_có_cả_hơn_200_quyết_định_mỗi_ngày_như_vậy",
+      "label": "Hơn nữa, có cả hơn 200 quyết định mỗi ngày như vậy",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 40",
+      "children": [
+        {
+          "key": "hơn_nữa_có_cả_hơn_200_quyết_định_mỗi_ngày_như_vậy_item_1",
+          "label": "[Item 1 of Hơn nữa, có cả hơn 200 quyết định mỗi ngày như vậy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hơn_nữa_có_cả_hơn_200_quyết_định_mỗi_ngày_như_vậy_item_2",
+          "label": "[Item 2 of Hơn nữa, có cả hơn 200 quyết định mỗi ngày như vậy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_chúng_ta_ăn_chỉ_vì_thèm",
+      "label": "Thứ hai là chúng ta ăn chỉ vì thèm",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "thứ_hai_là_chúng_ta_ăn_chỉ_vì_thèm_item_1",
+          "label": "[Item 1 of Thứ hai là chúng ta ăn chỉ vì thèm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_chúng_ta_ăn_chỉ_vì_thèm_item_2",
+          "label": "[Item 2 of Thứ hai là chúng ta ăn chỉ vì thèm — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_là_chúng_ta_ăn_vì_áp_lực_xã_hội",
+      "label": "Thứ ba là chúng ta ăn vì áp lực xã hội",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "thứ_ba_là_chúng_ta_ăn_vì_áp_lực_xã_hội_item_1",
+          "label": "[Item 1 of Thứ ba là chúng ta ăn vì áp lực xã hội — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_là_chúng_ta_ăn_vì_áp_lực_xã_hội_item_2",
+          "label": "[Item 2 of Thứ ba là chúng ta ăn vì áp lực xã hội — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_phải_làm_sao",
+      "label": "Vậy phải làm sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "nhưng_như_thế_nào_là_trạng_thái_tránh_niệm",
+      "label": "Nhưng như thế nào là trạng thái tránh niệm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "hiểu_được_lý_do_bạn_ăn_là_gì",
+      "label": "hiểu được lý do bạn ăn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đầu_tiên_thì_chúng_ta_hãy_thở_sâu",
+      "label": "Đầu tiên thì chúng ta hãy thở sâu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "những_suy_nghĩ_nghi_ngờ_lo_lắng_của_bạn_là_gì",
+      "label": "Những suy nghĩ, nghi ngờ, lo lắng của bạn là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "và_nó_cũng_là_một_bài_tập",
+      "label": "Và nó cũng là một bài tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "đây_là_một_cuốn_sách_có_nội_dung_rất_đơn_giản",
+      "label": "đây là một cuốn sách có nội dung rất đơn giản",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "một_cuộc_đời_thật_ý_nghĩa",
+      "label": "một cuộc đời thật ý nghĩa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "thì_đây_chính_là_một_khía_cạnh",
+      "label": "thì đây chính là một khía cạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "cuối_cùng_chúc_mỗi_người",
+      "label": "Cuối cùng chúc mỗi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    }
+  ]
+}

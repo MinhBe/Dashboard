@@ -1,0 +1,183 @@
+{
+  "source_type": "youtube",
+  "word_count": 5090,
+  "estimated_leaf_nodes": 21,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 21 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "bước_chân_quan_trọng_nhất_là_bước_chân_bạn_đang_bước_ngay_lú",
+      "label": "Bước chân quan trọng nhất là bước chân bạn đang bước ngay lúc này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_là_làm_cho_những_người_xung_quanh_bạn_h",
+      "label": "Điều quan trọng nhất là làm cho những người xung quanh bạn hạnh phúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "tại_sao_bạn_vẫn_cảm_thấy_bất_an_lo_âu_buồn_khổ",
+      "label": "Tại sao bạn vẫn cảm thấy bất an, lo âu buồn khổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tại_sao_bạn_cần_phải_giữ_tránh_niệm_trong_cuộc_sống_hàng_ngà",
+      "label": "Tại sao bạn cần phải giữ tránh niệm trong cuộc sống hàng ngày",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 16",
+      "children": [
+        {
+          "key": "tại_sao_bạn_cần_phải_giữ_tránh_niệm_trong_cuộc_sống_hàng_ngà_item_1",
+          "label": "[Item 1 of Tại sao bạn cần phải giữ tránh niệm trong cuộc sống hàng ngày — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_bạn_cần_phải_giữ_tránh_niệm_trong_cuộc_sống_hàng_ngà_item_2",
+          "label": "[Item 2 of Tại sao bạn cần phải giữ tránh niệm trong cuộc sống hàng ngày — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_tại_sao_ellen_lại_rơi_vào_tình_trạng_như_thế_này",
+      "label": "Vậy thì tại sao Ellen lại rơi vào tình trạng như thế này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_anh_luôn_có_cảm_giác_tôi_đang_bị_lấy_mất_thời_gian_của_c",
+      "label": "vậy anh luôn có cảm giác tôi đang bị lấy mất thời gian của chính mình.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "giống_như_là_một_sự_bù_đắp",
+      "label": "giống như là một sự bù đắp.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy_lẽ_ra_tôi_phải_như_thế_này",
+      "label": "Tại sao lại như vậy? Lẽ ra tôi phải như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "hệ_quả_tết_yếu_là_một_tâm_trí_rơi_vào_vòng_xoáy_phân_biệt",
+      "label": "Hệ quả tết yếu là một tâm trí rơi vào vòng xoáy phân biệt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "tránh_niệm_là_gì_tại_sao_bạn_cần_phải_học_cách_giữ_tránh_niệ",
+      "label": "Tránh niệm là gì? Tại sao bạn cần phải học cách giữ tránh niệm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_thì_cần_phải_thực_hành_tránh_niệm_như_thế_nào",
+      "label": "Vậy thì cần phải thực hành tránh niệm như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "đầu_tiên_hãy_thử_đi_bố",
+      "label": "Đầu tiên, hãy thử đi bố.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "hôm_nay_là_một_ngày_bạn_có_thể_toàn_quyền_chủ_động",
+      "label": "Hôm nay là một ngày bạn có thể toàn quyền chủ động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "dù_làm_gì_hãy_luôn_giữ_tránh_niệm",
+      "label": "Dù làm gì, hãy luôn giữ tránh niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "cuối_cùng_thì_khi_màn_đêm_buông_xuống",
+      "label": "Cuối cùng thì khi màn đêm buông xuống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "cuối_cùng",
+      "label": "Cuối cùng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 140",
+      "children": [
+        {
+          "key": "cuối_cùng_item_1",
+          "label": "[Item 1 of Cuối cùng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_item_2",
+          "label": "[Item 2 of Cuối cùng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_tu_chùa",
+      "label": "Thứ ba tu chùa",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 146",
+      "children": [
+        {
+          "key": "thứ_ba_tu_chùa_item_1",
+          "label": "[Item 1 of Thứ ba tu chùa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tu_chùa_item_2",
+          "label": "[Item 2 of Thứ ba tu chùa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "không_hiểu_tu_tập_là_gì",
+      "label": "Không hiểu tu tập là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    }
+  ]
+}

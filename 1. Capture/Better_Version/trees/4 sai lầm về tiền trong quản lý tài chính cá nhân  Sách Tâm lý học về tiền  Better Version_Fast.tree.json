@@ -1,0 +1,104 @@
+{
+  "source_type": "youtube",
+  "word_count": 3343,
+  "estimated_leaf_nodes": 11,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 11 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_quan_niệm_về_tiền_bạc_của_bạn_là_gì_liệu_nó_có_đúng_hay",
+      "label": "Vậy quan niệm về tiền bạc của bạn là gì? Liệu nó có đúng hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "và_giúp_chúng_ta_cải_thiện_rất_nhiều_về_khả_năng_đầu_tư",
+      "label": "Và giúp chúng ta cải thiện rất nhiều về khả năng đầu tư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "trong_cuốn_sách_có_nhắc_tới_một_câu_chuyện_như_thế_này",
+      "label": "Trong cuốn sách có nhắc tới một câu chuyện như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "điều_thứ_2_là_bớt_theo_đuổi_trào_lưu",
+      "label": "Điều thứ 2 là bớt theo đuổi trào lưu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "điều_thứ_2_là_bớt_theo_đuổi_trào_lưu_item_1",
+          "label": "[Item 1 of Điều thứ 2 là bớt theo đuổi trào lưu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_2_là_bớt_theo_đuổi_trào_lưu_item_2",
+          "label": "[Item 2 of Điều thứ 2 là bớt theo đuổi trào lưu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_là_một_điểm_mùa_sẽ_gây_ra_quan_niệm_sai_lầm_của_nhiều_ng",
+      "label": "Đây là một điểm mùa sẽ gây ra quan niệm sai lầm của nhiều người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "điều_thứ_tư",
+      "label": "Điều thứ tư",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 56",
+      "children": [
+        {
+          "key": "điều_thứ_tư_item_1",
+          "label": "[Item 1 of Điều thứ tư — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_tư_item_2",
+          "label": "[Item 2 of Điều thứ tư — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_đề_xuất_cho_chúng_ta_một_cuốn_sách_khác",
+      "label": "và đề xuất cho chúng ta một cuốn sách khác",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "để_đúc_kết_ra_chiếc_lý_của_cuộc_sống_là_gì",
+      "label": "để đúc kết ra chiếc lý của cuộc sống là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "cuối_cùng_thì_tác_giả_chia_sẻ",
+      "label": "Cuối cùng thì tác giả chia sẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    }
+  ]
+}

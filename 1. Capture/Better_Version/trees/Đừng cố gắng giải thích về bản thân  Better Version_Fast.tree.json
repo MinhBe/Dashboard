@@ -1,0 +1,30 @@
+{
+  "source_type": "youtube",
+  "word_count": 3846,
+  "estimated_leaf_nodes": 3,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 3 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_ông_lão_phải_tìm_mọi_cách_để_giải_thích_với_người_kh",
+      "label": "Tại sao ông lão phải tìm mọi cách để giải thích với người khác?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "có_80_người_không_quan_tâm_20_còn_lại_coi_đó_là_trò_cười",
+      "label": "Có 80% người không quan tâm, 20% còn lại coi đó là trò cười",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "không_biết_nếu_bạn_là_một_trong_những_người_bạn_abc_kia",
+      "label": "Không biết nếu bạn là một trong những người bạn ABC kia",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    }
+  ]
+}

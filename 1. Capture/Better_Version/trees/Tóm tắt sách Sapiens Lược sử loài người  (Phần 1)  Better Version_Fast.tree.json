@@ -1,0 +1,144 @@
+{
+  "source_type": "youtube",
+  "word_count": 3128,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đây_là_một_trong_những_cuốn_sách_nổi_tiếng_toàn_thế_giới_từ",
+      "label": "Đây là một trong những cuốn sách nổi tiếng toàn thế giới từ năm 2016",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "nguyên_tắc_phát_triển_của_nhân_loại",
+      "label": "nguyên tắc phát triển của nhân loại.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "bên_cạnh_đó_những_câu_chuyện_bằng_lời_kẻ_thú_vị",
+      "label": "Bên cạnh đó, những câu chuyện bằng lời kẻ thú vị",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 8",
+      "children": [
+        {
+          "key": "bên_cạnh_đó_những_câu_chuyện_bằng_lời_kẻ_thú_vị_item_1",
+          "label": "[Item 1 of Bên cạnh đó, những câu chuyện bằng lời kẻ thú vị — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bên_cạnh_đó_những_câu_chuyện_bằng_lời_kẻ_thú_vị_item_2",
+          "label": "[Item 2 of Bên cạnh đó, những câu chuyện bằng lời kẻ thú vị — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_câu_chuyện_thứ_3_là_cuộc_cách_mạng_khoa_học",
+      "label": "Cuối cùng, câu chuyện thứ 3 là cuộc cách mạng khoa học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "tại_sao_đi_cùng_với_sự_xuất_hiện_của_người_tinh_khôn",
+      "label": "Tại sao đi cùng với sự xuất hiện của người tinh khôn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "cuối_cùng_thì_nó_sẽ_chỉ_để_lại_bộ_xương_trống_rỗng_cho_con_n",
+      "label": "Cuối cùng thì nó sẽ chỉ để lại bộ xương trống rỗng cho con người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "hơn_nữa_cơ_thể_của_con_người_chúng_ta_không_có_yêu_thế_về_ch",
+      "label": "Hơn nữa cơ thể của con người chúng ta không có yêu thế về chi trên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "vậy_điều_gì_để_phân_biệt_homo_sapiens_với_các_chùng_người_kh",
+      "label": "Vậy điều gì để phân biệt Homo sapiens với các chùng người khác?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "tại_sao_lại_nói_là_có_thể",
+      "label": "Tại sao lại nói là có thể?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "và_đây_chính_là_một_tội_ác_của_loài_người",
+      "label": "Và đây chính là một tội ác của loài người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "vậy_tại_sao_họ_có_thể_huy_động_được_sức_mạnh_lớn_như_vậy",
+      "label": "Vậy tại sao họ có thể huy động được sức mạnh lớn như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "thì_quà_thực_đó_là_một_sự_gắn_kết_không_thể_lâu_dài",
+      "label": "Thì quà thực đó là một sự gắn kết không thể lâu dài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "đây_chính_là_một_trong_những_phát_minh_vĩ_đại_nhất_của_nhân",
+      "label": "Đây chính là một trong những phát minh vĩ đại nhất của nhân loại",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "nếu_bình_thường_bạn_hỏi_công_ty_là_gì",
+      "label": "Nếu bình thường bạn hỏi công ty là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "bạn_sẽ_nghĩ_tới_đó_là_một_khái_niệm_như_là",
+      "label": "Bạn sẽ nghĩ tới đó là một khái niệm như là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "vậy_cuộc_sống_lúc_đó_của_con_người_như_thế_nào",
+      "label": "Vậy cuộc sống lúc đó của con người như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "chúng_ta_đã_trở_thành_loài_mạnh_nhất_trên_thế_giới",
+      "label": "Chúng ta đã trở thành loài mạnh nhất trên thế giới",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    }
+  ]
+}

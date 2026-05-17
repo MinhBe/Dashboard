@@ -1,0 +1,311 @@
+{
+  "source_type": "youtube",
+  "word_count": 7869,
+  "estimated_leaf_nodes": 38,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 38 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "mà_còn_là_một_nhà_nghiên_cứu_khoa_học_y_tế",
+      "label": "mà còn là một nhà nghiên cứu khoa học y tế.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "chế_độ_ăn_uống_là_một_đơn_thuốc_tiện_lợi_mà_vô_cùng_tiết_kiệ",
+      "label": "Chế độ ăn uống là một đơn thuốc tiện lợi mà vô cùng tiết kiệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 16"
+    },
+    {
+      "key": "vậy_nên_bác_sĩ_william_lee_đã_thực_hiện_cuốn_sách_này",
+      "label": "Vậy nên, bác sĩ William Lee đã thực hiện cuốn sách này.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_chúng_ta_nên_ăn_gì",
+      "label": "Vậy chúng ta nên ăn gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "đầu_tiên_hãy_ăn_các_chất_ước_chí_chống_tạo_mạch",
+      "label": "Đầu tiên, hãy ăn các chất ước chí chống tạo mạch",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "ngoài_ra_chất_này_sẽ_hòa_tan_trong_chất_béo",
+      "label": "Ngoài ra chất này sẽ hòa tan trong chất béo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "tiếp_theo_đó_là_trái_cây",
+      "label": "Tiếp theo đó là trái cây",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "thậm_chí_ngăn_ngừa_trứng_mất_trí_nhớ",
+      "label": "thậm chí ngăn ngừa trứng mất trí nhớ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "ngoài_ra_bạn_cũng_có_thể_ăn_thực_phẩm_có_chứa_quercetin",
+      "label": "Ngoài ra, bạn cũng có thể ăn thực phẩm có chứa quercetin.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "ngoài_ra_bạn_cũng_có_thể_ăn_thực_phẩm_có_chứa_quercetin_item_1",
+          "label": "[Item 1 of Ngoài ra, bạn cũng có thể ăn thực phẩm có chứa quercetin. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_bạn_cũng_có_thể_ăn_thực_phẩm_có_chứa_quercetin_item_2",
+          "label": "[Item 2 of Ngoài ra, bạn cũng có thể ăn thực phẩm có chứa quercetin. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_chúng_ta_sẽ_cùng_tìm_hiểu",
+      "label": "Tiếp theo chúng ta sẽ cùng tìm hiểu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_lại_gọi_là_thợ_may",
+      "label": "Tại sao lại gọi là thợ may?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_nên_cái_tên_chính_thức_của_hệ_thống_này_đó_là",
+      "label": "Vậy nên cái tên chính thức của hệ thống này đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "nhưng_chúng_lại_là_một_nhóm_cực_kỳ_mạnh_mẽ",
+      "label": "nhưng chúng lại là một nhóm cực kỳ mạnh mẽ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "vậy_nên_người_có_nhiều_tế_bào_gốc_hơn",
+      "label": "Vậy nên, người có nhiều tế bào gốc hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "ngoài_ra_ngủ_nghỉ_không_đều_đạt",
+      "label": "Ngoài ra, ngủ nghỉ không đều đạt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "ngoài_ra_còn_phải_chú_ý_đến_lượng_muối_mà_bạn_ăn_vào",
+      "label": "Ngoài ra còn phải chú ý đến lượng muối mà bạn ăn vào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đây_là_một_hoạt_tính_quan_trọng_đối_với_sức_khỏe_của_mắt",
+      "label": "Đây là một hoạt tính quan trọng đối với sức khỏe của mắt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "tiếp_theo_acid_chlorogen_được_tìm_thấy",
+      "label": "Tiếp theo, acid chlorogen được tìm thấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "tiếp_theo_là_chất_3nputitalite",
+      "label": "Tiếp theo là chất 3N-Putitalite",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "ngoài_ra_thì_còn_có_bia_rượu_vang_đỏ_trà_xanh_trà_đen",
+      "label": "Ngoài ra thì còn có bia, rượu vang đỏ, trà xanh, trà đen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "vậy_nên_khi_hệ_thống_tái_tạo_của_bạn",
+      "label": "Vậy nên khi hệ thống tái tạo của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "ngoài_ra_còn_có_măng_quả_nam_việt_quốc_siệu_vang_đỏ_và_trà",
+      "label": "Ngoài ra còn có măng, quả nam Việt Quốc, siệu vang đỏ và trà",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "cuối_cùng_là_một_lời_khuyên_chân_thành_thứ_sách",
+      "label": "Cuối cùng là một lời khuyên chân thành thứ sách",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "tiếp_theo_chúng_ta_sẽ_cần_tìm_hiểu_đặc_tính_quan_trọng_thứ_2",
+      "label": "Tiếp theo chúng ta sẽ cần tìm hiểu đặc tính quan trọng thứ 2 của DNA.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "di_chuyển_biểu_sinh_là_gì",
+      "label": "Di chuyển biểu sinh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    },
+    {
+      "key": "đầu_tiên_trà_làm_tăng_enzyme_chống_oxy_hóa_tự_nhiên",
+      "label": "Đầu tiên trà làm tăng enzyme chống oxy hóa tự nhiên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    },
+    {
+      "key": "cuối_cùng_chúng_ta_cần_chú_ý_một_điều_rằng",
+      "label": "Cuối cùng chúng ta cần chú ý một điều rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "ngoài_ra_nhất_định_phải_tập_thể_dục_thường_xuyên_ngủ_sớm_dậy",
+      "label": "Ngoài ra nhất định phải tập thể dục thường xuyên, ngủ sớm, dậy sớm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "đầu_tiên_hệ_thống_miễn_dịch_có_khả_năng_bầm_sinh",
+      "label": "Đầu tiên, hệ thống miễn dịch có khả năng bầm sinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "điều_thứ_2_hệ_thống_miễn_dịch_có_phản_ứng_chậm_và_lâu_dài",
+      "label": "Điều thứ 2, hệ thống miễn dịch có phản ứng chậm và lâu dài",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "thứ_nhất_đó_là_chế_độ_ăn_chay_và_thô",
+      "label": "Thứ nhất đó là chế độ ăn chay và thô",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 214",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_chế_độ_ăn_chay_và_thô_item_1",
+          "label": "[Item 1 of Thứ nhất đó là chế độ ăn chay và thô — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_chế_độ_ăn_chay_và_thô_item_2",
+          "label": "[Item 2 of Thứ nhất đó là chế độ ăn chay và thô — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_tác_giả_còn_có_chỉ_ra_nhiều_loại_thực_phẩm_tuyệt_vờ",
+      "label": "Ngoài ra tác giả còn có chỉ ra nhiều loại thực phẩm tuyệt vời",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 224",
+      "children": [
+        {
+          "key": "ngoài_ra_tác_giả_còn_có_chỉ_ra_nhiều_loại_thực_phẩm_tuyệt_vờ_item_1",
+          "label": "[Item 1 of Ngoài ra tác giả còn có chỉ ra nhiều loại thực phẩm tuyệt vời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ngoài_ra_tác_giả_còn_có_chỉ_ra_nhiều_loại_thực_phẩm_tuyệt_vờ_item_2",
+          "label": "[Item 2 of Ngoài ra tác giả còn có chỉ ra nhiều loại thực phẩm tuyệt vời — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_hãy_bắt_đầu_lập_thực_đơn_hàng_ngày",
+      "label": "Thứ hai, hãy bắt đầu lập thực đơn hàng ngày",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 236",
+      "children": [
+        {
+          "key": "thứ_hai_hãy_bắt_đầu_lập_thực_đơn_hàng_ngày_item_1",
+          "label": "[Item 1 of Thứ hai, hãy bắt đầu lập thực đơn hàng ngày — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_hãy_bắt_đầu_lập_thực_đơn_hàng_ngày_item_2",
+          "label": "[Item 2 of Thứ hai, hãy bắt đầu lập thực đơn hàng ngày — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_hãy_ăn_5_thực_phẩm_này_trong_vòng_1_ngày",
+      "label": "Cuối cùng, hãy ăn 5 thực phẩm này trong vòng 1 ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 240"
+    }
+  ]
+}

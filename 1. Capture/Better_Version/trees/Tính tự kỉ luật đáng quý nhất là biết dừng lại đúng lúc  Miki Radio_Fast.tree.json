@@ -1,0 +1,44 @@
+{
+  "source_type": "youtube",
+  "word_count": 1958,
+  "estimated_leaf_nodes": 5,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 5 leaves < 8 minimum (youtube/medium) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "nhưng_nếu_việc_làm_đó_là_một_lựa_chọn_sai_lầm_thì_liệu_sẽ_ra",
+      "label": "Nhưng nếu việc làm đó là một lựa chọn sai lầm thì liệu sẽ ra sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "cuối_cùng_mất_hết_cả_số_tiền",
+      "label": "Cuối cùng mất hết cả số tiền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "vậy_là_cuối_cùng_dưới_sự_quyết_định_dừng_lại_đúng_lúc",
+      "label": "Vậy là cuối cùng, dưới sự quyết định dừng lại đúng lúc,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "thì_đó_quả_thực_là_một_đóng_góp_rất_lớn",
+      "label": "Thì đó quả thực là một đóng góp rất lớn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "cuối_cùng_đều_sẽ_là_một_sự_hy_sinh_vô_nghĩa_mà_thôi",
+      "label": "Cuối cùng đều sẽ là một sự hy sinh vô nghĩa mà thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    }
+  ]
+}

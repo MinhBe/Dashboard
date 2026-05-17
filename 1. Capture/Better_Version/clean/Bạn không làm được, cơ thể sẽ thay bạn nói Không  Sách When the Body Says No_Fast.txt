@@ -1,0 +1,263 @@
+Hi, xin chào các bạn. Chào mừng các bạn đã đến với Better Version, kênh chia sẻ kiến thức phát triển toàn diện bản thân qua các cuốn sách hay. Tuần này mình xin chia sẻ với các bạn nội dung cốt lõi và phần diễn giải về cuốn sách mang tên When the Body Says No, The Cost of Hidden Stress Tạm dịch là khi cơ thể nói không với vụ đề cái giá phải trả cho những căng thẳng ẩn sầu của tiền sĩ Gerber Marte.
+
+Ông là một bác sĩ nổi tiếng, là tác giả của nhiều cuốn sách bán chạy được dịch sang hơn 30 ngôn ngữ trên thế giới. Ông là người đã được trao tặng huy chương Canada Đây là huy chương cao nhất vinh danh những công dân Canada Những công trình nghiên cứu của tác giả về nhiều lĩnh vực khác nhau như bệnh mãn tính, sự thiếu tập trung tác động của thương tích thâm lý mối quan hệ giữa cha mẹ và con cái đều đã nhận được nhiều giải thưởng
+
+giúp ích cho hàng triệu người cải thiện sức khỏe về thể chất và tinh thần Cuốn sách Khi Cơ Thể Nói Không mà chúng ta giới thiệu hôm nay là một tác phẩm sâu sắc sau nhiều năm nghiên cứu chuyên sâu cùng với kinh nghiệm y học của ông Cuốn sách này sẽ bàn luận về ảnh hưởng của sự tức giận và căng thẳng tâm lý đến sức khỏe của cơ thể như thế nào
+
+Nếu trong cuộc sống, sâu trong tâm bạn còn ẩn trứa những căng thẳng không nghe hay rõ hoặc không thể bày tỏ Nếu bạn có những tức giận buộc phải kìm nén Nếu bạn không có cách từ chối những điều đó Cơ thể của bạn sẽ thay bạn lên tiếng Đọc cuốn sách này để bạn biết được rằng Một trong những bài học của cuộc đời bạn là phải tìm được cách hòa giải với cơ thể của chính mình Để có thể duy trì một sức khỏe tốt trong những năm tháng còn lại của cuộc đời Rồi, bây giờ xin mời các bạn cùng lắng nghe nội dung chia sẻ ngày hôm nay.
+
+Sai lầm của y học hiện đại tâm thân hợp nhất bị bỏ qua một thời gian dài. Không biết bạn có trải nghiệm như thế này không? Khi một bộ phận nào đó trên cơ thể bị đau, bạn sẽ đến bệnh viện tìm một khoa riêng biệt có thể điều trị làm tuyên giảm mức độ đau của bộ phận cơ thể đó.
+
+Tiếp theo, bạn được phân tìm đến một bác sĩ.
+
+Bác sĩ sẽ hỏi bạn đau ở chỗ nào trên cơ thể, có những biểu hiện trạng thái cơ thể như thế nào Và tất cả chỉ được đánh giá dựa trên cấu trúc cơ thể Ngày trước, khi mẹ mình bị mắc một bệnh mạng tính về đường tiêu hóa Mình đã đưa mẹ đi khám ở nhiều bệnh viện Thậm chí đặt khám những chuyên gia hàng đầu với lĩnh vực đó Tất cả các bác sĩ chỉ kê thuốc để uống ròng rã ngày này qua ngày khác Tuy nhiên, bệnh tình cũng không có nhiều tiến triển
+
+Lúc đó, tất cả trong mình là một nỗi bất lực to lớn Mãi cho đến khi mình đọc được cuốn sách này Mình mới hiểu ra một điều Khi cơ thể bị bệnh, nếu muốn chữa lành Bạn không thể hoàn toàn trông chào vào bác sĩ Bởi chính y học hiện đại vẫn đang có những thiếu sót của nó Cách để hồi phục sức khỏe hoàn toàn Phần lớn phụ thuộc vào chính bạn
+
+Rằng bạn có thể giữ được tâm thân hợp nhất hay không
+
+Vậy, y học hiện đại đang thiếu sót điều gì?
+
+Y học hiện đại nhấn mạnh vào nguyên tắc nhị nguyên
+
+Tính nhị nguyên là gì?
+
+Tức là con người chúng ta Có cách nhìn nhận định nghĩa thế giới với bản thân Dựa trên vật lý học Newton Của vài 300 năm trước Vốn phân tách các bộ phận Thừa nhận sự tồn tại độc lập của hai thực thể. Khi mọi người nghĩ về những thứ xung quanh, về con người hay bản thân, chúng ta thường sẽ tự nhiên
+
+phân chia thành hai đối tượng như là nam, nữ, tốt, xấu, cá nhân, tập thể, v.v. Trong y học hiện đại cũng như vậy, y học hiện đại luôn phân tách giữa cơ thể và tâm hồn. Hầu hết các quá trình chữa trị đều dựa trên cấu trúc cơ thể, dựa trên sự thay đổi vật lý, khóa học bên trong cơ thể để tìm ra
+
+một quan hệ giữa cơ thể và bệnh tật.
+
+Hơn nữa, càng là bác sĩ chuyên nghiệp
+
+Ở một lĩnh vực nào đó, họ càng có hiểu biết sâu sắc về cơ quan cụ thể trong cơ thể bạn Và một số loại bệnh tương ứng Yêu điểm của việc này là có thể dựa trên sự phân chia hoạt động của cơ thể phức tạp Bác sĩ có thể ngay lập tức đưa ra điều trị phù hợp Nó có thể giúp bạn thuyên giảm cơn đau một cách nhanh chóng Nhưng không thể chữa trị tận gốc nhiều loại bệnh Bởi vì nó gặp một vấn đề lớn ở đây là Nó đã mất đi góc nhìn tổng thể
+
+Bác sĩ hiếm khi xem con người như một toàn thể trọn vẹn đáng để quan sát và phân tích, chỉ tập trung vào vùng bệnh tật của bệnh nhân. Nếu một bác sĩ không xem xét tới tâm hồn của bệnh nhân, không quan tâm đến sự phát triển, cuộc sống, công việc, tình yêu hay các khía cạnh khác của họ thực tế thì rất khó để có thể đưa ra đánh giá toàn diện và hiệu quả chữa trị cho người bệnh. Trong quá trình chữa bệnh, tác giả nhận ra rằng phần lớn các bác sĩ không thể hiểu được cảm nhận về cuộc sống chủ quan của người bệnh
+
+Họ chỉ quan tâm và hiểu biết về quá trình cảm giác của bệnh nhân khi bị bệnh Một học giả Kaneda có tên Selby đã viết rằng hầu hết mọi người không nhận ra rằng Tinh thần, kết quả, mức độ thành công của nghiên cứu khoa học đều phụ thuộc vào góc nhìn cá nhân của những người khám phá Nghĩa là nếu một bác sĩ luôn sử dụng góc nhìn, nguyên tắc nhị nguyên để chữa trị cho bệnh nhân Thì tình hình mà họ quan sát và những kết luận mà họ rút ra cũng thường mang tính nguyên tắc nhị nguyên Bác sĩ càng theo hướng nguyên tắc nhị nguyên càng dễ rơi vào các kết quả tương ứng
+
+Vậy điều gì sẽ xảy ra khi cơ thể và tâm hồn của bạn không thể liên kết được với nhau? Khám phá của tác giả về tính hợp nhất của thân tâm góp phần quan trọng trong việc chữa lành cơ thể. Xuất phát từ một bệnh nhân tên là Mary, Mary 40 tuổi, thân hình nhỏ bé, tính cách hiền lành và đã sinh 3 người con. Mary rất thân thiện với mọi người, bạn bè mỗi lần nghĩ về cô đều cảm thấy ấm áp. Một ngày nọ, cô gặp phải một viết thương nhỏ tưởng chừng không đáng kẻ, nhưng mà nó đã khiến cô gần như mất đi toàn bộ cuộc sống. Ngón tay của cô bị một cái kim đâm vào Tuy nhiên, viết thương nhỏ ấy đã không lành trong vài tháng Tình trạng này trong lĩnh vực y học được gọi là hiện tượng Reynolds
+
+Khi bị tác động bởi nhiệt độ thấp hoặc áp lực tâm lý từ môi trường Các động mạnh nhỏ cung cấp máu đến ngón tay Sẽ co lại, gây ra hiện tượng hẹp và mất máu tại vị trí cực của Chi Dẫn đến việc hình thành mũ đen Để điều trị mũ đen, Mary đã phải nhập viện nhiều lần trong vòng 1 năm Thực hiện các ca phẫu thuật Sau đó, vì con đau nhói không thể chịu đựng được Cô đã buộc phải yêu cầu cắt bỏ ngón tay đó đi
+
+Nhưng việc cắt bỏ cũng không ngăn được tình trạng trở nên tồi tệ hơn
+
+Cuối cùng, ngay cả liều dùng thuốc gây T mạnh nhất
+
+Cũng không thể làm giảm cơn đau của cô Tại hơn nữa, Mary sau đó còn bị chẩn đoán mắc bệnh sơ cứng bì
+
+Đây là một loại bệnh thuộc nhóm bệnh tự miễn
+
+Trong đó hệ thống miễn dịch tự miễn Tấn công các cơ quan bên trong cơ thể Gây hại cho các cơ quan như khớp và nội tạng
+
+Vậy nguyên nhân gây ra cuộc chiến nội bộ
+
+Trong cơ thể của cô ấy là gì?
+
+Ban đầu, tiến sĩ vẫn không thể tìm ra một nguyên nhân cụ thể Nên ông chỉ có thể kê cho cô ấy dùng các loại thuốc chống viêm và giảm đau Thực hiện các ca phẫu thuật để loại bỏ mùa đen cải thiện tuần hoàn máu Sau đó sử dụng một số liệu pháp vật lý Cố gắng không để Mary mất đi khả năng cử động Nhưng tất cả mọi việc này vẫn không thể giúp tình hình ngừng gia tăng tồi tệ Cho đến một ngày, một ý thức mạnh mẽ đột nhiên lái lên trong tâm trí của tác giả Ông ấy nghĩ rằng Mary đang chịu được nỗi đau khổ
+
+Có thể cô ấy cần được lắng nghe Ông ấy đã tìm đến Mary đối diện với cô và hỏi chân thành Cô có thể kể câu chuyện của mình cho tôi không? Trên khuôn mặt, người phụ nữ trung niên bừng lên một sự sửng sốt Dường như chưa từng có ai nói với cô ấy như vậy Nhưng cô ấy vẫn từ từ kể về những trải nghiệm của mình Cô đã bị cha mẹ ruột bỏ rơi khi còn nhỏ Sau khi trải qua nhiều gia đình nhận nuôi khác nhau
+
+Cô bị lạm dụng và ngược đãi Trong thâm trí cô, cô luôn có một hình ảnh từ thuở thơ ấu Rằng mình là chị cả 7 tuổi Trong các phòng tầng trên, cô đang ôm chặt đứa em gái nhỏ tuổi hơn mình trong vòng tay. Bên dưới đó là người cha nuôi say xỉn, nồi cơn thịnh nộ, điên cuồng, thường xuyên đánh đập hai chị em. Khi được hỏi liệu cô có sợ hãi không? Những trải nghiệm khủng khiếp như vậy, cô đã bao giờ kể cho anh nghe chưa?
+
+Cô ấy buồn bã nói, tôi là đứa trẻ lớn nhất. Nếu tôi sợ hãi thì ai sẽ bảo vệ mọi người? Tôi chỉ có thể nuốt tất cả cảm xúc vào trong lòng, không nói cho bất kỳ ai biết. Suốt bao nhiêu năm qua, Mary vẫn luôn giả vờ quên đi trải nghiệm đó. Cô không bao giờ chia sẻ những cảm xúc này với bất kỳ ai, kể cả chồng của cô trong 20 năm qua. Thậm chí còn với chính bản thân cô.
+
+Cô cho rằng cô phải là người có trách nhiệm trước kia là em gái mình, bây giờ là chồng con. Chính vì thế ngay cả khi tình trạng bệnh ngày càng nặng nè, cô vẫn không thể tập trung thực sự vào bản thân.
+
+Vậy nên căn bệnh quái ác của Mary
+
+thực chất đến từ một áp lực vô hình bị giam cầm lâu ngày trong lòng cô.
+
+Vậy khi tâm, thân không thể hợp nhất với nhau
+
+Chúng ta sẽ không thể nào đối mặt với chính áp lực của mình Và cũng không biết cách từ chối những điều tiếp tục gây ra căng thẳng, đau khổ cho bản thân Ta giải nhận ra rằng cơ thể của Mary đang thực hiện những việc mà tâm hồn của cô không thể làm được Đó chính là khi áp lực tâm hồn lâu dài không thể giải tỏa được Đến một mức độ nào đó, cơ thể sẽ lên tiếng phan ảnh dưới dạng bệnh tật Đồng thời gây ra sự tiến triển không ngừng của các can bệnh khác Và thực tế, rất nhiều người trong chúng ta cũng giống như Mary Che dấu áp lực để vì người khác
+
+Để không làm người xung quanh lo lắng Đã thự mình nuốt trường đau khổ Nhưng mà thực chất Nhìn sâu vào trong Thì đây lại là vì bản thân bạn đang có một nỗi sợ hãi Một sự kỳ vọng Và bạn phải che đi những đau khổ Để mà tự bảo vệ chính mình
+
+Và đây cũng chính là cách Chúng ta biến áp lực thành bệnh tật Tác giả đã tiếp tục đi sâu nghiên cứu Và giải thích khoa học từ góc độ sinh lý Trước hết
+
+Áp lực là một chuỗi phản ứng
+
+vật lý và hóa học phức tạp mà con người tạo ra khi đối mặt với kích thích từ cảm xúc mạnh. Từ góc độ sinh lý, cảm xúc chính là sự giải phóng của hệ thống thần kinh, chất điện hóa và học môn trong cơ thể con người. Những chất này lại ảnh hưởng đến chức năng của các cơ quan cơ thể, ảnh hưởng tới tính
+
+thúc đẩy của hệ thống miễn dịch, sự tuân hoàn toán thân và nhiều yếu tố khác. Có người nói rằng họ đã thiết nghi về áp lực của cuộc sống, họ không cảm nhận được gì nữa. Nhưng mà thực tế đây cũng
+
+chính là một tình trạng không lành mạnh.
+
+Trong thời kỳ cổ xưa, con người sẽ phải đối mặt với môi trường tự nhiên đầy nguy hiểm do đó con người phát triển ra cơ chế phản ứng chiến đấu hoặc chạy trốn để đảm bảo tồn tại. Trong thời kỳ hiện đại con người chúng ta không còn phải đối mặt với môi trường tự nhiên nguy hiểm như trước kia giờ đây việc được cung cấp thức ăn
+
+đã trở nên quá dễ dàng, tiện lợi nên bên cạnh việc được ăn uống hàng ngày con người lại tiếp tục cần được cung cấp thứ khác đó là tình yêu thương. Khi ai đó Phải sống trong một môi trường thiếu tình yêu Không có sự hòa hợp, bị áp lực Bị đe dọa Thì lúc này, mối đe dọa đối với sự tồn tại của con người
+
+Cũng xảy ra tương tự như thời cổ
+
+Vậy nên cơ chế phản ứng
+
+Chiến đấu hoặc chạy trốn sẽ bị kích hoạt Khi sống lâu trong một môi trường đầy áp lực Giống như động vật bị nhốt trong lòng Không thể thoát ra Con người sẽ trở nên tê liệt Với tình trạng cảm xúc của mình Không biết cơ thể mình đang trải qua điều gì Lúc này, áp lực bắt đầu xâm nhập
+
+tới sức khỏe sinh lý của người đó và tâm hồn của họ cũng đã không còn cảm nhận được nữa. Hầu hết thời gian, áp lực sẽ thường ẩn dấu và kéo dài. Trong quá trình trưởng thành chậm dãi của chúng ta, nó tiếp tục dần dần và cơ thể cũng đã phát triển ra những cách ứng phó tâm lý trong vô thức. Điều này dẫn đến việc chúng ta sẽ dễ dàng mắc bệnh hơn. Khi tác giả đưa ra nhận định này, trong cộng đồng học thuật y tế đã có chuyên gia về bệnh thấp khớp chỉ trích ông
+
+cho rằng ông là một bác sĩ gia đình thiếu kinh nghiệm
+
+Nhưng tác giả không hề nản lòng vì điều này, mà tiếp tục nghiên cứu chuyên sâu hơn. Thực tế, tác giả không phải là người đầu tiên phát hiện ra sự hợp nhất tâm thân là vô cùng quan trọng đối với sức khỏe của một người. Ngay từ năm 1892, một bác sĩ đã đưa ra vấn đề Các bệnh như viêm khớp dạng thấp, bệnh cơ nhiễm bị là một số loạn căng thẳng liên quan chặt chẽ đến tâm trạng nội tâm của con người nhưng y học hiện đại vẫn tiếp tục bỏ qua điều này Theo thời gian, những bác sĩ ngày nay dần mất khả năng lắng nghe bệnh nhân
+
+hay xây dựng mối quan hệ tốt với họ. Gần như toàn bộ quá trình chữa trị phụ thuộc vào việc đo đạt bằng thiết bị, kỹ thuật chuẩn đán tiên tiến và chiến lược điều trị khoa học. May mắn là vẫn có nhiều đồng nghiệp ủng hộ nghiên cứu của Tiến sĩ Marte sau ông cũng ngày càng có nhiều
+
+nghiên cứu chứng minh cho điều này.
+
+Vậy thì khi có cái nhìn rõ ràng hơn
+
+về hiện trạng sự thiếu sót của y học viện đại bạn cần phải làm gì khi cơ thể của mình bị bệnh? Điều cốt lợi nhất mà cuốn sách này muốn nói với bạn rằng Cơ thể đang cố gắng dùng bệnh tật để trò chuyện với bạn về tâm hồn của chính bạn Bởi cơ thể và tâm hồn là hợp nhất
+
+Tâm hồn gặp vấn đề, cơ thể sẽ biết được Bạn không thể nhận ra điều gì đang hủy hoại cơ thể mình Hay không thể nói ra những gì sâu thẳm trong tâm hồn Bạn là ai? Nội tâm của bạn đang trốn tránh điều gì? Lúc này, cơ thể sẽ thay bạn phát ra tín hiệu cảnh báo Vì thế, bạn cần phải trân trọng sự hợp nhất của tâm và thân Lắng nghe cơ thể Tìm cách tự chữa lành cho tâm hồn của chính mình
+
+Nếu bị bệnh thì bên cạnh việc kết hợp với sự bổ trợ của y học hiện đại Cách tốt nhất để bạn có thể chữa lành cho bản thân Trước hết đó chính là phải chăm sóc cho tâm hồn Đối mặt với nội tâm và tìm lại chính mình
+
+Vậy phương pháp tự chữa lành là như thế nào?
+
+Về điều này, tác giả cung cấp cho chúng ta 7 bước Mình đã tổng hợp và tối yêu chúng thành 4 bước cụ thể Phù hợp với tình huống thực tế Và cụ thể từng bước như sau
+
+Đầu tiên nhận thức và chấp nhận với bản thân rằng
+
+Tâm thân đang không hợp nhất Có một câu hỏi người ta vẫn thắc mắc như thế này, áp lực thì có phân tốt xấu hay không? Trong cuộc sống chúng ta gần như mọi lúc mọi nơi đều phải đối mặt với áp lực. Nhiều người thường xuyên nói tôi có quá nhiều áp lực nhưng chúng ta có thực sự phân biệt và hoàn toàn nhận biết được mọi áp lực trong cuộc sống không? Trong tư duy của nhiều người, áp lực luôn là điều bình thường và có ích. Cuộc sống cần phải có áp lực vì áp lực dường như có thể khơi dậy trách nhiệm và năng lượng bên trong giúp bản thân tiến về phía trước. Ví dụ, tác giả có một bệnh nhân tên là Ellen. Anh ấy thực sự là một nhân viên hoàn hảo, làm việc 7 ngày 1 tuần, mỗi ngày 11 giờ, không bao giờ phản nạn, không bao giờ từ chối, rất nhiệt tình luôn giúp đỡ người khác trong công việc Đối với Ellen, áp lực đến từ công việc là một áp lực tích cực khi được giúp đỡ những người xung quanh sẽ khiến anh ấy cảm thấy thực hiện được giá trị cá nhân
+
+Còn áp lực tồi tệ chính là đến từ cuộc hôn nhân kéo dài 10 năm Với một người vợ không quá lãng mạn, không đủ gắn kết và họ chưa có con Anh ta tin rằng bản thân không hút thuốc, không uống rượu, ngủ dậy sớm Nên bị bệnh là do thường xuyên ăn uống thất thường trong khi làm việc Thế nhưng thực chất nguyên nhân gốc dễ của căn bệnh không đến từ thói quen ăn uống Mà đến từ chính cái áp lực mà anh ấy cho là tích cực Bởi đằng sau áp lực đó luôn là một áp lực vô hình mang tên kỳ vọng Khi sự kỳ vọng vào gia đình không được thoả mãn
+
+Anh ta đã đặt mọi kỳ vọng vào người ngoài Hy vọng và việc nỗ lực trong công việc sẽ đạt được sự công nhận của đồng nghiệp, của công ty Và anh ta tiếp tục duy trì làm việc với cường độ mạnh để bảo vệ nhãn mác hoàn hảo trong mắt người khác Chúng ta cần hiểu rằng bên cạnh những áp lực rõ ràng đến từ xã hội, công việc, tài chính, quan hệ gia đình Thì còn tồn tại rất nhiều áp lực vô hình và khó nhận biết Chúng hầu hết đến từ nỗi sợ hãi sâu thẳm trong bạn Và sự kỳ vọng từ cha mẹ, người yêu, bạn bè, đồng nghiệp hay tự mình kỳ vọng vào người khác Adler đã cho rằng gốc rẽ của các vấn đề tâm lý là do mọi người không nhận được đủ tình yêu trong thời thơ ấu.
+
+Và tác giả cũng nhận thấy một người nếu chịu những tổn thương cảm xúc từ khi còn nhỏ, khi trưởng thành sẽ gặp khó khăn trong việc phân tách cảm xúc, tức là không tách rời được những cảm xúc bị ảnh hưởng từ nhỏ mà lập lại hoặc duy trì mẫu hành vi khi trưởng thành như là phàn nàn, chỉ trích, đánh mắng ngược đại con cái, kỳ vọng cao dễ nổi nóng như chính cha mẹ họ. Một nghiên cứu tại Học viện Quân đội Hoa Kỳ theo dõi hành trình phát triển của 1.400 sinh viên trong 4 năm cho thấy những sinh viên có mục tiêu cao học hành chăm chỉ, có cha mẹ đạt được thành công thường có áp lực tâm lý sâu hơn và dễ bị mắc bệnh hơn. Những người xuất sắc trong một tập thể nhưng họ không thực sự đạt được sự độc lập về cảm xúc
+
+chỉ liên tục theo đuổi vứt chân thành công của cha mẹ hoặc đáp ứng lại sự kỳ vọng của gia đình, xã hội. Chính vì vậy khi chúng ta nhận định rằng bản thân đang có áp lực Nhưng cho rằng những áp lực đó là cần thiết, là tốt để giúp bản thân phát triển Thì hãy rè trừng với điều này Hãy thận trọng với mọi áp lực Thư chất Quá trình cơ thể ứng xử về áp lực sẽ được thông qua nhiều đường dẫn thần kinh Và việc tiết học môn
+
+Cụ thể sẽ ảnh hưởng đến 3 loại cơ quan như sau
+
+Thứ nhất
+
+Đó là Hệ thống nội tiết Ví dụ như tuyến thượng thận Sẽ tiết ra adrenaline Làm cho cơ thể trở nên hung phấn Nhịp tim tăng cao
+
+Thứ hai
+
+Đó là hệ miễn dịch Hệ miễn dịch sẽ thực hiện chức năng miễn dịch tấn công lại những kẻ thù đến từ bên ngoài cơ thể.
+
+Thứ ba, đó là niêm mạc ruột của hệ thống tiêu hóa.
+
+Hệ thống tiêu hóa sẽ được tăng cường quá trình tiêu hóa hấp thu giúp cơ thể có thêm năng lượng. Tuy nhiên đối với cơ thể con người phản ứng đối phó với áp lực có giới hạn khi áp lực ở trong phạm vi hợp lý nó có thể giúp con người kích hoạt cơ thể tinh thần vấn chấn nâng cao hiệu suất làm việc giống như là mình đã liệt kê ở trên nhưng nếu vượt qua một giới hạn nào đó Nó có thể gây ra phản ứng quá đà trong cơ thể và khiến tổn thương rất lớn Nếu hệ thống miễn dịch bị ảnh hưởng bởi áp lực trong thời gian dài Hoặc từ một căng thẳng quá lớn
+
+Nó có thể coi tổ chức cơ thể của chính mình như kẻ thù Gây ra các bệnh liên quan đến hệ thống miễn dịch Họ khiến hệ thống tiêu hóa xuất hiện các triệu trứng Tiêu hóa kém, tăng acid, led xạ dày
+
+Cuối cùng dẫn đến ung thư
+
+Có thể nói rằng giới hạn mà cơ thể con người có thể chịu được Cũng chính là điểm phân chia Áp lực tốt và áp lực xấu Tuy nhiên, có một tiêu chuẩn cơ bản để giúp bạn nhận biết đó có phải là một áp lực xấu hay không. Nếu một người thường xuyên lặp đi lặp lại các vấn đề về tình trạng sinh lý như đau dạ dày, mất ngủ, khó ngủ, mọc mụn nhiều, hôi miệng, tim gập nhanh, dễ mệt mỏi, đổ mồ hôi, y tiểu nhiều lần, đau đầu hoặc cũng có một số tín hiệu hành vi như cáu kỉnh, bốc đồng, lo lắng quá mức, dễ dàng nổi giận, mua sắm, ăn uống điên cuồng, v.v.
+
+Thì đó đều là những triệu chứng mà cơ thể đang thể hiện ra Để bạn biết rằng, bạn đang có những áp lực xấu Một là áp lực đó đến từ những vấn đề bên ngoài rõ ràng Hai là nó có thể đến từ sâu bên trong Đến từ nỗi sợ hãi Hay việc đáp ứng một kỳ vọng nào đó Từ bản thân, từ người ngoài Mà hầu hết những nỗi sợ hãi
+
+Kỳ vọng này đều có thể xuất phát Từ những tổn thương trong quá khứ Chính vì thế, khi nhận được những tín hiệu Từ cơ thể, bạn cần phải dừng lại Tự hỏi bản thân và phân tích kỹ lưỡng Áp lực của tôi đến từ đâu? Tôi có đang trốn tránh căng thẳng trong cuộc sống không? Tôi nên hành động như thế nào để giúp tâm, thân hợp nhất Một số người sẽ kiên quyết nói với bản thân khi áp lực đến
+
+Tôi muốn vượt qua áp lực, tôi không thể bị đánh gục
+
+Đây thực sự là một suy nghĩ sai lầm
+
+Từ quan điểm tâm lý học Căng thẳng không được sử dụng để vượt qua Cũng không biến mất mà không có lý do Nó đòi hỏi chúng ta phải giải thoả và giải thoát từ bên trong Những người cố gắng vượt qua căng thẳng Thực sự đang từ chối hiện trạng không giảm đối mặt với sự lo lắng đến từ bên trong và làm tê lệ bản thân. Thường thì bạn càng làm điều này, căng thẳng sẽ ngày càng tích tụ nhiều hơn trong lòng bạn
+
+Lâu dần sẽ ảnh hưởng đến sức khỏe Thế nên khi áp lực xuất hiện chúng ta phải thực sự cảm nhận được áp lực từ trái tim Và chấp nhận bản thân đang có trạng thái bị áp lực
+
+Ngoài ra tác giả còn chỉ ra một vài quan điểm sai lầm
+
+Mà nếu một người thường xuyên tư duy suy nghĩ theo lối này Thì sẽ gây ra cản trở chấm trọng cho việc phát hiện ra áp lực đang tồn tại trong mình
+
+Vậy những suy nghĩ sai lầm đó là gì?
+
+Thứ nhất, tôi không đủ nỗ lực nên việc đó không đạt được kết quả tốt.
+
+Vì thế tôi phải cố gắng nhiều hơn.
+
+Thứ hai, việc gì tôi cũng phải làm ra kiểm soát.
+
+Nếu không, tôi sẽ không yên tâm.
+
+Thứ ba, tôi phải có trách nhiệm với mọi người xung quanh.
+
+Tôi không muốn họ cảm thấy thất vọng. Rồi khi chúng ta đã chấp nhận được bản thân đang có áp lực, tâm thân mình không hợp nhất thì đây chính là bước đẹp để giúp bạn đi đến bước số 2. Cho phép bản thân thức sật giải phóng những cảm xúc bị dồn nén và đạt được quyền tự chủ. Không biết từ bao giờ việc muốn cười thì cười, muốn khóc thì khóc, muốn chút giận thì có thể tức giận đã trở thành những điều quá xa xôi với nhiều người. Bởi vì hầu hết người trưởng thành cho rằng việc bồng lộ cảm xúc ra như vậy là không đủ chính chắn,
+
+thể hiện sự tức giận trước mặt người khác là hành vi không đúng đắn. Thế nhưng mà thực chất tức giận không phải là xấu,
+
+nó được coi là một cảm xúc tích cực về mặt sinh lý
+
+là có thể giúp bạn cải thiện quá trình trao đổi chất, hưng phấn cảm xúc, đồng thời khiến con người tập trung. Đối với những người trầm cảm phiền muộn lâu ngày Thì tức giận chính là liều thuốc kích thích phù hợp Tuy nhiên, nhiều nghiên cứu đã chỉ ra rằng Tức giận quá mức là nguyên nhân quan trọng dẫn đến bệnh tim mạch Vì vậy chúng ta cần phải chú ý rằng Cơn giận được nhấn mạnh ở đây là cơn giận của những cảm xúc bị đè nén
+
+Chứ không phải là kiểu nổi giận, cáo kỉnh, bốc đồng Điều chúng ta phải làm là giải phóng cơn giận đã có ở đó Ví dụ như là Nếu một người bị xúc phạm Thì họ nên chủ động nói ra Giải thích rõ ràng với đối phương Và yêu cầu đối phương xin lỗi mình Nhưng cũng không phải cảm thấy bị xúc phạm mà liền nổi cơn tanh bành, hung hăng, quát nạt
+
+Đây không phải là giải phóng tức giận Nó chỉ khiến cho bạn trở nên tức giận nhiều hơn Tức giận sẽ chỉ được giải phóng khi bạn không mất kiểm soát cảm xúc Và cũng không khép mình chịu được việc giải phóng tức giận thực chất để bạn nắm quyền tự chủ Điều chính lại trạng thái, điều phối nhận thức cũng như là ảnh vi của mình
+
+Vậy thì ở đây cụ thể sẽ có 3 bước để giúp bạn giải phóng cơn tức giận
+
+Bước đầu tiên đó là học cách biểu đạt
+
+Ở đây bạn có thể tham khảo thêm cách giao tiếp không bạo lực trong video trước mình đã từng chia sẻ. Chủ yếu là hãy nói ra sự thực, cảm giác điều mà mình muốn. Ví dụ, xếp của tôi đã tăng lương cho một đồng nghiệp nhưng không phải tôi. Tôi thấy rằng tôi làm tốt hơn, tôi cảm thấy bực bội vô cùng. Tôi muốn xếp cũng cần tăng lương xứng đáng cho tôi. Ngay cả khi sự việc đã qua đi, bạn cũng có thể nhắm mắt lại, tự kể và miêu tả sự thực bằng cách khôi phục những cảnh căng thẳng đó để giảm bớt đi tâm lý lo lắng, chút bỏ những cảm xúc tiêu cực
+
+một cách hiệu quả và chuẩn bị cho bước tiếp theo, đó là giải quyết vấn đề. Thực chất khi có thể khôi phục lại những sự kiện đau đớn và căng thẳng bạn sẽ có thể nhìn rõ bản chất của vấn đề từ đó đưa ra cách đối mặt và loại bỏ những cảm xúc tiêu cực của mình.
+
+Cuối cùng là bước số 3
+
+Bạn cần phải chịu trách nhiệm về kết quả Khi chúng ta bắt tay vào giải quyết vấn đề và giải tỏa những cảm xúc tiêu cực Tất nhiên là sẽ dẫn đến kết quả nhất định thậm chí là có thể xảy ra xung đột với những người xung quanh Một số người có thể cảm thấy hối tiếc và sợ hãi về điều đó. Tuy nhiên, tiến sĩ Marthe đã nhắc nhở rằng so với việc kìm nén và đóng cửa cảm xúc thì việc để chúng ta thoát ra khỏi ngoài vẫn là một lựa chọn có lợi hơn cho cơ thể và tâm trí của chúng ta.
+
+Vậy thì sau khi bạn có thể thừa nhận bản thân,
+
+thể hiện ra ngoài những cảm xúc từ căng thẳng, áp lực để thực sự nắm quyền tự chủ thì điểm tiếp theo cho việc chữa lành đó là tìm lại sự gắn bó thực sự. Thực chất nói cho cùng con người chúng ta luôn cần sự gắn bó. Gắn bó là mối liên hệ của một người với thế giới, là sợi dây kết nối cảm xúc của chúng ta với gia đình, người yêu, bạn bè và những người xung quanh. Nhưng nhiều người cảm thấy rằng khi họ kìm nén cảm xúc cũng là lúc họ mất đi sự gắn bó này.
+
+Một số người bắt đầu trở nên tự kỷ như muốn đóng cửa trái tim không giao tiếp với người khác chỉ muốn ở một mình khóa cửa và dành phần đời còn lại để tự vui vẻ. Cũng có một số người dần dần quên đi bản thân mọi sự vui, buồn, hỉ nộ đều thiết lập dựa trên người khác Có chuyện gì trong lòng
+
+là họ sẽ phải tìm bằng được một người để nói ra. Cả hai tình huống này thực sự là biểu hiện của sự mất mát tình cảm Bởi vì khi một người đè nén trái tim mình, anh ta cũng dễ mất đi khả năng nhận thức cảm xúc của người khác và anh ta sẽ cảm thấy bị cô lập về mặt cảm xúc Trong những hoàn cảnh như vậy, con người chỉ có thể chọn cách khép mình lại và ngừng tương tác với người khác Hoặc họ sẽ tiếp tục đòi hỏi người khác
+
+hy vọng sẽ liên tục nhận được sự hỗ trợ về mặt tinh thần Tất cả những điều này đều là sự không kết nối thực sự Sự gắn bó thực sự không phụ thuộc vào người khác mà bắt nguồn từ cảm xúc của chính mình, cũng như việc kết nối với người khác một cách độc lập. Vì vậy, chúng ta phải học cách điều chỉnh xây dựng lại sự gắn bó với gia đình, người yêu và bạn bè. Hãy lắng nghe trái tim của bạn và tự hỏi Tôi nhìn những người xung quanh mình như thế nào?
+
+Và tôi cảm thấy thế nào về họ? Làm thế nào tôi có thể tìm kiếm sự hỗ trợ từ họ? Khi nhìn lại những cảm giác này, chúng ta sẽ thực sự tìm thấy sự gắn bó.
+
+Cuối cùng là một bước vô cùng quan trọng đó là tự mình khẳng định
+
+Bạn đang đi trên con đường tự chữa lành
+
+Tại sao bạn phải tìm cách chữa lành thân tâm
+
+Bởi vì cơ thể của bạn Đang lên tiếng Nó bị bệnh rồi
+
+Vậy thì đã đến lúc
+
+Bạn cần phải tuyên bố Chúng ta là ai Với bản thân và thế giới Khẳng định sự tồn tại của mình Sợ dĩ làm như vậy Bởi nhiều người Nhất là khi ống đau Họ luôn có cảm giác vô tích sự
+
+Cho rằng Khi mình bị bệnh Thì chẳng những không làm được gì Mà còn kéo cả gia đình Xong họ đi xuống Khiến các thành viên trong gia đình thay đổi cuộc sống của họ. Lúc này, bạn sẽ tự phủ nhận và từ bỏ chính mình
+
+Nhưng điều này thực ra lại khiến bạn rơi vào một vòng luần quẩn. Con người càng chối bỏ chính mình thì càng dễ dẫn đến trống rỗng, thất bại, khó điều chỉnh. Từ đó sinh ra nhiều áp lực bên trong Càng áp lực, bệnh tật lại càng nặng thêm và càng khiến người xung quanh vất vả hơn Do đó chúng ta phải học cách khẳng định
+
+bản thân, coi sự tồn tại của mình như một tuyên bố. Tuyên bố rằng chúng ta đang hướng tới một mục tiêu quan trọng Đó là đạt được sự chữa lành về cả thể chất và tinh thần
+
+Có 2 cách chính để làm điều này
+
+Đầu tiên, đó là theo đuổi mong muốn sáng tạo của bản thân
+
+Tuy nhiên, sự sáng tạo này không liên quan gì đến sự nghiệp, gia đình hay cuộc sống của bạn Ví dụ, tác giả khi bị bệnh đã coi viết lách là một mong muốn sáng tạo Sở thích này không liên quan gì đến nghề nghiệp của ông Nhưng ông cảm thấy rất thoải mái khi viết lách Và cảm thấy rằng mình đang sáng tạo
+
+Đây là một loại hiện thân của sức sống
+
+Và tất nhiên, cũng có nhiều người coi những sở thích như là vẽ tranh, nấu ăn, làm vườn, đan len, làm thủ công hay là nhếp ảnh Đều là những cách giải tỏa những căng thẳng Thêm một cách khác nữa đó là suy nghĩ về mối liên hệ của bạn với cuộc sống Hãy nghĩ xem chúng ta đau đớn như thế nào Chúng ta có thể cảm nhận được mối liên hệ của mình với thế giới, những người xung quanh và những thứ trong tầm tay chúng ta hay không Tự nhìn lại, nội soi bản thân về mọi chi tiết phản ánh liên hệ của chúng ta với cuộc sống
+
+Đây cũng là một cách vô cùng hữu hiệu để bạn chứng lạnh
+
+Và khi gặp khó khăn, chúng ta có thể suy nghĩ nhiều hơn về cách giải quyết vấn đề hiện tại. Trong hoàn cảnh này, người ta nhận ra rằng Đau đớn buồn phiền đến đâu cũng chỉ là nhất thời Sớm muộn gì cũng sẽ qua Nhìn về phía trước mới là trạng thái bình thường của cuộc sống Rồi, trên đây là những điều cốt lõi nhất về cuốn sách này Cơ thể bạn đang nói điều gì? Hãy lắng nghe nó
+
+Bạn thân mến, sau rất nhiều video làm về các cuốn sách khác nhau Bạn sẽ thấy mình đang cố gắng muốn nói với các bạn Về 2 từ vô cùng quan trọng trong cuộc đời bạn Về cơ thể đó là cần phải cân bằng Về tâm hồn đó là nên đạt được sự thống nhất Cân bằng chế độ ăn uống và dinh dưỡng Cân bằng thời gian ngủ nghỉ, tập luyện thể thao Gần gũi thiên nhiên
+
+Tiếp xúc với ảnh nắng mặt trời Đây là cách đối xử tốt nhất cho cơ thể của bạn Về thống nhất Mình thực sự rất mong bạn có thể học cách Thống nhất cả trong lẫn ngoài Sống chân thật với bản thân Lại bỏ mọi xung đột nội tâm
+
+Và giờ chúng ta cần phải có thêm một sự thống nhất nữa
+
+Đó là đảm bảo sự hợp nhất vẹn toàn Của thân và tâm Bạn sẽ thấy việc tự chữa lành Hóa ra là học cách xả stress Có tự chủ Hay học cách nói không Từ chối những áp lực bên ngoài Bằng khả năng làm chủ tâm lý
+
+Và không còn là cái con người ngoan ngoãn Chỉ biết lẳng lặng khép mình Hoặc điên rồ nổi giận nữa Đối mặt với nội tâm của chính mình Đi tìm bản thân bạn là ai
+
+Tại sao
+
+Mình lại có những căng thẳng đó Hay những căn bệnh Đang muốn nói điều gì về bạn Nếu bạn dám đưa ra lựa chọn Và hành động đến cùng Cơ thể sẽ tự nhiên không đủ bệnh. Mong tất cả chúng ta có thể trân trọng sự hợp nhất này
+
+của thân và tâm. Cảm ơn bạn đã lắng nghe Nếu bạn cảm thấy video này có ích hãy chia sẻ tới những người cần nó Đừng quên lưu lại suy nghĩ của bạn ở phần bình luận phía dưới, ủng hộ mình bằng muốn nút like, nhấn nút theo dõi mở nước chuông thông báo để đón xem những video mới nhất hàng tuần của mình
+
+Một lần nữa, cảm ơn các bạn Và hẹn gặp lại các bạn ở những video tiếp theo

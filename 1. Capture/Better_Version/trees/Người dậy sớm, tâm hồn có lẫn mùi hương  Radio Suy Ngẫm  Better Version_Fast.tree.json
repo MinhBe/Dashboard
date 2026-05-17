@@ -1,0 +1,23 @@
+{
+  "source_type": "youtube",
+  "word_count": 2013,
+  "estimated_leaf_nodes": 2,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 2 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cùng_là_một_ngày",
+      "label": "Cùng là một ngày",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "cuối_cùng_công_ty_đối_phương_không_những_đồng_ý",
+      "label": "Cuối cùng công ty đối phương không những đồng ý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    }
+  ]
+}

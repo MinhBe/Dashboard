@@ -1,0 +1,37 @@
+{
+  "source_type": "youtube",
+  "word_count": 287,
+  "estimated_leaf_nodes": 4,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 4 leaves >= 3 minimum (youtube/short)",
+  "tree": [
+    {
+      "key": "tại_sao_thập_thiền_đã_lâu_mà_vẫn_chưa_thấy_kết_quả",
+      "label": "Tại sao thập thiền đã lâu mà vẫn chưa thấy kết quả?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 0"
+    },
+    {
+      "key": "vậy_cách_tiếp_cận_đúng_đó_chính_là_trở_thành_người_quan_sát",
+      "label": "Vậy cách tiếp cận đúng đó chính là trở thành người quan sát suy nghĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "thiền_không_phải_là_một_hình_thức",
+      "label": "Thiền không phải là một hình thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "mà_nó_là_một_phong_cách_sống_kết_nối_với_bản_thân",
+      "label": "Mà nó là một phong cách sống kết nối với bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    }
+  ]
+}

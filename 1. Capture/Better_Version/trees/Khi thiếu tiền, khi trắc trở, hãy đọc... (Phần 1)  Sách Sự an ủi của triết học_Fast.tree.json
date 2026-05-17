@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 4151,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_socrates_lại_bị_kết_tội_chết",
+      "label": "Tại sao Socrates lại bị kết tội chết?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "cuối_cùng_thì_220_người_trong_buổi_thẩm_đoàn_cho_rằng_socrat",
+      "label": "Cuối cùng thì 220 người trong buổi thẩm đoàn cho rằng Socrates vô tội.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đầu_tiên_đó_là_tình_bạn",
+      "label": "Đầu tiên đó là tình bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "điều_thứ_2_đó_là_tự_do",
+      "label": "Điều thứ 2 đó là tự do",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "điều_thứ_3_mà_ông_nhắc_đến_đó_là_tư_tưởng",
+      "label": "Điều thứ 3 mà ông nhắc đến đó là tư tưởng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "thứ_nhất_đó_là_ham_muốn_tự_nhiên_và_cần_thiết",
+      "label": "Thứ nhất, đó là ham muốn tự nhiên và cần thiết.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 58",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_ham_muốn_tự_nhiên_và_cần_thiết_item_1",
+          "label": "[Item 1 of Thứ nhất, đó là ham muốn tự nhiên và cần thiết. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_ham_muốn_tự_nhiên_và_cần_thiết_item_2",
+          "label": "[Item 2 of Thứ nhất, đó là ham muốn tự nhiên và cần thiết. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thôi_là_được",
+      "label": "Vậy thôi là được.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "vậy_nên_khi_không_có_đáp_án_mà_ta_cứ_lao_về_phía_trước",
+      "label": "Vậy nên khi không có đáp án mà ta cứ lao về phía trước",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "ông_là_một_chiếc_gia_tài_giỏi_và_là_người_có_phẩm_cách_rất_t",
+      "label": "ông là một chiếc gia tài giỏi và là người có phẩm cách rất tốt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    }
+  ]
+}

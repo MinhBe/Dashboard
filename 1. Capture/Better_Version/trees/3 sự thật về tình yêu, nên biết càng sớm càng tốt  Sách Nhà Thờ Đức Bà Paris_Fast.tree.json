@@ -1,0 +1,123 @@
+{
+  "source_type": "youtube",
+  "word_count": 4529,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": 3,
+  "minimum_yield_check": "PASS: 15 leaves >= 3 (from title)",
+  "tree": [
+    {
+      "key": "và_chúng_ta_cần_phải_biết_rằng",
+      "label": "Và chúng ta cần phải biết rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "sự_gặp_gỡ_giữa_họ_là_một_trường_hợp_kinh_điển_anh_hùng_cứu_m",
+      "label": "Sự gặp gỡ giữa họ là một trường hợp kinh điển, anh hùng cứu mỹ nhân.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "vậy_thì_khi_nào_điều_ác_sẽ_xuất_hiện",
+      "label": "Vậy thì khi nào điều ác sẽ xuất hiện?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "anh_không_còn_là_một_người_khó_gần_tàn_bạo_nữa",
+      "label": "Anh không còn là một người khó gần tàn bạo nữa",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "ngược_lại_bên_dưới_về_ngoài_xấu_xí",
+      "label": "Ngược lại Bên dưới về ngoài xấu xí",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "vẫn_có_thể_là_một_tâm_hồn_hiền_lành",
+      "label": "Vẫn có thể là một tâm hồn hiền lành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "vậy_suốt_cuộc_tình_yêu_thực_sự",
+      "label": "Vậy suốt cuộc tình yêu thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "ở_đây_là_gì_có_thể_bạn_sẽ_thắc_mắc",
+      "label": "ở đây là gì? Có thể bạn sẽ thắc mắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "cuối_cùng_đều_không_thể_được_ở_bên",
+      "label": "cuối cùng đều không thể được ở bên",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "cuối_cùng_đều_không_thể_được_ở_bên_item_1",
+          "label": "[Item 1 of cuối cùng đều không thể được ở bên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_đều_không_thể_được_ở_bên_item_2",
+          "label": "[Item 2 of cuối cùng đều không thể được ở bên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ở_đây_là_một_xã_hội_thống_trị_đầy",
+      "label": "Ở đây là một xã hội thống trị đầy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "đây_là_một_kết_thúc_bi_thảm",
+      "label": "Đây là một kết thúc bi thảm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "đầu_tiên_nhìn_núi_là_núi",
+      "label": "Đầu tiên, nhìn núi là núi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 128"
+    },
+    {
+      "key": "cuối_cùng_nhìn_núi_vẫn_là_núi",
+      "label": "Cuối cùng, nhìn núi vẫn là núi.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "không_phải_là_một_câu_chuyện_tình_yêu_thuần_tuỷ",
+      "label": "Không phải là một câu chuyện tình yêu thuần tuỷ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    }
+  ]
+}

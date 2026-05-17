@@ -1,0 +1,176 @@
+{
+  "source_type": "youtube",
+  "word_count": 3693,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_bạn_đã_chọn_đúng_sách_cho_bản_thân_hay_chưa",
+      "label": "Vậy bạn đã chọn đúng sách cho bản thân hay chưa?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "vậy_bạn_đã_chọn_đúng_sách_cho_bản_thân_hay_chưa_item_1",
+          "label": "[Item 1 of Vậy bạn đã chọn đúng sách cho bản thân hay chưa? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_bạn_đã_chọn_đúng_sách_cho_bản_thân_hay_chưa_item_2",
+          "label": "[Item 2 of Vậy bạn đã chọn đúng sách cho bản thân hay chưa? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tại_sao_cuốn_sách_này_lại_có_tên_là_tư_duy_nhanh_và_chậm",
+      "label": "Tại sao cuốn sách này lại có tên là tư duy nhanh và chậm?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "hệ_thống_1_là_gì",
+      "label": "Hệ thống 1 là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "và_việc_chúng_ta_quá_phụ_thuộc_vào_hệ_thống_tư_duy_nhanh",
+      "label": "Và việc chúng ta quá phụ thuộc vào hệ thống tư duy nhanh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "ở_đây_là_gì",
+      "label": "Ở đây là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "thứ_nhất_thiên_về_tính_điển_hình",
+      "label": "Thứ nhất, thiên về tính điển hình",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 48",
+      "children": [
+        {
+          "key": "thứ_nhất_thiên_về_tính_điển_hình_item_1",
+          "label": "[Item 1 of Thứ nhất, thiên về tính điển hình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_thiên_về_tính_điển_hình_item_2",
+          "label": "[Item 2 of Thứ nhất, thiên về tính điển hình — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_thiên_về_tình_có_sẵn",
+      "label": "Thứ hai là thiên về tình có sẵn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "thứ_hai_là_thiên_về_tình_có_sẵn_item_1",
+          "label": "[Item 1 of Thứ hai là thiên về tình có sẵn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_thiên_về_tình_có_sẵn_item_2",
+          "label": "[Item 2 of Thứ hai là thiên về tình có sẵn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_3_đó_là_thiên_về_tính_nhân_quả",
+      "label": "Điều thứ 3 đó là thiên về tính nhân quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "đầu_tiên_đó_là_hiệu_ứng_hào_quang",
+      "label": "Đầu tiên đó là hiệu ứng hào quang",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "bạn_đẹp_bạn_giỏi_bạn_nói_gì_cũng_đúng",
+      "label": "Bạn đẹp, bạn giỏi, bạn nói gì cũng đúng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "đây_là_một_câu_nói_mang_tính_đầy_chú_quan_đúng_không",
+      "label": "Đây là một câu nói mang tính đầy chú quan đúng không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "và_ghét_cái_việc_mà_chúng_ta_đánh_mất_nó",
+      "label": "và ghét cái việc mà chúng ta đánh mất nó.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_chúng_ta_có_thể_tránh_sai_lầm_về_nhận_thứ",
+      "label": "Vậy làm thế nào để chúng ta có thể tránh sai lầm về nhận thức",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "điều_thứ_3_chúng_ta_cần_làm_đó_là_tập_trung_hoàn_toàn",
+      "label": "Điều thứ 3 chúng ta cần làm đó là tập trung hoàn toàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "đây_thực_sự_là_một_cách_rất_là_hiểu_hiệu",
+      "label": "Đây thực sự là một cách rất là hiểu hiệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "ngoài_ra_khi_mà_ở_tình_trạng_đói_khát",
+      "label": "Ngoài ra khi mà ở tình trạng đói khát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    }
+  ]
+}

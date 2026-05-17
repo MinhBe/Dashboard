@@ -1,0 +1,186 @@
+{
+  "source_type": "youtube",
+  "word_count": 6796,
+  "estimated_leaf_nodes": 24,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 24 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "trong_đầu_chúng_ta_như_thế_có_hai_người_tí_hon_đang_cãi_vã",
+      "label": "Trong đầu chúng ta như thế Có hai người tí hon đang cãi vã",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "bên_cạnh_đó_vì_luôn_muốn_mọi_thứ_tốt_nhất_dành_cho_bạn",
+      "label": "Bên cạnh đó, vì luôn muốn mọi thứ tốt nhất dành cho bạn,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "trong_suốt_bao_nhiêu_năm_qua",
+      "label": "Trong suốt bao nhiêu năm qua",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "và_việc_chúng_ta_giải_quyết_những_vấn_đề",
+      "label": "Và việc chúng ta giải quyết những vấn đề",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vậy_thì_bạn_thực_sự_là_ai",
+      "label": "vậy thì bạn thực sự là ai?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "xem_phim_nó_là_một_ví_dụ",
+      "label": "Xem phim nó là một ví dụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_tìm_thấy_cái_tôi_thực_sự",
+      "label": "Vậy làm thế nào để tìm thấy cái tôi thực sự?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "tức_là_bạn_là_một_chủ_thể",
+      "label": "Tức là bạn là một chủ thể,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "khi_đã_là_một_người_quan_sát",
+      "label": "Khi đã là một người quan sát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vọng_tưởng_và_chấp_trước_là_gì",
+      "label": "Vọng tưởng và chấp trước là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_chỉ_còn_cách_quay_vào_bên_trong",
+      "label": "Vậy thì bây giờ chỉ còn cách quay vào bên trong",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "vậy_thì_trải_nghiệm_năng_lượng_là_gì",
+      "label": "Vậy thì trải nghiệm năng lượng là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "trước_tiên_hãy_cùng_tìm_hiểu_năng_lượng_là_gì",
+      "label": "Trước tiên hãy cùng tìm hiểu năng lượng là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "điều_này_sẽ_liên_quan_đến_nguyên_lý_nhận_thức_của_bộ_não",
+      "label": "Điều này sẽ liên quan đến nguyên lý nhận thức của bộ não.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 118",
+      "children": [
+        {
+          "key": "điều_này_sẽ_liên_quan_đến_nguyên_lý_nhận_thức_của_bộ_não_item_1",
+          "label": "[Item 1 of Điều này sẽ liên quan đến nguyên lý nhận thức của bộ não. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_này_sẽ_liên_quan_đến_nguyên_lý_nhận_thức_của_bộ_não_item_2",
+          "label": "[Item 2 of Điều này sẽ liên quan đến nguyên lý nhận thức của bộ não. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đây_chỉ_là_một_biểu_tượng",
+      "label": "Đây chỉ là một biểu tượng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "vậy_thì_ở_đây_chúng_ta_sẽ_phải_làm_gì",
+      "label": "Vậy thì ở đây chúng ta sẽ phải làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "vượt_qua_nó_và_nhận_thức_được",
+      "label": "vượt qua nó và nhận thức được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "bản_thân_bạn_là_một_người_quan_sát",
+      "label": "bản thân bạn là một người quan sát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 154"
+    },
+    {
+      "key": "tại_sao_nó_nói_nhiều_lời_tiêu_cực_đến_vậy",
+      "label": "Tại sao nó nói nhiều lời tiêu cực đến vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "để_giải_quyết_vấn_đề_nội_tại_của_bạn",
+      "label": "Để giải quyết vấn đề nội tại của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "đây_là_một_nhiệm_vụ_không_thể_hoàn_thành",
+      "label": "Đây là một nhiệm vụ không thể hoàn thành",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    },
+    {
+      "key": "vậy_thì_bạn_cần_phải_làm_gì",
+      "label": "Vậy thì bạn cần phải làm gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 176"
+    },
+    {
+      "key": "vậy_thì_những_giấc_mộng_kiếm_thật_nhiều_tiền",
+      "label": "Vậy thì những giấc mộng kiếm thật nhiều tiền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    }
+  ]
+}

@@ -1,0 +1,223 @@
+{
+  "source_type": "youtube",
+  "word_count": 6344,
+  "estimated_leaf_nodes": 28,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 28 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "cuốn_sách_này_là_một_bản_tóm_tác_lý_thuyết_về_giao_tiếp_khôn",
+      "label": "Cuốn sách này là một bản tóm tác lý thuyết về giao tiếp không bạo lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "và_được_coi_là_một_tác_phẩm_kinh_điển_trong_lĩnh_vực_tâm_lý",
+      "label": "Và được coi là một tác phẩm kinh điển trong lĩnh vực tâm lý học",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "thứ_nhất_phán_xét_đạo_đức",
+      "label": "Thứ nhất, phán xét đạo đức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "thứ_nhất_phán_xét_đạo_đức_item_1",
+          "label": "[Item 1 of Thứ nhất, phán xét đạo đức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_phán_xét_đạo_đức_item_2",
+          "label": "[Item 2 of Thứ nhất, phán xét đạo đức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "khi_mà_xảy_ra_một_vấn_đề_đó_là_gì",
+      "label": "Khi mà xảy ra một vấn đề đó là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "ngoài_ra_bạn_cần_phải_chú_ý_hơn",
+      "label": "Ngoài ra, bạn cần phải chú ý hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "tại_sao_tôi_phải_làm_việc_này_suốt_cả_20_năm_nay",
+      "label": "Tại sao tôi phải làm việc này suốt cả 20 năm nay",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "tại_sao_đứa_con_lại_vui_mừng_đến_vậy",
+      "label": "Tại sao đứa con lại vui mừng đến vậy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "việc_than_vãn_là_một_kiểu_trốn_tránh_trách_nhiệm",
+      "label": "việc than vãn là một kiểu trốn tránh trách nhiệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "cảm_giác_tự_nguyện_là_một_điều_gì_đó",
+      "label": "Cảm giác tự nguyện là một điều gì đó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tại_sao_con_cái_của_bạn",
+      "label": "Tại sao con cái của bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vô_hình_chung_nó_là_một_lời_nói_bạo_lực",
+      "label": "Vô hình chung nó là một lời nói bạo lực",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_thì_chính_xác_giao_tiếp_không_bạo_lực_là_gì",
+      "label": "Vậy thì chính xác giao tiếp không bạo lực là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 78"
+    },
+    {
+      "key": "bước_đầu_tiên_trong_giao_tiếp_không_bạo_lực_đó_là_quan_sát",
+      "label": "Bước đầu tiên trong giao tiếp không bạo lực đó là quan sát.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "khi_ở_đây_là_một_công_cụ",
+      "label": "Khi ở đây là một công cụ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "thật_là_một_thợ_chụp_hình_giỏi",
+      "label": "Thật là một thợ chụp hình giỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "tại_sao_phải_nói_ra_cảm_xúc_thật_của_mình_trong_khi_giao_tiế",
+      "label": "Tại sao phải nói ra cảm xúc thật của mình trong khi giao tiếp?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "tại_sao_phải_biểu_lộ_cảm_xúc_ra_ngoài",
+      "label": "Tại sao phải biểu lộ cảm xúc ra ngoài?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "gốc_dễ_cảm_xúc_là_gì",
+      "label": "Gốc dễ cảm xúc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "vậy_thì_nói_theo_cách_thứ_2_như_thế_này_có_được_hay_không",
+      "label": "Vậy thì nói theo cách thứ 2 như thế này có được hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "bên_cạnh_đó_khi_mà_không_thể_ra_mệnh_lệ",
+      "label": "Bên cạnh đó, khi mà không thể ra mệnh lệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "vậy_thì_cách_để_thể_hiện_yêu_cầu_của_bản_thân_hiệu_quả_là_nh",
+      "label": "Vậy thì cách để thể hiện yêu cầu của bản thân hiệu quả là như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "tại_sao_phật_trong_chùa_miệng_nhỏ_còn_tai_thì_rất_to",
+      "label": "Tại sao Phật trong chùa miệng nhỏ còn tai thì rất to",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 178"
+    },
+    {
+      "key": "trong_cuốn_sách_này",
+      "label": "Trong cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 184"
+    },
+    {
+      "key": "vậy_hãy_xem_thử_xem",
+      "label": "Vậy hãy xem thử xem",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 188"
+    },
+    {
+      "key": "đầu_tiên_thì_bạn_sẽ_học_được_cách_yêu_bản_thân",
+      "label": "Đầu tiên thì bạn sẽ học được cách yêu bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 206"
+    },
+    {
+      "key": "đều_là_một_món_quà_cao_quý_nhất_để_bạn_có_thể_yêu_thương_bản",
+      "label": "Đều là một món quà cao quý nhất để bạn có thể yêu thương bản thân",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 212",
+      "children": [
+        {
+          "key": "đều_là_một_món_quà_cao_quý_nhất_để_bạn_có_thể_yêu_thương_bản_item_1",
+          "label": "[Item 1 of Đều là một món quà cao quý nhất để bạn có thể yêu thương bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đều_là_một_món_quà_cao_quý_nhất_để_bạn_có_thể_yêu_thương_bản_item_2",
+          "label": "[Item 2 of Đều là một món quà cao quý nhất để bạn có thể yêu thương bản thân — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,176 @@
+{
+  "source_type": "youtube",
+  "word_count": 4018,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_mình_cứ_mất_kiểm_soát_và_bực_mình_hồi_lâu_như_vậy",
+      "label": "Tại sao mình cứ mất kiểm soát và bực mình hồi lâu như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_thì_xin_đừng_trách_móc_và_phản_xét_bản_thân",
+      "label": "Vậy thì xin đừng trách móc và phản xét bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "thứ_nhất_tôi_sợ_mất_đi_sự_che_chở",
+      "label": "Thứ nhất, tôi sợ mất đi sự che chở",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "thứ_nhất_tôi_sợ_mất_đi_sự_che_chở_item_1",
+          "label": "[Item 1 of Thứ nhất, tôi sợ mất đi sự che chở — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tôi_sợ_mất_đi_sự_che_chở_item_2",
+          "label": "[Item 2 of Thứ nhất, tôi sợ mất đi sự che chở — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_tôi_cảm_thấy_không_được_tôn_trọng",
+      "label": "Thứ hai, tôi cảm thấy không được tôn trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 20",
+      "children": [
+        {
+          "key": "thứ_hai_tôi_cảm_thấy_không_được_tôn_trọng_item_1",
+          "label": "[Item 1 of Thứ hai, tôi cảm thấy không được tôn trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_tôi_cảm_thấy_không_được_tôn_trọng_item_2",
+          "label": "[Item 2 of Thứ hai, tôi cảm thấy không được tôn trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_tư_tôi_mong_muốn_được_coi_trọng_và_quý_trọng",
+      "label": "Thứ tư, tôi mong muốn được coi trọng và quý trọng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 24",
+      "children": [
+        {
+          "key": "thứ_tư_tôi_mong_muốn_được_coi_trọng_và_quý_trọng_item_1",
+          "label": "[Item 1 of Thứ tư, tôi mong muốn được coi trọng và quý trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_tôi_mong_muốn_được_coi_trọng_và_quý_trọng_item_2",
+          "label": "[Item 2 of Thứ tư, tôi mong muốn được coi trọng và quý trọng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "lời_chơi_bài_của_người_khác_vv",
+      "label": "lời chơi bài của người khác, v.v.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "khi_bị_mũi_trích_ta_sẽ_cảm_thấy_bị_đau",
+      "label": "Khi bị mũi trích, ta sẽ cảm thấy bị đau",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "chỗ_đau_là_một_điểm_đau_nhất_của_tâm_hồn",
+      "label": "Chỗ đau là một điểm đau nhất của tâm hồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "đây_là_một_hành_động_theo_bản_năng",
+      "label": "Đây là một hành động theo bản năng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vậy_thì_tại_sao_lại_như_vậy",
+      "label": "Vậy thì tại sao lại như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "kinh_nghiệm_sống_là_một_yếu_tố_vô_cùng_quan_trọng",
+      "label": "kinh nghiệm sống là một yếu tố vô cùng quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "ý_nghĩa_cuộc_sống_là_gì",
+      "label": "Ý nghĩa cuộc sống là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "đây_là_một_phức_cảm_tự_ti",
+      "label": "Đây là một phức cảm tự ti",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "không_chỉ_đơn_thuần_là_một_phản_ứng_bốc_đồng",
+      "label": "Không chỉ đơn thuần là một phản ứng bốc đồng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "cuối_cùng_người_chồng_đang_buồn_ngủ",
+      "label": "Cuối cùng người chồng đang buồn ngủ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "để_chẳng_qua_là_một_hiểu_lầm_nhỏ",
+      "label": "Để chẳng qua là một hiểu lầm nhỏ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "vậy_sau_khi_bị_hiểu_lầm",
+      "label": "Vậy sau khi bị hiểu lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    }
+  ]
+}

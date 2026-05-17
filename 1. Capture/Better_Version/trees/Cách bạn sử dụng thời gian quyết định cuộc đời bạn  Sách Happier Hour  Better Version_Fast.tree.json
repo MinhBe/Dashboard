@@ -1,0 +1,149 @@
+{
+  "source_type": "youtube",
+  "word_count": 5224,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nhưng_là_một_nhà_nghiên_cứu",
+      "label": "nhưng là một nhà nghiên cứu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "đầu_tiên_tạo_một_thời_gian_biểu",
+      "label": "Đầu tiên tạo một thời gian biểu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "tiếp_theo_đó_là_mối_quan_hệ_ý_nghĩa_và_cảm_giác_thành_tiệu",
+      "label": "Tiếp theo đó là mối quan hệ, ý nghĩa và cảm giác thành tiệu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đầu_tiên_thì_bạn_hãy_xem_xét_rằng",
+      "label": "Đầu tiên thì bạn hãy xem xét rằng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "tiếp_theo_hãy_hỏi_bản_thân",
+      "label": "Tiếp theo, hãy hỏi bản thân,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "thức_giả_đã_đưa_ra_một_số_chiến_lược_thời_gian_như_sau",
+      "label": "Thức giả đã đưa ra một số chiến lược thời gian như sau.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 64"
+    },
+    {
+      "key": "đây_là_một_chiến_lược_nền_tảng_trong_quản_lý_thời_gian_hiệu",
+      "label": "Đây là một chiến lược nền tảng trong quản lý thời gian hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "chiến_lược_tiếp_theo_đó_là_chiến_lược_thưởng_thức_trọn_vẹn_t",
+      "label": "Chiến lược tiếp theo đó là chiến lược thưởng thức trọn vẹn từng giây.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "chiến_lược_thưởng_thức_thời_gian_ở_đây",
+      "label": "Chiến lược thưởng thức thời gian ở đây",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "ngoài_ra_bạn_cũng_có_thể_tham_khảo_thực_hành_quy_tắc_5_giây",
+      "label": "Ngoài ra bạn cũng có thể tham khảo thực hành quy tắc 5 giây",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "chiến_lược_số_3_đó_là_giảm_bớt_thời_gian_lãng_phí_và_nhàm_tr",
+      "label": "Chiến lược số 3 đó là giảm bớt thời gian lãng phí và nhàm trán",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "đây_là_một_lời_dư_thừa_các_nhà_nghiên_cứu_từng_thực_hiện",
+      "label": "đây là một lời dư thừa. Các nhà nghiên cứu từng thực hiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "hơn_nữa_việc_nghiên_cứu_tâm_lý_đã_chỉ_ra_rằng",
+      "label": "Hơn nữa, việc nghiên cứu tâm lý đã chỉ ra rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "đây_chính_là_một_trong_những_yếu_tố_âm_thầm_làm_suy_giảm_hạn",
+      "label": "Đây chính là một trong những yếu tố âm thầm làm suy giảm hạnh phúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "vì_vậy_hãy_giữ_sự_tỉnh_thức_trong_từng_khoảnh_khắc",
+      "label": "Vì vậy hãy giữ sự tỉnh thức trong từng khoảnh khắc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "chiến_lược_chuyển_hóa_nhận_định",
+      "label": "Chiến lược chuyển hóa nhận định",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "từ_đó_có_thể_mở_rộng_và_sáng_tạo_hơn_rất_nhiều",
+      "label": "Từ đó có thể mở rộng và sáng tạo hơn rất nhiều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "cuối_cùng_là_đi_đến_phần_kết",
+      "label": "cuối cùng là đi đến phần kết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "góc_nhìn_này_sẽ_giúp_bạn_không_bị_giam_cầm_về_quá_khứ_và_kỳ",
+      "label": "Góc nhìn này sẽ giúp bạn không bị giam cầm về quá khứ và kỳ vọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 156"
+    },
+    {
+      "key": "mà_thế_bản_thân_là_một_mảnh_ghép_trong_bức_tranh_lớn_suốt_đờ",
+      "label": "Mà thế bản thân là một mảnh ghép trong bức tranh lớn suốt đời người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    }
+  ]
+}

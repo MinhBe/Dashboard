@@ -1,0 +1,305 @@
+{
+  "source_type": "youtube",
+  "word_count": 7006,
+  "estimated_leaf_nodes": 32,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 32 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_có_những_người_dường_như_hút_may_mắn",
+      "label": "Tại sao có những người dường như hút may mắn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 2",
+      "children": [
+        {
+          "key": "tại_sao_có_những_người_dường_như_hút_may_mắn_item_1",
+          "label": "[Item 1 of Tại sao có những người dường như hút may mắn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_có_những_người_dường_như_hút_may_mắn_item_2",
+          "label": "[Item 2 of Tại sao có những người dường như hút may mắn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_sakura_khuyên_rằng",
+      "label": "Thứ nhất, Sakura khuyên rằng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "thứ_nhất_sakura_khuyên_rằng_item_1",
+          "label": "[Item 1 of Thứ nhất, Sakura khuyên rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_sakura_khuyên_rằng_item_2",
+          "label": "[Item 2 of Thứ nhất, Sakura khuyên rằng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_bao_quanh_cơ_thể_chúng_ta",
+      "label": "và bao quanh cơ thể chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "thứ_hai_để_kết_nối_với_giác_chi",
+      "label": "Thứ hai, để kết nối với giác chi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 54",
+      "children": [
+        {
+          "key": "thứ_hai_để_kết_nối_với_giác_chi_item_1",
+          "label": "[Item 1 of Thứ hai, để kết nối với giác chi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_để_kết_nối_với_giác_chi_item_2",
+          "label": "[Item 2 of Thứ hai, để kết nối với giác chi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cần_rèn_luyện_khả_năng_thấu_hiểu_mà_không_cần_suy_nghĩ",
+      "label": "Cần rèn luyện khả năng thấu hiểu mà không cần suy nghĩ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "liệu_đây_có_phải_là_một_chất_lý_vô_lý_phi_khoa_học_hay_không",
+      "label": "Liệu đây có phải là một chất lý vô lý phi khoa học hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tại_sao_hydro_và_oxy_kết_hợp_lại_thành_nước",
+      "label": "Tại sao hydro và oxy kết hợp lại thành nước?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "tại_sao_bạn_lại_có_hình_dạng_và_tính_cách_như_hiện_tại",
+      "label": "Tại sao bạn lại có hình dạng và tính cách như hiện tại?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "đây_cũng_chính_là_trạng_thái_tỉnh_thức_giác_chi",
+      "label": "Đây cũng chính là trạng thái tỉnh thức giác chi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "thứ_hai_đó_là_trạng_thái_hoạt_động_nhưng_phân_tán",
+      "label": "Thứ hai, đó là trạng thái hoạt động nhưng phân tán.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_trạng_thái_hoạt_động_nhưng_phân_tán_item_1",
+          "label": "[Item 1 of Thứ hai, đó là trạng thái hoạt động nhưng phân tán. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_trạng_thái_hoạt_động_nhưng_phân_tán_item_2",
+          "label": "[Item 2 of Thứ hai, đó là trạng thái hoạt động nhưng phân tán. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_thứ_2_trong_hành_trình",
+      "label": "Bước thứ 2 trong hành trình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "bước_cuối_cùng_trên_hành_trình_này",
+      "label": "bước cuối cùng trên hành trình này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "tiếp_theo_phần_cuối_đó_là_làm_chủ_năng_lượng",
+      "label": "Tiếp theo phần cuối đó là làm chủ năng lượng.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 116",
+      "children": [
+        {
+          "key": "tiếp_theo_phần_cuối_đó_là_làm_chủ_năng_lượng_item_1",
+          "label": "[Item 1 of Tiếp theo phần cuối đó là làm chủ năng lượng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiếp_theo_phần_cuối_đó_là_làm_chủ_năng_lượng_item_2",
+          "label": "[Item 2 of Tiếp theo phần cuối đó là làm chủ năng lượng. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_cân_bằng_năng_lượng_ở_các_luân_xa",
+      "label": "Thứ hai, cân bằng năng lượng ở các luân xa",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 122",
+      "children": [
+        {
+          "key": "thứ_hai_cân_bằng_năng_lượng_ở_các_luân_xa_item_1",
+          "label": "[Item 1 of Thứ hai, cân bằng năng lượng ở các luân xa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_cân_bằng_năng_lượng_ở_các_luân_xa_item_2",
+          "label": "[Item 2 of Thứ hai, cân bằng năng lượng ở các luân xa — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_chúng_ta_sẽ_đi_đến_phần_thứ_nhất",
+      "label": "Vậy chúng ta sẽ đi đến phần thứ nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 126",
+      "children": [
+        {
+          "key": "vậy_chúng_ta_sẽ_đi_đến_phần_thứ_nhất_item_1",
+          "label": "[Item 1 of Vậy chúng ta sẽ đi đến phần thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_chúng_ta_sẽ_đi_đến_phần_thứ_nhất_item_2",
+          "label": "[Item 2 of Vậy chúng ta sẽ đi đến phần thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "vậy_chúng_ta_sẽ_đi_đến_phần_thứ_nhất_item_3",
+          "label": "[Item 3 of Vậy chúng ta sẽ đi đến phần thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "như_là_một_mô_hình_thói_quen",
+      "label": "Như là một mô hình thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "đều_là_một_hệ_thống_sao_liêu_ngay_cả_khi",
+      "label": "đều là một hệ thống sao liêu. Ngay cả khi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "đều_là_một_lần_bạn_đang_tích_lý_sự_tỉnh_thức",
+      "label": "đều là một lần bạn đang tích lý sự tỉnh thức,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 170",
+      "children": [
+        {
+          "key": "đều_là_một_lần_bạn_đang_tích_lý_sự_tỉnh_thức_item_1",
+          "label": "[Item 1 of đều là một lần bạn đang tích lý sự tỉnh thức, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đều_là_một_lần_bạn_đang_tích_lý_sự_tỉnh_thức_item_2",
+          "label": "[Item 2 of đều là một lần bạn đang tích lý sự tỉnh thức, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_luân_sa_gốc",
+      "label": "Đầu tiên, luân sa gốc.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 174"
+    },
+    {
+      "key": "đây_là_một_quá_trình_biến_đổi_năng_lượng",
+      "label": "Đây là một quá trình biến đổi năng lượng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 186"
+    },
+    {
+      "key": "đây_là_một_câu_hỏi_đặt_ra_phá_vỡ_mô_hình_nhận_thức_cũ_của_bạ",
+      "label": "Đây là một câu hỏi đặt ra phá vỡ mô hình nhận thức cũ của bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 194"
+    },
+    {
+      "key": "vậy_thì_có_cách_nào_để_thành_hóa_và_thanh_tẩy_không_gian",
+      "label": "Vậy thì có cách nào để thành hóa và thanh tẩy không gian?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 198"
+    },
+    {
+      "key": "samadhi_là_một_trạng_thái_ở_cấp_độ_cao_hơn",
+      "label": "Samadhi là một trạng thái ở cấp độ cao hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    }
+  ]
+}

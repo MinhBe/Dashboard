@@ -1,0 +1,236 @@
+{
+  "source_type": "youtube",
+  "word_count": 5245,
+  "estimated_leaf_nodes": 26,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 26 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "thứ_nhất_hạnh_phúc_thực_chất_là_gì",
+      "label": "Thứ nhất, hạnh phúc thực chất là gì?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 4",
+      "children": [
+        {
+          "key": "thứ_nhất_hạnh_phúc_thực_chất_là_gì_item_1",
+          "label": "[Item 1 of Thứ nhất, hạnh phúc thực chất là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_hạnh_phúc_thực_chất_là_gì_item_2",
+          "label": "[Item 2 of Thứ nhất, hạnh phúc thực chất là gì? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hạnh_phúc_thực_chất_là_gì",
+      "label": "Hạnh phúc thực chất là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "ông_sẽ_ăn_liền_4_cái_một_lúc",
+      "label": "ông sẽ ăn liền 4 cái một lúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "cuối_cùng_sau_nhiều_năm_luyện_tập",
+      "label": "Cuối cùng sau nhiều năm luyện tập",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "vậy_thì_tại_sao_lại_như_vậy",
+      "label": "Vậy thì tại sao lại như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 18",
+      "children": [
+        {
+          "key": "vậy_thì_tại_sao_lại_như_vậy_item_1",
+          "label": "[Item 1 of Vậy thì tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_thì_tại_sao_lại_như_vậy_item_2",
+          "label": "[Item 2 of Vậy thì tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_kết_quả_nghiên_cứu_với_2_nhóm_người_này_đã_nói_lên_đ",
+      "label": "Vậy thì kết quả nghiên cứu với 2 nhóm người này đã nói lên điều gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_thì_nếu_như_bạn_có_được_trạng_thái_như_thế_này",
+      "label": "Vậy thì, nếu như bạn có được trạng thái như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "mỗi_ngày_đều_là_một_niềm_hạnh_phúc",
+      "label": "Mỗi ngày đều là một niềm hạnh phúc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "phương_pháp_để_hạnh_phúc_thực_sự",
+      "label": "Phương pháp để hạnh phúc thực sự",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "vậy_thì_hãy_cùng_xem_bạn_đang_là_người_ở_góc_phần_tư_nào",
+      "label": "Vậy thì hãy cùng xem bạn đang là người ở góc phần tư nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 48"
+    },
+    {
+      "key": "vậy_thì_khi_nào_họ_trở_nên",
+      "label": "Vậy thì khi nào họ trở nên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 58"
+    },
+    {
+      "key": "tiếp_theo_đó_là_kiểu_người_hạnh_phúc_ở_tương_lai",
+      "label": "Tiếp theo đó là kiểu người hạnh phúc ở tương lai",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "và_chúng_ta_sẽ_thấy_có_rất_nhiều_người_sống_trong_tình_trạng",
+      "label": "Và chúng ta sẽ thấy có rất nhiều người sống trong tình trạng này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "vậy_những_người_như_thế_nào_mới_có_cảm_giác_hạnh_phúc_thực_s",
+      "label": "Vậy những người như thế nào mới có cảm giác hạnh phúc thực sự?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 82",
+      "children": [
+        {
+          "key": "vậy_những_người_như_thế_nào_mới_có_cảm_giác_hạnh_phúc_thực_s_item_1",
+          "label": "[Item 1 of Vậy những người như thế nào mới có cảm giác hạnh phúc thực sự? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_những_người_như_thế_nào_mới_có_cảm_giác_hạnh_phúc_thực_s_item_2",
+          "label": "[Item 2 of Vậy những người như thế nào mới có cảm giác hạnh phúc thực sự? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_chúng_ta_có_thể_trở_lại_với_quá_khứ_hay_không",
+      "label": "Và chúng ta có thể trở lại với quá khứ hay không?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "và_chúng_ta_cũng_không_thể_đột_nhiên_bước_tới_tương_lai",
+      "label": "và chúng ta cũng không thể đột nhiên bước tới tương lai.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 90",
+      "children": [
+        {
+          "key": "và_chúng_ta_cũng_không_thể_đột_nhiên_bước_tới_tương_lai_item_1",
+          "label": "[Item 1 of và chúng ta cũng không thể đột nhiên bước tới tương lai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "và_chúng_ta_cũng_không_thể_đột_nhiên_bước_tới_tương_lai_item_2",
+          "label": "[Item 2 of và chúng ta cũng không thể đột nhiên bước tới tương lai. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_tìm_được_công_việc_thực_sự_phù_hợp_với_mì",
+      "label": "Vậy làm thế nào để tìm được công việc thực sự phù hợp với mình?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "và_thế_mạnh_của_tôi_là_gì",
+      "label": "Và thế mạnh của tôi là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "phương_pháp_này_có_thể_giúp_chúng_ta_điều_chỉnh_định_vị_cuộc",
+      "label": "Phương pháp này có thể giúp chúng ta điều chỉnh định vị cuộc đời.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "giúp_ít_cộng_sinh_với_môi_trường_xung_quanh",
+      "label": "Giúp ít cộng sinh với môi trường xung quanh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "rồi_trên_đây_là_phương_pháp_giúp_bạn_có_được_hạnh_phúc_thực",
+      "label": "Rồi trên đây là phương pháp giúp bạn có được hạnh phúc thực sự.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 138",
+      "children": [
+        {
+          "key": "rồi_trên_đây_là_phương_pháp_giúp_bạn_có_được_hạnh_phúc_thực_item_1",
+          "label": "[Item 1 of Rồi trên đây là phương pháp giúp bạn có được hạnh phúc thực sự. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "rồi_trên_đây_là_phương_pháp_giúp_bạn_có_được_hạnh_phúc_thực_item_2",
+          "label": "[Item 2 of Rồi trên đây là phương pháp giúp bạn có được hạnh phúc thực sự. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

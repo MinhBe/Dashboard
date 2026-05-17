@@ -1,0 +1,238 @@
+{
+  "source_type": "youtube",
+  "word_count": 5075,
+  "estimated_leaf_nodes": 25,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 25 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "bước_tiếp_theo_đó_là_đối_diện_thẳng_với_sự_thật",
+      "label": "Bước tiếp theo đó là đối diện thẳng với sự thật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "niềm_tin_chỉ_là_một_câu_chuyện",
+      "label": "Niềm tin chỉ là một câu chuyện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "bước_cuối_cùng_để_hoàn_toàn",
+      "label": "Bước cuối cùng để hoàn toàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "điều_quan_trọng_là_nó_phải_đủ_sộng_mờ_đủ_nâng_đỡ_thay_vì_kể",
+      "label": "Điều quan trọng là nó phải đủ sộng mờ, đủ nâng đỡ thay vì kể mãn bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "chỉ_nhớ_là_một_kỹ_năng_có_thể_dành_luyện",
+      "label": "Chỉ nhớ là một kỹ năng có thể dành luyện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đầu_tiên_thì_bạn_cần_một_mục_đích",
+      "label": "Đầu tiên thì bạn cần một mục đích,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "thứ_nhất_mục_tiêu_đó_phải_đuổi_thật",
+      "label": "Thứ nhất, mục tiêu đó phải đuổi thật.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 62",
+      "children": [
+        {
+          "key": "thứ_nhất_mục_tiêu_đó_phải_đuổi_thật_item_1",
+          "label": "[Item 1 of Thứ nhất, mục tiêu đó phải đuổi thật. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_mục_tiêu_đó_phải_đuổi_thật_item_2",
+          "label": "[Item 2 of Thứ nhất, mục tiêu đó phải đuổi thật. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_hai_là_mục_tiêu_đó_phải_đủ_rõ",
+      "label": "Thứ hai là mục tiêu đó phải đủ rõ",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "thứ_hai_là_mục_tiêu_đó_phải_đủ_rõ_item_1",
+          "label": "[Item 1 of Thứ hai là mục tiêu đó phải đủ rõ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_là_mục_tiêu_đó_phải_đủ_rõ_item_2",
+          "label": "[Item 2 of Thứ hai là mục tiêu đó phải đủ rõ — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "một_nhiệm_vụ_nhỏ_là_một_lần_não_bộ",
+      "label": "một nhiệm vụ nhỏ là một lần não bộ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "não_bộ_không_phải_là_một_cỗ_máy_logic_thuần_túy",
+      "label": "Não bộ không phải là một cỗ máy logic thuần túy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "thứ_nhất_tầng_năng_lượng_sinh_học_ngủ_đủ_ngủ_sâu_ăn_uống_cân",
+      "label": "Thứ nhất, tầng năng lượng sinh học, ngủ đủ, ngủ sâu, ăn uống cân bằng,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 96",
+      "children": [
+        {
+          "key": "thứ_nhất_tầng_năng_lượng_sinh_học_ngủ_đủ_ngủ_sâu_ăn_uống_cân_item_1",
+          "label": "[Item 1 of Thứ nhất, tầng năng lượng sinh học, ngủ đủ, ngủ sâu, ăn uống cân bằng, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tầng_năng_lượng_sinh_học_ngủ_đủ_ngủ_sâu_ăn_uống_cân_item_2",
+          "label": "[Item 2 of Thứ nhất, tầng năng lượng sinh học, ngủ đủ, ngủ sâu, ăn uống cân bằng, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_đó_là_tầng_năng_lượng_ý_thức",
+      "label": "Thứ ba đó là tầng năng lượng ý thức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "thứ_ba_đó_là_tầng_năng_lượng_ý_thức_item_1",
+          "label": "[Item 1 of Thứ ba đó là tầng năng lượng ý thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_đó_là_tầng_năng_lượng_ý_thức_item_2",
+          "label": "[Item 2 of Thứ ba đó là tầng năng lượng ý thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_phương_pháp_tăng_khả_năng_tập_trung",
+      "label": "Thứ nhất, phương pháp tăng khả năng tập trung",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 116",
+      "children": [
+        {
+          "key": "thứ_nhất_phương_pháp_tăng_khả_năng_tập_trung_item_1",
+          "label": "[Item 1 of Thứ nhất, phương pháp tăng khả năng tập trung — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_phương_pháp_tăng_khả_năng_tập_trung_item_2",
+          "label": "[Item 2 of Thứ nhất, phương pháp tăng khả năng tập trung — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_số_2_trước_khi_bắt_đầu_nhất_thiết_bạn_phải_loại_bỏ_nhiễ",
+      "label": "Bước số 2. Trước khi bắt đầu, nhất thiết bạn phải loại bỏ nhiễu",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 124",
+      "children": [
+        {
+          "key": "bước_số_2_trước_khi_bắt_đầu_nhất_thiết_bạn_phải_loại_bỏ_nhiễ_item_1",
+          "label": "[Item 1 of Bước số 2. Trước khi bắt đầu, nhất thiết bạn phải loại bỏ nhiễu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_số_2_trước_khi_bắt_đầu_nhất_thiết_bạn_phải_loại_bỏ_nhiễ_item_2",
+          "label": "[Item 2 of Bước số 2. Trước khi bắt đầu, nhất thiết bạn phải loại bỏ nhiễu — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nín_thở_đếm_thầm_đến_7",
+      "label": "Nín thở, đếm thầm đến 7",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "cuối_cùng_thở_ra_hoàn_toàn_bằng_miệng",
+      "label": "Cuối cùng thở ra hoàn toàn bằng miệng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "rồi_tiếp_theo_đó_là_phương_pháp_số_2",
+      "label": "Rồi tiếp theo đó là phương pháp số 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "là_bằng_cách_đếm",
+      "label": "là bằng cách đếm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 158"
+    },
+    {
+      "key": "phương_pháp_này_rất_đơn_giản",
+      "label": "Phương pháp này rất đơn giản,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 160"
+    }
+  ]
+}

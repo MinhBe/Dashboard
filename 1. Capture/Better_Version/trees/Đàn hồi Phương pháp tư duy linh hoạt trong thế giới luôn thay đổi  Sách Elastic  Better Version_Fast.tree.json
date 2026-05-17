@@ -1,0 +1,149 @@
+{
+  "source_type": "youtube",
+  "word_count": 3881,
+  "estimated_leaf_nodes": 20,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 20 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_tính_đàn_hồi_của_tư_duy_suốt_cuộc_là_gì",
+      "label": "Vậy, tính đàn hồi của Tư Duy suốt cuộc là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "đây_cũng_chính_là_một_phần_của_tư_duy_đàn_hồi",
+      "label": "Đây cũng chính là một phần của tư duy đàn hồi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "vậy_thức_tỉnh_là_gì",
+      "label": "Vậy thức tỉnh là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 44"
+    },
+    {
+      "key": "đây_là_một_điều_kiện_cần_để_bạn_có_thể_xây_dựng_một_tư_duy_đ",
+      "label": "Đây là một điều kiện cần để bạn có thể xây dựng một tư duy đàn hồi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "vậy_chúng_ta_sẽ_cùng_đi_đến_phương_pháp_thứ_2",
+      "label": "Vậy chúng ta sẽ cùng đi đến phương pháp thứ 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "đầu_tiên_đó_là_cách_cải_thiện_khả_năng_nhìn_thấu_của_bộ_não",
+      "label": "Đầu tiên đó là cách cải thiện khả năng nhìn thấu của bộ não",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy_sự_quan_sát_này",
+      "label": "Tại sao lại như vậy? Sự quan sát này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "cuối_cùng_cách_để_rèn_luyện_tư_duy_đàn_hồi",
+      "label": "Cuối cùng, cách để rèn luyện tư duy đàn hồi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "tại_sao_chúng_ta_không_bỏ_một_cửa_hàng",
+      "label": "Tại sao chúng ta không bỏ một cửa hàng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "vậy_là_siêu_thị_tự_động_đầu_tiên_đã_được_ra_đời_như_thế",
+      "label": "Vậy là siêu thị tự động đầu tiên đã được ra đời như thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "trong_cuốn_sách_khóa_học_sáng_tạo",
+      "label": "Trong cuốn sách khóa học sáng tạo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_nếu_bây_giờ_mình_đưa_ra_cho_các_bạn_một_từ_là_cờ_vua",
+      "label": "Vậy, nếu bây giờ mình đưa ra cho các bạn một từ là cờ vua,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "thậm_chí_là_một_mình_bạn_thôi",
+      "label": "Thậm chí là một mình bạn thôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "ngoài_ra_theo_một_chứng_minh",
+      "label": "Ngoài ra, theo một chứng minh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "đây_thực_sự_là_một_phương_pháp_không_mất_vốn",
+      "label": "Đây thực sự là một phương pháp không mất vốn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 118"
+    },
+    {
+      "key": "dopamine_là_một_hormone_quan_trọng",
+      "label": "Dopamine là một hormone quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "lướt_một_phát_là_đi_tong_mấy_giờ_đồng_hồ_luôn",
+      "label": "Lướt một phát là đi tong mấy giờ đồng hồ luôn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "tại_sao_mà_khi_bạn_chơi_game_bạn_có_thể_thức_thâu_đêm_suốt_s",
+      "label": "Tại sao mà khi bạn chơi game bạn có thể thức thâu đêm suốt sáng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    },
+    {
+      "key": "cuối_cùng_hãy_học_theo_những_đứa_trẻ",
+      "label": "Cuối cùng, hãy học theo những đứa trẻ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "tại_sao_những_người_như_einstein_lại_rất_sáng_tạo",
+      "label": "Tại sao những người như Einstein lại rất sáng tạo?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 144"
+    }
+  ]
+}

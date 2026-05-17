@@ -1,0 +1,72 @@
+{
+  "source_type": "youtube",
+  "word_count": 3770,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "tại_sao_lại_đi_giúp_đỡ_một_người_da_đen",
+      "label": "Tại sao lại đi giúp đỡ một người da đen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "đây_là_một_lời_nói_xấu_xí_và_rất_ác_ý",
+      "label": "Đây là một lời nói xấu xí và rất ác ý",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "đây_là_một_cái_kết_buồn",
+      "label": "Đây là một cái kết buồn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "tại_sao_tom_không_thể_thắng_vụ_kiện",
+      "label": "Tại sao Tom không thể thắng vụ kiện?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_nên_xin_bạn_hãy_nhớ_rằng",
+      "label": "Vậy nên xin bạn hãy nhớ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "và_điều_thứ_2_mà_chúng_ta_cần_làm",
+      "label": "Và điều thứ 2 mà chúng ta cần làm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "trong_cuốn_sách_năng_đoạn_kim_cương",
+      "label": "Trong cuốn sách Năng đoạn Kim cương",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_thì_là_người_ta_mèo_mó",
+      "label": "Vậy thì là người ta mèo mó",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "đọc_sách_là_một_cách_hữu_hiệu_nhất",
+      "label": "Đọc sách là một cách hữu hiệu nhất.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    }
+  ]
+}

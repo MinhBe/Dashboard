@@ -1,0 +1,51 @@
+{
+  "domain": "book",
+  "bloom_target": "understand",
+  "depth_level": 1,
+  "parent_concept": null,
+  "contradictions": [],
+  "source_content": {
+    "source_type": "youtube",
+    "source_name": "Better Version",
+    "source_section": "phút 5-10",
+    "trust_level": "EXTRACTED",
+    "flags": [],
+    "argument_flow": "definition → mechanism → consequence → hope",
+    "core_question": "Tính dẻo thần kinh (neuroplasticity) có ý nghĩa gì trong việc rèn luyện hạnh phúc?",
+    "extracted": "Tính dẻo thần kinh là khả năng thích ứng của hệ thần kinh. Bộ não của chúng ta có vô số neuron thần kinh kết nối với nhau tạo thành mạng lưới mạch thần kinh. Những mạch này định hình cách bạn phản ứng với sự việc. Những kết nối thần kinh được sử dụng thường xuyên sẽ càng trở nên mạnh mẽ và ổn định hơn. Càng tập trung vào điều gì, bạn càng củng cố kết nối với nó.",
+    "anchor_story": "Một học sinh nghe thấy hai từ 'kiểm tra' là bắt đầu thấy căng thẳng vì mạch thần kinh đã có sẵn đường dây dẫn đến lo lắng. Ngược lại, người thích kiếm tiền sẽ bị thu hút bởi các mô hình kinh doanh.",
+    "falsifiability": "Nếu não bộ là một khối cố định không thể thay đổi sau tuổi trưởng thành, thì các bài tập tâm lý và thói quen mới sẽ không thể làm thay đổi tính cách hay mức độ hạnh phúc của một người.",
+    "tiers": {
+      "child": "Bộ não giống như một khối đất sét mềm. Khi con hay làm một việc gì đó, giống như con dùng ngón tay ấn vào đất sét, nó sẽ tạo thành một cái rãnh. Càng làm nhiều, cái rãnh càng sâu và con sẽ làm việc đó dễ dàng hơn. Chúng ta có thể dùng đôi tay mình để nặn lại khối đất sét này thành hình dạng vui vẻ hơn.",
+      "student": "Tính dẻo thần kinh (neuroplasticity) là khả năng tái cấu trúc của các synapse dựa trên trải nghiệm. Định luật Hebbian 'neurons that fire together, wire together' giải thích rằng các mạch thần kinh được kích hoạt lặp đi lặp lại sẽ trở nên bền vững hơn. Điều này cho phép chúng ta thay đổi các phản ứng mặc định của não thông qua việc luyện tập có ý thức.",
+      "expert": "Neuroplasticity không chỉ là sự thay đổi chức năng mà còn là sự thay đổi cấu trúc vật lý của não bộ thông qua quá trình synaptogenesis và myelination. Việc tập trung sự chú ý có chủ đích (focused attention) đóng vai trò là tác nhân điều hướng cho quá trình này, cho phép chuyển đổi từ các trạng thái tâm trí nhất thời (states) sang các đặc tính thần kinh bền vững (traits)."
+    },
+    "misconception_seeds": [
+      "Bộ não ngừng phát triển sau tuổi trưởng thành — sai vì tính dẻo thần kinh tồn tại suốt đời.",
+      "Chỉ cần suy nghĩ tích cực là não sẽ thay đổi — sai vì cần có sự lặp lại và cường độ trải nghiệm để tạo ra thay đổi cấu trúc thực sự."
+    ],
+    "transfer_question": "Nếu bạn muốn rèn luyện thói quen bình tĩnh khi đối mặt với sự chỉ trích, bạn sẽ áp dụng nguyên lý 'neurons that fire together, wire together' như thế nào?",
+    "dig_deeper_questions": {
+      "apply": "Xác định một phản ứng tự động tiêu cực của bạn và tìm 'mạch thần kinh' đứng sau nó.",
+      "analyze": "Phân tích mối liên hệ giữa sự chú ý (attention) và sự hình thành mạch thần kinh.",
+      "evaluate": "Đánh giá vai trò của tính dẻo thần kinh trong việc hồi phục sau sang chấn tâm lý.",
+      "create": "Lập một kế hoạch 21 ngày để 'khơi rãnh' một thói quen tư duy mới dựa trên neuroplasticity."
+    },
+    "next_actions": [
+      "Chọn một phản ứng tích cực nhỏ và lặp lại nó mỗi khi gặp kích thích tương ứng.",
+      "Đọc thêm về định luật Hebb trong thần kinh học."
+    ],
+    "open_questions": [],
+    "last_reextracted": "2026-05-15"
+  },
+  "learner_state": {
+    "belief_prior": null,
+    "bloom_level": "remember",
+    "mastery_probability": 0.0,
+    "consecutive_correct": 0,
+    "hint_fails_total": 0,
+    "needs_restructure": false,
+    "next_review": null,
+    "personal_misconceptions": {}
+  }
+}

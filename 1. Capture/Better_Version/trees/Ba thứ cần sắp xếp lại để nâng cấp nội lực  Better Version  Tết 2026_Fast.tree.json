@@ -1,0 +1,81 @@
+{
+  "source_type": "youtube",
+  "word_count": 3031,
+  "estimated_leaf_nodes": 9,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 9 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "cuộc_sống_vốn_là_một_đạo_trường",
+      "label": "Cuộc sống vốn là một đạo trường",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "có_3_điều_bạn_nhất_định_phải_sắp_xếp_lại",
+      "label": "Có 3 điều bạn nhất định phải sắp xếp lại.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 12",
+      "children": [
+        {
+          "key": "có_3_điều_bạn_nhất_định_phải_sắp_xếp_lại_item_1",
+          "label": "[Item 1 of Có 3 điều bạn nhất định phải sắp xếp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "có_3_điều_bạn_nhất_định_phải_sắp_xếp_lại_item_2",
+          "label": "[Item 2 of Có 3 điều bạn nhất định phải sắp xếp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "có_3_điều_bạn_nhất_định_phải_sắp_xếp_lại_item_3",
+          "label": "[Item 3 of Có 3 điều bạn nhất định phải sắp xếp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "bên_cạnh_đó_chúng_ta_cần_phải_cân_bằng_cả_nhiệm_nuôi_dưỡng",
+      "label": "Bên cạnh đó, chúng ta cần phải cân bằng cả nhiệm nuôi dưỡng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "đây_cũng_là_một_hình_thức_yêu_thương_chính_mình",
+      "label": "Đây cũng là một hình thức yêu thương chính mình.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 40"
+    },
+    {
+      "key": "vẫn_luôn_là_một_câu_nói_quen_thuộc",
+      "label": "Vẫn luôn là một câu nói quen thuộc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "câu_này_có_nghĩa_là_gì",
+      "label": "Câu này có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "cuối_cùng_còn_cần_sắp_xếp_cả_những_dục_phòng_trong_bàn",
+      "label": "Cuối cùng còn cần sắp xếp cả những dục phòng trong bàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    }
+  ]
+}

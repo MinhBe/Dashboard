@@ -1,0 +1,221 @@
+{
+  "source_type": "youtube",
+  "word_count": 5400,
+  "estimated_leaf_nodes": 29,
+  "title_hint_n": 7,
+  "minimum_yield_check": "PASS: 29 leaves >= 7 (from title)",
+  "tree": [
+    {
+      "key": "vậy_tại_sao_chúng_ta_lại_có_cảm_giác_như_thế_này",
+      "label": "Vậy tại sao chúng ta lại có cảm giác như thế này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "và_6_giai_đoạn_trong_yêu",
+      "label": "Và 6 giai đoạn trong yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "đó_là_ông_xuất_phát_từ_một_góc_nhìn_rất_tổng_quát",
+      "label": "Đó là ông xuất phát từ một góc nhìn rất tổng quát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "mà_cho_chúng_ta_hiểu_ra_rằng_bản_chất_của_yêu_thực_sự_là_gì",
+      "label": "Mà cho chúng ta hiểu ra rằng bản chất của yêu thực sự là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "tại_sao_lại_xảy_ra_sự_bất_đồng_như_thế_này",
+      "label": "Tại sao lại xảy ra sự bất đồng như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 30"
+    },
+    {
+      "key": "và_tác_giả_đã_khuyên_chúng_ta_rằng",
+      "label": "Và tác giả đã khuyên chúng ta rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "chúng_ta_nên_học_cách_dùng_từ_chính_xác_hơn",
+      "label": "Chúng ta nên học cách dùng từ chính xác hơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "vì_khi_bạn_có_thể_gọi_tên_được_tình_yêu_của_bạn_với_người_đó",
+      "label": "Vì khi bạn có thể gọi tên được tình yêu của bạn với người đó là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "và_được_chăm_sóc_khi_yêu",
+      "label": "Và được chăm sóc khi yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "nó_dường_như_là_một_trạng_thái_xa_hơn_hẳn_so_với_sự_say_đắm",
+      "label": "Nó dường như là một trạng thái xa hơn hẳn so với sự say đắm ban đầu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 52"
+    },
+    {
+      "key": "có_thể_nói_là_một_người_thân_nhất",
+      "label": "Có thể nói là một người thân nhất",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "tiếp_theo_thì_mình_sẽ_cùng_tìm_hiểu_thử_thách_lớn_nhất_trong",
+      "label": "Tiếp theo thì mình sẽ cùng tìm hiểu thử thách lớn nhất trong tình yêu",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "nguyên_tắc_đầu_tiên_đó_là_bình_đẳng",
+      "label": "Nguyên tắc đầu tiên đó là bình đẳng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vậy_nên_là_giữ_một_nguyên_tắc_bình_đẳng_trong_quan_hệ",
+      "label": "Vậy nên là giữ một nguyên tắc bình đẳng trong quan hệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 96"
+    },
+    {
+      "key": "nguyên_tắc_thứ_2_đó_là",
+      "label": "Nguyên tắc thứ 2 đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "người_đó_chính_là_một_tấm_gương_phản_chiếu_cảm_xúc_của_chính",
+      "label": "Người đó chính là một tấm gương phản chiếu cảm xúc của chính bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "đây_là_một_nguyên_thắc_vô_cùng_quan_trọng",
+      "label": "Đây là một nguyên thắc vô cùng quan trọng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 108"
+    },
+    {
+      "key": "và_cũng_là_một_điều_cốt_lõi_đã_được_nhấn_mạnh",
+      "label": "Và cũng là một điều cốt lõi đã được nhấn mạnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    },
+    {
+      "key": "nguyên_tắc_8020_nghĩa_là_gì",
+      "label": "Nguyên tắc 80-20 nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "phương_pháp_giải_quyết_tốt_hơn_là_bực_bội",
+      "label": "phương pháp giải quyết tốt hơn là bực bội",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 126"
+    },
+    {
+      "key": "sẽ_ngày_càng_dâng_cao_và_không_thể_giải_quyết_được",
+      "label": "Sẽ ngày càng dâng cao và không thể giải quyết được",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 136",
+      "children": [
+        {
+          "key": "sẽ_ngày_càng_dâng_cao_và_không_thể_giải_quyết_được_item_1",
+          "label": "[Item 1 of Sẽ ngày càng dâng cao và không thể giải quyết được — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "sẽ_ngày_càng_dâng_cao_và_không_thể_giải_quyết_được_item_2",
+          "label": "[Item 2 of Sẽ ngày càng dâng cao và không thể giải quyết được — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "sẽ_ngày_càng_dâng_cao_và_không_thể_giải_quyết_được_item_3",
+          "label": "[Item 3 of Sẽ ngày càng dâng cao và không thể giải quyết được — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "bước_đầu_tiên_đó_là_khám_phá",
+      "label": "Bước đầu tiên đó là khám phá",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 142"
+    },
+    {
+      "key": "bước_số_2_đó_là_cảm_thông",
+      "label": "Bước số 2 đó là cảm thông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "cuối_cùng_đó_là_bước_số_3",
+      "label": "Cuối cùng đó là bước số 3",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "nhưng_mà_đây_quả_là_một_điều_rất_đáng_tiếc",
+      "label": "Nhưng mà đây quả là một điều rất đáng tiếc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 168"
+    },
+    {
+      "key": "biết_ngôn_ngữ_tình_yêu_của_đối_phương_là_gì",
+      "label": "biết ngôn ngữ tình yêu của đối phương là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 182"
+    },
+    {
+      "key": "vậy_nên_là_trong_quá_trình_học_cách_tạo_ra_thân_mật",
+      "label": "Vậy nên là trong quá trình học cách tạo ra thân mật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 190"
+    }
+  ]
+}

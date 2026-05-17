@@ -1,0 +1,137 @@
+{
+  "source_type": "youtube",
+  "word_count": 2801,
+  "estimated_leaf_nodes": 17,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 17 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 2"
+    },
+    {
+      "key": "bởi_vì_đây_là_một_thế_giới_mà_anh_ta_hoàn_toàn_không_biết_đế",
+      "label": "Bởi vì đây là một thế giới mà anh ta hoàn toàn không biết đến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "những_thay_đổi_ấy_là_gì_điều_gì_đã_xảy_ra_trong_quá_trình_nà",
+      "label": "Những thay đổi ấy là gì? Điều gì đã xảy ra trong quá trình này?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 12",
+      "children": [
+        {
+          "key": "những_thay_đổi_ấy_là_gì_điều_gì_đã_xảy_ra_trong_quá_trình_nà_item_1",
+          "label": "[Item 1 of Những thay đổi ấy là gì? Điều gì đã xảy ra trong quá trình này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "những_thay_đổi_ấy_là_gì_điều_gì_đã_xảy_ra_trong_quá_trình_nà_item_2",
+          "label": "[Item 2 of Những thay đổi ấy là gì? Điều gì đã xảy ra trong quá trình này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "những_thay_đổi_ấy_là_gì_điều_gì_đã_xảy_ra_trong_quá_trình_nà_item_3",
+          "label": "[Item 3 of Những thay đổi ấy là gì? Điều gì đã xảy ra trong quá trình này? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "bởi_vì_đơn_giản_đây_là_một_bệnh_thiếu_hụt_về_vitamin_c",
+      "label": "bởi vì đơn giản đây là một bệnh thiếu hụt về vitamin C.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 26"
+    },
+    {
+      "key": "vậy_tình_hình_thế_giới_hiện_nay_như_thế_nào",
+      "label": "Vậy, tình hình thế giới hiện nay như thế nào?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "đầu_tiên_đó_là_sự_thoái_vị_của_đế_chế",
+      "label": "Đầu tiên đó là sự thoái vị của đế chế.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "điều_thứ_2",
+      "label": "Điều thứ 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "và_chúng_ta_đều_nói_rằng",
+      "label": "Và chúng ta đều nói rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "hòa_bình_hạt_nhân_là_gì",
+      "label": "Hòa bình hạt nhân là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "kỷ_nguyên_tiêu_dùng_là_gì",
+      "label": "Kỷ nguyên tiêu dùng là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 66"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_mà_chúng_ta_cần_phải_biết_đến",
+      "label": "Điều quan trọng nhất mà chúng ta cần phải biết đến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "cuốn_sách_này_thực_sự_là_một_lược",
+      "label": "Cuốn sách này thực sự là một lược",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "khi_mà_đọc_cuốn_sách_này",
+      "label": "Khi mà đọc cuốn sách này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "điều_quan_trọng_nhất_chúng_ta_có_thể_học_được",
+      "label": "Điều quan trọng nhất chúng ta có thể học được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "và_một_điều_mà_chúng_ta_cần_suy_ngẫm",
+      "label": "Và một điều mà chúng ta cần suy ngẫm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    }
+  ]
+}

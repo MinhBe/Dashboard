@@ -1,0 +1,30 @@
+{
+  "source_type": "youtube",
+  "word_count": 1875,
+  "estimated_leaf_nodes": 3,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 3 leaves < 8 minimum (youtube/medium) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "trong_một_nghiên_cứu_từ_đại_học_stanford",
+      "label": "Trong một nghiên cứu từ Đại học Stanford",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "cuối_cùng_nằm_trên_dường_bệnh",
+      "label": "Cuối cùng nằm trên dường bệnh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "cuối_cùng_kalanon_không_ngờ_rằng",
+      "label": "Cuối cùng, Kalanon không ngờ rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    }
+  ]
+}

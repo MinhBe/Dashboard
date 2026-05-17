@@ -1,0 +1,271 @@
+{
+  "source_type": "youtube",
+  "word_count": 2899,
+  "estimated_leaf_nodes": 31,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 31 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "nhưng_tại_sao_rất_nhiều_người_trong_chúng_ta_vẫn_không_áp_dụ",
+      "label": "Nhưng tại sao rất nhiều người trong chúng ta vẫn không áp dụng được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "vậy_kẻ_đứng_đằng_sau_thao_túng_những_suy_nghĩ_của_chúng_ta",
+      "label": "Vậy kẻ đứng đằng sau thao túng những suy nghĩ của chúng ta",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "điều_quan_trọng_trước_tiên_là",
+      "label": "Điều quan trọng trước tiên là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_cần_hiểu_được",
+      "label": "Đầu tiên, chúng ta cần hiểu được",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "nhưng_tại_sao_hầu_hết_mọi_người",
+      "label": "nhưng tại sao hầu hết mọi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 22"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_bạn_gieo_được_những_suy_nghĩ_tốt_đẹp",
+      "label": "Vậy làm thế nào để bạn gieo được những suy nghĩ tốt đẹp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 34"
+    },
+    {
+      "key": "thứ_nhất_tiềm_thức_luôn_ghi_lại_mọi_thứ_bạn_thấy_và_nghe_đượ",
+      "label": "Thứ nhất, tiềm thức luôn ghi lại mọi thứ bạn thấy và nghe được,",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 44",
+      "children": [
+        {
+          "key": "thứ_nhất_tiềm_thức_luôn_ghi_lại_mọi_thứ_bạn_thấy_và_nghe_đượ_item_1",
+          "label": "[Item 1 of Thứ nhất, tiềm thức luôn ghi lại mọi thứ bạn thấy và nghe được, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_tiềm_thức_luôn_ghi_lại_mọi_thứ_bạn_thấy_và_nghe_đượ_item_2",
+          "label": "[Item 2 of Thứ nhất, tiềm thức luôn ghi lại mọi thứ bạn thấy và nghe được, — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_tiềm_thức_không_nghe_thấy_từ_không",
+      "label": "Thứ ba, tiềm thức không nghe thấy từ không.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 50",
+      "children": [
+        {
+          "key": "thứ_ba_tiềm_thức_không_nghe_thấy_từ_không_item_1",
+          "label": "[Item 1 of Thứ ba, tiềm thức không nghe thấy từ không. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tiềm_thức_không_nghe_thấy_từ_không_item_2",
+          "label": "[Item 2 of Thứ ba, tiềm thức không nghe thấy từ không. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nó_hình_thành_nên_những_thói_quen",
+      "label": "Nó hình thành nên những thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "và_chúng_ta_là_sản_phẩm_của_những_thói_quen",
+      "label": "Và chúng ta là sản phẩm của những thói quen",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 62"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta",
+      "label": "Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_1",
+          "label": "[Item 1 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_2",
+          "label": "[Item 2 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_3",
+          "label": "[Item 3 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_4",
+          "label": "[Item 4 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_5",
+          "label": "[Item 5 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 5"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_6",
+          "label": "[Item 6 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 6"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_7",
+          "label": "[Item 7 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 7"
+        },
+        {
+          "key": "vậy_làm_thế_nào_để_lập_trình_lại_tiềm_thức_của_chúng_ta_item_8",
+          "label": "[Item 8 of Vậy, làm thế nào để lập trình lại tiềm thức của chúng ta? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 8"
+        }
+      ]
+    },
+    {
+      "key": "dù_là_bất_cứ_thứ_gì_thì_nó_đều_phải_rõ_ràng_và_cụ_thể",
+      "label": "Dù là bất cứ thứ gì thì nó đều phải rõ ràng và cụ thể.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "bước_thứ_6_lắng_nghe_lời_khẳng_định_mà_bạn_đã_thiết_kế",
+      "label": "Bước thứ 6, lắng nghe lời khẳng định mà bạn đã thiết kế.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 88"
+    },
+    {
+      "key": "bước_thứ_8_rất_đơn_giản_lặp_lại_lặp_lại_và_phải_lặp_lại",
+      "label": "Bước thứ 8, rất đơn giản, lặp lại, lặp lại và phải lặp lại.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "bước_thứ_8_rất_đơn_giản_lặp_lại_lặp_lại_và_phải_lặp_lại_item_1",
+          "label": "[Item 1 of Bước thứ 8, rất đơn giản, lặp lại, lặp lại và phải lặp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "bước_thứ_8_rất_đơn_giản_lặp_lại_lặp_lại_và_phải_lặp_lại_item_2",
+          "label": "[Item 2 of Bước thứ 8, rất đơn giản, lặp lại, lặp lại và phải lặp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "bước_thứ_8_rất_đơn_giản_lặp_lại_lặp_lại_và_phải_lặp_lại_item_3",
+          "label": "[Item 3 of Bước thứ 8, rất đơn giản, lặp lại, lặp lại và phải lặp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        },
+        {
+          "key": "bước_thứ_8_rất_đơn_giản_lặp_lại_lặp_lại_và_phải_lặp_lại_item_4",
+          "label": "[Item 4 of Bước thứ 8, rất đơn giản, lặp lại, lặp lại và phải lặp lại. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 4"
+        }
+      ]
+    },
+    {
+      "key": "não_của_chúng_ta_sẽ_dần_đi_vào_tiềm_thức",
+      "label": "Não của chúng ta sẽ dần đi vào tiềm thức",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 102",
+      "children": [
+        {
+          "key": "não_của_chúng_ta_sẽ_dần_đi_vào_tiềm_thức_item_1",
+          "label": "[Item 1 of Não của chúng ta sẽ dần đi vào tiềm thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "não_của_chúng_ta_sẽ_dần_đi_vào_tiềm_thức_item_2",
+          "label": "[Item 2 of Não của chúng ta sẽ dần đi vào tiềm thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "não_của_chúng_ta_sẽ_dần_đi_vào_tiềm_thức_item_3",
+          "label": "[Item 3 of Não của chúng ta sẽ dần đi vào tiềm thức — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "phương_pháp_đầu_tiên_đó_chính_là_thiền_định",
+      "label": "Phương pháp đầu tiên đó chính là thiền định",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "phương_pháp_thứ_2_đó_chính_là_hãy_luôn_biết_ơn",
+      "label": "Phương pháp thứ 2 đó chính là Hãy luôn biết ơn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    }
+  ]
+}

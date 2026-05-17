@@ -1,0 +1,173 @@
+{
+  "source_type": "youtube",
+  "word_count": 3897,
+  "estimated_leaf_nodes": 17,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 17 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_thì_cần_phải_xây_dựng_mục_tiêu_như_thế_nào",
+      "label": "Vậy thì cần phải xây dựng mục tiêu như thế nào",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "cuối_cùng_đó_là_nhóm_thứ_tư_là_người_có_mục_tiêu_rõ_ràng",
+      "label": "Cuối cùng đó là nhóm thứ tư, là người có mục tiêu rõ ràng",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "cuối_cùng_đó_là_nhóm_thứ_tư_là_người_có_mục_tiêu_rõ_ràng_item_1",
+          "label": "[Item 1 of Cuối cùng đó là nhóm thứ tư, là người có mục tiêu rõ ràng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_đó_là_nhóm_thứ_tư_là_người_có_mục_tiêu_rõ_ràng_item_2",
+          "label": "[Item 2 of Cuối cùng đó là nhóm thứ tư, là người có mục tiêu rõ ràng — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thế_nào_mới_là_một_mục_tiêu_đúng_hướng",
+      "label": "Thế nào mới là một mục tiêu đúng hướng?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "cũng_là_một_dạng_thăng_bằng_khi_tìm_thấy",
+      "label": "cũng là một dạng thăng bằng. Khi tìm thấy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_nói_về_năng_lực",
+      "label": "Đầu tiên chúng ta nói về năng lực.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "thứ_hai_đó_là_về_ý_nghĩa",
+      "label": "Thứ hai đó là về ý nghĩa.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 64",
+      "children": [
+        {
+          "key": "thứ_hai_đó_là_về_ý_nghĩa_item_1",
+          "label": "[Item 1 of Thứ hai đó là về ý nghĩa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_đó_là_về_ý_nghĩa_item_2",
+          "label": "[Item 2 of Thứ hai đó là về ý nghĩa. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_ba_về_niềm_vui_thì_cần_phải_xem_xét",
+      "label": "Điều thứ ba về niềm vui thì cần phải xem xét",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "điều_thứ_ba_về_niềm_vui_thì_cần_phải_xem_xét_item_1",
+          "label": "[Item 1 of Điều thứ ba về niềm vui thì cần phải xem xét — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_ba_về_niềm_vui_thì_cần_phải_xem_xét_item_2",
+          "label": "[Item 2 of Điều thứ ba về niềm vui thì cần phải xem xét — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_hãy_tiến_hành_giao_tiếp",
+      "label": "Đầu tiên, hãy tiến hành giao tiếp",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 74",
+      "children": [
+        {
+          "key": "đầu_tiên_hãy_tiến_hành_giao_tiếp_item_1",
+          "label": "[Item 1 of Đầu tiên, hãy tiến hành giao tiếp — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_hãy_tiến_hành_giao_tiếp_item_2",
+          "label": "[Item 2 of Đầu tiên, hãy tiến hành giao tiếp — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_tiến_tới_khoảnh_khắc_khai_sáng_đầu_tiên",
+      "label": "Thứ ba, tiến tới khoảnh khắc khai sáng đầu tiên",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "thứ_ba_tiến_tới_khoảnh_khắc_khai_sáng_đầu_tiên_item_1",
+          "label": "[Item 1 of Thứ ba, tiến tới khoảnh khắc khai sáng đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_tiến_tới_khoảnh_khắc_khai_sáng_đầu_tiên_item_2",
+          "label": "[Item 2 of Thứ ba, tiến tới khoảnh khắc khai sáng đầu tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đầu_tiên_cậu_tự_kiếm_tiền_tiêu_phật",
+      "label": "Đầu tiên, cậu tự kiếm tiền tiêu phật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 84"
+    },
+    {
+      "key": "cuối_cùng_chỉ_còn_lại_sự_nhàm_chán",
+      "label": "Cuối cùng chỉ còn lại sự nhàm chán",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cuối_cùng_khơi_dậy_sự_hùng_thủ_trong_con",
+      "label": "Cuối cùng khơi dậy sự hùng thủ trong con.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 110"
+    }
+  ]
+}

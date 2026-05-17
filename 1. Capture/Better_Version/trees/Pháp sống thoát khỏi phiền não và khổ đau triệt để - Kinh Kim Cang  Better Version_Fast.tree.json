@@ -1,0 +1,324 @@
+{
+  "source_type": "youtube",
+  "word_count": 6313,
+  "estimated_leaf_nodes": 36,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 36 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "vậy_nhưng_đọc_hiểu_nó_không_hề_dễ_dàng",
+      "label": "Vậy nhưng đọc hiểu nó không hề dễ dàng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "bắt_nhã_ba_la_mật_có_nghĩa_là_gì",
+      "label": "Bắt nhã ba la mật có nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 10"
+    },
+    {
+      "key": "tại_sao_chúng_ta_phải_sang_đến_bờ_bên_kia",
+      "label": "Tại sao chúng ta phải sang đến bờ bên kia?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 14",
+      "children": [
+        {
+          "key": "tại_sao_chúng_ta_phải_sang_đến_bờ_bên_kia_item_1",
+          "label": "[Item 1 of Tại sao chúng ta phải sang đến bờ bên kia? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_chúng_ta_phải_sang_đến_bờ_bên_kia_item_2",
+          "label": "[Item 2 of Tại sao chúng ta phải sang đến bờ bên kia? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "bước_đi_nhất_thiết_đầu_tiên_trên_con_đường_thoát_khổ",
+      "label": "Bước đi nhất thiết đầu tiên trên con đường thoát khổ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_rốt_cuộc_là_phải_ăn_chứa_tâm_như_thế_nào",
+      "label": "Vậy rốt cuộc là phải ăn chứa tâm như thế nào?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 38",
+      "children": [
+        {
+          "key": "vậy_rốt_cuộc_là_phải_ăn_chứa_tâm_như_thế_nào_item_1",
+          "label": "[Item 1 of Vậy rốt cuộc là phải ăn chứa tâm như thế nào? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_rốt_cuộc_là_phải_ăn_chứa_tâm_như_thế_nào_item_2",
+          "label": "[Item 2 of Vậy rốt cuộc là phải ăn chứa tâm như thế nào? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "vậy_rốt_cuộc_là_phải_ăn_chứa_tâm_như_thế_nào_item_3",
+          "label": "[Item 3 of Vậy rốt cuộc là phải ăn chứa tâm như thế nào? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "lục_độ_nghĩa_là_gì",
+      "label": "Lục độ nghĩa là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "tiếp_theo_khoác_y_cầm_bát",
+      "label": "Tiếp theo khoác y cầm bát",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "đầu_tiên_đó_là_bồ_tát_về_phủ_độ_chúng_sinh",
+      "label": "Đầu tiên đó là Bồ Tát về phủ độ chúng sinh",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "thứ_hai_bồtát_phải_phủ_độ_chúng_sinh",
+      "label": "Thứ hai, Bồ-Tát phải phủ độ chúng sinh",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "thứ_hai_bồtát_phải_phủ_độ_chúng_sinh_item_1",
+          "label": "[Item 1 of Thứ hai, Bồ-Tát phải phủ độ chúng sinh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_bồtát_phải_phủ_độ_chúng_sinh_item_2",
+          "label": "[Item 2 of Thứ hai, Bồ-Tát phải phủ độ chúng sinh — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thì_không_phải_bồtát",
+      "label": "thì không phải Bồ-Tát.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "tại_sao_kế_tiếp_đoạn_hội_thoại_thứ_nhất",
+      "label": "Tại sao kế tiếp đoạn hội thoại thứ nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "tại_sao_kế_tiếp_đoạn_hội_thoại_thứ_nhất_item_1",
+          "label": "[Item 1 of Tại sao kế tiếp đoạn hội thoại thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_kế_tiếp_đoạn_hội_thoại_thứ_nhất_item_2",
+          "label": "[Item 2 of Tại sao kế tiếp đoạn hội thoại thứ nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_bồ_tát_làm_sao_để_giác_ngộ_thành_phật",
+      "label": "Vậy Bồ Tát làm sao để giác ngộ thành Phật?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "tại_sao_lại_nói_như_vậy",
+      "label": "Tại sao lại nói như vậy?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "vậy_thì_từ_tướng_là_gì",
+      "label": "Vậy thì từ tướng là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cuối_cùng_đó_là_thọ_giả_tướng",
+      "label": "Cuối cùng đó là thọ giả tướng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "vậy_chúng_ta_phải_làm_gì_để_có_thể_phá_bỏ_chấp_tướng",
+      "label": "Vậy chúng ta phải làm gì để có thể phá bỏ chấp tướng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 122"
+    },
+    {
+      "key": "vậy_là_ai_đã_sinh_ra_những_ý_kiến_phân_biệt_nhị_nguyên_này",
+      "label": "Vậy là ai đã sinh ra những ý kiến phân biệt nhị nguyên này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "đây_chính_là_trạng_thái_vô_ngã",
+      "label": "Đây chính là trạng thái vô ngã",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 136"
+    },
+    {
+      "key": "nghĩa_là_chính_ta_cũng_là_không",
+      "label": "Nghĩa là chính ta cũng là không",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "không_là_một_khái_niệm_trọng_yếu_của_phật_pháp",
+      "label": "Không là một khái niệm trọng yếu của Phật Pháp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "vậy_làm_thế_nào_để_phá_chấp_ngã",
+      "label": "Vậy làm thế nào để phá chấp ngã",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "đầu_tiên_là_thân_kiến",
+      "label": "Đầu tiên là thân kiến",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 152"
+    },
+    {
+      "key": "đầu_tiên_đó_là_tham",
+      "label": "Đầu tiên đó là tham",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 164",
+      "children": [
+        {
+          "key": "đầu_tiên_đó_là_tham_item_1",
+          "label": "[Item 1 of Đầu tiên đó là tham — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_đó_là_tham_item_2",
+          "label": "[Item 2 of Đầu tiên đó là tham — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "tiếp_theo_số_ba_đó_là_si_si_mê",
+      "label": "Tiếp theo số ba đó là si. Si mê",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 170"
+    },
+    {
+      "key": "thứ_tư_đó_là_kiêu_kiêu_mạn",
+      "label": "Thứ tư đó là kiêu. Kiêu mạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 174",
+      "children": [
+        {
+          "key": "thứ_tư_đó_là_kiêu_kiêu_mạn_item_1",
+          "label": "[Item 1 of Thứ tư đó là kiêu. Kiêu mạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_tư_đó_là_kiêu_kiêu_mạn_item_2",
+          "label": "[Item 2 of Thứ tư đó là kiêu. Kiêu mạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_năm_đó_là_nghi",
+      "label": "Thứ năm đó là nghi",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 178",
+      "children": [
+        {
+          "key": "thứ_năm_đó_là_nghi_item_1",
+          "label": "[Item 1 of Thứ năm đó là nghi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_năm_đó_là_nghi_item_2",
+          "label": "[Item 2 of Thứ năm đó là nghi — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "chỉ_là_một_công_cụ_một_phương_tiện",
+      "label": "Chỉ là một công cụ, một phương tiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 192"
+    },
+    {
+      "key": "vậy_làm_sao_để_được_tự_nhiên",
+      "label": "Vậy làm sao để được tự nhiên?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 218"
+    }
+  ]
+}

@@ -1,0 +1,150 @@
+{
+  "source_type": "youtube",
+  "word_count": 4662,
+  "estimated_leaf_nodes": 15,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 15 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "cuối_cùng_cả_hai_đã_trở_về_bình_an",
+      "label": "Cuối cùng, cả hai đã trở về bình an",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 28",
+      "children": [
+        {
+          "key": "cuối_cùng_cả_hai_đã_trở_về_bình_an_item_1",
+          "label": "[Item 1 of Cuối cùng, cả hai đã trở về bình an — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cuối_cùng_cả_hai_đã_trở_về_bình_an_item_2",
+          "label": "[Item 2 of Cuối cùng, cả hai đã trở về bình an — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nguyên_tắc_như_kiểu_lén_cho_cháu_ăn",
+      "label": "nguyên tắc như kiểu lén cho cháu ăn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 38"
+    },
+    {
+      "key": "thực_chất_lại_là_một_người_yêu_thương_đặc_biệt",
+      "label": "thực chất lại là một người yêu thương đặc biệt",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "trong_khi_đó_những_nghi_thức_gắn_kết",
+      "label": "Trong khi đó những nghi thức gắn kết",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "sâu_sắc_hơn_như_là_một_cái_ô_mũi_sáng",
+      "label": "sâu sắc hơn như là một cái ô mũi sáng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 56"
+    },
+    {
+      "key": "mô_hình_ca_lớn_nút_ca_bé",
+      "label": "mô hình ca lớn nút ca bé",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 70"
+    },
+    {
+      "key": "một_con_sói_nắm_giữ_hoàn_toàn",
+      "label": "một con sói nắm giữ hoàn toàn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "mà_thường_là_một_cặp_vợ_chồng_trung_thủy",
+      "label": "mà thường là một cặp vợ chồng trung thủy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "đầu_tiên_đó_là_đùi_với_các_thành_viên_trong_đàn",
+      "label": "Đầu tiên đó là đùi với các thành viên trong đàn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 88",
+      "children": [
+        {
+          "key": "đầu_tiên_đó_là_đùi_với_các_thành_viên_trong_đàn_item_1",
+          "label": "[Item 1 of Đầu tiên đó là đùi với các thành viên trong đàn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "đầu_tiên_đó_là_đùi_với_các_thành_viên_trong_đàn_item_2",
+          "label": "[Item 2 of Đầu tiên đó là đùi với các thành viên trong đàn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_sói_luôn_thể_hiện_rõ_ràng_những_điều_mà_mình_muốn_n",
+      "label": "Thứ nhất, sói luôn thể hiện rõ ràng những điều mà mình muốn nói.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "thứ_nhất_sói_luôn_thể_hiện_rõ_ràng_những_điều_mà_mình_muốn_n_item_1",
+          "label": "[Item 1 of Thứ nhất, sói luôn thể hiện rõ ràng những điều mà mình muốn nói. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_sói_luôn_thể_hiện_rõ_ràng_những_điều_mà_mình_muốn_n_item_2",
+          "label": "[Item 2 of Thứ nhất, sói luôn thể hiện rõ ràng những điều mà mình muốn nói. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_ba_sói_không_bao_giờ_để_nỗi_lo_lắng_thiêu_đốt_hiện_tại",
+      "label": "Thứ ba, sói không bao giờ để nỗi lo lắng thiêu đốt hiện tại",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 116",
+      "children": [
+        {
+          "key": "thứ_ba_sói_không_bao_giờ_để_nỗi_lo_lắng_thiêu_đốt_hiện_tại_item_1",
+          "label": "[Item 1 of Thứ ba, sói không bao giờ để nỗi lo lắng thiêu đốt hiện tại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_ba_sói_không_bao_giờ_để_nỗi_lo_lắng_thiêu_đốt_hiện_tại_item_2",
+          "label": "[Item 2 of Thứ ba, sói không bao giờ để nỗi lo lắng thiêu đốt hiện tại — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

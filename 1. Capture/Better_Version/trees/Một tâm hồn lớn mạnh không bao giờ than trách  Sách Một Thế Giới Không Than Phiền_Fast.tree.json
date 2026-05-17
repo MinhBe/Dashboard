@@ -1,0 +1,153 @@
+{
+  "source_type": "youtube",
+  "word_count": 5513,
+  "estimated_leaf_nodes": 18,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 18 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "mà_mình_tạm_dịch_là_một_thế_giới_không_than_phiền",
+      "label": "Mà mình tạm dịch là một thế giới không than phiền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "khi_còn_là_một_cậu_bé_mập_mạp_thường_ngày_dù_bị_gọi_là_thằng",
+      "label": "Khi còn là một cậu bé mập mạp, thường ngày dù bị gọi là Thằng Béo",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 18"
+    },
+    {
+      "key": "than_phiền_cũng_là_một_từ_chất_gây_nghiện",
+      "label": "Than phiền cũng là một từ chất gây nghiện",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "vậy_nên_thay_vì_đòi_hỏi",
+      "label": "Vậy nên thay vì đòi hỏi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "hơn_nữa_việc_buôn_chuyện_nói_xấu_người_khác",
+      "label": "Hơn nữa việc buôn chuyện nói xấu người khác",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 68",
+      "children": [
+        {
+          "key": "hơn_nữa_việc_buôn_chuyện_nói_xấu_người_khác_item_1",
+          "label": "[Item 1 of Hơn nữa việc buôn chuyện nói xấu người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hơn_nữa_việc_buôn_chuyện_nói_xấu_người_khác_item_2",
+          "label": "[Item 2 of Hơn nữa việc buôn chuyện nói xấu người khác — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "quyền_lực_ở_đây_là_gì_đó_chính_là_con_người",
+      "label": "Quyền lực ở đây là gì? Đó chính là con người.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "tại_sao_mình_vẫn_dọc_chân_tại_chỗ_đây",
+      "label": "Tại sao mình vẫn dọc chân tại chỗ đây?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 80",
+      "children": [
+        {
+          "key": "tại_sao_mình_vẫn_dọc_chân_tại_chỗ_đây_item_1",
+          "label": "[Item 1 of Tại sao mình vẫn dọc chân tại chỗ đây? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_mình_vẫn_dọc_chân_tại_chỗ_đây_item_2",
+          "label": "[Item 2 of Tại sao mình vẫn dọc chân tại chỗ đây? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "đến_đây_thì_có_nhiều_người_sẽ_thắc_mắc_rằng",
+      "label": "Đến đây thì có nhiều người sẽ thắc mắc rằng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vậy_nếu_người_nào_đó_làm_gì_sai_tôi_không_được_phép_lên_tiến",
+      "label": "Vậy nếu người nào đó làm gì sai, tôi không được phép lên tiếng ư",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 92"
+    },
+    {
+      "key": "câu_nói_này_đó_chính_là_than_phiền",
+      "label": "Câu nói này đó chính là than phiền.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 98"
+    },
+    {
+      "key": "trong_cuốn_sách_a_new_earth_có_giải_thích_rằng",
+      "label": "Trong cuốn sách A New Earth có giải thích rằng,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "vậy_thì_hãy_để_ý_tới_ngôn_từ_của_bạn",
+      "label": "Vậy thì hãy để ý tới ngôn từ của bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "đầu_tiên_đó_là_tránh_khỏi_vùng_ô_nhiễm",
+      "label": "Đầu tiên đó là tránh khỏi vùng ô nhiễm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 112"
+    },
+    {
+      "key": "vậy_thì_bây_giờ_hãy_luyện_tập_ngay_từ_hơi_thở_của_mình",
+      "label": "Vậy thì bây giờ hãy luyện tập ngay từ hơi thở của mình.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "phương_pháp_cuối_cùng_đó_là_tập_trung_vào_giải_pháp",
+      "label": "Phương pháp cuối cùng đó là tập trung vào giải pháp",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 140"
+    },
+    {
+      "key": "bước_vào_vùng_đất_của_năng_lượng_mới",
+      "label": "bước vào vùng đất của năng lượng mới.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 148"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "source_type": "youtube",
+  "word_count": 4183,
+  "estimated_leaf_nodes": 8,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 8 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "vậy_ý_niệm_đó_xuất_phát_từ_đâu",
+      "label": "Vậy ý niệm đó xuất phát từ đâu?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "đây_là_một_bản_thân",
+      "label": "đây là một bản thân",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    },
+    {
+      "key": "có_nghĩa_là_một_người_không_được_làm_việc",
+      "label": "có nghĩa là một người không được làm việc",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "cuối_cùng_hassan_và_vợ_của_anh_đã_bị_hành_quyết_một_cách_tan",
+      "label": "Cuối cùng, Hassan và vợ của anh đã bị hành quyết một cách tan nhẫn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 100"
+    },
+    {
+      "key": "cuối_cùng_amir_đã_chọn_con_đường_số_2",
+      "label": "Cuối cùng, Amir đã chọn con đường số 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cuối_cùng_cũng_được_cứu_rỗi_bởi_chính_con_diều",
+      "label": "cuối cùng cũng được cứu rỗi bởi chính con diều.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 114"
+    },
+    {
+      "key": "cũng_là_một_quá_trình_mà_anh_ấy_nhìn_thấy",
+      "label": "Cũng là một quá trình mà anh ấy nhìn thấy",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "cũng_là_một_quá_trình_mà_anh_ấy_nhìn_thấy_item_1",
+          "label": "[Item 1 of Cũng là một quá trình mà anh ấy nhìn thấy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "cũng_là_một_quá_trình_mà_anh_ấy_nhìn_thấy_item_2",
+          "label": "[Item 2 of Cũng là một quá trình mà anh ấy nhìn thấy — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    }
+  ]
+}

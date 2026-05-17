@@ -1,0 +1,187 @@
+{
+  "source_type": "youtube",
+  "word_count": 5701,
+  "estimated_leaf_nodes": 19,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 19 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "đầu_tiên_thì_họ_quyết_định_mua_một_ngôi_nhà_nhỏ_hơn_không_gi",
+      "label": "Đầu tiên thì họ quyết định mua một ngôi nhà nhỏ hơn, không gian ít đi,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "tại_sao_lại_như_vậy",
+      "label": "Tại sao lại như vậy?",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 46",
+      "children": [
+        {
+          "key": "tại_sao_lại_như_vậy_item_1",
+          "label": "[Item 1 of Tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tại_sao_lại_như_vậy_item_2",
+          "label": "[Item 2 of Tại sao lại như vậy? — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_2_chúng_ta_cần_đó_là",
+      "label": "Điều thứ 2 chúng ta cần đó là",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 74"
+    },
+    {
+      "key": "vậy_thì_khi_hành_động",
+      "label": "Vậy thì khi hành động",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 82"
+    },
+    {
+      "key": "đầu_tiên_hãy_để_tất_cả_các_đồ_lặt_vặt_ra_trước_mặt",
+      "label": "Đầu tiên, hãy để tất cả các đồ lặt vặt ra trước mặt.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 86"
+    },
+    {
+      "key": "cuối_cùng_thì_họ_sẽ_nản_trí_hoặc_tốn_công_sức_mà_không_hiệu",
+      "label": "Cuối cùng thì họ sẽ nản trí hoặc tốn công sức mà không hiệu quả.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "điều_thứ_nhất_đó_là_vứt_bỏ_những_phế_phẩm_và_rác",
+      "label": "Điều thứ nhất đó là vứt bỏ những phế phẩm và rác.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 94",
+      "children": [
+        {
+          "key": "điều_thứ_nhất_đó_là_vứt_bỏ_những_phế_phẩm_và_rác_item_1",
+          "label": "[Item 1 of Điều thứ nhất đó là vứt bỏ những phế phẩm và rác. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_nhất_đó_là_vứt_bỏ_những_phế_phẩm_và_rác_item_2",
+          "label": "[Item 2 of Điều thứ nhất đó là vứt bỏ những phế phẩm và rác. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_hai_bỏ_đi_những_đồ_có_mối_liên_hệ_nhất_định_với_bạn",
+      "label": "Điều thứ hai, bỏ đi những đồ có mối liên hệ nhất định với bạn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 98",
+      "children": [
+        {
+          "key": "điều_thứ_hai_bỏ_đi_những_đồ_có_mối_liên_hệ_nhất_định_với_bạn_item_1",
+          "label": "[Item 1 of Điều thứ hai, bỏ đi những đồ có mối liên hệ nhất định với bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_hai_bỏ_đi_những_đồ_có_mối_liên_hệ_nhất_định_với_bạn_item_2",
+          "label": "[Item 2 of Điều thứ hai, bỏ đi những đồ có mối liên hệ nhất định với bạn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_thì_đối_với_những_đồ_vật_có_giá_trị_nhất_định_như_thế_nà",
+      "label": "Vậy thì đối với những đồ vật có giá trị nhất định như thế này",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "thứ_hai_ta_phải_đoạn_xả_ly_tiền_bạc",
+      "label": "Thứ hai, ta phải đoạn xả ly tiền bạc.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 112",
+      "children": [
+        {
+          "key": "thứ_hai_ta_phải_đoạn_xả_ly_tiền_bạc_item_1",
+          "label": "[Item 1 of Thứ hai, ta phải đoạn xả ly tiền bạc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_ta_phải_đoạn_xả_ly_tiền_bạc_item_2",
+          "label": "[Item 2 of Thứ hai, ta phải đoạn xả ly tiền bạc. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "thứ_nhất_đó_là_biết_ơn",
+      "label": "Thứ nhất đó là biết ơn",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 120",
+      "children": [
+        {
+          "key": "thứ_nhất_đó_là_biết_ơn_item_1",
+          "label": "[Item 1 of Thứ nhất đó là biết ơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_nhất_đó_là_biết_ơn_item_2",
+          "label": "[Item 2 of Thứ nhất đó là biết ơn — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "nếu_cuộc_đời_là_một_dòng_sông",
+      "label": "Nếu cuộc đời là một dòng sông",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 132"
+    },
+    {
+      "key": "đằng_sau_nó_luôn_là_một_chấp_niệm",
+      "label": "Đằng sau nó luôn là một chấp niệm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "đoạn_xà_ly_là_một_kỹ_thuật_hành_vi",
+      "label": "Đoạn xà ly là một kỹ thuật hành vi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 162"
+    }
+  ]
+}

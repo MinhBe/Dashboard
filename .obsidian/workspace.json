@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Blueprint/Reading List.md",
+                "file": "1. Capture/ChatBot Creator/AI SKill/Tổng quan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -132,7 +132,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Reading List"
+              "title": "Tổng quan"
             }
           },
           {
@@ -442,6 +442,9 @@
   },
   "active": "470910d5c2a54065",
   "lastOpenFiles": [
+    "1. Capture/ChatBot Creator/AI SKill/Skill.md.md",
+    "1. Capture/ChatBot Creator/AI SKill/Scripts.md",
+    "1. Capture/ChatBot Creator/AI SKill/References.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Finding Info/Data analyst.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Building Project.md",
     "1. Capture/ChatBot Creator/Prompt Engineer/Multimedia/Generate image.md",
@@ -469,9 +472,6 @@
     "1. Capture/ChatBot Creator/AI SKill/Tổng quan.md",
     "will-delete/spec/agent-skills-spec.md",
     "will-delete/template/SKILL.md",
-    "1. Capture/ChatBot Creator/AI SKill/Skill.md.md",
-    "1. Capture/ChatBot Creator/AI SKill/Scripts.md",
-    "1. Capture/ChatBot Creator/AI SKill/References.md",
     "Assets.md",
     "will-delete/translate2.md",
     "will-delete/translate.md",

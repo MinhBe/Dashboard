@@ -1,0 +1,88 @@
+{
+  "source_type": "youtube",
+  "word_count": 2975,
+  "estimated_leaf_nodes": 10,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 10 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "mà_giúp_cho_mình_bớt_đi_đường_vòng",
+      "label": "mà giúp cho mình bớt đi đường vòng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 6"
+    },
+    {
+      "key": "ngoài_ra_việc_đọc_tiểu_sử_cuộc_đời_của_những_con_người_trí_t",
+      "label": "Ngoài ra, việc đọc tiểu sử cuộc đời của những con người trí tuệ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 8"
+    },
+    {
+      "key": "cũng_là_một_lựa_chọn_ưu_tiên_của_mình",
+      "label": "cũng là một lựa chọn ưu tiên của mình",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 12"
+    },
+    {
+      "key": "baker_bắt_đầu_suy_nghĩ_về_những_thứ_mà_anh_ấy_thực_sự_cần_là",
+      "label": "Baker bắt đầu suy nghĩ về những thứ mà anh ấy thực sự cần là gì",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "và_10_còn_lại_sẽ_cho_chúng_ta_nhiều_hơn_thế",
+      "label": "Và 10% còn lại sẽ cho chúng ta nhiều hơn thế",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "jobs_là_một_thanh_niên",
+      "label": "Jobs là một thanh niên",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 50"
+    },
+    {
+      "key": "ông_ấy_đã_là_một_tỷ_phú_nhà_nhà_người_người_ai_ai_cũng_biết",
+      "label": "Ông ấy đã là một tỷ phú nhà nhà, người người ai ai cũng biết đến",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 70",
+      "children": [
+        {
+          "key": "ông_ấy_đã_là_một_tỷ_phú_nhà_nhà_người_người_ai_ai_cũng_biết_item_1",
+          "label": "[Item 1 of Ông ấy đã là một tỷ phú nhà nhà, người người ai ai cũng biết đến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "ông_ấy_đã_là_một_tỷ_phú_nhà_nhà_người_người_ai_ai_cũng_biết_item_2",
+          "label": "[Item 2 of Ông ấy đã là một tỷ phú nhà nhà, người người ai ai cũng biết đến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        },
+        {
+          "key": "ông_ấy_đã_là_một_tỷ_phú_nhà_nhà_người_người_ai_ai_cũng_biết_item_3",
+          "label": "[Item 3 of Ông ấy đã là một tỷ phú nhà nhà, người người ai ai cũng biết đến — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 3"
+        }
+      ]
+    },
+    {
+      "key": "có_1_mái_ấm_để_vẻ",
+      "label": "Có 1 mái ấm để vẻ",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    }
+  ]
+}

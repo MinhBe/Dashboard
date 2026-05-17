@@ -1,0 +1,104 @@
+{
+  "source_type": "youtube",
+  "word_count": 2980,
+  "estimated_leaf_nodes": 11,
+  "title_hint_n": null,
+  "minimum_yield_check": "WARN: 11 leaves < 12 minimum (youtube/long) — review tree, may need more splits",
+  "tree": [
+    {
+      "key": "thì_phải_làm_sao",
+      "label": "Thì phải làm sao?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 24"
+    },
+    {
+      "key": "vậy_là_ngân_hàng_cá_đã_xuất_hiện",
+      "label": "Vậy là ngân hàng cá đã xuất hiện",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 26",
+      "children": [
+        {
+          "key": "vậy_là_ngân_hàng_cá_đã_xuất_hiện_item_1",
+          "label": "[Item 1 of Vậy là ngân hàng cá đã xuất hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_là_ngân_hàng_cá_đã_xuất_hiện_item_2",
+          "label": "[Item 2 of Vậy là ngân hàng cá đã xuất hiện — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "và_bây_giờ_chúng_ta_sẽ_cùng_đến_phần_cuối",
+      "label": "Và bây giờ chúng ta sẽ cùng đến phần cuối",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "tiết_kiệm_tiền_chính_là_phương_pháp_thực_tế_nhất",
+      "label": "tiết kiệm tiền chính là phương pháp thực tế nhất",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "tiết_kiệm_tiền_chính_là_phương_pháp_thực_tế_nhất_item_1",
+          "label": "[Item 1 of tiết kiệm tiền chính là phương pháp thực tế nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "tiết_kiệm_tiền_chính_là_phương_pháp_thực_tế_nhất_item_2",
+          "label": "[Item 2 of tiết kiệm tiền chính là phương pháp thực tế nhất — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "điều_thứ_3_là_theo_đuổi_ước_mơ_và_phải_dám_mạo_hiểm",
+      "label": "Điều thứ 3 là theo đuổi ước mơ và phải dám mạo hiểm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "và_rất_có_thể_đó_là_một_lựa_chọn_sai_lầm",
+      "label": "Và rất có thể đó là một lựa chọn sai lầm",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 68"
+    },
+    {
+      "key": "ngoài_ra_thì_bạn_cần_phải_có_kế_hoạch",
+      "label": "Ngoài ra thì bạn cần phải có kế hoạch",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 72"
+    },
+    {
+      "key": "vậy_là_trên_đây_là_những_gì_mà_hôm_nay_mình_muốn_chia_sẻ_với",
+      "label": "Vậy là trên đây là những gì mà hôm nay mình muốn chia sẻ với các bạn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "một_đồng_tiền_là_một_đồng_mù_hôi",
+      "label": "Một đồng tiền là một đồng mù hôi",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 80"
+    }
+  ]
+}

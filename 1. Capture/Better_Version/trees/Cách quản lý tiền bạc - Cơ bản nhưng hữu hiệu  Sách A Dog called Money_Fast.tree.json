@@ -1,0 +1,206 @@
+{
+  "source_type": "youtube",
+  "word_count": 6506,
+  "estimated_leaf_nodes": 23,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 23 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tại_sao_lại_xảy_ra_điều_trái_ngược_này",
+      "label": "Tại sao lại xảy ra điều trái ngược này?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 4"
+    },
+    {
+      "key": "bước_đầu_tiên_chúng_ta_cần_phải_học_cách_trì_hoãn_lòng_ham_m",
+      "label": "Bước đầu tiên chúng ta cần phải học cách trì hoãn lòng ham muốn",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 28"
+    },
+    {
+      "key": "vậy_nên_theo_lời_của_chú_cháu_tiên_tiên",
+      "label": "Vậy nên, theo lời của Chú Cháu Tiên Tiên",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 34",
+      "children": [
+        {
+          "key": "vậy_nên_theo_lời_của_chú_cháu_tiên_tiên_item_1",
+          "label": "[Item 1 of Vậy nên, theo lời của Chú Cháu Tiên Tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "vậy_nên_theo_lời_của_chú_cháu_tiên_tiên_item_2",
+          "label": "[Item 2 of Vậy nên, theo lời của Chú Cháu Tiên Tiên — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "ngoài_ra_mỗi_buổi_chiều",
+      "label": "Ngoài ra, mỗi buổi chiều",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 54"
+    },
+    {
+      "key": "thật_là_một_ý_tưởng_tuyệt_vời",
+      "label": "Thật là một ý tưởng tuyệt vời!",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 60"
+    },
+    {
+      "key": "thứ_hai_số_tiền_trả_góp_phải_càng_thấp_càng_tốt",
+      "label": "Thứ hai, số tiền trả góp phải càng thấp càng tốt.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 78",
+      "children": [
+        {
+          "key": "thứ_hai_số_tiền_trả_góp_phải_càng_thấp_càng_tốt_item_1",
+          "label": "[Item 1 of Thứ hai, số tiền trả góp phải càng thấp càng tốt. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_số_tiền_trả_góp_phải_càng_thấp_càng_tốt_item_2",
+          "label": "[Item 2 of Thứ hai, số tiền trả góp phải càng thấp càng tốt. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "hãy_tiết_kiệm_ngay_bây_giờ",
+      "label": "Hãy tiết kiệm ngay bây giờ!",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 84",
+      "children": [
+        {
+          "key": "hãy_tiết_kiệm_ngay_bây_giờ_item_1",
+          "label": "[Item 1 of Hãy tiết kiệm ngay bây giờ! — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "hãy_tiết_kiệm_ngay_bây_giờ_item_2",
+          "label": "[Item 2 of Hãy tiết kiệm ngay bây giờ! — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "vậy_là_ông_ta_mừng_rỡ_đem_quả_trứng_đó_đi_bán_và_thu_về_được",
+      "label": "Vậy là ông ta mừng rỡ đem quả trứng đó đi bán và thu về được bội tiền.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "tại_sao_nó_không_đẻ_cho_ta_hai_quả_trứng_vàng_một_ngày",
+      "label": "Tại sao nó không đẻ cho ta hai quả trứng vàng một ngày?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "có_thể_là_một_chuyến_đi_đến_nơi_bạn_yêu_thích",
+      "label": "có thể là một chuyến đi đến nơi bạn yêu thích,",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 104"
+    },
+    {
+      "key": "cũng_có_thể_là_một_chiếc_máy_chụp_hình_phục_vụ_cho_sở_thích",
+      "label": "cũng có thể là một chiếc máy chụp hình phục vụ cho sở thích của bạn.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 106"
+    },
+    {
+      "key": "đầu_tiên_đầu_tư_phải_đơn_giản_rõ_ràng_và_dễ_vận_hành",
+      "label": "Đầu tiên, đầu tư phải đơn giản, rõ ràng và dễ vận hành.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_cổ_phiếu_là_gì",
+      "label": "Vậy cổ phiếu là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 120"
+    },
+    {
+      "key": "đầu_tiên_quỹ_nên_có_lịch_sử_trên_10_năm",
+      "label": "Đầu tiên, quỹ nên có lịch sử trên 10 năm.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 138"
+    },
+    {
+      "key": "thứ_hai_chúng_ta_nên_chọn_quỹ_cổ_phiếu_đa_quốc_gia_lớn",
+      "label": "Thứ hai, chúng ta nên chọn Quỹ Cổ phiếu Đa Quốc gia lớn.",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 142",
+      "children": [
+        {
+          "key": "thứ_hai_chúng_ta_nên_chọn_quỹ_cổ_phiếu_đa_quốc_gia_lớn_item_1",
+          "label": "[Item 1 of Thứ hai, chúng ta nên chọn Quỹ Cổ phiếu Đa Quốc gia lớn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "thứ_hai_chúng_ta_nên_chọn_quỹ_cổ_phiếu_đa_quốc_gia_lớn_item_2",
+          "label": "[Item 2 of Thứ hai, chúng ta nên chọn Quỹ Cổ phiếu Đa Quốc gia lớn. — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "cuối_cùng_chúng_ta_nên_so_sánh_biểu_đồ_hiệu_suất_của_quỹ",
+      "label": "Cuối cùng, chúng ta nên so sánh biểu đồ hiệu suất của quỹ.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 146"
+    },
+    {
+      "key": "vậy_là_tất_cả_đều_cảm_thấy_thất_vọng",
+      "label": "Vậy là tất cả đều cảm thấy thất vọng.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 150"
+    },
+    {
+      "key": "tại_sao_kinh_nghiệp_người_đi_trước_đúc_kết_lại_hiệu_quả",
+      "label": "Tại sao kinh nghiệp người đi trước đúc kết lại hiệu quả",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 164"
+    },
+    {
+      "key": "cuộc_sống_giống_như_là_một_chiếc_thuyền",
+      "label": "Cuộc sống giống như là một chiếc thuyền",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 172"
+    }
+  ]
+}

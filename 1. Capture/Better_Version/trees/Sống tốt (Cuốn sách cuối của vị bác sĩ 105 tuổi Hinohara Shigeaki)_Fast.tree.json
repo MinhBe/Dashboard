@@ -1,0 +1,130 @@
+{
+  "source_type": "youtube",
+  "word_count": 4812,
+  "estimated_leaf_nodes": 16,
+  "title_hint_n": null,
+  "minimum_yield_check": "PASS: 16 leaves >= 12 minimum (youtube/long)",
+  "tree": [
+    {
+      "key": "tình_yêu_là_gì",
+      "label": "Tình yêu là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 14"
+    },
+    {
+      "key": "mặc_dù_nó_không_phải_là_một_cuốn_sách_học_thuật",
+      "label": "Mặc dù nó không phải là một cuốn sách học thuật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 20"
+    },
+    {
+      "key": "và_bộ_não_cũng_chỉ_là_một_cơ_quan_có_chức_năng_tư_duy",
+      "label": "Và bộ não cũng chỉ là một cơ quan có chức năng tư duy",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 32"
+    },
+    {
+      "key": "vậy_như_thế_nào_mới_là_sống_chân_thực_với_bản_thân",
+      "label": "Vậy như thế nào mới là sống chân thực với bản thân?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 36"
+    },
+    {
+      "key": "điều_thứ_2",
+      "label": "Điều thứ 2",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 42"
+    },
+    {
+      "key": "điều_cuối_cùng",
+      "label": "Điều cuối cùng",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 46"
+    },
+    {
+      "key": "điều_thứ_2",
+      "label": "Điều thứ 2",
+      "type": "branch",
+      "depth": 1,
+      "section": "line 52",
+      "children": [
+        {
+          "key": "điều_thứ_2_item_1",
+          "label": "[Item 1 of Điều thứ 2 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 1"
+        },
+        {
+          "key": "điều_thứ_2_item_2",
+          "label": "[Item 2 of Điều thứ 2 — label manually]",
+          "type": "leaf",
+          "depth": 2,
+          "section": "sub-section 2"
+        }
+      ]
+    },
+    {
+      "key": "mình_là_một_người_rất_sợ_bệnh_tật",
+      "label": "Mình là một người rất sợ bệnh tật",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 76"
+    },
+    {
+      "key": "cuối_cùng_khi_được_hỏi_về_cái_chết_ông_ấy_có_nói",
+      "label": "Cuối cùng khi được hỏi về cái chết, ông ấy có nói",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 90"
+    },
+    {
+      "key": "vì_cái_chết_là_một_khởi_đầu_mới_của_cuộc_sống",
+      "label": "Vì cái chết là một khởi đầu mới của cuộc sống",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 94"
+    },
+    {
+      "key": "đầu_tiên_chúng_ta_hãy_cùng_nhau_nói_về_tình_yêu",
+      "label": "Đầu tiên chúng ta hãy cùng nhau nói về tình yêu.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 102"
+    },
+    {
+      "key": "còn_thế_nào_mới_là_một_người_bạn_thực_sự",
+      "label": "Còn thế nào mới là một người bạn thực sự?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 116"
+    },
+    {
+      "key": "vậy_thì_từ_khi_con_sinh_ra_con_đã_không_đơn_độc",
+      "label": "Vậy thì từ khi con sinh ra, con đã không đơn độc.",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 124"
+    },
+    {
+      "key": "mục_tiêu_tiếp_theo_của_ông_là_gì",
+      "label": "Mục tiêu tiếp theo của ông là gì?",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 130"
+    },
+    {
+      "key": "keep_on_going_là_một_món_quà_cho_tất_cả_mọi_người",
+      "label": "Keep on going là một món quà cho tất cả mọi người",
+      "type": "leaf",
+      "depth": 1,
+      "section": "line 134"
+    }
+  ]
+}
